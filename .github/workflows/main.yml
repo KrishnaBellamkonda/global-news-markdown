@@ -28,6 +28,6 @@ jobs:
     steps:
         
       - name: Run news section application 
-        run: node dist/index.js
+        run: node index.js
         env: 
           KEY: ${{ secrets.KEY }}
