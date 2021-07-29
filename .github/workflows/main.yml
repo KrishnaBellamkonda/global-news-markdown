@@ -33,10 +33,6 @@ jobs:
           KEY: ${{ secrets.KEY }}
         run: |
           .\global_news.bat
-          git pull origin master 
-          git add . 
-          git commit -m "updated readme"
-          git push origin master
     
       - name: Commit & Push changes
         uses: actions-js/push@master
