@@ -1,29 +1,27 @@
 ### News Section 
-Italy’s Mr. Fix-It Tries to Fix the Country’s Troubled Justice System — and Its Politics, Too
----------------------------------------------------------------------------------------------
+A powerful storm called Evert is expected to bring more wild weather to the U.K.
+--------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/29/world/europe/29Italy-Justice-judicial-reform.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/europe/storm-evert-uk.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/world/29Italy-Justice-01/merlin_191187843_9458c9d9-cff1-4ce4-be77-7e6aff3821ab-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/europe/29Italy-Justice-judicial-reform.html)
+[![](https://static01.nyt.com/images/2021/07/29/us/29weather-climate-briefing-uk-weather-1/merlin_191720331_b72ab639-9e8a-4eee-bbe2-77c8076deec4-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/europe/storm-evert-uk.html)
 
-The issue has become a test for whether Prime Minister Mario Draghi can really change Italy.
+The storm is set to hit southwestern England starting Thursday night, after a series of extreme weather events in the country over the past month.
 
-By Jason Horowitz
-
-* * *
+By Aina J. Khan
 
 * * *
 
-Biden announces federal workers must be vaccinated or face regular tests.
--------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/29/us/vaccine-federal-workers-biden.html)
+Thailand builds a Covid treatment center at an international airport.
+---------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/29/lens/29-biden1/merlin_191865129_f7ca362c-6c0c-46f2-8c5f-77a1a1557336-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/us/vaccine-federal-workers-biden.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/thailand-builds-a-covid-treatment-center-at-an-international-airport.html)
 
-The president also directed the Defense Department to study how and when to require members of the military to get the shots.
+[![](https://static01.nyt.com/images/2021/07/29/world/29virus-briefing-thailand/merlin_191675985_fb3c5497-803a-4955-8ec1-ee3173caa76a-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/thailand-builds-a-covid-treatment-center-at-an-international-airport.html)
 
-By Annie Karni and Michael D. Shear
+By Yu Young Jin and Ryn Jirenuwat
 
 * * *
 
