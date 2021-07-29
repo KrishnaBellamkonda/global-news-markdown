@@ -30,4 +30,4 @@ jobs:
         env:
           KEY: ${{ secrets.KEY }}
         run: |
-          \.global_news.bat
+          .\global_news.bat
