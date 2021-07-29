@@ -5,31 +5,31 @@ Hey! I am a student at University of Warwcik with skills in Frontend, Backend, D
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaBellamkonda)](https://github.com/KrishnaBellamkonda/github-readme-stats)
 
 ### News Section 
-Your Wednesday Briefing
------------------------
+The European Union pulls ahead of the United States in vaccinations.
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/28/briefing/coronavirus-olympics-uyghurs.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/europe/eu-us-vaccinations.html)
 
-[![](https://static01.nyt.com/images/2021/07/27/us/28am-briefing-Europe-biles-out/28am-briefing-Europe-biles-out-superJumbo-v3.jpg)](https://www.nytimes.com/2021/07/28/briefing/coronavirus-olympics-uyghurs.html)
+[![](https://static01.nyt.com/images/2021/07/27/world/27virus-briefing-EU-vaccinations/merlin_191007561_04a14009-3fab-436e-bed3-555f1b434d2a-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/europe/eu-us-vaccinations.html)
 
-Olympic superstars crumple on the world stage.
+The figures provided a stark contrast with the early stages of the inoculation campaigns, when the bloc, facing a shortage of doses and delayed deliveries, looked in envy at efforts elsewhere.
 
-By Natasha Frost
-
-* * *
+By Elian Peltier
 
 * * *
 
-‘Terror’: Crackdown After Protests in Cuba Sends a Chilling Message
--------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/28/world/americas/cuba-protests-crackdown-arrests.html)
+Want a Vaccine Reservation in South Korea? Try Waiting 111 Hours.
+-----------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/28/world/28cuba-02/merlin_190734558_656dc11b-9fbe-48c4-a792-e8c48de1fada-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/americas/cuba-protests-crackdown-arrests.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/asia/south-korea-vaccine-covid.html)
 
-In a remarkable act of defiance, thousands of Cubans took to the streets two weeks ago and chanted “We’re not afraid!” Many are now terrified.
+[![](https://static01.nyt.com/images/2021/07/28/world/28skorea-vaccine-sub/merlin_188886300_575e6be7-67af-4726-acfd-8367de3a25e8-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/asia/south-korea-vaccine-covid.html)
 
-By Ernesto Londoño and Daniel Politi
+Once a model in fighting the pandemic, the country has been slow to vaccinate its people, even as it is being hit by its worst-ever wave of infections.
+
+By Choe Sang-Hun
 
 * * *
 
