@@ -1,29 +1,29 @@
 ### News Section 
-What Animals See in the Stars, and What They Stand to Lose
-----------------------------------------------------------
+Here are the details from Biden’s latest push to spur vaccinations.
+-------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/29/science/animals-starlight-navigation-dacke.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/biden-covid-plan.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/science/29SCI-NAVIGATION4/merlin_191852013_392b5136-3514-41f7-b47a-c418b58ed461-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/science/animals-starlight-navigation-dacke.html)
+[![](https://static01.nyt.com/images/2021/07/29/lens/29virus-briefing-fed-mandate-points1/merlin_191980404_36dae6d9-e4bb-476b-9e71-1dcdc523dbd5-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/biden-covid-plan.html)
 
-Humans aren’t the only species that navigate by starlight. Animals from birds to dung beetles may do it, too — and might become disoriented as our city lights drown out the heavens.
+The president is encouraging paid time off to get vaccinated and other incentives to combat Covid-19 infections.
 
-By Joshua Sokol
-
-* * *
+By Lauren McCarthy
 
 * * *
 
-Syrian Doctor Indicted in Germany for Crimes Against Humanity
--------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/28/world/europe/syria-doctor-indicted-germany.html)
+Your Thursday Briefing
+----------------------
 
-[![](https://static01.nyt.com/images/2021/07/28/world/28Germany-Syria/28Germany-Syria-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/europe/syria-doctor-indicted-germany.html)
+[Article here](https://www.nytimes.com/2021/07/29/briefing/england-scotland-border-olympics-wins.html)
 
-The military doctor, who was among the influx of refugees who entered Germany from Syria, is accused of torturing opponents of the regime of President Bashar al-Assad.
+[![](https://static01.nyt.com/images/2021/07/28/world/29am-briefing-europe-uk-travel/28virus-briefing-uk-travel-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/briefing/england-scotland-border-olympics-wins.html)
 
-By Christopher F. Schuetze
+England and Scotland will ease border controls.
+
+By Melina Delkic
 
 * * *
 
