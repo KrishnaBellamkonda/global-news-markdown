@@ -5,31 +5,31 @@ Hey! I am a student at University of Warwcik with skills in Frontend, Backend, D
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaBellamkonda)](https://github.com/KrishnaBellamkonda/github-readme-stats)
 
 ### News Section 
-A Confusing Message
--------------------
+Why Tunisia’s Promise of Democracy Struggles to Bear Fruit
+----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/28/briefing/mask-guidance-cdc-vaccinated.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/africa/tunisia-revolution-democracy.html)
 
-[![](https://static01.nyt.com/images/2021/07/28/lens/28ambriefing-promo/28ambriefing-vaccine-superJumbo-v2.jpg)](https://www.nytimes.com/2021/07/28/briefing/mask-guidance-cdc-vaccinated.html)
+[![](https://static01.nyt.com/images/2021/07/28/world/28tunisia-us/merlin_41620597_10b72e9c-a1d5-4ba9-b55b-4c72dd4fc9f4-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/africa/tunisia-revolution-democracy.html)
 
-The C.D.C. recommends indoor masking for the vaccinated, but only in some places.
+The revolution of 2011 ousted a dictator and set off the Arab Spring. But then the West overlooked the country’s economic problems, intent on creating a bulwark against Islamist extremism.
 
-By David Leonhardt
-
-* * *
+By Carlotta Gall
 
 * * *
 
-After a Long Lockdown and Vaccination Campaign, Is England on the Road to Normality?
-------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/28/world/europe/uk-coronavirus-vaccination-freedom-day.html)
+Khamenei Adds to Doubts on Iran Nuclear Deal Talks
+--------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/28/world/28virus-uk4/merlin_191720667_f05570e1-fdb5-435f-8f52-8358794440d6-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/europe/uk-coronavirus-vaccination-freedom-day.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/middleeast/khamenei-iran-nuclear-talks.html)
 
-A downward trend in coronavirus cases that followed the lifting of most social-distancing rules is raising hopes that the worst is over, although the cause of the drop is not yet completely clear.
+[![](https://static01.nyt.com/images/2021/07/28/world/28iran-nukes/merlin_191803620_8aa7f361-4abd-4301-a9ac-6c1378d68f61-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/middleeast/khamenei-iran-nuclear-talks.html)
 
-By Mark Landler
+“Trust in the West does not work,” Ayatollah Ali Khamenei said, signaling further problems with stalled negotiations to salvage the country’s nuclear agreement.
+
+By Rick Gladstone
 
 * * *
 
