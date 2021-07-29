@@ -1,27 +1,29 @@
 ### News Section 
-The F.D.A. extends the Johnson & Johnson vaccine’s shelf life to six months.
-----------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/07/28/world/johnson-vaccine-shelf-life.html)
-
-[![](https://static01.nyt.com/images/2021/07/28/lens/28virus-briefing-FDA-johnson-johnson1/merlin_191850549_640383a7-7209-4bfc-bcaf-f7fcafc4b4d2-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/johnson-vaccine-shelf-life.html)
-
-The decision comes after state health officials were worried that doses of the company’s coronavirus shots would expire and go to waste.
-
-By Jesus Jiménez
-
-* * *
-
-* * *
-
-Thailand builds a Covid treatment center at an international airport.
+China’s New U.S. Ambassador Is Likely to Reflect Beijing’s Confidence
 ---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/29/world/thailand-builds-a-covid-treatment-center-at-an-international-airport.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/asia/china-ambassador-qin-gang.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/world/29virus-briefing-thailand/merlin_191675985_fb3c5497-803a-4955-8ec1-ee3173caa76a-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/thailand-builds-a-covid-treatment-center-at-an-international-airport.html)
+[![](https://static01.nyt.com/images/2021/05/06/world/00china-ambassador-hfo/00china-ambassador-hfo-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/asia/china-ambassador-qin-gang.html)
 
-By Yu Young Jin and Ryn Jirenuwat
+Qin Gang rose from working for a foreign news agency to becoming a trusted aide to Xi Jinping, China’s top leader.
+
+By Chris Buckley
+
+* * *
+
+* * *
+
+Covid Vaccine Effort in Europe Confronts Anger, Disinformation and Suspicion
+----------------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/07/29/world/europe/brussels-vaccination-undocumented.html)
+
+[![](https://static01.nyt.com/images/2021/07/27/world/27belgium-migrants-01/merlin_189866058_cd188b9c-782c-4429-ae9d-9f526bdae006-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/europe/brussels-vaccination-undocumented.html)
+
+Across the continent, reaching vulnerable populations on the margins of society is a challenge. In Brussels, the authorities are hoping mobile outreach teams can help.
+
+By Monika Pronczuk
 
 * * *
 
