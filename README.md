@@ -5,29 +5,29 @@ Hey! I am a student at University of Warwcik with skills in Frontend, Backend, D
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaBellamkonda)](https://github.com/KrishnaBellamkonda/github-readme-stats)
 
 ### News Section 
-China Offers the Taliban a Warm Welcome While Urging Peace Talks
-----------------------------------------------------------------
+Mandate Momentum
+----------------
 
-[Article here](https://www.nytimes.com/2021/07/28/world/asia/china-taliban-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/07/29/briefing/mask-mandates-coronavirus.html)
 
-[![](https://static01.nyt.com/images/2021/07/28/world/28China-Taliban/merlin_191814846_972ec593-0c90-4ba6-b64b-1da1b657376c-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/asia/china-taliban-afghanistan.html)
+[![](https://static01.nyt.com/images/2021/07/29/lens/29ambriefing-promo/29ambriefing-vaccine-superJumbo-v2.jpg)](https://www.nytimes.com/2021/07/29/briefing/mask-mandates-coronavirus.html)
 
-Worried about the war in Afghanistan, China has stepped up diplomatic efforts with the government and the group to encourage a political settlement after the U.S. withdrawal.
+Vaccine mandates are on the rise, and they will probably have a bigger effect than mask mandates.
 
-By Steven Lee Myers
-
-* * *
+By David Leonhardt
 
 * * *
 
-Vaccinated U.S. and E.U. travelers can travel to England and Scotland without quarantining.
--------------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/28/world/uk-travel-quarantine.html)
+The European Union pulls ahead of the United States in vaccinations.
+--------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/28/world/28virus-briefing-uk-travel/28virus-briefing-uk-travel-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/uk-travel-quarantine.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/europe/eu-us-vaccinations.html)
 
-Travelers will still need a negative coronavirus test before entering the country.
+[![](https://static01.nyt.com/images/2021/07/27/world/27virus-briefing-EU-vaccinations/merlin_191007561_04a14009-3fab-436e-bed3-555f1b434d2a-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/europe/eu-us-vaccinations.html)
+
+The figures provided a stark contrast with the early stages of the inoculation campaigns, when the bloc, facing a shortage of doses and delayed deliveries, looked in envy at efforts elsewhere.
 
 By Elian Peltier
 
