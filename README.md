@@ -5,6 +5,21 @@ Hey! I am a student at University of Warwcik with skills in Frontend, Backend, D
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaBellamkonda)](https://github.com/KrishnaBellamkonda/github-readme-stats)
 
 ### News Section 
+Khamenei Adds to Doubts on Iran Nuclear Deal Talks
+--------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/07/28/world/middleeast/khamenei-iran-nuclear-talks.html)
+
+[![](https://static01.nyt.com/images/2021/07/28/world/28iran-nukes/merlin_191803620_8aa7f361-4abd-4301-a9ac-6c1378d68f61-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/middleeast/khamenei-iran-nuclear-talks.html)
+
+“Trust in the West does not work,” Ayatollah Ali Khamenei said, signaling further problems with stalled negotiations to salvage the country’s nuclear agreement.
+
+By Rick Gladstone
+
+* * *
+
+* * *
+
 Poles Tussle Over an Icon of Their Past, With an Eye on the Future
 ------------------------------------------------------------------
 
@@ -15,21 +30,6 @@ Poles Tussle Over an Icon of Their Past, With an Eye on the Future
 A tug of war over the legacy of the Solidarity movement has much to do with the battle over which direction the country should go today.
 
 By Andrew Higgins
-
-* * *
-
-* * *
-
-Nationals postpone M.L.B. game after 4 players and 8 staff members test positive.
----------------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/07/28/world/nationals-covid-positive.html)
-
-[![](https://static01.nyt.com/images/2021/07/28/lens/28virus-briefing-nationals-covid1/merlin_191865432_2c8b39a4-e8ff-4962-97f1-77e16de7b6ea-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/nationals-covid-positive.html)
-
-The infections came a day after the Nationals’ shortstop Trea Turner left during Tuesday night’s game against the Phillies after testing positive.
-
-By Jesus Jiménez
 
 * * *
 
