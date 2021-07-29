@@ -1,29 +1,27 @@
 ### News Section 
-China’s New U.S. Ambassador Is Likely to Reflect Beijing’s Confidence
+Italy’s Mr. Fix-It Tries to Fix the Country’s Troubled Justice System — and Its Politics, Too
+---------------------------------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/07/29/world/europe/29Italy-Justice-judicial-reform.html)
+
+[![](https://static01.nyt.com/images/2021/07/29/world/29Italy-Justice-01/merlin_191187843_9458c9d9-cff1-4ce4-be77-7e6aff3821ab-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/europe/29Italy-Justice-judicial-reform.html)
+
+The issue has become a test for whether Prime Minister Mario Draghi can really change Italy.
+
+By Jason Horowitz
+
+* * *
+
+* * *
+
+Thailand builds a Covid treatment center at an international airport.
 ---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/28/world/asia/china-ambassador-qin-gang.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/thailand-builds-a-covid-treatment-center-at-an-international-airport.html)
 
-[![](https://static01.nyt.com/images/2021/05/06/world/00china-ambassador-hfo/00china-ambassador-hfo-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/asia/china-ambassador-qin-gang.html)
+[![](https://static01.nyt.com/images/2021/07/29/world/29virus-briefing-thailand/merlin_191675985_fb3c5497-803a-4955-8ec1-ee3173caa76a-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/thailand-builds-a-covid-treatment-center-at-an-international-airport.html)
 
-Qin Gang rose from working for a foreign news agency to becoming a trusted aide to Xi Jinping, China’s top leader.
-
-By Chris Buckley
-
-* * *
-
-* * *
-
-Covid Vaccine Effort in Europe Confronts Anger, Disinformation and Suspicion
-----------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/07/29/world/europe/brussels-vaccination-undocumented.html)
-
-[![](https://static01.nyt.com/images/2021/07/27/world/27belgium-migrants-01/merlin_189866058_cd188b9c-782c-4429-ae9d-9f526bdae006-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/europe/brussels-vaccination-undocumented.html)
-
-Across the continent, reaching vulnerable populations on the margins of society is a challenge. In Brussels, the authorities are hoping mobile outreach teams can help.
-
-By Monika Pronczuk
+By Yu Young Jin and Ryn Jirenuwat
 
 * * *
 
