@@ -5,31 +5,31 @@ Hey! I am a student at University of Warwcik with skills in Frontend, Backend, D
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaBellamkonda)](https://github.com/KrishnaBellamkonda/github-readme-stats)
 
 ### News Section 
-Poles Tussle Over an Icon of Their Past, With an Eye on the Future
-------------------------------------------------------------------
+Liberals Who Don’t Retire
+-------------------------
 
-[Article here](https://www.nytimes.com/2021/07/28/world/europe/poland-solidarity-lech-walesa.html)
+[Article here](https://www.nytimes.com/2021/07/27/briefing/supreme-court-justices-breyer-retirement.html)
 
-[![](https://static01.nyt.com/images/2021/07/14/world/00poland-solidarity-01/merlin_190348665_3d7d6b48-7930-455f-886a-7d1785f4904f-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/europe/poland-solidarity-lech-walesa.html)
+[![](https://static01.nyt.com/images/2021/07/27/lens/27ambriefing-promo/27ambriefing-justices-superJumbo-v2.jpg)](https://www.nytimes.com/2021/07/27/briefing/supreme-court-justices-breyer-retirement.html)
 
-A tug of war over the legacy of the Solidarity movement has much to do with the battle over which direction the country should go today.
+Conservative justices retire by their 80s. Some liberals don’t. Why not?
 
-By Andrew Higgins
-
-* * *
+By David Leonhardt
 
 * * *
 
-Your Thursday Briefing
-----------------------
+* * *
 
-[Lnk here](https://www.nytimes.com/2021/07/28/briefing/your-thursday-briefing.html)
+Vaccinated U.S. and E.U. travelers can travel to England and Scotland without quarantining.
+-------------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/29/multimedia/29ambriefing-aus-nl-PROMO/merlin_191037876_d76e63ee-93da-4ae3-8ef2-7aa34841034c-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/briefing/your-thursday-briefing.html)
+[Lnk here](https://www.nytimes.com/2021/07/28/world/uk-travel-quarantine.html)
 
-Vaccine delays in South Korea.
+[![](https://static01.nyt.com/images/2021/07/28/world/28virus-briefing-uk-travel/28virus-briefing-uk-travel-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/uk-travel-quarantine.html)
 
-By Amelia Nierenberg
+Travelers will still need a negative coronavirus test before entering the country.
+
+By Elian Peltier
 
 * * *
 

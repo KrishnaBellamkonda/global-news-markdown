@@ -48,7 +48,7 @@ function createHTMLResponse(obj_1, obj_2){
     <section class="container", style="display:flex; flex-direction:column">
         <header>           
             <h2>${title_2}</h2>
-            <a href=${link_2}>Lnk here</a>
+            <a href=${link_2}>Article here</a>
         </header>
         <a href=${link_2}><img src=${img_2} alt=""></a>
 
