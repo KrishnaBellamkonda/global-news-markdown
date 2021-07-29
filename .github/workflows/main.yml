@@ -27,8 +27,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
         
-      - shell: cmd
-        name: Run news section application 
+      - name: Run news section application 
         run: node dist/index.js
         env: 
           KEY: ${{ secrets.KEY }}
