@@ -1,29 +1,29 @@
 ### News Section 
-Duterte says vaccine refusers in the Philippines should be detained at home.
-----------------------------------------------------------------------------
+Want a Vaccine Reservation in South Korea? Try Waiting 111 Hours.
+-----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/29/world/duterte-philippines-covid-vaccine.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/asia/south-korea-vaccine-covid.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/world/29virus-briefing-philippines/29virus-briefing-philippines-superJumbo-v2.jpg)](https://www.nytimes.com/2021/07/29/world/duterte-philippines-covid-vaccine.html)
+[![](https://static01.nyt.com/images/2021/07/28/world/28skorea-vaccine-sub/merlin_188886300_575e6be7-67af-4726-acfd-8367de3a25e8-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/asia/south-korea-vaccine-covid.html)
 
-It was not clear whether President Rodrigo Duterte intended to try to enforce such a rule, which legal experts said would be unconstitutional.
+Once a model in fighting the pandemic, the country has been slow to vaccinate its people, even as it is being hit by its worst-ever wave of infections.
 
-By Jason Gutierrez
-
-* * *
+By Choe Sang-Hun
 
 * * *
 
-Nationals postpone M.L.B. game after 4 players and 8 staff members test positive.
----------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/28/world/nationals-covid-positive.html)
+China’s New U.S. Ambassador Is Likely to Reflect Beijing’s Confidence
+---------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/28/lens/28virus-briefing-nationals-covid1/merlin_191865432_2c8b39a4-e8ff-4962-97f1-77e16de7b6ea-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/nationals-covid-positive.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/asia/china-ambassador-qin-gang.html)
 
-The infections came a day after the Nationals’ shortstop Trea Turner left during Tuesday night’s game against the Phillies after testing positive.
+[![](https://static01.nyt.com/images/2021/05/06/world/00china-ambassador-hfo/00china-ambassador-hfo-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/asia/china-ambassador-qin-gang.html)
 
-By Jesus Jiménez
+Qin Gang rose from working for a foreign news agency to becoming a trusted aide to Xi Jinping, China’s top leader.
+
+By Chris Buckley
 
 * * *
 
