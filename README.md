@@ -1,27 +1,29 @@
 ### News Section 
-Your Thursday Briefing
-----------------------
+Duterte says vaccine refusers in the Philippines should be detained at home.
+----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/29/briefing/england-scotland-border-olympics-wins.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/duterte-philippines-covid-vaccine.html)
 
-[![](https://static01.nyt.com/images/2021/07/28/world/29am-briefing-europe-uk-travel/28virus-briefing-uk-travel-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/briefing/england-scotland-border-olympics-wins.html)
+[![](https://static01.nyt.com/images/2021/07/29/world/29virus-briefing-philippines/29virus-briefing-philippines-superJumbo-v2.jpg)](https://www.nytimes.com/2021/07/29/world/duterte-philippines-covid-vaccine.html)
 
-England and Scotland will ease border controls.
+It was not clear whether President Rodrigo Duterte intended to try to enforce such a rule, which legal experts said would be unconstitutional.
 
-By Melina Delkic
-
-* * *
+By Jason Gutierrez
 
 * * *
 
-South Korea’s vaccine campaign stumbles as infections rise.
------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/28/world/south-koreas-vaccine-campaign-stumbles-as-infections-rise.html)
+Nationals postpone M.L.B. game after 4 players and 8 staff members test positive.
+---------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/28/world/28virus-briefing-skorea/merlin_191760192_c1b44bc6-68d0-46c2-84b8-ab429b6c0c97-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/south-koreas-vaccine-campaign-stumbles-as-infections-rise.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/nationals-covid-positive.html)
 
-By Choe Sang-Hun
+[![](https://static01.nyt.com/images/2021/07/28/lens/28virus-briefing-nationals-covid1/merlin_191865432_2c8b39a4-e8ff-4962-97f1-77e16de7b6ea-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/nationals-covid-positive.html)
+
+The infections came a day after the Nationals’ shortstop Trea Turner left during Tuesday night’s game against the Phillies after testing positive.
+
+By Jesus Jiménez
 
 * * *
 
