@@ -1,27 +1,29 @@
 ### News Section 
-A powerful storm called Evert is expected to bring more wild weather to the U.K.
---------------------------------------------------------------------------------
+‘Terror’: Crackdown After Protests in Cuba Sends a Chilling Message
+-------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/29/world/europe/storm-evert-uk.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/americas/cuba-protests-crackdown-arrests.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/us/29weather-climate-briefing-uk-weather-1/merlin_191720331_b72ab639-9e8a-4eee-bbe2-77c8076deec4-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/europe/storm-evert-uk.html)
+[![](https://static01.nyt.com/images/2021/07/28/world/28cuba-02/merlin_190734558_656dc11b-9fbe-48c4-a792-e8c48de1fada-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/americas/cuba-protests-crackdown-arrests.html)
 
-The storm is set to hit southwestern England starting Thursday night, after a series of extreme weather events in the country over the past month.
+In a remarkable act of defiance, thousands of Cubans took to the streets two weeks ago and chanted “We’re not afraid!” Many are now terrified.
 
-By Aina J. Khan
-
-* * *
+By Ernesto Londoño and Daniel Politi
 
 * * *
 
-Thailand builds a Covid treatment center at an international airport.
----------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/29/world/thailand-builds-a-covid-treatment-center-at-an-international-airport.html)
+Mandate Momentum
+----------------
 
-[![](https://static01.nyt.com/images/2021/07/29/world/29virus-briefing-thailand/merlin_191675985_fb3c5497-803a-4955-8ec1-ee3173caa76a-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/thailand-builds-a-covid-treatment-center-at-an-international-airport.html)
+[Article here](https://www.nytimes.com/2021/07/29/briefing/mask-mandates-coronavirus.html)
 
-By Yu Young Jin and Ryn Jirenuwat
+[![](https://static01.nyt.com/images/2021/07/29/lens/29ambriefing-promo/29ambriefing-vaccine-superJumbo-v2.jpg)](https://www.nytimes.com/2021/07/29/briefing/mask-mandates-coronavirus.html)
+
+Vaccine mandates are on the rise, and they will probably have a bigger effect than mask mandates.
+
+By David Leonhardt
 
 * * *
 
