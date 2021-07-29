@@ -5,31 +5,31 @@ Hey! I am a student at University of Warwcik with skills in Frontend, Backend, D
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaBellamkonda)](https://github.com/KrishnaBellamkonda/github-readme-stats)
 
 ### News Section 
-Your Thursday Briefing
-----------------------
+Your Wednesday Briefing
+-----------------------
 
-[Article here](https://www.nytimes.com/2021/07/28/briefing/your-thursday-briefing.html)
+[Article here](https://www.nytimes.com/2021/07/28/briefing/coronavirus-olympics-uyghurs.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/multimedia/29ambriefing-aus-nl-PROMO/merlin_191037876_d76e63ee-93da-4ae3-8ef2-7aa34841034c-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/briefing/your-thursday-briefing.html)
+[![](https://static01.nyt.com/images/2021/07/27/us/28am-briefing-Europe-biles-out/28am-briefing-Europe-biles-out-superJumbo-v3.jpg)](https://www.nytimes.com/2021/07/28/briefing/coronavirus-olympics-uyghurs.html)
 
-Vaccine delays in South Korea.
+Olympic superstars crumple on the world stage.
 
-By Amelia Nierenberg
-
-* * *
+By Natasha Frost
 
 * * *
 
-France Gave Teenagers $350 for Culture. They’re Buying Comic Books.
+* * *
+
+‘Terror’: Crackdown After Protests in Cuba Sends a Chilling Message
 -------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/28/arts/france-culture-pass.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/americas/cuba-protests-crackdown-arrests.html)
 
-[![](https://static01.nyt.com/images/2021/07/27/arts/27culture-pass1/27culture-pass1-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/arts/france-culture-pass.html)
+[![](https://static01.nyt.com/images/2021/07/28/world/28cuba-02/merlin_190734558_656dc11b-9fbe-48c4-a792-e8c48de1fada-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/americas/cuba-protests-crackdown-arrests.html)
 
-Young people can buy books, tickets and classes via a government smartphone app. But rather than discovering highbrow arts, many are choosing mass media they already love.
+In a remarkable act of defiance, thousands of Cubans took to the streets two weeks ago and chanted “We’re not afraid!” Many are now terrified.
 
-By Aurelien Breeden
+By Ernesto Londoño and Daniel Politi
 
 * * *
 
