@@ -5,31 +5,31 @@ Hey! I am a student at University of Warwcik with skills in Frontend, Backend, D
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaBellamkonda)](https://github.com/KrishnaBellamkonda/github-readme-stats)
 
 ### News Section 
-Liberals Who Don’t Retire
--------------------------
+Your Thursday Briefing
+----------------------
 
-[Article here](https://www.nytimes.com/2021/07/27/briefing/supreme-court-justices-breyer-retirement.html)
+[Article here](https://www.nytimes.com/2021/07/28/briefing/your-thursday-briefing.html)
 
-[![](https://static01.nyt.com/images/2021/07/27/lens/27ambriefing-promo/27ambriefing-justices-superJumbo-v2.jpg)](https://www.nytimes.com/2021/07/27/briefing/supreme-court-justices-breyer-retirement.html)
+[![](https://static01.nyt.com/images/2021/07/29/multimedia/29ambriefing-aus-nl-PROMO/merlin_191037876_d76e63ee-93da-4ae3-8ef2-7aa34841034c-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/briefing/your-thursday-briefing.html)
 
-Conservative justices retire by their 80s. Some liberals don’t. Why not?
+Vaccine delays in South Korea.
 
-By David Leonhardt
-
-* * *
+By Amelia Nierenberg
 
 * * *
 
-Vaccinated U.S. and E.U. travelers can travel to England and Scotland without quarantining.
--------------------------------------------------------------------------------------------
+* * *
 
-[Lnk here](https://www.nytimes.com/2021/07/28/world/uk-travel-quarantine.html)
+France Gave Teenagers $350 for Culture. They’re Buying Comic Books.
+-------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/28/world/28virus-briefing-uk-travel/28virus-briefing-uk-travel-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/uk-travel-quarantine.html)
+[Article here](https://www.nytimes.com/2021/07/28/arts/france-culture-pass.html)
 
-Travelers will still need a negative coronavirus test before entering the country.
+[![](https://static01.nyt.com/images/2021/07/27/arts/27culture-pass1/27culture-pass1-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/arts/france-culture-pass.html)
 
-By Elian Peltier
+Young people can buy books, tickets and classes via a government smartphone app. But rather than discovering highbrow arts, many are choosing mass media they already love.
+
+By Aurelien Breeden
 
 * * *
 

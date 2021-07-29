@@ -47712,7 +47712,7 @@ function vary (res, field) {
 /***/ 1252:
 /***/ ((__unused_webpack_module, exports) => {
 
-const KEY = process.env.KEY
+const KEY = process.env.KEY || "fmOIxx06YJxEYljVqPo2HBgjUOXc60Ei"
 const URL = `https://api.nytimes.com/svc/topstories/v2/world.json?api-key=${KEY}`
  
 exports.URL= URL
