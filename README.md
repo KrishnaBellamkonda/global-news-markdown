@@ -1,29 +1,29 @@
 ### News Section 
-Want a Vaccine Reservation in South Korea? Try Waiting 111 Hours.
------------------------------------------------------------------
+French official says Britain’s quarantine rules for travelers are discriminatory.
+---------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/28/world/asia/south-korea-vaccine-covid.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/france-uk-quarantine-covid.html)
 
-[![](https://static01.nyt.com/images/2021/07/28/world/28skorea-vaccine-sub/merlin_188886300_575e6be7-67af-4726-acfd-8367de3a25e8-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/asia/south-korea-vaccine-covid.html)
+[![](https://static01.nyt.com/images/2021/07/29/world/29virus-briefing-france/merlin_186800967_d479c9a3-7e9c-44e1-aac9-84f3c0df982c-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/france-uk-quarantine-covid.html)
 
-Once a model in fighting the pandemic, the country has been slow to vaccinate its people, even as it is being hit by its worst-ever wave of infections.
+Continuing to require travelers from France to isolate for up to 10 days, while exempting those from other European countries or the United States, is unfair and unwarranted, a minister says.
 
-By Choe Sang-Hun
-
-* * *
+By Aurelien Breeden
 
 * * *
 
-China’s New U.S. Ambassador Is Likely to Reflect Beijing’s Confidence
----------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/28/world/asia/china-ambassador-qin-gang.html)
+China Offers the Taliban a Warm Welcome While Urging Peace Talks
+----------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/05/06/world/00china-ambassador-hfo/00china-ambassador-hfo-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/asia/china-ambassador-qin-gang.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/asia/china-taliban-afghanistan.html)
 
-Qin Gang rose from working for a foreign news agency to becoming a trusted aide to Xi Jinping, China’s top leader.
+[![](https://static01.nyt.com/images/2021/07/28/world/28China-Taliban/merlin_191814846_972ec593-0c90-4ba6-b64b-1da1b657376c-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/asia/china-taliban-afghanistan.html)
 
-By Chris Buckley
+Worried about the war in Afghanistan, China has stepped up diplomatic efforts with the government and the group to encourage a political settlement after the U.S. withdrawal.
+
+By Steven Lee Myers
 
 * * *
 
