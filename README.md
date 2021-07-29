@@ -1,29 +1,31 @@
 # global-news-markdown
+Critics Pounce on Naomi Osaka After Loss, Denting Japan’s Claim to Diversity
+----------------------------------------------------------------------------
 
-\* { padding: 0; margin: 0; box-sizing: border-box; } \* { font-family: sans-serif; } .container { max-width: clamp(200px, 70%, 400px); margin: 0 auto; } img { width: 100%; object-fit: cover; } h2 { font-size: 1.6rem; line-height: 1.2em; } a { text-decoration: none; } article { font-size: 1rem; padding-bottom: 0.5rem; } header { border-bottom: solid 1px #ebe8e8; margin-bottom: 0.5rem; } section { padding-block: 1rem; }
+[Article here](https://www.nytimes.com/2021/07/27/world/asia/naomi-osaka-olympics-loss.html)
+
+[![](https://static01.nyt.com/images/2021/07/27/world/27olympics-japan-03/merlin_191639949_38eec268-3c8d-4afc-8d57-e9d3b45ebb3d-superJumbo.jpg)](https://www.nytimes.com/2021/07/27/world/asia/naomi-osaka-olympics-loss.html)
+
+The tennis star, who lit the Olympic cauldron, took a drubbing on social media, with some questioning her identity or right 
+to represent the country.
+
+By Motoko Rich
+
+* * *
+
+* * *
+
+![](https://static01.nyt.com/images/2021/07/28/world/28uk-hill-01/merlin_191837745_7506cb21-00dc-4009-842a-21c5618adabb-superJumbo.jpg) [Link here](https://www.nytimes.com/2021/07/28/world/europe/london-mound-design-coronavirus.html)
 
 [
 
-A Confusing Message
--------------------
+Londoners Were Promised a Hill With a View. They Got a Pile of Scaffolding.
+---------------------------------------------------------------------------
 
-](https://www.nytimes.com/2021/07/28/briefing/mask-guidance-cdc-vaccinated.html)
+](https://www.nytimes.com/2021/07/28/world/europe/london-mound-design-coronavirus.html)
 
-[![](https://static01.nyt.com/images/2021/07/28/lens/28ambriefing-promo/28ambriefing-vaccine-superJumbo-v2.jpg)](https://www.nytimes.com/2021/07/28/briefing/mask-guidance-cdc-vaccinated.html)
+The $2.7 million Marble Arch Mound was meant to create a new attraction for visitors in the middle of London. But the reality of the project is falling short of expectations.
 
-The C.D.C. recommends indoor masking for the vaccinated, but only in some places.
+By Alex Marshall and Isabella Kwai
 
-By David Leonhardt
-
-[![](https://static01.nyt.com/images/2021/07/28/lens/28virus-briefing-FDA-johnson-johnson1/merlin_191850549_640383a7-7209-4bfc-bcaf-f7fcafc4b4d2-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/johnson-vaccine-shelf-life.html)
-
-[
-
-J&J vaccine shelf life extended to six months by F.D.A.
--------------------------------------------------------
-
-](https://www.nytimes.com/2021/07/28/world/johnson-vaccine-shelf-life.html)
-
-The decision comes after state health officials were worried about whether doses of the Johnson & Johnson coronavirus vaccine would expire and go to waste.
-
-By Jesus Jiménez
+* * *
