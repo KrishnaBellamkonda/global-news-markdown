@@ -5,31 +5,31 @@ Hey! I am a student at University of Warwcik with skills in Frontend, Backend, D
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaBellamkonda)](https://github.com/KrishnaBellamkonda/github-readme-stats)
 
 ### News Section 
-Khamenei Adds to Doubts on Iran Nuclear Deal Talks
---------------------------------------------------
+A Confusing Message
+-------------------
 
-[Article here](https://www.nytimes.com/2021/07/28/world/middleeast/khamenei-iran-nuclear-talks.html)
+[Article here](https://www.nytimes.com/2021/07/28/briefing/mask-guidance-cdc-vaccinated.html)
 
-[![](https://static01.nyt.com/images/2021/07/28/world/28iran-nukes/merlin_191803620_8aa7f361-4abd-4301-a9ac-6c1378d68f61-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/middleeast/khamenei-iran-nuclear-talks.html)
+[![](https://static01.nyt.com/images/2021/07/28/lens/28ambriefing-promo/28ambriefing-vaccine-superJumbo-v2.jpg)](https://www.nytimes.com/2021/07/28/briefing/mask-guidance-cdc-vaccinated.html)
 
-“Trust in the West does not work,” Ayatollah Ali Khamenei said, signaling further problems with stalled negotiations to salvage the country’s nuclear agreement.
+The C.D.C. recommends indoor masking for the vaccinated, but only in some places.
 
-By Rick Gladstone
-
-* * *
+By David Leonhardt
 
 * * *
 
-Poles Tussle Over an Icon of Their Past, With an Eye on the Future
-------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/28/world/europe/poland-solidarity-lech-walesa.html)
+After a Long Lockdown and Vaccination Campaign, Is England on the Road to Normality?
+------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/14/world/00poland-solidarity-01/merlin_190348665_3d7d6b48-7930-455f-886a-7d1785f4904f-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/europe/poland-solidarity-lech-walesa.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/europe/uk-coronavirus-vaccination-freedom-day.html)
 
-A tug of war over the legacy of the Solidarity movement has much to do with the battle over which direction the country should go today.
+[![](https://static01.nyt.com/images/2021/07/28/world/28virus-uk4/merlin_191720667_f05570e1-fdb5-435f-8f52-8358794440d6-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/europe/uk-coronavirus-vaccination-freedom-day.html)
 
-By Andrew Higgins
+A downward trend in coronavirus cases that followed the lifting of most social-distancing rules is raising hopes that the worst is over, although the cause of the drop is not yet completely clear.
+
+By Mark Landler
 
 * * *
 
