@@ -1,29 +1,29 @@
 ### News Section 
-Why Tunisia’s Promise of Democracy Struggles to Bear Fruit
-----------------------------------------------------------
+A Rural Tycoon Criticized Beijing. Now He’s Been Jailed for 18 Years.
+---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/28/world/africa/tunisia-revolution-democracy.html)
+[Article here](https://www.nytimes.com/2021/07/28/business/china-tycoon-sentenced-sun-dawu.html)
 
-[![](https://static01.nyt.com/images/2021/07/28/world/28tunisia-us/merlin_41620597_10b72e9c-a1d5-4ba9-b55b-4c72dd4fc9f4-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/africa/tunisia-revolution-democracy.html)
+[![](https://static01.nyt.com/images/2021/07/28/business/28China-businessman/merlin_153690828_04c165b8-bfa4-46d8-b04b-0d4908ed0ccf-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/business/china-tycoon-sentenced-sun-dawu.html)
 
-The revolution of 2011 ousted a dictator and set off the Arab Spring. But then the West overlooked the country’s economic problems, intent on creating a bulwark against Islamist extremism.
+Sun Dawu described enduring “misery beyond words” during monthslong police interrogations that forced what he said was a false confession.
 
-By Carlotta Gall
-
-* * *
+By Paul Mozur
 
 * * *
 
-Khamenei Adds to Doubts on Iran Nuclear Deal Talks
---------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/28/world/middleeast/khamenei-iran-nuclear-talks.html)
+After Years of Chinese Influence, U.S. Tries to Renew Ties in Southeast Asia
+----------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/28/world/28iran-nukes/merlin_191803620_8aa7f361-4abd-4301-a9ac-6c1378d68f61-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/middleeast/khamenei-iran-nuclear-talks.html)
+[Article here](https://www.nytimes.com/2021/07/27/world/asia/austin-us-southeast-asia-diplomacy.html)
 
-“Trust in the West does not work,” Ayatollah Ali Khamenei said, signaling further problems with stalled negotiations to salvage the country’s nuclear agreement.
+[![](https://static01.nyt.com/images/2021/07/27/world/27seasia-diplo1/merlin_189022113_38026034-1fd4-4717-9d13-fe15065ff63c-superJumbo.jpg)](https://www.nytimes.com/2021/07/27/world/asia/austin-us-southeast-asia-diplomacy.html)
 
-By Rick Gladstone
+Lloyd J. Austin III, the American defense secretary, became the first high-ranking official in the Biden administration to travel to a region that has long received close attention from Beijing.
+
+By Sui-Lee Wee
 
 * * *
 
