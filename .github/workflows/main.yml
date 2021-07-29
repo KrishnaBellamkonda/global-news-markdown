@@ -35,3 +35,8 @@ jobs:
           git add . 
           git commit -m "updated readme"
           git push origin master
+    
+      - name: Commit & Push changes
+        uses: actions-js/push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
