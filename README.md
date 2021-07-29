@@ -1,3 +1,8 @@
+# global-news-markdown
+### Description 
+Automatically updating News Section in the README.md file. 
+
+
 ### News Section 
 ‘Terror’: Crackdown After Protests in Cuba Sends a Chilling Message
 -------------------------------------------------------------------
@@ -28,3 +33,6 @@ By Carlotta Gall
 * * *
 
 * * *
+
+### Look at the change 
+* 
