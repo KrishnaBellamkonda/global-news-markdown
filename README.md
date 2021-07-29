@@ -1,27 +1,29 @@
 ### News Section 
-Londoners Were Promised a Hill With a View. They Got a Pile of Scaffolding.
----------------------------------------------------------------------------
+Syrian Doctor Indicted in Germany for Crimes Against Humanity
+-------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/28/world/europe/london-mound-design-coronavirus.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/europe/syria-doctor-indicted-germany.html)
 
-[![](https://static01.nyt.com/images/2021/07/28/world/28uk-hill-01/merlin_191837745_7506cb21-00dc-4009-842a-21c5618adabb-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/europe/london-mound-design-coronavirus.html)
+[![](https://static01.nyt.com/images/2021/07/28/world/28Germany-Syria/28Germany-Syria-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/europe/syria-doctor-indicted-germany.html)
 
-The $2.7 million Marble Arch Mound was meant to create a new attraction for visitors in the middle of London. But the reality of the project is falling short of expectations.
+The military doctor, who was among the influx of refugees who entered Germany from Syria, is accused of torturing opponents of the regime of President Bashar al-Assad.
 
-By Alex Marshall and Isabella Kwai
-
-* * *
+By Christopher F. Schuetze
 
 * * *
 
-South Korea’s vaccine campaign stumbles as infections rise.
------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/28/world/south-koreas-vaccine-campaign-stumbles-as-infections-rise.html)
+Why Tunisia’s Promise of Democracy Struggles to Bear Fruit
+----------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/28/world/28virus-briefing-skorea/merlin_191760192_c1b44bc6-68d0-46c2-84b8-ab429b6c0c97-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/south-koreas-vaccine-campaign-stumbles-as-infections-rise.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/africa/tunisia-revolution-democracy.html)
 
-By Choe Sang-Hun
+[![](https://static01.nyt.com/images/2021/07/28/world/28tunisia-us/merlin_41620597_10b72e9c-a1d5-4ba9-b55b-4c72dd4fc9f4-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/africa/tunisia-revolution-democracy.html)
+
+The revolution of 2011 ousted a dictator and set off the Arab Spring. But then the West overlooked the country’s economic problems, intent on creating a bulwark against Islamist extremism.
+
+By Carlotta Gall
 
 * * *
 
