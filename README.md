@@ -1,21 +1,28 @@
 # global-news-markdown
-This repository extracts the top news around the world in GitHub profile readme
-Up, down, sideways: Around the world, the pandemic defies easy description.
----------------------------------------------------------------------------
 
-](https://www.nytimes.com/2021/07/28/world/pandemic-patterns-global-roundup.html)
-
-The virus has created a patchwork of contradictory trends, surging in some countries and ebbing in others, depending on variants, vaccination, restrictions and compliance.
-
-By Richard Pérez-Peña
-
-[![](https://static01.nyt.com/images/2021/07/28/lens/28ambriefing-promo/28ambriefing-vaccine-superJumbo-v2.jpg)](https://www.nytimes.com/2021/07/28/briefing/mask-guidance-cdc-vaccinated.html)
+[![](https://static01.nyt.com/images/2021/07/27/sports/olympics/28ambriefing-aus-promo/27live-gymnastics-doug-1874-superJumbo.jpg)](https://www.nytimes.com/2021/07/27/briefing/olympics-biles-osaka-hong-kong-trial.html)
 
 [
 
-A Confusing Message
--------------------
+Your Wednesday Briefing
+-----------------------
 
-](https://www.nytimes.com/2021/07/28/briefing/mask-guidance-cdc-vaccinated.html)
+](https://www.nytimes.com/2021/07/27/briefing/olympics-biles-osaka-hong-kong-trial.html)
 
-The C.D.C. recommends indoor masking for the vaccinated, but only in some places.
+Biles’s withdrawal at the Tokyo Games.
+
+By Melina Delkic
+
+[![](https://static01.nyt.com/images/2021/07/27/arts/27culture-pass1/27culture-pass1-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/arts/france-culture-pass.html)
+
+[
+
+France Gave Teenagers $350 for Culture. They’re Buying Comic Books.
+-------------------------------------------------------------------
+
+](https://www.nytimes.com/2021/07/28/arts/france-culture-pass.html)
+
+Young people can buy books, tickets and classes via a government smartphone app. But rather than discovering highbrow arts, 
+many are choosing mass media they already love.
+
+By Aurelien Breeden
