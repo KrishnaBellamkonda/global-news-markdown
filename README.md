@@ -1,29 +1,27 @@
 ### News Section 
-Mandate Momentum
-----------------
+Londoners Were Promised a Hill With a View. They Got a Pile of Scaffolding.
+---------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/29/briefing/mask-mandates-coronavirus.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/europe/london-mound-design-coronavirus.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/lens/29ambriefing-promo/29ambriefing-vaccine-superJumbo-v2.jpg)](https://www.nytimes.com/2021/07/29/briefing/mask-mandates-coronavirus.html)
+[![](https://static01.nyt.com/images/2021/07/28/world/28uk-hill-01/merlin_191837745_7506cb21-00dc-4009-842a-21c5618adabb-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/europe/london-mound-design-coronavirus.html)
 
-Vaccine mandates are on the rise, and they will probably have a bigger effect than mask mandates.
+The $2.7 million Marble Arch Mound was meant to create a new attraction for visitors in the middle of London. But the reality of the project is falling short of expectations.
 
-By David Leonhardt
-
-* * *
+By Alex Marshall and Isabella Kwai
 
 * * *
 
-Latin America risks other outbreaks as Covid interferes with prevention and treatment.
---------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/28/world/americas/latin-america-disease-outbreaks.html)
+South Korea’s vaccine campaign stumbles as infections rise.
+-----------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/28/world/28virus-briefing-Latin-America/merlin_135370050_8aa8df08-e88c-4cb0-82d7-d8e78dc4e214-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/americas/latin-america-disease-outbreaks.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/south-koreas-vaccine-campaign-stumbles-as-infections-rise.html)
 
-A global health official warned of an avalanche of illness as routine childhood inoculations and other basic medical concerns fall by the wayside.
+[![](https://static01.nyt.com/images/2021/07/28/world/28virus-briefing-skorea/merlin_191760192_c1b44bc6-68d0-46c2-84b8-ab429b6c0c97-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/south-koreas-vaccine-campaign-stumbles-as-infections-rise.html)
 
-By Daniel Politi
+By Choe Sang-Hun
 
 * * *
 
