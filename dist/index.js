@@ -62,7 +62,7 @@ function createHTMLResponse(obj_1, obj_2){
     <section class="container", style="display:flex; flex-direction:column">
         <header>           
             <h2>${title_2}</h2>
-            <a href=${link_2}>Lnk here</a>
+            <a href=${link_2}>Article here</a>
         </header>
         <a href=${link_2}><img src=${img_2} alt=""></a>
 
@@ -51060,8 +51060,8 @@ async function getData(url=URL){
 }
 
 async function completeAPI(){
-    // const data = await getData();
-    const data = __nccwpck_require__(818)
+    const data = await getData();
+    // const data = require('./data/world.json')
     const random = getRadnomizedArticles(data['results'])
     const html = htmlWorkflow(random)
     const markdown = turndownService.turndown(html)

@@ -29,8 +29,8 @@ async function getData(url=URL){
 }
 
 async function completeAPI(){
-    // const data = await getData();
-    const data = require('./data/world.json')
+    const data = await getData();
+    // const data = require('./data/world.json')
     const random = getRadnomizedArticles(data['results'])
     const html = htmlWorkflow(random)
     const markdown = turndownService.turndown(html)
