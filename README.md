@@ -1,27 +1,29 @@
 ### News Section 
-Italy’s Mr. Fix-It Tries to Fix the Country’s Troubled Justice System — and Its Politics, Too
----------------------------------------------------------------------------------------------
+What Animals See in the Stars, and What They Stand to Lose
+----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/29/world/europe/29Italy-Justice-judicial-reform.html)
+[Article here](https://www.nytimes.com/2021/07/29/science/animals-starlight-navigation-dacke.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/world/29Italy-Justice-01/merlin_191187843_9458c9d9-cff1-4ce4-be77-7e6aff3821ab-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/europe/29Italy-Justice-judicial-reform.html)
+[![](https://static01.nyt.com/images/2021/07/29/science/29SCI-NAVIGATION4/merlin_191852013_392b5136-3514-41f7-b47a-c418b58ed461-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/science/animals-starlight-navigation-dacke.html)
 
-The issue has become a test for whether Prime Minister Mario Draghi can really change Italy.
+Humans aren’t the only species that navigate by starlight. Animals from birds to dung beetles may do it, too — and might become disoriented as our city lights drown out the heavens.
 
-By Jason Horowitz
-
-* * *
+By Joshua Sokol
 
 * * *
 
-Thailand builds a Covid treatment center at an international airport.
----------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/29/world/thailand-builds-a-covid-treatment-center-at-an-international-airport.html)
+Syrian Doctor Indicted in Germany for Crimes Against Humanity
+-------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/29/world/29virus-briefing-thailand/merlin_191675985_fb3c5497-803a-4955-8ec1-ee3173caa76a-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/thailand-builds-a-covid-treatment-center-at-an-international-airport.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/europe/syria-doctor-indicted-germany.html)
 
-By Yu Young Jin and Ryn Jirenuwat
+[![](https://static01.nyt.com/images/2021/07/28/world/28Germany-Syria/28Germany-Syria-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/europe/syria-doctor-indicted-germany.html)
+
+The military doctor, who was among the influx of refugees who entered Germany from Syria, is accused of torturing opponents of the regime of President Bashar al-Assad.
+
+By Christopher F. Schuetze
 
 * * *
 
