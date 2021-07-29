@@ -1,29 +1,27 @@
 ### News Section 
-India Border Clash Leaves at Least 5 Dead
------------------------------------------
+Your Thursday Briefing
+----------------------
 
-[Article here](https://www.nytimes.com/2021/07/27/world/asia/india-assam-mizoram-border.html)
+[Article here](https://www.nytimes.com/2021/07/29/briefing/england-scotland-border-olympics-wins.html)
 
-[![](https://static01.nyt.com/images/2021/07/27/world/27INDIA-STANDOFF/27INDIA-STANDOFF-superJumbo.jpg)](https://www.nytimes.com/2021/07/27/world/asia/india-assam-mizoram-border.html)
+[![](https://static01.nyt.com/images/2021/07/28/world/29am-briefing-europe-uk-travel/28virus-briefing-uk-travel-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/briefing/england-scotland-border-olympics-wins.html)
 
-Two Indian states have been arguing since the 1980s over where exactly the line falls on a 193-square-mile strip of land dividing them. On Monday, guns and hand grenades came out.
+England and Scotland will ease border controls.
 
-By Hari Kumar and Emily Schmall
-
-* * *
+By Melina Delkic
 
 * * *
 
-China’s New U.S. Ambassador Is Likely to Reflect Beijing’s Confidence
----------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/28/world/asia/china-ambassador-qin-gang.html)
+South Korea’s vaccine campaign stumbles as infections rise.
+-----------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/05/06/world/00china-ambassador-hfo/00china-ambassador-hfo-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/asia/china-ambassador-qin-gang.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/south-koreas-vaccine-campaign-stumbles-as-infections-rise.html)
 
-Qin Gang rose from working for a foreign news agency to becoming a trusted aide to Xi Jinping, China’s top leader.
+[![](https://static01.nyt.com/images/2021/07/28/world/28virus-briefing-skorea/merlin_191760192_c1b44bc6-68d0-46c2-84b8-ab429b6c0c97-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/south-koreas-vaccine-campaign-stumbles-as-infections-rise.html)
 
-By Chris Buckley
+By Choe Sang-Hun
 
 * * *
 
