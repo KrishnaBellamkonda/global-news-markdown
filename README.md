@@ -1,29 +1,27 @@
 ### News Section 
-‘Terror’: Crackdown After Protests in Cuba Sends a Chilling Message
--------------------------------------------------------------------
+The F.D.A. extends the Johnson & Johnson vaccine’s shelf life to six months.
+----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/28/world/americas/cuba-protests-crackdown-arrests.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/johnson-vaccine-shelf-life.html)
 
-[![](https://static01.nyt.com/images/2021/07/28/world/28cuba-02/merlin_190734558_656dc11b-9fbe-48c4-a792-e8c48de1fada-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/americas/cuba-protests-crackdown-arrests.html)
+[![](https://static01.nyt.com/images/2021/07/28/lens/28virus-briefing-FDA-johnson-johnson1/merlin_191850549_640383a7-7209-4bfc-bcaf-f7fcafc4b4d2-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/johnson-vaccine-shelf-life.html)
 
-In a remarkable act of defiance, thousands of Cubans took to the streets two weeks ago and chanted “We’re not afraid!” Many are now terrified.
+The decision comes after state health officials were worried that doses of the company’s coronavirus shots would expire and go to waste.
 
-By Ernesto Londoño and Daniel Politi
-
-* * *
+By Jesus Jiménez
 
 * * *
 
-Mandate Momentum
-----------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/29/briefing/mask-mandates-coronavirus.html)
+Thailand builds a Covid treatment center at an international airport.
+---------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/29/lens/29ambriefing-promo/29ambriefing-vaccine-superJumbo-v2.jpg)](https://www.nytimes.com/2021/07/29/briefing/mask-mandates-coronavirus.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/thailand-builds-a-covid-treatment-center-at-an-international-airport.html)
 
-Vaccine mandates are on the rise, and they will probably have a bigger effect than mask mandates.
+[![](https://static01.nyt.com/images/2021/07/29/world/29virus-briefing-thailand/merlin_191675985_fb3c5497-803a-4955-8ec1-ee3173caa76a-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/thailand-builds-a-covid-treatment-center-at-an-international-airport.html)
 
-By David Leonhardt
+By Yu Young Jin and Ryn Jirenuwat
 
 * * *
 
