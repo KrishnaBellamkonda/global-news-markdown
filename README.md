@@ -1,29 +1,29 @@
 ### News Section 
-Syrian Doctor Indicted in Germany for Crimes Against Humanity
--------------------------------------------------------------
+Israel will give third Covid vaccine shots to those over 60.
+------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/28/world/europe/syria-doctor-indicted-germany.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/middleeast/israel-third-shot-covid-vaccine.html)
 
-[![](https://static01.nyt.com/images/2021/07/28/world/28Germany-Syria/28Germany-Syria-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/europe/syria-doctor-indicted-germany.html)
+[![](https://static01.nyt.com/images/2021/07/29/world/29virus-briefing-israel/merlin_190752786_7d2e09f3-281d-42b0-b92b-1b83098e45c3-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/middleeast/israel-third-shot-covid-vaccine.html)
 
-The military doctor, who was among the influx of refugees who entered Germany from Syria, is accused of torturing opponents of the regime of President Bashar al-Assad.
+Whether booster shots are needed by older citizens is an issue that is far from settled among scientists.
 
-By Christopher F. Schuetze
-
-* * *
+By Patrick Kingsley
 
 * * *
 
-Why Tunisia’s Promise of Democracy Struggles to Bear Fruit
-----------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/28/world/africa/tunisia-revolution-democracy.html)
+As Covid Cases Hit Record High in Tokyo, Can the Olympic Bubble Hold?
+---------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/28/world/28tunisia-us/merlin_41620597_10b72e9c-a1d5-4ba9-b55b-4c72dd4fc9f4-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/africa/tunisia-revolution-democracy.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/asia/tokyo-olympics-covid.html)
 
-The revolution of 2011 ousted a dictator and set off the Arab Spring. But then the West overlooked the country’s economic problems, intent on creating a bulwark against Islamist extremism.
+[![](https://static01.nyt.com/images/2021/07/29/world/29olympics-covid-01/merlin_191106048_f9082af8-8c31-4820-86aa-34131a1aa20c-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/asia/tokyo-olympics-covid.html)
 
-By Carlotta Gall
+With the Games approaching their midway point, promises of a “safe and secure” event are being put to the test.
+
+By Motoko Rich and Hikari Hida
 
 * * *
 
