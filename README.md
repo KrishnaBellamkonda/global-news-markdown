@@ -16,31 +16,31 @@ TOKEN = (Personal Access Token)
 * Done! You will have a self updating markdown in this respository!
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the German Cycling Official Is Sent Home After Racial Slur on Olympics Telecast
----------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Duterte says vaccine refusers in the Philippines should be detained at home.
+----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/29/sports/cycling/patrick-moster-german-cycling-coach.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/duterte-philippines-covid-vaccine.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/lens/29xp-germany-cycling/29xp-germany-cycling-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/sports/cycling/patrick-moster-german-cycling-coach.html)
+[![](https://static01.nyt.com/images/2021/07/29/world/29virus-briefing-philippines/29virus-briefing-philippines-superJumbo-v2.jpg)](https://www.nytimes.com/2021/07/29/world/duterte-philippines-covid-vaccine.html)
 
-Patrick Moster was suspended by Germany’s Olympic sports federation after referring to cyclists from Algeria and Eritrea in a derogatory manner.
+It was not clear whether President Rodrigo Duterte intended to try to enforce such a rule, which legal experts said would be unconstitutional.
 
-By Neil Vigdor
-
-* * *
+By Jason Gutierrez
 
 * * *
 
-The European Union pulls ahead of the United States in vaccinations.
---------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/29/world/europe/eu-us-vaccinations.html)
+This Ethiopian Road Is a Lifeline for Millions. Now It’s Blocked.
+-----------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/27/world/27virus-briefing-EU-vaccinations/merlin_191007561_04a14009-3fab-436e-bed3-555f1b434d2a-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/europe/eu-us-vaccinations.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/africa/ethiopia-tigray-aid-crisis.html)
 
-The figures provided a stark contrast with the early stages of the inoculation campaigns, when the bloc, facing a shortage of doses and delayed deliveries, looked in envy at efforts elsewhere.
+[![](https://static01.nyt.com/images/2021/07/29/world/29ethiopia-sub/29ethiopia-sub-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/africa/ethiopia-tigray-aid-crisis.html)
 
-By Elian Peltier
+Aid workers say the Ethiopian government has effectively cut off the lone route into the conflict-torn region of Tigray, leading to a risk of mass starvation.
+
+By Declan Walsh
 
 * * *
 
