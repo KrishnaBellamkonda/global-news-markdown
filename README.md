@@ -19,7 +19,22 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the More Covid Mysteries
+--------------------
+
+[Article here](https://www.nytimes.com/2021/07/30/briefing/coronavirus-delta-mysteries.html)
+
+[![](https://static01.nyt.com/images/2021/07/30/lens/30ambriefing-promo/30ambriefing-london-superJumbo-v2.jpg)](https://www.nytimes.com/2021/07/30/briefing/coronavirus-delta-mysteries.html)
+
+There’s much to learn about how the virus spreads.
+
+By David Leonhardt
+
+* * *
+
+* * *
+
+Your Friday Briefing
 --------------------
 
 [Article here](https://www.nytimes.com/2021/07/30/briefing/europe-vaccinations-olympics-heat-wave.html)
@@ -29,21 +44,6 @@ Come back in a few hours and seeif the news section has changed! (Is it too long
 Europe’s vaccine campaigns speed ahead.
 
 By Melina Delkic
-
-* * *
-
-* * *
-
-Covid Vaccine Effort in Europe Confronts Anger, Disinformation and Suspicion
-----------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/07/29/world/europe/brussels-vaccination-undocumented.html)
-
-[![](https://static01.nyt.com/images/2021/07/27/world/27belgium-migrants-01/merlin_189866058_cd188b9c-782c-4429-ae9d-9f526bdae006-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/europe/brussels-vaccination-undocumented.html)
-
-Across the continent, reaching vulnerable populations on the margins of society is a challenge. In Brussels, the authorities are hoping mobile outreach teams can help.
-
-By Monika Pronczuk
 
 * * *
 
