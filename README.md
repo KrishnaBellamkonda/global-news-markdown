@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Turkey Is Next as Wildfires Afflict Mediterranean Countries
------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/07/30/world/middleeast/turkey-fires-mediterranean-lebanon.html)
-
-[![](https://static01.nyt.com/images/2021/07/30/world/30turkey-fires-03/merlin_192071427_567970cb-62e1-45a0-8f74-01c60a1cb12c-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/middleeast/turkey-fires-mediterranean-lebanon.html)
-
-The Turkish authorities said they were investigating the causes of fires that killed at least four people and threatened popular tourist destinations.
-
-By Elian Peltier and Asmaa al-Omar
-
-* * *
-
-* * *
-
-Vaccinated People May Spread the Virus, Though Rarely, C.D.C. Reports
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As Covid Cases Hit Record High in Tokyo, Can the Olympic Bubble Hold?
 ---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/health/cdc-vaccinated-delta.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/asia/tokyo-olympics-covid.html)
 
-[![](https://static01.nyt.com/images/2021/07/30/science/30virus-delta2/30virus-delta2-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/health/cdc-vaccinated-delta.html)
+[![](https://static01.nyt.com/images/2021/07/29/world/29olympics-covid-04/merlin_190795002_602f6479-d73d-4085-b8e3-26bda1dce4ec-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/asia/tokyo-olympics-covid.html)
 
-The agency cited an outbreak in Provincetown, Mass., in which most of the infected were immunized. Unpublished internal documents paint an even more harrowing picture.
+With the Games approaching their midway point, promises of a “safe and secure” event are being put to the test.
 
-By Apoorva Mandavilli
+By Motoko Rich and Hikari Hida
+
+* * *
+
+* * *
+
+Israeli Officials Say Iran Is Behind Deadly Attack on Oil Tanker
+----------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/07/30/world/middleeast/tanker-attack-oman.html)
+
+[![](https://static01.nyt.com/images/2021/07/30/world/30Israel-ship/merlin_192073275_eb7f04bd-5116-43a6-9091-86e3252855bf-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/middleeast/tanker-attack-oman.html)
+
+Drones carried out the attack on a tanker managed by an Israeli-led firm, killing two people, officials said — apparently the latest in a series of maritime clashes between Iran and Israel.
+
+By Patrick Kingsley and Ronen Bergman
 
 * * *
 
