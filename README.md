@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the More Covid Mysteries
---------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Remains of Esther Dingley, Missing British Hiker, Are Found
+-----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/briefing/coronavirus-delta-mysteries.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/europe/esther-dingley-missing-british-hiker.html)
 
-[![](https://static01.nyt.com/images/2021/07/30/lens/30ambriefing-promo/30ambriefing-london-superJumbo-v2.jpg)](https://www.nytimes.com/2021/07/30/briefing/coronavirus-delta-mysteries.html)
+[![](https://static01.nyt.com/images/2021/07/30/us/30xp-hiker/30xp-hiker-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/europe/esther-dingley-missing-british-hiker.html)
 
-There’s much to learn about how the virus spreads.
+For months, the authorities and Ms. Dingley’s partner combed the Pyrenees mountains. A DNA test confirmed the identity of remains found near her last known location, a group aiding the search said.
 
-By David Leonhardt
-
-* * *
+By Derrick Bryson Taylor
 
 * * *
 
-Your Friday Briefing
---------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/30/briefing/europe-vaccinations-olympics-heat-wave.html)
+Covid Vaccine Effort in Europe Confronts Anger, Disinformation and Suspicion
+----------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/27/world/30am-briefing-europe-vacc-rate/merlin_191007561_04a14009-3fab-436e-bed3-555f1b434d2a-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/briefing/europe-vaccinations-olympics-heat-wave.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/europe/brussels-vaccination-undocumented.html)
 
-Europe’s vaccine campaigns speed ahead.
+[![](https://static01.nyt.com/images/2021/07/27/world/27belgium-migrants-01/merlin_189866058_cd188b9c-782c-4429-ae9d-9f526bdae006-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/europe/brussels-vaccination-undocumented.html)
 
-By Melina Delkic
+Across the continent, reaching vulnerable populations on the margins of society is a challenge. In Brussels, the authorities are hoping mobile outreach teams can help.
+
+By Monika Pronczuk
 
 * * *
 
