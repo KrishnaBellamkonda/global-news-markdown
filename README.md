@@ -16,31 +16,31 @@ TOKEN = (Personal Access Token)
 * Done! You will have a self updating markdown in this respository!
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Behind the Masks, a Mystery: How Often Do the Vaccinated Spread the Virus?
---------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Hong Kong Protester Is Sentenced to 9 Years in First Security Law Case
+----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/29/health/cdc-masks-vaccinated-transmission.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/asia/hong-kong-protester-security-law.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/science/29virus-transmit1/merlin_191732004_683cde72-c3bb-4323-9732-80bd27f32fe0-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/health/cdc-masks-vaccinated-transmission.html)
+[![](https://static01.nyt.com/images/2021/07/30/world/30hongkong-trial1/30hongkong-trial1-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/asia/hong-kong-protester-security-law.html)
 
-The C.D.C.’s new masking advice was based in part on data showing that the virus can thrive in the airways of vaccinated people. The findings are expected on Friday.
+Tong Ying-kit, 24, who drove a motorcycle into police officers while carrying a protest flag, was convicted of terrorism and inciting secession.
 
-By Apoorva Mandavilli
-
-* * *
+By Austin Ramzy
 
 * * *
 
-A powerful storm called Evert is expected to bring more wild weather to the U.K.
---------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/29/world/europe/storm-evert-uk.html)
+How Europe, After a Fumbling Start, Overtook the U.S. in Vaccination
+--------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/29/us/29weather-climate-briefing-uk-weather-1/merlin_191720331_b72ab639-9e8a-4eee-bbe2-77c8076deec4-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/europe/storm-evert-uk.html)
+[Article here](https://www.nytimes.com/interactive/2021/07/29/world/europe/europe-us-vaccination.html)
 
-The storm is set to hit southwestern England starting Thursday night, after a series of extreme weather events in the country over the past month.
+[![](https://static01.nyt.com/images/2021/07/29/us/EU-US-vaccination-promo-1627593309433/EU-US-vaccination-promo-1627593309433-superJumbo.png)](https://www.nytimes.com/interactive/2021/07/29/world/europe/europe-us-vaccination.html)
 
-By Aina J. Khan
+Just a few months ago, European Union efforts were a mess, but its problems were temporary. The United States turned out to have the more lasting challenge.
+
+By Elian Peltier and Josh Holder
 
 * * *
 
