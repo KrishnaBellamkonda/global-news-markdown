@@ -16,7 +16,7 @@ TOKEN = (Personal Access Token)
 * Done! You will have a self updating markdown in this respository!
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the {news_section_}
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the {news_section_data}
 
 
 
