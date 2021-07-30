@@ -15,32 +15,35 @@ TOKEN = (Personal Access Token)
 ```
 * Done! You will have a self updating markdown in this respository!
 
+### Curious?
+Come back in a few hours and seeif the news section has changed! (Is it too long?)
+
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the China’s New U.S. Ambassador Is Likely to Reflect Beijing’s Confidence
----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Wooden Buildings Reach for the Sky
+----------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/28/world/asia/china-ambassador-qin-gang.html)
+[Article here](https://www.nytimes.com/2021/07/30/todaysinyt/wooden-buildings-reach-for-the-sky-in-vaxjo-sweden.html)
 
-[![](https://static01.nyt.com/images/2021/05/06/world/00china-ambassador-hfo/00china-ambassador-hfo-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/asia/china-ambassador-qin-gang.html)
+[![](https://static01.nyt.com/images/2021/07/31/world/31timber01-inyt/31timber01-inyt-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/todaysinyt/wooden-buildings-reach-for-the-sky-in-vaxjo-sweden.html)
 
-Qin Gang rose from working for a foreign news agency to becoming a trusted aide to Xi Jinping, China’s top leader.
+Ambitious high-rise projects in Sweden are a showcase for a reviving forest industry.
 
-By Chris Buckley
-
-* * *
+By Gabriel Leigh
 
 * * *
 
-Qaddafi’s Son Is Alive. And He Wants to Take Libya Back.
---------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/30/magazine/qaddafi-libya.html)
+Russia’s New 23-Ton Module Docked, Then Sent the Space Station Spinning
+-----------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/01/opinion/01mag-libya-03/01mag-libya-03-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/magazine/qaddafi-libya.html)
+[Article here](https://www.nytimes.com/2021/07/29/science/russia-module-space-station.html)
 
-In his first meeting with a foreign journalist in a decade, Seif al-Islam described his years in captivity — and hinted at a bid for Libya’s presidency.
+[![](https://static01.nyt.com/images/2021/07/29/science/29spaceastation-docking/29spaceastation-docking-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/science/russia-module-space-station.html)
 
-By Robert F. Worth and Jehad Nga
+The Nauka module met up with the orbiting outpost on Thursday morning, and later unexpectedly fired its thrusters.
+
+By Oleg Matsnev and Kenneth Chang
 
 * * *
 
