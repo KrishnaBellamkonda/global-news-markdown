@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Italy’s Mr. Fix-It Tries to Fix the Country’s Troubled Justice System — and Its Politics, Too
----------------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Turkey Is Next as Wildfires Afflict Mediterranean Countries
+-----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/29/world/europe/29Italy-Justice-judicial-reform.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/middleeast/turkey-fires-mediterranean-lebanon.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/world/29Italy-Justice-01/merlin_191187843_9458c9d9-cff1-4ce4-be77-7e6aff3821ab-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/europe/29Italy-Justice-judicial-reform.html)
+[![](https://static01.nyt.com/images/2021/07/30/world/30turkey-fires-03/merlin_192071427_567970cb-62e1-45a0-8f74-01c60a1cb12c-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/middleeast/turkey-fires-mediterranean-lebanon.html)
 
-The issue has become a test for whether Prime Minister Mario Draghi can really change Italy.
+The Turkish authorities said they were investigating the causes of fires that killed at least four people and threatened popular tourist destinations.
 
-By Jason Horowitz
-
-* * *
+By Elian Peltier and Asmaa al-Omar
 
 * * *
 
-Here are the details from Biden’s latest push to spur vaccinations.
--------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/29/world/biden-covid-plan.html)
+Vaccinated People May Spread the Virus, Though Rarely, C.D.C. Reports
+---------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/29/lens/29virus-briefing-fed-mandate-points1/merlin_191980404_36dae6d9-e4bb-476b-9e71-1dcdc523dbd5-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/biden-covid-plan.html)
+[Article here](https://www.nytimes.com/2021/07/30/health/cdc-vaccinated-delta.html)
 
-The president is encouraging paid time off to get vaccinated and other incentives to combat Covid-19 infections.
+[![](https://static01.nyt.com/images/2021/07/30/science/30virus-delta2/30virus-delta2-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/health/cdc-vaccinated-delta.html)
 
-By Lauren McCarthy
+The agency cited an outbreak in Provincetown, Mass., in which most of the infected were immunized. Unpublished internal documents paint an even more harrowing picture.
+
+By Apoorva Mandavilli
 
 * * *
 
