@@ -5,11 +5,11 @@ This is a self-updating news section that updates every hour.
 
 ### Set Up 
 * Clone the repository
-* Make a New York Times account and get a Key for top stories section. Save the section as 
+* Make a New York Times account and get a Key for top stories section. Create a GitHub Secret in this format 
  ```
  KEY = (key obtained from a NYtimes API)
  ```
-*  Create a Personnal Access Token GitHub Token for allowing automatic commits and push of updated markdown. (Push and commit authorization is enough). Save this Token as 
+*  Create a Personnal Access Token GitHub Token for allowing automatic commits and push of updated markdown. (Push and commit authorization is enough). Save this token in GitHub secrets in the followin format 
 ```
 TOKEN = (Personal Access Token)
 ```
