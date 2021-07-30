@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Wooden Buildings Reach for the Sky
-----------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the French official says Britain’s quarantine rules for travelers are discriminatory.
+---------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/todaysinyt/wooden-buildings-reach-for-the-sky-in-vaxjo-sweden.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/france-uk-quarantine-covid.html)
 
-[![](https://static01.nyt.com/images/2021/07/31/world/31timber01-inyt/31timber01-inyt-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/todaysinyt/wooden-buildings-reach-for-the-sky-in-vaxjo-sweden.html)
+[![](https://static01.nyt.com/images/2021/07/29/world/29virus-briefing-france/merlin_186800967_d479c9a3-7e9c-44e1-aac9-84f3c0df982c-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/france-uk-quarantine-covid.html)
 
-Ambitious high-rise projects in Sweden are a showcase for a reviving forest industry.
+Continuing to require travelers from France to isolate for up to 10 days, while exempting those from other European countries or the United States, is unfair and unwarranted, a minister says.
 
-By Gabriel Leigh
-
-* * *
+By Aurelien Breeden
 
 * * *
 
-Russia’s New 23-Ton Module Docked, Then Sent the Space Station Spinning
------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/29/science/russia-module-space-station.html)
+This Ethiopian Road Is a Lifeline for Millions. Now It’s Blocked.
+-----------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/29/science/29spaceastation-docking/29spaceastation-docking-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/science/russia-module-space-station.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/africa/ethiopia-tigray-aid-crisis.html)
 
-The Nauka module met up with the orbiting outpost on Thursday morning, and later unexpectedly fired its thrusters.
+[![](https://static01.nyt.com/images/2021/07/29/world/29ethiopia-sub/29ethiopia-sub-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/africa/ethiopia-tigray-aid-crisis.html)
 
-By Oleg Matsnev and Kenneth Chang
+Aid workers say the Ethiopian government has effectively cut off the lone route into the conflict-torn region of Tigray, leading to a risk of mass starvation.
+
+By Declan Walsh
 
 * * *
 
