@@ -16,31 +16,31 @@ TOKEN = (Personal Access Token)
 * Done! You will have a self updating markdown in this respository!
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Duterte says vaccine refusers in the Philippines should be detained at home.
-----------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Behind the Masks, a Mystery: How Often Do the Vaccinated Spread the Virus?
+--------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/29/world/duterte-philippines-covid-vaccine.html)
+[Article here](https://www.nytimes.com/2021/07/29/health/cdc-masks-vaccinated-transmission.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/world/29virus-briefing-philippines/29virus-briefing-philippines-superJumbo-v2.jpg)](https://www.nytimes.com/2021/07/29/world/duterte-philippines-covid-vaccine.html)
+[![](https://static01.nyt.com/images/2021/07/29/science/29virus-transmit1/merlin_191732004_683cde72-c3bb-4323-9732-80bd27f32fe0-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/health/cdc-masks-vaccinated-transmission.html)
 
-It was not clear whether President Rodrigo Duterte intended to try to enforce such a rule, which legal experts said would be unconstitutional.
+The C.D.C.’s new masking advice was based in part on data showing that the virus can thrive in the airways of vaccinated people. The findings are expected on Friday.
 
-By Jason Gutierrez
-
-* * *
+By Apoorva Mandavilli
 
 * * *
 
-This Ethiopian Road Is a Lifeline for Millions. Now It’s Blocked.
------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/29/world/africa/ethiopia-tigray-aid-crisis.html)
+A powerful storm called Evert is expected to bring more wild weather to the U.K.
+--------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/29/world/29ethiopia-sub/29ethiopia-sub-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/africa/ethiopia-tigray-aid-crisis.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/europe/storm-evert-uk.html)
 
-Aid workers say the Ethiopian government has effectively cut off the lone route into the conflict-torn region of Tigray, leading to a risk of mass starvation.
+[![](https://static01.nyt.com/images/2021/07/29/us/29weather-climate-briefing-uk-weather-1/merlin_191720331_b72ab639-9e8a-4eee-bbe2-77c8076deec4-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/europe/storm-evert-uk.html)
 
-By Declan Walsh
+The storm is set to hit southwestern England starting Thursday night, after a series of extreme weather events in the country over the past month.
+
+By Aina J. Khan
 
 * * *
 
