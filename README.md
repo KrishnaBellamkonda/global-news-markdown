@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the French official says Britain’s quarantine rules for travelers are discriminatory.
----------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As Covid Cases Hit Record High in Tokyo, Can the Olympic Bubble Hold?
+---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/29/world/france-uk-quarantine-covid.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/asia/tokyo-olympics-covid.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/world/29virus-briefing-france/merlin_186800967_d479c9a3-7e9c-44e1-aac9-84f3c0df982c-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/france-uk-quarantine-covid.html)
+[![](https://static01.nyt.com/images/2021/07/29/world/29olympics-covid-04/merlin_190795002_602f6479-d73d-4085-b8e3-26bda1dce4ec-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/asia/tokyo-olympics-covid.html)
 
-Continuing to require travelers from France to isolate for up to 10 days, while exempting those from other European countries or the United States, is unfair and unwarranted, a minister says.
+With the Games approaching their midway point, promises of a “safe and secure” event are being put to the test.
 
-By Aurelien Breeden
-
-* * *
+By Motoko Rich and Hikari Hida
 
 * * *
 
-This Ethiopian Road Is a Lifeline for Millions. Now It’s Blocked.
------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/29/world/africa/ethiopia-tigray-aid-crisis.html)
+Your Friday Briefing
+--------------------
 
-[![](https://static01.nyt.com/images/2021/07/29/world/29ethiopia-sub/29ethiopia-sub-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/africa/ethiopia-tigray-aid-crisis.html)
+[Article here](https://www.nytimes.com/2021/07/30/briefing/europe-vaccinations-olympics-heat-wave.html)
 
-Aid workers say the Ethiopian government has effectively cut off the lone route into the conflict-torn region of Tigray, leading to a risk of mass starvation.
+[![](https://static01.nyt.com/images/2021/07/27/world/30am-briefing-europe-vacc-rate/merlin_191007561_04a14009-3fab-436e-bed3-555f1b434d2a-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/briefing/europe-vaccinations-olympics-heat-wave.html)
 
-By Declan Walsh
+Europe’s vaccine campaigns speed ahead.
+
+By Melina Delkic
 
 * * *
 
