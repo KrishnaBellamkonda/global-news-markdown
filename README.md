@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As Covid Cases Hit Record High in Tokyo, Can the Olympic Bubble Hold?
----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Greece Accuses Aid Groups of Helping Smugglers of Migrants
+----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/29/world/asia/tokyo-olympics-covid.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/europe/greece-migrants-aid-groups.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/world/29olympics-covid-04/merlin_190795002_602f6479-d73d-4085-b8e3-26bda1dce4ec-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/asia/tokyo-olympics-covid.html)
+[![](https://static01.nyt.com/images/2021/07/30/world/30greece-espionage-01/merlin_136346322_f1452954-a8a5-4cb1-ac66-f8d5fcd31943-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/europe/greece-migrants-aid-groups.html)
 
-With the Games approaching their midway point, promises of a “safe and secure” event are being put to the test.
+Greek police claim some groups have worked with smugglers and provided migrants with details about Coast Guard activities. The groups deny the charges.
 
-By Motoko Rich and Hikari Hida
-
-* * *
+By Niki Kitsantonis
 
 * * *
 
-Israeli Officials Say Iran Is Behind Deadly Attack on Oil Tanker
-----------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/30/world/middleeast/tanker-attack-oman.html)
+An outbreak of the Delta variant tests China’s zero-tolerance approach to the virus.
+------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/30/world/30Israel-ship/merlin_192073275_eb7f04bd-5116-43a6-9091-86e3252855bf-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/middleeast/tanker-attack-oman.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/nanjing-china-covid.html)
 
-Drones carried out the attack on a tanker managed by an Israeli-led firm, killing two people, officials said — apparently the latest in a series of maritime clashes between Iran and Israel.
+[![](https://static01.nyt.com/images/2021/07/30/world/30virus-briefing-china/merlin_191155251_165f0a05-b20c-45ce-8077-568d6b248383-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/nanjing-china-covid.html)
 
-By Patrick Kingsley and Ronen Bergman
+Cases have spread from the city of Nanjing to several provinces and the capital, Beijing, in the past three weeks.
+
+By Paul Mozur
 
 * * *
 
