@@ -15,35 +15,32 @@ TOKEN = (Personal Access Token)
 ```
 * Done! You will have a self updating markdown in this respository!
 
-### Curious?
-Come check this README file after a few hours! (A lot to ask?)
-
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Hong Kong Protester Is Sentenced to 9 Years in First Security Law Case
-----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the China’s New U.S. Ambassador Is Likely to Reflect Beijing’s Confidence
+---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/asia/hong-kong-protester-security-law.html)
+[Article here](https://www.nytimes.com/2021/07/28/world/asia/china-ambassador-qin-gang.html)
 
-[![](https://static01.nyt.com/images/2021/07/30/world/30hongkong-trial1/30hongkong-trial1-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/asia/hong-kong-protester-security-law.html)
+[![](https://static01.nyt.com/images/2021/05/06/world/00china-ambassador-hfo/00china-ambassador-hfo-superJumbo.jpg)](https://www.nytimes.com/2021/07/28/world/asia/china-ambassador-qin-gang.html)
 
-Tong Ying-kit, 24, who drove a motorcycle into police officers while carrying a protest flag, was convicted of terrorism and inciting secession.
+Qin Gang rose from working for a foreign news agency to becoming a trusted aide to Xi Jinping, China’s top leader.
 
-By Austin Ramzy
-
-* * *
+By Chris Buckley
 
 * * *
 
-How Europe, After a Fumbling Start, Overtook the U.S. in Vaccination
---------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/interactive/2021/07/29/world/europe/europe-us-vaccination.html)
+Qaddafi’s Son Is Alive. And He Wants to Take Libya Back.
+--------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/29/us/EU-US-vaccination-promo-1627593309433/EU-US-vaccination-promo-1627593309433-superJumbo.png)](https://www.nytimes.com/interactive/2021/07/29/world/europe/europe-us-vaccination.html)
+[Article here](https://www.nytimes.com/2021/07/30/magazine/qaddafi-libya.html)
 
-Just a few months ago, European Union efforts were a mess, but its problems were temporary. The United States turned out to have the more lasting challenge.
+[![](https://static01.nyt.com/images/2021/08/01/opinion/01mag-libya-03/01mag-libya-03-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/magazine/qaddafi-libya.html)
 
-By Elian Peltier and Josh Holder
+In his first meeting with a foreign journalist in a decade, Seif al-Islam described his years in captivity — and hinted at a bid for Libya’s presidency.
+
+By Robert F. Worth and Jehad Nga
 
 * * *
 
