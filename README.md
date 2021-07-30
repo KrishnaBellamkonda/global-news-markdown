@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Greece Accuses Aid Groups of Helping Smugglers of Migrants
-----------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Hong Kong Protester Is Sentenced to 9 Years in First Security Law Case
+----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/europe/greece-migrants-aid-groups.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/asia/hong-kong-protester-security-law.html)
 
-[![](https://static01.nyt.com/images/2021/07/30/world/30greece-espionage-01/merlin_136346322_f1452954-a8a5-4cb1-ac66-f8d5fcd31943-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/europe/greece-migrants-aid-groups.html)
+[![](https://static01.nyt.com/images/2021/07/30/world/30hongkong-trial1/30hongkong-trial1-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/asia/hong-kong-protester-security-law.html)
 
-Greek police claim some groups have worked with smugglers and provided migrants with details about Coast Guard activities. The groups deny the charges.
+Tong Ying-kit, 24, who drove a motorcycle into police officers while carrying a protest flag, was convicted of terrorism and inciting secession.
 
-By Niki Kitsantonis
-
-* * *
+By Austin Ramzy
 
 * * *
 
-An outbreak of the Delta variant tests China’s zero-tolerance approach to the virus.
-------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/30/world/nanjing-china-covid.html)
+Virus cases are swelling around the world, and deaths in Africa are surging, the W.H.O. chief says.
+---------------------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/30/world/30virus-briefing-china/merlin_191155251_165f0a05-b20c-45ce-8077-568d6b248383-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/nanjing-china-covid.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/africa-who-coronavirus-deaths.html)
 
-Cases have spread from the city of Nanjing to several provinces and the capital, Beijing, in the past three weeks.
+[![](https://static01.nyt.com/images/2021/07/30/world/30virus-briefing-who-africa/merlin_191853954_14f08eed-feba-474f-9a37-552e9efbc2d4-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/africa-who-coronavirus-deaths.html)
 
-By Paul Mozur
+“We can prevent this disease, we can test for it, and we can treat it,” Dr. Tedros Adhanom Ghebreyesus said.
+
+By Daniel E. Slotnik
 
 * * *
 
