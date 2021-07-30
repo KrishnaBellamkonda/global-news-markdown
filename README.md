@@ -19,22 +19,7 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As Covid Cases Hit Record High in Tokyo, Can the Olympic Bubble Hold?
----------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/07/29/world/asia/tokyo-olympics-covid.html)
-
-[![](https://static01.nyt.com/images/2021/07/29/world/29olympics-covid-04/merlin_190795002_602f6479-d73d-4085-b8e3-26bda1dce4ec-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/asia/tokyo-olympics-covid.html)
-
-With the Games approaching their midway point, promises of a “safe and secure” event are being put to the test.
-
-By Motoko Rich and Hikari Hida
-
-* * *
-
-* * *
-
-Your Friday Briefing
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
 --------------------
 
 [Article here](https://www.nytimes.com/2021/07/30/briefing/europe-vaccinations-olympics-heat-wave.html)
@@ -44,6 +29,21 @@ Your Friday Briefing
 Europe’s vaccine campaigns speed ahead.
 
 By Melina Delkic
+
+* * *
+
+* * *
+
+Covid Vaccine Effort in Europe Confronts Anger, Disinformation and Suspicion
+----------------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/07/29/world/europe/brussels-vaccination-undocumented.html)
+
+[![](https://static01.nyt.com/images/2021/07/27/world/27belgium-migrants-01/merlin_189866058_cd188b9c-782c-4429-ae9d-9f526bdae006-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/europe/brussels-vaccination-undocumented.html)
+
+Across the continent, reaching vulnerable populations on the margins of society is a challenge. In Brussels, the authorities are hoping mobile outreach teams can help.
+
+By Monika Pronczuk
 
 * * *
 
