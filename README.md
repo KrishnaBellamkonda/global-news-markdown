@@ -15,6 +15,9 @@ TOKEN = (Personal Access Token)
 ```
 * Done! You will have a self updating markdown in this respository!
 
+### Curious?
+Come check this README file after a few hours! (A lot to ask?)
+
 ### Note
 * If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Hong Kong Protester Is Sentenced to 9 Years in First Security Law Case
 ----------------------------------------------------------------------
