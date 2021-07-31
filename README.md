@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Turkey Is Next as Wildfires Afflict Mediterranean Countries
------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How Europe, after a fumbling start, overtook the U.S. in vaccinations.
+----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/middleeast/turkey-fires-mediterranean-lebanon.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/how-europe-after-a-fumbling-start-overtook-the-us-in-vaccinations.html)
 
-[![](https://static01.nyt.com/images/2021/07/30/world/30turkey-fires-03/merlin_192071427_567970cb-62e1-45a0-8f74-01c60a1cb12c-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/middleeast/turkey-fires-mediterranean-lebanon.html)
+[![](https://static01.nyt.com/images/2021/07/29/us/EU-US-vaccination-promo-1627593309433/EU-US-vaccination-promo-1627593309433-superJumbo.png)](https://www.nytimes.com/2021/07/30/world/how-europe-after-a-fumbling-start-overtook-the-us-in-vaccinations.html)
 
-The Turkish authorities said they were investigating the causes of fires that killed at least four people and threatened popular tourist destinations.
-
-By Elian Peltier and Asmaa al-Omar
+By Elian Peltier and Josh Holder
 
 * * *
 
 * * *
 
-Here are the details from Biden’s latest push to spur vaccinations.
--------------------------------------------------------------------
+Qaddafi’s Son Is Alive. And He Wants to Take Libya Back.
+--------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/29/world/biden-covid-plan.html)
+[Article here](https://www.nytimes.com/2021/07/30/magazine/qaddafi-libya.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/lens/29virus-briefing-fed-mandate-points1/merlin_191980404_36dae6d9-e4bb-476b-9e71-1dcdc523dbd5-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/biden-covid-plan.html)
+[![](https://static01.nyt.com/images/2021/08/01/opinion/01mag-libya-03/01mag-libya-03-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/magazine/qaddafi-libya.html)
 
-The president is encouraging paid time off to get vaccinated and other incentives to combat Covid-19 infections.
+In his first meeting with a foreign journalist in a decade, Seif al-Islam described his years in captivity — and hinted at a bid for Libya’s presidency.
 
-By Lauren McCarthy
+By Robert F. Worth and Jehad Nga
 
 * * *
 
