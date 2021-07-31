@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Three Members of the Olympic Refugee Team Will Soon Call Canada Home
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Greece Accuses Aid Groups of Helping Smugglers of Migrants
+----------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/07/30/world/europe/greece-migrants-aid-groups.html)
+
+[![](https://static01.nyt.com/images/2021/07/30/world/30greece-espionage-01/merlin_136346322_f1452954-a8a5-4cb1-ac66-f8d5fcd31943-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/europe/greece-migrants-aid-groups.html)
+
+Greek police claim some groups have worked with smugglers and provided migrants with details about Coast Guard activities. The groups deny the charges.
+
+By Niki Kitsantonis
+
+* * *
+
+* * *
+
+Mourning Families Seek Solace From the ‘Grief Purgatory’ of Covid-19
 --------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/canada/canada-olympics-refugees.html)
+[Article here](https://www.nytimes.com/2021/07/31/us/coronavirus-grief-funerals.html)
 
-[![](https://static01.nyt.com/images/2021/07/30/world/30CANADA-LETTER-LOKORO/30CANADA-LETTER-LOKORO-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/canada/canada-olympics-refugees.html)
+[![](https://static01.nyt.com/images/2021/07/23/multimedia/00XP-virus-01/merlin_191247783_6e7037a5-a4fb-4ccf-870a-c5dc04116ed3-superJumbo.jpg)](https://www.nytimes.com/2021/07/31/us/coronavirus-grief-funerals.html)
 
-The athletes will join another 150 refugee students selected who were accepted to one of 80 participating institutions this fall.
+The pandemic has left hundreds of thousands of Americans alone in bereavement, unable to plan proper funerals for their loved ones. Now, they’re planning larger celebrations of life.
 
-By Vjosa Isai
-
-* * *
-
-* * *
-
-U.S. restaurants scramble to reimpose rules.
---------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/07/30/world/us-restaurants-scramble-to-reimpose-rules.html)
-
-[![](https://static01.nyt.com/images/2021/07/29/lens/29virus-briefing-restaurants-rules1/merlin_185407377_0255b96c-c9c2-49a2-b2dd-92936dc043e0-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/us-restaurants-scramble-to-reimpose-rules.html)
-
-By Christina Morales
+By Eduardo Medina
 
 * * *
 
