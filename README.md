@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
---------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Murder Trial in Sweden Could Shine Unsavory Light on Iran’s New President
+-------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/briefing/europe-vaccinations-olympics-heat-wave.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/middleeast/iran-sweden-trial-raisi.html)
 
-[![](https://static01.nyt.com/images/2021/07/27/world/30am-briefing-europe-vacc-rate/merlin_191007561_04a14009-3fab-436e-bed3-555f1b434d2a-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/briefing/europe-vaccinations-olympics-heat-wave.html)
+[![](https://static01.nyt.com/images/2021/07/30/world/30iran-sweden5/merlin_189697677_ea94bd51-a335-4c6c-bec3-903afee83a55-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/middleeast/iran-sweden-trial-raisi.html)
 
-Europe’s vaccine campaigns speed ahead.
+Nearly 3,000 miles from Tehran where mass executions were carried out in 1988, a murder trial in Sweden could produce new revelations that complicate life for Iran’s president-elect.
 
-By Melina Delkic
-
-* * *
+By Farnaz Fassihi
 
 * * *
 
-This Ethiopian Road Is a Lifeline for Millions. Now It’s Blocked.
------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/29/world/africa/ethiopia-tigray-aid-crisis.html)
+U.S. restaurants scramble to reimpose rules.
+--------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/29/world/29ethiopia-sub/29ethiopia-sub-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/africa/ethiopia-tigray-aid-crisis.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/us-restaurants-scramble-to-reimpose-rules.html)
 
-Aid workers say the Ethiopian government has effectively cut off the lone route into the conflict-torn region of Tigray, leading to a risk of mass starvation.
+[![](https://static01.nyt.com/images/2021/07/29/lens/29virus-briefing-restaurants-rules1/merlin_185407377_0255b96c-c9c2-49a2-b2dd-92936dc043e0-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/us-restaurants-scramble-to-reimpose-rules.html)
 
-By Declan Walsh
+By Christina Morales
 
 * * *
 
