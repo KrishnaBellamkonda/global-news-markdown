@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Virus cases are rising around the world, and deaths in Africa are surging.
---------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Israeli Officials Say Iran Is Behind Deadly Attack on Oil Tanker
+----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/africa-who-coronavirus-deaths.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/middleeast/tanker-attack-oman.html)
 
-[![](https://static01.nyt.com/images/2021/07/30/world/30virus-briefing-who-africa/merlin_191853954_14f08eed-feba-474f-9a37-552e9efbc2d4-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/africa-who-coronavirus-deaths.html)
+[![](https://static01.nyt.com/images/2021/07/30/world/30Israel-ship/merlin_192073275_eb7f04bd-5116-43a6-9091-86e3252855bf-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/middleeast/tanker-attack-oman.html)
 
-“We can prevent this disease, we can test for it, and we can treat it,” Dr. Tedros Adhanom Ghebreyesus said.
+Drones carried out the attack on a tanker managed by an Israeli-led firm, killing two people, officials said — apparently the latest in a series of maritime clashes between Iran and Israel.
 
-By Daniel E. Slotnik
-
-* * *
+By Patrick Kingsley and Ronen Bergman
 
 * * *
 
-Here’s who is hospitalized for Covid in New York City.
-------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/30/world/heres-who-is-hospitalized-for-covid-in-new-york-city.html)
+Body of Reuters Photographer Was Mutilated in Taliban Custody, Officials Say
+----------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/30/lens/30virus-briefing-nyhospitalizations1/merlin_190813632_610c8f56-57db-48e4-8721-1e9cd312be10-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/heres-who-is-hospitalized-for-covid-in-new-york-city.html)
+[Article here](https://www.nytimes.com/2021/07/31/world/asia/danish-siddiqui-afghanistan-photographer.html)
 
-By Sharon Otterman
+[![](https://static01.nyt.com/images/2021/07/31/world/31afghanistan-journalist1/merlin_190971408_b86a4257-e96a-48fc-829a-413fdc39e6bd-superJumbo.jpg)](https://www.nytimes.com/2021/07/31/world/asia/danish-siddiqui-afghanistan-photographer.html)
+
+The body of Danish Siddiqui, a Pulitzer Prize winner killed in Afghanistan, was unrecognizable when it was brought to a Kandahar hospital, one official said.
+
+By Mujib Mashal
 
 * * *
 
