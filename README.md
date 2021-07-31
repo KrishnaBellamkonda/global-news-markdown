@@ -34,16 +34,16 @@ By Melina Delkic
 
 * * *
 
-Murder Trial in Sweden Could Shine Unsavory Light on Iran’s New President
--------------------------------------------------------------------------
+Turkey Is Next as Wildfires Afflict Mediterranean Countries
+-----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/middleeast/iran-sweden-trial-raisi.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/middleeast/turkey-fires-mediterranean-lebanon.html)
 
-[![](https://static01.nyt.com/images/2021/07/30/world/30iran-sweden5/merlin_189697677_ea94bd51-a335-4c6c-bec3-903afee83a55-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/middleeast/iran-sweden-trial-raisi.html)
+[![](https://static01.nyt.com/images/2021/07/30/world/30turkey-fires-03/merlin_192071427_567970cb-62e1-45a0-8f74-01c60a1cb12c-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/middleeast/turkey-fires-mediterranean-lebanon.html)
 
-Nearly 3,000 miles from Tehran where mass executions were carried out in 1988, a murder trial in Sweden could produce new revelations that complicate life for Iran’s president-elect.
+The Turkish authorities said they were investigating the causes of fires that killed at least four people and threatened popular tourist destinations.
 
-By Farnaz Fassihi
+By Elian Peltier and Asmaa al-Omar
 
 * * *
 
