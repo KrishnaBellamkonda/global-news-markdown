@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
---------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Virus cases are rising around the world, and deaths in Africa are surging.
+--------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/briefing/europe-vaccinations-olympics-heat-wave.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/africa-who-coronavirus-deaths.html)
 
-[![](https://static01.nyt.com/images/2021/07/27/world/30am-briefing-europe-vacc-rate/merlin_191007561_04a14009-3fab-436e-bed3-555f1b434d2a-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/briefing/europe-vaccinations-olympics-heat-wave.html)
+[![](https://static01.nyt.com/images/2021/07/30/world/30virus-briefing-who-africa/merlin_191853954_14f08eed-feba-474f-9a37-552e9efbc2d4-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/africa-who-coronavirus-deaths.html)
 
-Europe’s vaccine campaigns speed ahead.
+“We can prevent this disease, we can test for it, and we can treat it,” Dr. Tedros Adhanom Ghebreyesus said.
 
-By Melina Delkic
-
-* * *
+By Daniel E. Slotnik
 
 * * *
 
-Turkey Is Next as Wildfires Afflict Mediterranean Countries
------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/30/world/middleeast/turkey-fires-mediterranean-lebanon.html)
+Here’s who is hospitalized for Covid in New York City.
+------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/30/world/30turkey-fires-03/merlin_192071427_567970cb-62e1-45a0-8f74-01c60a1cb12c-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/middleeast/turkey-fires-mediterranean-lebanon.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/heres-who-is-hospitalized-for-covid-in-new-york-city.html)
 
-The Turkish authorities said they were investigating the causes of fires that killed at least four people and threatened popular tourist destinations.
+[![](https://static01.nyt.com/images/2021/07/30/lens/30virus-briefing-nyhospitalizations1/merlin_190813632_610c8f56-57db-48e4-8721-1e9cd312be10-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/heres-who-is-hospitalized-for-covid-in-new-york-city.html)
 
-By Elian Peltier and Asmaa al-Omar
+By Sharon Otterman
 
 * * *
 
