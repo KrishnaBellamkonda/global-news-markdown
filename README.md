@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Greece Accuses Aid Groups of Helping Smugglers of Migrants
-----------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the U.S. restaurants scramble to reimpose rules.
+--------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/europe/greece-migrants-aid-groups.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/us-restaurants-scramble-to-reimpose-rules.html)
 
-[![](https://static01.nyt.com/images/2021/07/30/world/30greece-espionage-01/merlin_136346322_f1452954-a8a5-4cb1-ac66-f8d5fcd31943-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/europe/greece-migrants-aid-groups.html)
+[![](https://static01.nyt.com/images/2021/07/29/lens/29virus-briefing-restaurants-rules1/merlin_185407377_0255b96c-c9c2-49a2-b2dd-92936dc043e0-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/us-restaurants-scramble-to-reimpose-rules.html)
 
-Greek police claim some groups have worked with smugglers and provided migrants with details about Coast Guard activities. The groups deny the charges.
-
-By Niki Kitsantonis
+By Christina Morales
 
 * * *
 
 * * *
 
-Mourning Families Seek Solace From the ‘Grief Purgatory’ of Covid-19
---------------------------------------------------------------------
+Don’t Let the Pandemic Tear Australia Apart
+-------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/31/us/coronavirus-grief-funerals.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/australia/dont-let-the-pandemic-tear-australia-apart.html)
 
-[![](https://static01.nyt.com/images/2021/07/23/multimedia/00XP-virus-01/merlin_191247783_6e7037a5-a4fb-4ccf-870a-c5dc04116ed3-superJumbo.jpg)](https://www.nytimes.com/2021/07/31/us/coronavirus-grief-funerals.html)
+[![](https://static01.nyt.com/images/2021/07/30/world/30australialetter218-NL/merlin_190826571_69a1a18a-b59c-4a87-a188-26006ce51ce9-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/australia/dont-let-the-pandemic-tear-australia-apart.html)
 
-The pandemic has left hundreds of thousands of Americans alone in bereavement, unable to plan proper funerals for their loved ones. Now, they’re planning larger celebrations of life.
+Our states sometimes seem to be at war with each other as outbreaks flare. But this virus knows no boundaries.
 
-By Eduardo Medina
+By Yan Zhuang
 
 * * *
 
