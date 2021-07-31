@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Murder Trial in Sweden Could Shine Unsavory Light on Iran’s New President
--------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Virus cases are rising around the world, and deaths in Africa are surging.
+--------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/middleeast/iran-sweden-trial-raisi.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/africa-who-coronavirus-deaths.html)
 
-[![](https://static01.nyt.com/images/2021/07/30/world/30iran-sweden5/merlin_189697677_ea94bd51-a335-4c6c-bec3-903afee83a55-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/middleeast/iran-sweden-trial-raisi.html)
+[![](https://static01.nyt.com/images/2021/07/30/world/30virus-briefing-who-africa/merlin_191853954_14f08eed-feba-474f-9a37-552e9efbc2d4-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/africa-who-coronavirus-deaths.html)
 
-Nearly 3,000 miles from Tehran where mass executions were carried out in 1988, a murder trial in Sweden could produce new revelations that complicate life for Iran’s president-elect.
+“We can prevent this disease, we can test for it, and we can treat it,” Dr. Tedros Adhanom Ghebreyesus said.
 
-By Farnaz Fassihi
-
-* * *
+By Daniel E. Slotnik
 
 * * *
 
-U.S. restaurants scramble to reimpose rules.
---------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/30/world/us-restaurants-scramble-to-reimpose-rules.html)
+Behind the Masks, a Mystery: How Often Do the Vaccinated Spread the Virus?
+--------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/29/lens/29virus-briefing-restaurants-rules1/merlin_185407377_0255b96c-c9c2-49a2-b2dd-92936dc043e0-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/us-restaurants-scramble-to-reimpose-rules.html)
+[Article here](https://www.nytimes.com/2021/07/29/health/cdc-masks-vaccinated-transmission.html)
 
-By Christina Morales
+[![](https://static01.nyt.com/images/2021/07/29/science/29virus-transmit1/merlin_191732004_683cde72-c3bb-4323-9732-80bd27f32fe0-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/health/cdc-masks-vaccinated-transmission.html)
+
+The C.D.C.’s new masking advice was based in part on data showing that the virus can thrive in the airways of vaccinated people. The findings are expected on Friday.
+
+By Apoorva Mandavilli
 
 * * *
 
