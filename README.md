@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Greece Accuses Aid Groups of Helping Smugglers of Migrants
-----------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Three Members of the Olympic Refugee Team Will Soon Call Canada Home
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/europe/greece-migrants-aid-groups.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/canada/canada-olympics-refugees.html)
 
-[![](https://static01.nyt.com/images/2021/07/30/world/30greece-espionage-01/merlin_136346322_f1452954-a8a5-4cb1-ac66-f8d5fcd31943-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/europe/greece-migrants-aid-groups.html)
+[![](https://static01.nyt.com/images/2021/07/30/world/30CANADA-LETTER-LOKORO/30CANADA-LETTER-LOKORO-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/canada/canada-olympics-refugees.html)
 
-Greek police claim some groups have worked with smugglers and provided migrants with details about Coast Guard activities. The groups deny the charges.
+The athletes will join another 150 refugee students selected who were accepted to one of 80 participating institutions this fall.
 
-By Niki Kitsantonis
-
-* * *
+By Vjosa Isai
 
 * * *
 
-‘They Thought I Was Dead’: Haitian President’s Widow Recounts Assassination
----------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/30/world/americas/haiti-assassination-martine-moise-interview.html)
+U.S. restaurants scramble to reimpose rules.
+--------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/30/world/30Haiti-1/merlin_191984400_1557981f-9e85-4896-8451-8510ac015274-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/americas/haiti-assassination-martine-moise-interview.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/us-restaurants-scramble-to-reimpose-rules.html)
 
-Struck by gunfire, Martine Moïse lay bleeding as the assassins who killed her husband ransacked her room. Now, she says, the F.B.I. must find the mastermind behind the attack.
+[![](https://static01.nyt.com/images/2021/07/29/lens/29virus-briefing-restaurants-rules1/merlin_185407377_0255b96c-c9c2-49a2-b2dd-92936dc043e0-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/us-restaurants-scramble-to-reimpose-rules.html)
 
-By Frances Robles
+By Christina Morales
 
 * * *
 
