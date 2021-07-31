@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Delta variant is a ‘serious threat’ as contagious as chickenpox, the C.D.C. finds.
---------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghan Visa Applicants Arrive in U.S. After Years of Waiting
+------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/the-delta-variant-is-a-serious-threat-as-contagious-as-chickenpox-the-cdc-finds.html)
+[Article here](https://www.nytimes.com/2021/07/30/us/politics/afghan-interpreters-evacuated.html)
 
-[![](https://static01.nyt.com/images/2021/08/29/world/29virus-briefing-virus-delta/merlin_191853255_49c48abd-af6e-4d54-b702-fb372fc88e95-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/the-delta-variant-is-a-serious-threat-as-contagious-as-chickenpox-the-cdc-finds.html)
+[![](https://static01.nyt.com/images/2021/07/30/us/politics/30dc-afghan-visas/merlin_189872766_e18a6a7b-4569-4a0d-b9e0-13a9f7a3de48-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/us/politics/afghan-interpreters-evacuated.html)
 
-An internal agency document paints a grim picture of the fast-spreading coronavirus variant, saying it appears to cause serious illness and health officials must “acknowledge the war has changed.”
+The first group of Afghan interpreters and others who helped Americans during the war will stay on an Army base in Virginia until they are resettled.
 
-By Apoorva Mandavilli
-
-* * *
+By Eric Schmitt and Jennifer Steinhauer
 
 * * *
 
-German Cycling Official Is Sent Home After Racial Slur on Olympics Telecast
----------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/29/sports/cycling/patrick-moster-german-cycling-coach.html)
+How Europe, after a fumbling start, overtook the U.S. in vaccinations.
+----------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/29/lens/29xp-germany-cycling/29xp-germany-cycling-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/sports/cycling/patrick-moster-german-cycling-coach.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/how-europe-after-a-fumbling-start-overtook-the-us-in-vaccinations.html)
 
-Patrick Moster was suspended by Germany’s Olympic sports federation after referring to cyclists from Algeria and Eritrea in a derogatory manner.
+[![](https://static01.nyt.com/images/2021/07/29/us/EU-US-vaccination-promo-1627593309433/EU-US-vaccination-promo-1627593309433-superJumbo.png)](https://www.nytimes.com/2021/07/30/world/how-europe-after-a-fumbling-start-overtook-the-us-in-vaccinations.html)
 
-By Neil Vigdor
+By Elian Peltier and Josh Holder
 
 * * *
 
