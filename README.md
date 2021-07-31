@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How Europe, after a fumbling start, overtook the U.S. in vaccinations.
-----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Delta variant is a ‘serious threat’ as contagious as chickenpox, the C.D.C. finds.
+--------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/how-europe-after-a-fumbling-start-overtook-the-us-in-vaccinations.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/the-delta-variant-is-a-serious-threat-as-contagious-as-chickenpox-the-cdc-finds.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/us/EU-US-vaccination-promo-1627593309433/EU-US-vaccination-promo-1627593309433-superJumbo.png)](https://www.nytimes.com/2021/07/30/world/how-europe-after-a-fumbling-start-overtook-the-us-in-vaccinations.html)
+[![](https://static01.nyt.com/images/2021/08/29/world/29virus-briefing-virus-delta/merlin_191853255_49c48abd-af6e-4d54-b702-fb372fc88e95-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/the-delta-variant-is-a-serious-threat-as-contagious-as-chickenpox-the-cdc-finds.html)
 
-By Elian Peltier and Josh Holder
+An internal agency document paints a grim picture of the fast-spreading coronavirus variant, saying it appears to cause serious illness and health officials must “acknowledge the war has changed.”
+
+By Apoorva Mandavilli
 
 * * *
 
 * * *
 
-Qaddafi’s Son Is Alive. And He Wants to Take Libya Back.
---------------------------------------------------------
+German Cycling Official Is Sent Home After Racial Slur on Olympics Telecast
+---------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/magazine/qaddafi-libya.html)
+[Article here](https://www.nytimes.com/2021/07/29/sports/cycling/patrick-moster-german-cycling-coach.html)
 
-[![](https://static01.nyt.com/images/2021/08/01/opinion/01mag-libya-03/01mag-libya-03-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/magazine/qaddafi-libya.html)
+[![](https://static01.nyt.com/images/2021/07/29/lens/29xp-germany-cycling/29xp-germany-cycling-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/sports/cycling/patrick-moster-german-cycling-coach.html)
 
-In his first meeting with a foreign journalist in a decade, Seif al-Islam described his years in captivity — and hinted at a bid for Libya’s presidency.
+Patrick Moster was suspended by Germany’s Olympic sports federation after referring to cyclists from Algeria and Eritrea in a derogatory manner.
 
-By Robert F. Worth and Jehad Nga
+By Neil Vigdor
 
 * * *
 
