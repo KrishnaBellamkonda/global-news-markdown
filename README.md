@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Israeli Officials Say Iran Is Behind Deadly Attack on Oil Tanker
-----------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Greece Accuses Aid Groups of Helping Smugglers of Migrants
+----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/middleeast/tanker-attack-oman.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/europe/greece-migrants-aid-groups.html)
 
-[![](https://static01.nyt.com/images/2021/07/30/world/30Israel-ship/merlin_192073275_eb7f04bd-5116-43a6-9091-86e3252855bf-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/middleeast/tanker-attack-oman.html)
+[![](https://static01.nyt.com/images/2021/07/30/world/30greece-espionage-01/merlin_136346322_f1452954-a8a5-4cb1-ac66-f8d5fcd31943-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/europe/greece-migrants-aid-groups.html)
 
-Drones carried out the attack on a tanker managed by an Israeli-led firm, killing two people, officials said — apparently the latest in a series of maritime clashes between Iran and Israel.
+Greek police claim some groups have worked with smugglers and provided migrants with details about Coast Guard activities. The groups deny the charges.
 
-By Patrick Kingsley and Ronen Bergman
-
-* * *
+By Niki Kitsantonis
 
 * * *
 
-Body of Reuters Photographer Was Mutilated in Taliban Custody, Officials Say
-----------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/31/world/asia/danish-siddiqui-afghanistan-photographer.html)
+‘They Thought I Was Dead’: Haitian President’s Widow Recounts Assassination
+---------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/31/world/31afghanistan-journalist1/merlin_190971408_b86a4257-e96a-48fc-829a-413fdc39e6bd-superJumbo.jpg)](https://www.nytimes.com/2021/07/31/world/asia/danish-siddiqui-afghanistan-photographer.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/americas/haiti-assassination-martine-moise-interview.html)
 
-The body of Danish Siddiqui, a Pulitzer Prize winner killed in Afghanistan, was unrecognizable when it was brought to a Kandahar hospital, one official said.
+[![](https://static01.nyt.com/images/2021/07/30/world/30Haiti-1/merlin_191984400_1557981f-9e85-4896-8451-8510ac015274-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/americas/haiti-assassination-martine-moise-interview.html)
 
-By Mujib Mashal
+Struck by gunfire, Martine Moïse lay bleeding as the assassins who killed her husband ransacked her room. Now, she says, the F.B.I. must find the mastermind behind the attack.
+
+By Frances Robles
 
 * * *
 
