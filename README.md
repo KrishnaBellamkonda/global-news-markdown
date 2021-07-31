@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the U.S. restaurants scramble to reimpose rules.
---------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Murder Trial in Sweden Could Shine Unsavory Light on Iran’s New President
+-------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/us-restaurants-scramble-to-reimpose-rules.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/middleeast/iran-sweden-trial-raisi.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/lens/29virus-briefing-restaurants-rules1/merlin_185407377_0255b96c-c9c2-49a2-b2dd-92936dc043e0-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/us-restaurants-scramble-to-reimpose-rules.html)
+[![](https://static01.nyt.com/images/2021/07/30/world/30iran-sweden5/merlin_189697677_ea94bd51-a335-4c6c-bec3-903afee83a55-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/middleeast/iran-sweden-trial-raisi.html)
 
-By Christina Morales
+Nearly 3,000 miles from Tehran where mass executions were carried out in 1988, a murder trial in Sweden could produce new revelations that complicate life for Iran’s president-elect.
+
+By Farnaz Fassihi
 
 * * *
 
 * * *
 
-Don’t Let the Pandemic Tear Australia Apart
--------------------------------------------
+The Long Kiss Goodbye: Will Covid End the French Bise Forever?
+--------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/australia/dont-let-the-pandemic-tear-australia-apart.html)
+[Article here](https://www.nytimes.com/2021/07/31/world/europe/covid-france-bise.html)
 
-[![](https://static01.nyt.com/images/2021/07/30/world/30australialetter218-NL/merlin_190826571_69a1a18a-b59c-4a87-a188-26006ce51ce9-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/australia/dont-let-the-pandemic-tear-australia-apart.html)
+[![](https://static01.nyt.com/images/2021/07/29/world/29France-BISE-01/29France-BISE-01-superJumbo.jpg)](https://www.nytimes.com/2021/07/31/world/europe/covid-france-bise.html)
 
-Our states sometimes seem to be at war with each other as outbreaks flare. But this virus knows no boundaries.
+Social distancing made the cheek kiss a much rarer greeting, and polling suggests it may stay that way. Some say good riddance, but others miss the warmth of times past.
 
-By Yan Zhuang
+By Gaëlle Fournier
 
 * * *
 
