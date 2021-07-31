@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghan Visa Applicants Arrive in U.S. After Years of Waiting
-------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
+--------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/us/politics/afghan-interpreters-evacuated.html)
+[Article here](https://www.nytimes.com/2021/07/30/briefing/europe-vaccinations-olympics-heat-wave.html)
 
-[![](https://static01.nyt.com/images/2021/07/30/us/politics/30dc-afghan-visas/merlin_189872766_e18a6a7b-4569-4a0d-b9e0-13a9f7a3de48-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/us/politics/afghan-interpreters-evacuated.html)
+[![](https://static01.nyt.com/images/2021/07/27/world/30am-briefing-europe-vacc-rate/merlin_191007561_04a14009-3fab-436e-bed3-555f1b434d2a-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/briefing/europe-vaccinations-olympics-heat-wave.html)
 
-The first group of Afghan interpreters and others who helped Americans during the war will stay on an Army base in Virginia until they are resettled.
+Europe’s vaccine campaigns speed ahead.
 
-By Eric Schmitt and Jennifer Steinhauer
-
-* * *
+By Melina Delkic
 
 * * *
 
-How Europe, after a fumbling start, overtook the U.S. in vaccinations.
-----------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/30/world/how-europe-after-a-fumbling-start-overtook-the-us-in-vaccinations.html)
+Murder Trial in Sweden Could Shine Unsavory Light on Iran’s New President
+-------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/29/us/EU-US-vaccination-promo-1627593309433/EU-US-vaccination-promo-1627593309433-superJumbo.png)](https://www.nytimes.com/2021/07/30/world/how-europe-after-a-fumbling-start-overtook-the-us-in-vaccinations.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/middleeast/iran-sweden-trial-raisi.html)
 
-By Elian Peltier and Josh Holder
+[![](https://static01.nyt.com/images/2021/07/30/world/30iran-sweden5/merlin_189697677_ea94bd51-a335-4c6c-bec3-903afee83a55-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/middleeast/iran-sweden-trial-raisi.html)
+
+Nearly 3,000 miles from Tehran where mass executions were carried out in 1988, a murder trial in Sweden could produce new revelations that complicate life for Iran’s president-elect.
+
+By Farnaz Fassihi
 
 * * *
 
