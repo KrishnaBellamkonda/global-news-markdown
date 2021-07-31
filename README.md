@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Virus cases are rising around the world, and deaths in Africa are surging.
---------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Turkey Is Next as Wildfires Afflict Mediterranean Countries
+-----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/africa-who-coronavirus-deaths.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/middleeast/turkey-fires-mediterranean-lebanon.html)
 
-[![](https://static01.nyt.com/images/2021/07/30/world/30virus-briefing-who-africa/merlin_191853954_14f08eed-feba-474f-9a37-552e9efbc2d4-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/africa-who-coronavirus-deaths.html)
+[![](https://static01.nyt.com/images/2021/07/30/world/30turkey-fires-03/merlin_192071427_567970cb-62e1-45a0-8f74-01c60a1cb12c-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/middleeast/turkey-fires-mediterranean-lebanon.html)
 
-“We can prevent this disease, we can test for it, and we can treat it,” Dr. Tedros Adhanom Ghebreyesus said.
+The Turkish authorities said they were investigating the causes of fires that killed at least four people and threatened popular tourist destinations.
 
-By Daniel E. Slotnik
-
-* * *
+By Elian Peltier and Asmaa al-Omar
 
 * * *
 
-Behind the Masks, a Mystery: How Often Do the Vaccinated Spread the Virus?
---------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/29/health/cdc-masks-vaccinated-transmission.html)
+Here are the details from Biden’s latest push to spur vaccinations.
+-------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/29/science/29virus-transmit1/merlin_191732004_683cde72-c3bb-4323-9732-80bd27f32fe0-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/health/cdc-masks-vaccinated-transmission.html)
+[Article here](https://www.nytimes.com/2021/07/29/world/biden-covid-plan.html)
 
-The C.D.C.’s new masking advice was based in part on data showing that the virus can thrive in the airways of vaccinated people. The findings are expected on Friday.
+[![](https://static01.nyt.com/images/2021/07/29/lens/29virus-briefing-fed-mandate-points1/merlin_191980404_36dae6d9-e4bb-476b-9e71-1dcdc523dbd5-superJumbo.jpg)](https://www.nytimes.com/2021/07/29/world/biden-covid-plan.html)
 
-By Apoorva Mandavilli
+The president is encouraging paid time off to get vaccinated and other incentives to combat Covid-19 infections.
+
+By Lauren McCarthy
 
 * * *
 
