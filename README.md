@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Virus cases are rising around the world, and deaths in Africa are surging.
---------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the ‘The war has changed.’ In just days, the U.S. shifts tactics against the virus.
+-------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/africa-who-coronavirus-deaths.html)
+[Article here](https://www.nytimes.com/2021/07/31/world/coronavirus-mandate-mask-vaccine.html)
 
-[![](https://static01.nyt.com/images/2021/07/30/world/30virus-briefing-who-africa/merlin_191853954_14f08eed-feba-474f-9a37-552e9efbc2d4-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/africa-who-coronavirus-deaths.html)
+[![](https://static01.nyt.com/images/2021/07/31/lens/31virus-briefing-delta-fallout/merlin_191723658_82538cf5-cf53-4dde-9c09-3ecf0bd6c1b1-superJumbo.jpg)](https://www.nytimes.com/2021/07/31/world/coronavirus-mandate-mask-vaccine.html)
 
-“We can prevent this disease, we can test for it, and we can treat it,” said Dr. Tedros Adhanom Ghebreyesus, director general of the World Health Organization.
+Delta-driven surges are prompting new measures from the federal government, states and cities, companies and the military, as well as defiant rejections.
 
-By Daniel E. Slotnik
-
-* * *
+By Lauren McCarthy
 
 * * *
 
-Spanish Court Targets Chilean Bank Tied to Pinochet
----------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/30/world/europe/pinochet-banco-de-chile.html)
+What We Lost That Day
+---------------------
 
-[![](https://static01.nyt.com/images/2021/06/22/world/22pinochet-01/merlin_159478617_a4ac89e0-87ce-42fc-bf62-9ef1ed30cfcc-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/europe/pinochet-banco-de-chile.html)
+[Article here](https://www.nytimes.com/interactive/2021/08/01/world/middleeast/beirut-explosion-anniversary.html)
 
-Spurred by victims of Gen. Augusto Pinochet’s regime, the court has reopened an investigation into whether Banco de Chile helped the former Chilean dictator launder money.
+[![](https://static01.nyt.com/images/2021/08/01/world/01beirut-anniversary-promo-static/01beirut-anniversary-promo-static-superJumbo.jpg)](https://www.nytimes.com/interactive/2021/08/01/world/middleeast/beirut-explosion-anniversary.html)
 
-By Raphael Minder
+Personal reflections from victims of the Aug. 4, 2020, explosion at the Beirut port.
+
+By Lina Mounzer, Ben Hubbard, Tala Safie and Mohamad Abdouni
 
 * * *
 
