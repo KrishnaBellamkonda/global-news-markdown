@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the ‘The war has changed.’ In just days, the U.S. shifts tactics against the virus.
--------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As Fears Grip Afghanistan, Hundreds of Thousands Flee
+-----------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/31/world/coronavirus-mandate-mask-vaccine.html)
+[Article here](https://www.nytimes.com/2021/07/31/world/asia/afghanistan-migration-taliban.html)
 
-[![](https://static01.nyt.com/images/2021/07/31/lens/31virus-briefing-delta-fallout/merlin_191723658_82538cf5-cf53-4dde-9c09-3ecf0bd6c1b1-superJumbo.jpg)](https://www.nytimes.com/2021/07/31/world/coronavirus-mandate-mask-vaccine.html)
+[![](https://static01.nyt.com/images/2021/07/31/world/31afghanistan-exodus4/merlin_191176125_55074437-1c68-4526-b3e4-b63c1cd96ce0-superJumbo.jpg)](https://www.nytimes.com/2021/07/31/world/asia/afghanistan-migration-taliban.html)
 
-Delta-driven surges are prompting new measures from the federal government, states and cities, companies and the military, as well as defiant rejections.
+With the Taliban sweeping across much of the country, at least 30,000 Afghans are leaving each week. Many more have been displaced within Afghanistan’s borders.
 
-By Lauren McCarthy
-
-* * *
+By Christina Goldbaum and Fatima Faizi
 
 * * *
 
-What We Lost That Day
----------------------
+* * *
 
-[Article here](https://www.nytimes.com/interactive/2021/08/01/world/middleeast/beirut-explosion-anniversary.html)
+Spanish Court Targets Chilean Bank Tied to Pinochet
+---------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/01/world/01beirut-anniversary-promo-static/01beirut-anniversary-promo-static-superJumbo.jpg)](https://www.nytimes.com/interactive/2021/08/01/world/middleeast/beirut-explosion-anniversary.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/europe/pinochet-banco-de-chile.html)
 
-Personal reflections from victims of the Aug. 4, 2020, explosion at the Beirut port.
+[![](https://static01.nyt.com/images/2021/06/22/world/22pinochet-01/merlin_159478617_a4ac89e0-87ce-42fc-bf62-9ef1ed30cfcc-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/europe/pinochet-banco-de-chile.html)
 
-By Lina Mounzer, Ben Hubbard, Tala Safie and Mohamad Abdouni
+Spurred by victims of Gen. Augusto Pinochet’s regime, the court has reopened an investigation into whether Banco de Chile helped the former Chilean dictator launder money.
+
+By Raphael Minder
 
 * * *
 
