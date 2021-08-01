@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Los Angeles schools order weekly virus tests for everyone, vaccinated or not.
------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Virus cases are rising around the world, and deaths in Africa are surging.
+--------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/los-angeles-schools-covid.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/africa-who-coronavirus-deaths.html)
 
-[![](https://static01.nyt.com/images/2021/07/29/lens/29virus-briefing-la-school-testing1/merlin_190771764_cbdc0fb8-21e7-4a08-8570-78917a88212c-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/los-angeles-schools-covid.html)
+[![](https://static01.nyt.com/images/2021/07/30/world/30virus-briefing-who-africa/merlin_191853954_14f08eed-feba-474f-9a37-552e9efbc2d4-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/africa-who-coronavirus-deaths.html)
 
-The shift by the second-largest U.S. district comes weeks before in-person classes are scheduled to resume.
+“We can prevent this disease, we can test for it, and we can treat it,” said Dr. Tedros Adhanom Ghebreyesus, director general of the World Health Organization.
 
-By Lauren McCarthy
-
-* * *
+By Daniel E. Slotnik
 
 * * *
 
-Remains of Esther Dingley, Missing British Hiker, Are Found
------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/30/world/europe/esther-dingley-missing-british-hiker.html)
+Spanish Court Targets Chilean Bank Tied to Pinochet
+---------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/30/us/30xp-hiker/30xp-hiker-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/europe/esther-dingley-missing-british-hiker.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/europe/pinochet-banco-de-chile.html)
 
-For months, the authorities and Ms. Dingley’s partner combed the Pyrenees mountains. A DNA test confirmed the identity of remains found near her last known location, a group aiding the search said.
+[![](https://static01.nyt.com/images/2021/06/22/world/22pinochet-01/merlin_159478617_a4ac89e0-87ce-42fc-bf62-9ef1ed30cfcc-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/europe/pinochet-banco-de-chile.html)
 
-By Derrick Bryson Taylor
+Spurred by victims of Gen. Augusto Pinochet’s regime, the court has reopened an investigation into whether Banco de Chile helped the former Chilean dictator launder money.
+
+By Raphael Minder
 
 * * *
 
