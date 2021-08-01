@@ -19,29 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Wooden Buildings Reach for the Sky
-----------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Demand for shots is increasing in less vaccinated states under siege from the Delta variant.
+--------------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/todaysinyt/wooden-buildings-reach-for-the-sky-in-vaxjo-sweden.html)
+[Article here](https://www.nytimes.com/2021/07/31/world/less-vaccinated-covid-shots.html)
 
-[![](https://static01.nyt.com/images/2021/07/31/world/31real-timber-add2-inyt/31real-timber-add2-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/todaysinyt/wooden-buildings-reach-for-the-sky-in-vaxjo-sweden.html)
+[![](https://static01.nyt.com/images/2021/07/31/multimedia/31-virus-briefing-vaccineation-rise/merlin_191732976_90f99669-66be-482f-83e9-69d5db9b774e-superJumbo.jpg)](https://www.nytimes.com/2021/07/31/world/less-vaccinated-covid-shots.html)
 
-Ambitious high-rise projects in Sweden are a showcase for a reviving forest industry.
+Data from the C.D.C. shows that many people in states like Louisiana, Mississippi and Missouri are now receiving their first doses. On Friday, more than 850,000 total shots were recorded in the U.S.
 
-By Gabriel Leigh
-
-* * *
+By Eduardo Medina
 
 * * *
 
-Here’s who is hospitalized for Covid in New York City.
-------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/30/world/heres-who-is-hospitalized-for-covid-in-new-york-city.html)
+U.S. restaurants scramble to reimpose rules.
+--------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/30/lens/30virus-briefing-nyhospitalizations1/merlin_190813632_610c8f56-57db-48e4-8721-1e9cd312be10-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/heres-who-is-hospitalized-for-covid-in-new-york-city.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/us-restaurants-scramble-to-reimpose-rules.html)
 
-By Sharon Otterman
+[![](https://static01.nyt.com/images/2021/07/29/lens/29virus-briefing-restaurants-rules1/merlin_185407377_0255b96c-c9c2-49a2-b2dd-92936dc043e0-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/us-restaurants-scramble-to-reimpose-rules.html)
+
+By Christina Morales
 
 * * *
 
