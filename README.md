@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Remains of Esther Dingley, Missing British Hiker, Are Found
------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Wooden Buildings Reach for the Sky
+----------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/europe/esther-dingley-missing-british-hiker.html)
+[Article here](https://www.nytimes.com/2021/07/30/todaysinyt/wooden-buildings-reach-for-the-sky-in-vaxjo-sweden.html)
 
-[![](https://static01.nyt.com/images/2021/07/30/us/30xp-hiker/30xp-hiker-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/europe/esther-dingley-missing-british-hiker.html)
+[![](https://static01.nyt.com/images/2021/07/31/world/31real-timber-add2-inyt/31real-timber-add2-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/todaysinyt/wooden-buildings-reach-for-the-sky-in-vaxjo-sweden.html)
 
-For months, the authorities and Ms. Dingley’s partner combed the Pyrenees mountains. A DNA test confirmed the identity of remains found near her last known location, a group aiding the search said.
+Ambitious high-rise projects in Sweden are a showcase for a reviving forest industry.
 
-By Derrick Bryson Taylor
-
-* * *
+By Gabriel Leigh
 
 * * *
 
-Los Angeles schools order weekly virus tests for everyone, vaccinated or not.
------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/30/world/los-angeles-schools-covid.html)
+Here’s who is hospitalized for Covid in New York City.
+------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/29/lens/29virus-briefing-la-school-testing1/merlin_190771764_cbdc0fb8-21e7-4a08-8570-78917a88212c-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/los-angeles-schools-covid.html)
+[Article here](https://www.nytimes.com/2021/07/30/world/heres-who-is-hospitalized-for-covid-in-new-york-city.html)
 
-The shift by the second-largest U.S. district comes weeks before in-person classes are scheduled to resume.
+[![](https://static01.nyt.com/images/2021/07/30/lens/30virus-briefing-nyhospitalizations1/merlin_190813632_610c8f56-57db-48e4-8721-1e9cd312be10-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/heres-who-is-hospitalized-for-covid-in-new-york-city.html)
 
-By Lauren McCarthy
+By Sharon Otterman
 
 * * *
 
