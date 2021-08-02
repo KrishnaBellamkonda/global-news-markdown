@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As Fears Grip Afghanistan, Hundreds of Thousands Flee
------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the State Dept. Offers Potential Refugee Status to More Afghans Who Worked With U.S.
+--------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/31/world/asia/afghanistan-migration-taliban.html)
+[Article here](https://www.nytimes.com/2021/08/02/us/politics/afghan-visas-refugees.html)
 
-[![](https://static01.nyt.com/images/2021/07/31/world/31afghanistan-exodus4/merlin_191176125_55074437-1c68-4526-b3e4-b63c1cd96ce0-superJumbo.jpg)](https://www.nytimes.com/2021/07/31/world/asia/afghanistan-migration-taliban.html)
+[![](https://static01.nyt.com/images/2021/08/02/world/02dc-afghan/merlin_192094116_20133ae2-24a7-4c9f-9c4a-3bbdc12ca078-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/us/politics/afghan-visas-refugees.html)
 
-With the Taliban sweeping across much of the country, at least 30,000 Afghans are leaving each week. Many more have been displaced within Afghanistan’s borders.
+As the Taliban make territorial gains, more Afghans, including those who helped U.S. news outlets, will become eligible for visas.
 
-By Christina Goldbaum and Fatima Faizi
-
-* * *
+By Michael Crowley
 
 * * *
 
-Spanish Court Targets Chilean Bank Tied to Pinochet
+* * *
+
+Key Afghan City in Danger of Falling to the Taliban
 ---------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/30/world/europe/pinochet-banco-de-chile.html)
+[Article here](https://www.nytimes.com/2021/07/31/world/asia/afghanistan-taliban-lashkar-gah.html)
 
-[![](https://static01.nyt.com/images/2021/06/22/world/22pinochet-01/merlin_159478617_a4ac89e0-87ce-42fc-bf62-9ef1ed30cfcc-superJumbo.jpg)](https://www.nytimes.com/2021/07/30/world/europe/pinochet-banco-de-chile.html)
+[![](https://static01.nyt.com/images/2021/07/31/world/31afghanistan-helmand-01/merlin_187595676_f8092e1f-c098-4ba7-9f2b-94fb1a3238cc-superJumbo.jpg)](https://www.nytimes.com/2021/07/31/world/asia/afghanistan-taliban-lashkar-gah.html)
 
-Spurred by victims of Gen. Augusto Pinochet’s regime, the court has reopened an investigation into whether Banco de Chile helped the former Chilean dictator launder money.
+Government reinforcements arrived Saturday in Lashkar Gah, the capital of Helmand Province, but people were fleeing their homes and a hospital in the city had been bombed.
 
-By Raphael Minder
+By Thomas Gibbons-Neff and Taimoor Shah
 
 * * *
 
