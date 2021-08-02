@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Top Myanmar General Says Military Rule Will Continue Into 2023
---------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the ‘X’ Marks the Spot: Officials Map a Route Out of the Pandemic
+-------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/01/world/asia/myanmar-state-emergency.html)
+[Article here](https://www.nytimes.com/2021/08/01/health/coronavirus-vaccination-maps-geospatial.html)
 
-[![](https://static01.nyt.com/images/2021/08/01/world/01myanmar1/merlin_191958792_e5c14c61-2d26-4829-9a18-7f79075e555b-superJumbo.jpg)](https://www.nytimes.com/2021/08/01/world/asia/myanmar-state-emergency.html)
+[![](https://static01.nyt.com/images/2021/08/01/science/01virus-mapping1/merlin_192097374_62a18f47-be24-4d58-823f-246d90ab75bd-superJumbo.jpg)](https://www.nytimes.com/2021/08/01/health/coronavirus-vaccination-maps-geospatial.html)
 
-Six months after seizing power, the junta’s leader on Sunday extended a state of emergency for two more years. Protesters said they would persevere.
+Governments and organizations around the world are using geospatial data and digital mapping tools to guide their vaccination campaigns.
 
-By Hannah Beech
-
-* * *
+By Emily Anthes
 
 * * *
 
-With #MeToo Case, China Takes a Swipe at Celebrity Obsession
-------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/02/world/asia/china-metoo-kris-wu.html)
+Even the Pope Has Prayed to Venezuela’s Beloved ‘Doctor of the Poor’
+--------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/02/world/02china-metoo-01/merlin_192244299_aafd3879-fc02-40b7-a0ac-6a86fbb3720f-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/world/asia/china-metoo-kris-wu.html)
+[Article here](https://www.nytimes.com/2021/08/01/world/venezuela-saint-doctor-hernandez.html)
 
-The detention of Kris Wu, a popular Canadian singer, has been hailed as a rare victory for the movement. But Beijing, wary of social activism, has cast it as a warning to celebrities.
+[![](https://static01.nyt.com/images/2021/08/01/world/00venezuela-saint-dispatch-top/00venezuela-saint-dispatch-top-superJumbo.jpg)](https://www.nytimes.com/2021/08/01/world/venezuela-saint-doctor-hernandez.html)
 
-By Amy Qin and Elsie Chen
+In a deeply polarized country, suffering an extreme health crisis, one of the few uniting beliefs is the admiration across the political spectrum for a doctor recently beatified by the Vatican.
+
+By Meridith Kohut and Isayen Herrera
 
 * * *
 
