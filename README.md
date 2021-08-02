@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the ‘X’ Marks the Spot: Officials Map a Route Out of the Pandemic
--------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the 12-Hour Days, Six Days a Week
+-----------------------------
 
-[Article here](https://www.nytimes.com/2021/08/01/health/coronavirus-vaccination-maps-geospatial.html)
+[Article here](https://www.nytimes.com/2021/08/02/briefing/china-economy-gig-workers.html)
 
-[![](https://static01.nyt.com/images/2021/08/01/science/01virus-mapping1/merlin_192097374_62a18f47-be24-4d58-823f-246d90ab75bd-superJumbo.jpg)](https://www.nytimes.com/2021/08/01/health/coronavirus-vaccination-maps-geospatial.html)
+[![](https://static01.nyt.com/images/2021/08/02/lens/02ambriefing-promo/02ambriefing-china01-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/02/briefing/china-economy-gig-workers.html)
 
-Governments and organizations around the world are using geospatial data and digital mapping tools to guide their vaccination campaigns.
+Today, Vivian Wang explains Chinese work culture and the debate around working conditions.
 
-By Emily Anthes
-
-* * *
+By Vivian Wang
 
 * * *
 
-Even the Pope Has Prayed to Venezuela’s Beloved ‘Doctor of the Poor’
---------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/01/world/venezuela-saint-doctor-hernandez.html)
+He Sang 2 Songs at an Election Rally. Hong Kong Says He Violated the Law.
+-------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/01/world/00venezuela-saint-dispatch-top/00venezuela-saint-dispatch-top-superJumbo.jpg)](https://www.nytimes.com/2021/08/01/world/venezuela-saint-doctor-hernandez.html)
+[Article here](https://www.nytimes.com/2021/08/02/world/asia/hong-kong-singer-election.html)
 
-In a deeply polarized country, suffering an extreme health crisis, one of the few uniting beliefs is the admiration across the political spectrum for a doctor recently beatified by the Vatican.
+[![](https://static01.nyt.com/images/2021/08/02/world/02hongkong1/merlin_155815473_67735659-49f1-4112-ad60-8b4010b8f7d6-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/world/asia/hong-kong-singer-election.html)
 
-By Meridith Kohut and Isayen Herrera
+Anticorruption officials arrested Anthony Wong Yiu-ming, a Cantopop singer, who has publicly supported the Chinese territory’s pro-democracy opposition.
+
+By Austin Ramzy
 
 * * *
 
