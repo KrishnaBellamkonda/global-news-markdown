@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the 12-Hour Days, Six Days a Week
------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Looking for St. Mark’s Square? You May Find Yourself in a Shipyard Instead
+--------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/02/briefing/china-economy-gig-workers.html)
+[Article here](https://www.nytimes.com/2021/08/02/world/europe/italy-venice-tourism-cruise-ships.html)
 
-[![](https://static01.nyt.com/images/2021/08/02/lens/02ambriefing-promo/02ambriefing-china01-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/02/briefing/china-economy-gig-workers.html)
+[![](https://static01.nyt.com/images/2021/08/02/world/02venice-dispatch-01/merlin_192297966_caa96bcd-5ca2-4eea-80f1-724d2781ba69-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/world/europe/italy-venice-tourism-cruise-ships.html)
 
-Today, Vivian Wang explains Chinese work culture and the debate around working conditions.
+As Venice’s ban on cruise ships took effect this weekend, some tourists were surprised to be docked hours away from the city’s famous sights.
 
-By Vivian Wang
-
-* * *
+By Jason Horowitz
 
 * * *
 
-He Sang 2 Songs at an Election Rally. Hong Kong Says He Violated the Law.
--------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/02/world/asia/hong-kong-singer-election.html)
+What We Lost That Day
+---------------------
 
-[![](https://static01.nyt.com/images/2021/08/02/world/02hongkong1/merlin_155815473_67735659-49f1-4112-ad60-8b4010b8f7d6-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/world/asia/hong-kong-singer-election.html)
+[Article here](https://www.nytimes.com/interactive/2021/08/01/world/middleeast/beirut-explosion-anniversary.html)
 
-Anticorruption officials arrested Anthony Wong Yiu-ming, a Cantopop singer, who has publicly supported the Chinese territory’s pro-democracy opposition.
+[![](https://static01.nyt.com/images/2021/08/01/world/01beirut-anniversary-promo-static/01beirut-anniversary-promo-static-superJumbo.jpg)](https://www.nytimes.com/interactive/2021/08/01/world/middleeast/beirut-explosion-anniversary.html)
 
-By Austin Ramzy
+Personal reflections from victims of the Aug. 4, 2020, explosion at the Beirut port.
+
+By Lina Mounzer, Ben Hubbard, Tala Safie and Mohamad Abdouni
 
 * * *
 
