@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the State Dept. Offers Potential Refugee Status to More Afghans Who Worked With U.S.
---------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Top Myanmar General Says Military Rule Will Continue Into 2023
+--------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/02/us/politics/afghan-visas-refugees.html)
+[Article here](https://www.nytimes.com/2021/08/01/world/asia/myanmar-state-emergency.html)
 
-[![](https://static01.nyt.com/images/2021/08/02/world/02dc-afghan/merlin_192094116_20133ae2-24a7-4c9f-9c4a-3bbdc12ca078-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/us/politics/afghan-visas-refugees.html)
+[![](https://static01.nyt.com/images/2021/08/01/world/01myanmar1/merlin_191958792_e5c14c61-2d26-4829-9a18-7f79075e555b-superJumbo.jpg)](https://www.nytimes.com/2021/08/01/world/asia/myanmar-state-emergency.html)
 
-As the Taliban make territorial gains, more Afghans, including those who helped U.S. news outlets, will become eligible for visas.
+Six months after seizing power, the junta’s leader on Sunday extended a state of emergency for two more years. Protesters said they would persevere.
 
-By Michael Crowley
-
-* * *
+By Hannah Beech
 
 * * *
 
-Key Afghan City in Danger of Falling to the Taliban
----------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/07/31/world/asia/afghanistan-taliban-lashkar-gah.html)
+With #MeToo Case, China Takes a Swipe at Celebrity Obsession
+------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/31/world/31afghanistan-helmand-01/merlin_187595676_f8092e1f-c098-4ba7-9f2b-94fb1a3238cc-superJumbo.jpg)](https://www.nytimes.com/2021/07/31/world/asia/afghanistan-taliban-lashkar-gah.html)
+[Article here](https://www.nytimes.com/2021/08/02/world/asia/china-metoo-kris-wu.html)
 
-Government reinforcements arrived Saturday in Lashkar Gah, the capital of Helmand Province, but people were fleeing their homes and a hospital in the city had been bombed.
+[![](https://static01.nyt.com/images/2021/08/02/world/02china-metoo-01/merlin_192244299_aafd3879-fc02-40b7-a0ac-6a86fbb3720f-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/world/asia/china-metoo-kris-wu.html)
 
-By Thomas Gibbons-Neff and Taimoor Shah
+The detention of Kris Wu, a popular Canadian singer, has been hailed as a rare victory for the movement. But Beijing, wary of social activism, has cast it as a warning to celebrities.
+
+By Amy Qin and Elsie Chen
 
 * * *
 
