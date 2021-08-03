@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Florida may face its worst wave ever as the Delta variant spreads.
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Britain Rethinks Letting China Enter Its Nuclear Power Industry
+---------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/02/business/great-britain-china-nuclear-power.html)
+
+[![](https://static01.nyt.com/images/2021/08/03/business/00UKnuclear-1/merlin_192441987_53e5a290-8c48-4a30-b616-31b80caf9e40-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/business/great-britain-china-nuclear-power.html)
+
+Financing and security issues are clouding new power station projects.
+
+By Stanley Reed
+
+* * *
+
+* * *
+
+Senator Lindsey Graham says he has a breakthrough virus infection.
 ------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/02/world/florida-covid-cases.html)
+[Article here](https://www.nytimes.com/2021/08/02/world/lindsey-graham-covid-breakthrough-infection.html)
 
-[![](https://static01.nyt.com/images/2021/08/02/world/02virus-briefing-florida-delta-sub/02virus-briefing-florida-delta-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/world/florida-covid-cases.html)
+[![](https://static01.nyt.com/images/2021/08/02/us/politics/02virus-briefing-lindsey-graham-sub/02political-briefing-lindsey-graham-sub-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/world/lindsey-graham-covid-breakthrough-infection.html)
 
-The state is about a month away from its peak, according to an epidemiologist who tracks the virus there.
+The positive test result raised concerns that other senators may have been exposed at a party hosted by Senator Manchin over the weekend.
 
-By Adeel Hassan
-
-* * *
-
-* * *
-
-Your Tuesday Briefing
----------------------
-
-[Article here](https://www.nytimes.com/2021/08/02/briefing/germany-booster-vaccines-worker-shortages.html)
-
-[![](https://static01.nyt.com/images/2021/08/03/us/03ambriefing-europe/03ambriefing-europe--superJumbo.jpg)](https://www.nytimes.com/2021/08/02/briefing/germany-booster-vaccines-worker-shortages.html)
-
-Germany moves ahead on booster vaccinations.
-
-By Victoria Shannon
+By Zach Montague and Nicholas Fandos
 
 * * *
 
