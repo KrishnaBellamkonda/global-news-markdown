@@ -19,12 +19,12 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Florida may face its worst wave ever as Delta variant spreads.
---------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Florida may face its worst wave ever as the Delta variant spreads.
+------------------------------------------------------------------
 
 [Article here](https://www.nytimes.com/2021/08/02/world/florida-covid-cases.html)
 
-[![](https://static01.nyt.com/images/2021/08/02/world/02virus-briefing-florida-delta-pediatric-cases/merlin_191980698_3ec858a6-03a9-42c1-9686-495390d2c143-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/world/florida-covid-cases.html)
+[![](https://static01.nyt.com/images/2021/08/02/world/02virus-briefing-florida-delta-sub/02virus-briefing-florida-delta-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/world/florida-covid-cases.html)
 
 The state is about a month away from its peak, according to an epidemiologist who tracks the virus there.
 
@@ -34,16 +34,16 @@ By Adeel Hassan
 
 * * *
 
-Tunisia’s President Holds Forth on Freedoms After Seizing Power
+Britain Rethinks Letting China Enter Its Nuclear Power Industry
 ---------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/01/world/middleeast/tunisia-president-kais-saied.html)
+[Article here](https://www.nytimes.com/2021/08/02/business/great-britain-china-nuclear-power.html)
 
-[![](https://static01.nyt.com/images/2021/07/31/world/31tunisia-01/merlin_191602941_9ea96c1b-892e-4f5c-957e-c6ff7a22becf-superJumbo.jpg)](https://www.nytimes.com/2021/08/01/world/middleeast/tunisia-president-kais-saied.html)
+[![](https://static01.nyt.com/images/2021/08/03/business/00UKnuclear-1/merlin_192441987_53e5a290-8c48-4a30-b616-31b80caf9e40-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/business/great-britain-china-nuclear-power.html)
 
-“‘Why do you think that, at 67, I would start a career as a dictator?’” President Kais Saied said in a meeting with The New York Times, quoting Charles de Gaulle. He vowed to preserve hard-fought rights.
+Financing and security issues are clouding new power station projects.
 
-By Vivian Yee
+By Stanley Reed
 
 * * *
 
