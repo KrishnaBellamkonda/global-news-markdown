@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Florida may face its worst wave ever as the Delta variant spreads.
-------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the With #MeToo Case, China Takes a Swipe at Celebrity Obsession
+------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/02/world/florida-covid-cases.html)
+[Article here](https://www.nytimes.com/2021/08/02/world/asia/china-metoo-kris-wu.html)
 
-[![](https://static01.nyt.com/images/2021/08/02/world/02virus-briefing-florida-delta-sub/02virus-briefing-florida-delta-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/world/florida-covid-cases.html)
+[![](https://static01.nyt.com/images/2021/08/02/world/02china-metoo-01/merlin_192244299_aafd3879-fc02-40b7-a0ac-6a86fbb3720f-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/world/asia/china-metoo-kris-wu.html)
 
-The state is about a month away from its peak, according to an epidemiologist who tracks the virus there.
+The detention of Kris Wu, a popular Canadian singer, has been hailed as a rare victory for the movement. But Beijing, wary of social activism, has cast it as a warning to celebrities.
 
-By Adeel Hassan
-
-* * *
+By Amy Qin and Elsie Chen
 
 * * *
 
-Britain Rethinks Letting China Enter Its Nuclear Power Industry
----------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/02/business/great-britain-china-nuclear-power.html)
+California’s Pandemic Recall
+----------------------------
 
-[![](https://static01.nyt.com/images/2021/08/03/business/00UKnuclear-1/merlin_192441987_53e5a290-8c48-4a30-b616-31b80caf9e40-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/business/great-britain-china-nuclear-power.html)
+[Article here](https://www.nytimes.com/2021/08/03/briefing/california-recall-election-gavin-newsom.html)
 
-Financing and security issues are clouding new power station projects.
+[![](https://static01.nyt.com/images/2021/08/03/lens/03ambriefing-promo/03ambriefing-newsom-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/03/briefing/california-recall-election-gavin-newsom.html)
 
-By Stanley Reed
+Californians will soon vote on whether to recall their Democratic governor. Could he lose?
+
+By Jennifer Medina
 
 * * *
 
