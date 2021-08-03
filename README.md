@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Lynn C. Franklin, Literary Agent and Memoirist on Adoption, Dies at 74
-----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Florida may face its worst wave ever as Delta variant spreads.
+--------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/02/books/lynn-franklin-dead.html)
+[Article here](https://www.nytimes.com/2021/08/02/world/florida-covid-cases.html)
 
-[![](https://static01.nyt.com/images/2021/08/03/obituaries/29Franklin1/29Franklin1-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/books/lynn-franklin-dead.html)
+[![](https://static01.nyt.com/images/2021/08/02/world/02virus-briefing-florida-delta-pediatric-cases/merlin_191980698_3ec858a6-03a9-42c1-9686-495390d2c143-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/world/florida-covid-cases.html)
 
-She represented Desmond Tutu and Deepak Chopra, but the book closest to her was the one she wrote about giving up her baby and then reuniting with him.
+The state is about a month away from its peak, according to an epidemiologist who tracks the virus there.
 
-By Katharine Q. Seelye
-
-* * *
+By Adeel Hassan
 
 * * *
 
-Your Monday Briefing
---------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/01/briefing/afghanistan-withdrawal-olympics-gymnastics-tunisia.html)
+Tunisia’s President Holds Forth on Freedoms After Seizing Power
+---------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/31/world/02ambriefing-aus-nl-PROMO/02ambriefing-aus-nl-AFGHAN-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/01/briefing/afghanistan-withdrawal-olympics-gymnastics-tunisia.html)
+[Article here](https://www.nytimes.com/2021/08/01/world/middleeast/tunisia-president-kais-saied.html)
 
-Afghans are fleeing the Taliban advance.
+[![](https://static01.nyt.com/images/2021/07/31/world/31tunisia-01/merlin_191602941_9ea96c1b-892e-4f5c-957e-c6ff7a22becf-superJumbo.jpg)](https://www.nytimes.com/2021/08/01/world/middleeast/tunisia-president-kais-saied.html)
 
-By Melina Delkic
+“‘Why do you think that, at 67, I would start a career as a dictator?’” President Kais Saied said in a meeting with The New York Times, quoting Charles de Gaulle. He vowed to preserve hard-fought rights.
+
+By Vivian Yee
 
 * * *
 
