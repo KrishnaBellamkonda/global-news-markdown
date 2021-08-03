@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the 12-Hour Days, Six Days a Week
------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Lynn C. Franklin, Literary Agent and Memoirist on Adoption, Dies at 74
+----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/02/briefing/china-economy-gig-workers.html)
+[Article here](https://www.nytimes.com/2021/08/02/books/lynn-franklin-dead.html)
 
-[![](https://static01.nyt.com/images/2021/08/02/lens/02ambriefing-promo/02ambriefing-china01-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/02/briefing/china-economy-gig-workers.html)
+[![](https://static01.nyt.com/images/2021/08/03/obituaries/29Franklin1/29Franklin1-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/books/lynn-franklin-dead.html)
 
-Today, Vivian Wang explains Chinese work culture and the debate around working conditions.
+She represented Desmond Tutu and Deepak Chopra, but the book closest to her was the one she wrote about giving up her baby and then reuniting with him.
 
-By Vivian Wang
-
-* * *
+By Katharine Q. Seelye
 
 * * *
 
-Riots Shatter Veneer of Coexistence in Israel’s Mixed Towns
------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/01/world/middleeast/israel-arabs-jews-palestinians-riots.html)
+Your Monday Briefing
+--------------------
 
-[![](https://static01.nyt.com/images/2021/07/29/world/20Israel-coexistance1/merlin_188918241_3810f6c8-0749-4aa3-b558-44a7a2cfff00-superJumbo.jpg)](https://www.nytimes.com/2021/08/01/world/middleeast/israel-arabs-jews-palestinians-riots.html)
+[Article here](https://www.nytimes.com/2021/08/01/briefing/afghanistan-withdrawal-olympics-gymnastics-tunisia.html)
 
-Israel’s Jewish and Palestinian communities looked past each other until violence and bloodshed forced a reckoning.
+[![](https://static01.nyt.com/images/2021/07/31/world/02ambriefing-aus-nl-PROMO/02ambriefing-aus-nl-AFGHAN-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/01/briefing/afghanistan-withdrawal-olympics-gymnastics-tunisia.html)
 
-By Roger Cohen
+Afghans are fleeing the Taliban advance.
+
+By Melina Delkic
 
 * * *
 
