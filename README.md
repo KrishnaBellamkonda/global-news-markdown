@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Looking for St. Mark’s Square? You May Find Yourself in a Shipyard Instead
---------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the 12-Hour Days, Six Days a Week
+-----------------------------
 
-[Article here](https://www.nytimes.com/2021/08/02/world/europe/italy-venice-tourism-cruise-ships.html)
+[Article here](https://www.nytimes.com/2021/08/02/briefing/china-economy-gig-workers.html)
 
-[![](https://static01.nyt.com/images/2021/08/02/world/02venice-dispatch-01/merlin_192297966_caa96bcd-5ca2-4eea-80f1-724d2781ba69-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/world/europe/italy-venice-tourism-cruise-ships.html)
+[![](https://static01.nyt.com/images/2021/08/02/lens/02ambriefing-promo/02ambriefing-china01-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/02/briefing/china-economy-gig-workers.html)
 
-As Venice’s ban on cruise ships took effect this weekend, some tourists were surprised to be docked hours away from the city’s famous sights.
+Today, Vivian Wang explains Chinese work culture and the debate around working conditions.
 
-By Jason Horowitz
-
-* * *
+By Vivian Wang
 
 * * *
 
-What We Lost That Day
----------------------
+* * *
 
-[Article here](https://www.nytimes.com/interactive/2021/08/01/world/middleeast/beirut-explosion-anniversary.html)
+Demand for shots is increasing in less-vaccinated states under siege from the Delta variant.
+--------------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/01/world/01beirut-anniversary-promo-static/01beirut-anniversary-promo-static-superJumbo.jpg)](https://www.nytimes.com/interactive/2021/08/01/world/middleeast/beirut-explosion-anniversary.html)
+[Article here](https://www.nytimes.com/2021/07/31/world/less-vaccinated-covid-shots.html)
 
-Personal reflections from victims of the Aug. 4, 2020, explosion at the Beirut port.
+[![](https://static01.nyt.com/images/2021/07/31/multimedia/31-virus-briefing-vaccineation-rise/merlin_191732976_90f99669-66be-482f-83e9-69d5db9b774e-superJumbo.jpg)](https://www.nytimes.com/2021/07/31/world/less-vaccinated-covid-shots.html)
 
-By Lina Mounzer, Ben Hubbard, Tala Safie and Mohamad Abdouni
+Data from the C.D.C. shows that many people in states like Louisiana, Mississippi and Missouri are now receiving their first doses. On Friday, more than 850,000 total shots were recorded in the U.S.
+
+By Eduardo Medina
 
 * * *
 
