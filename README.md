@@ -34,16 +34,16 @@ By Vivian Wang
 
 * * *
 
-Demand for shots is increasing in less-vaccinated states under siege from the Delta variant.
---------------------------------------------------------------------------------------------
+Riots Shatter Veneer of Coexistence in Israel’s Mixed Towns
+-----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/07/31/world/less-vaccinated-covid-shots.html)
+[Article here](https://www.nytimes.com/2021/08/01/world/middleeast/israel-arabs-jews-palestinians-riots.html)
 
-[![](https://static01.nyt.com/images/2021/07/31/multimedia/31-virus-briefing-vaccineation-rise/merlin_191732976_90f99669-66be-482f-83e9-69d5db9b774e-superJumbo.jpg)](https://www.nytimes.com/2021/07/31/world/less-vaccinated-covid-shots.html)
+[![](https://static01.nyt.com/images/2021/07/29/world/20Israel-coexistance1/merlin_188918241_3810f6c8-0749-4aa3-b558-44a7a2cfff00-superJumbo.jpg)](https://www.nytimes.com/2021/08/01/world/middleeast/israel-arabs-jews-palestinians-riots.html)
 
-Data from the C.D.C. shows that many people in states like Louisiana, Mississippi and Missouri are now receiving their first doses. On Friday, more than 850,000 total shots were recorded in the U.S.
+Israel’s Jewish and Palestinian communities looked past each other until violence and bloodshed forced a reckoning.
 
-By Eduardo Medina
+By Roger Cohen
 
 * * *
 
