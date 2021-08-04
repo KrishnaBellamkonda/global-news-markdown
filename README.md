@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Florida may face its worst wave ever as the Delta variant spreads.
-------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The U.S. finally hits Biden’s self-imposed goal of 70 percent of adults partly vaccinated four weeks late.
+----------------------------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/02/world/florida-covid-cases.html)
+[Article here](https://www.nytimes.com/2021/08/02/world/covid-vaccination-goal-70-percent.html)
 
-[![](https://static01.nyt.com/images/2021/08/02/world/02virus-briefing-florida-delta-sub/02virus-briefing-florida-delta-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/world/florida-covid-cases.html)
+[![](https://static01.nyt.com/images/2021/08/02/world/02virus-briefing-whitehouse-vaccination-goal/merlin_191986818_44572b53-4613-452a-926a-80b1fda24f07-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/world/covid-vaccination-goal-70-percent.html)
 
-The state is about a month away from its peak, according to an epidemiologist who tracks the virus there.
+States with low vaccination rates are seeing more people seeking out the shots as the Delta variant creates a new wave of cases.
 
-By Adeel Hassan
-
-* * *
+By Azi Paybarah
 
 * * *
 
-Heat Emergency Brings Record Temperature and Fires to Southern Europe
----------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/03/world/europe/greece-turkey-heat-fires.html)
+Wuhan, where the virus emerged, will test all residents after its first outbreak in over a year.
+------------------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/03/world/03Greece-heatwave1/merlin_192412137_a1378085-2c43-4710-ae69-475ebc975e12-superJumbo.jpg)](https://www.nytimes.com/2021/08/03/world/europe/greece-turkey-heat-fires.html)
+[Article here](https://www.nytimes.com/2021/08/03/world/wuhan-china-covid-new-cases.html)
 
-Greece experienced its hottest day on record this week, and wildfires raged across the region, leaving much of Southern Europe struggling to cope.
+[![](https://static01.nyt.com/images/2021/08/03/world/03virus-briefing-wuhan/merlin_192512634_aaa909d3-3201-4f93-87c1-3df3d0469640-superJumbo.jpg)](https://www.nytimes.com/2021/08/03/world/wuhan-china-covid-new-cases.html)
 
-By Niki Kitsantonis
+The city in central China that endured the pandemic’s first lockdown has found its first signs of local transmission since May 2020.
+
+By Vivian Wang
 
 * * *
 
