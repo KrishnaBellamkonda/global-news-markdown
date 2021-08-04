@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Lynn C. Franklin, Literary Agent and Memoirist on Adoption, Dies at 74
-----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Wednesday Briefing
+-----------------------
 
-[Article here](https://www.nytimes.com/2021/08/02/books/lynn-franklin-dead.html)
+[Article here](https://www.nytimes.com/2021/08/04/briefing/delta-variant-cuomo-climate.html)
 
-[![](https://static01.nyt.com/images/2021/08/03/obituaries/29Franklin1/29Franklin1-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/books/lynn-franklin-dead.html)
+[![](https://static01.nyt.com/images/2021/08/04/us/04europe-briefing-nl-lede-2-promo/merlin_187506714_19ebdaa7-de9a-4e97-a2d6-8fc00c0802b5-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/briefing/delta-variant-cuomo-climate.html)
 
-She represented Desmond Tutu and Deepak Chopra, but the book closest to her was the one she wrote about giving up her baby and then reuniting with him.
+Young adults and the virus.
 
-By Katharine Q. Seelye
-
-* * *
+By Victoria Shannon
 
 * * *
 
-Touring Trinity, the Birthplace of Nuclear Dread
-------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/03/science/trinity-site-atomic-fat-man.html)
+Your Tuesday Briefing
+---------------------
 
-[![](https://static01.nyt.com/images/2021/08/03/science/02SCI-TRINITY1/02SCI-TRINITY1-superJumbo.jpg)](https://www.nytimes.com/2021/08/03/science/trinity-site-atomic-fat-man.html)
+[Article here](https://www.nytimes.com/2021/08/02/briefing/germany-booster-vaccines-worker-shortages.html)
 
-A recent visit to the site of the first atomic bomb explosion offered desert vistas, (mildly) radioactive pebbles and troubling reflections.
+[![](https://static01.nyt.com/images/2021/08/03/us/03ambriefing-europe/03ambriefing-europe--superJumbo.jpg)](https://www.nytimes.com/2021/08/02/briefing/germany-booster-vaccines-worker-shortages.html)
 
-By Dennis Overbye
+Germany moves ahead on booster vaccinations.
+
+By Victoria Shannon
 
 * * *
 
