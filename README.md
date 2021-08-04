@@ -19,16 +19,16 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Wednesday Briefing
------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Tensions Flare Again Along Israel-Lebanon Border
+------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/briefing/delta-variant-cuomo-climate.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/middleeast/israel-lebanon-tensions.html)
 
-[![](https://static01.nyt.com/images/2021/08/04/us/04europe-briefing-nl-lede-2-promo/merlin_187506714_19ebdaa7-de9a-4e97-a2d6-8fc00c0802b5-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/briefing/delta-variant-cuomo-climate.html)
+[![](https://static01.nyt.com/images/2021/08/04/world/04Israel-Lebanon-01/merlin_192635589_f9d32781-cead-474d-9f9b-badc1eadd284-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/middleeast/israel-lebanon-tensions.html)
 
-Young adults and the virus.
+Militants in Lebanon fired rockets at Israel, which retaliated with artillery fire. Amid rising frictions in the region, Israeli officials hinted they would respond forcefully to recent escalations linked to Iran.
 
-By Victoria Shannon
+By Patrick Kingsley
 
 * * *
 
