@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Wednesday Briefing
------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Assassination Mastermind May Still Be at Large, Haiti’s Caretaker Leader Says
+-----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/briefing/delta-variant-cuomo-climate.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/americas/haiti-assassination-prime-minister-ariel-henry.html)
 
-[![](https://static01.nyt.com/images/2021/08/04/us/04europe-briefing-nl-lede-2-promo/merlin_187506714_19ebdaa7-de9a-4e97-a2d6-8fc00c0802b5-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/briefing/delta-variant-cuomo-climate.html)
+[![](https://static01.nyt.com/images/2021/08/04/world/04haiti/merlin_192576513_8ed048c0-b9e4-459e-a4b1-10832d99c5b2-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/americas/haiti-assassination-prime-minister-ariel-henry.html)
 
-Young adults and the virus.
+Prime Minister Ariel Henry says he believes that none of the more than 40 people detained in the killing of President Jovenel Moïse have the capacity to organize the complex plot.
 
-By Victoria Shannon
-
-* * *
+By Anatoly Kurmanaev
 
 * * *
 
-Your Tuesday Briefing
----------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/02/briefing/germany-booster-vaccines-worker-shortages.html)
+Belarus Sprinter Becomes an Unlikely Dissident
+----------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/03/us/03ambriefing-europe/03ambriefing-europe--superJumbo.jpg)](https://www.nytimes.com/2021/08/02/briefing/germany-booster-vaccines-worker-shortages.html)
+[Article here](https://www.nytimes.com/2021/08/03/world/europe/kristina-timanovskaya-belarus-interview.html)
 
-Germany moves ahead on booster vaccinations.
+[![](https://static01.nyt.com/images/2021/08/03/world/03belarus-sprinter2/merlin_192338646_ce222495-aaf5-4e25-9774-a1efe59dc8eb-superJumbo.jpg)](https://www.nytimes.com/2021/08/03/world/europe/kristina-timanovskaya-belarus-interview.html)
 
-By Victoria Shannon
+An Instagram complaint against her coaches embroiled Kristina Timanovskaya in the precarious politics of her home country, and may force her into asylum.
+
+By Valerie Hopkins and Tariq Panja
 
 * * *
 
