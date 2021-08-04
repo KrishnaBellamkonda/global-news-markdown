@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Offspring’s drummer says he was dropped from the band over being unvaccinated.
-----------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Wednesday Briefing
+-----------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/arts/music/offspring-drummer-coronavirus-vaccine.html)
+[Article here](https://www.nytimes.com/2021/08/04/briefing/delta-variant-cuomo-climate.html)
 
-[![](https://static01.nyt.com/images/2021/08/05/world/04virus-briefing-offspring-drummer/merlin_192634653_10eac6d2-50e5-4ed1-9e71-306fc61ceffa-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/arts/music/offspring-drummer-coronavirus-vaccine.html)
+[![](https://static01.nyt.com/images/2021/08/04/us/04europe-briefing-nl-lede-2-promo/merlin_187506714_19ebdaa7-de9a-4e97-a2d6-8fc00c0802b5-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/briefing/delta-variant-cuomo-climate.html)
 
-“It has recently been decided that I am unsafe to be around, in the studio, and on tour,” Pete Parada said, citing medical reasons for not getting vaccinated.
+Young adults and the virus.
 
-By Derrick Bryson Taylor
-
-* * *
+By Victoria Shannon
 
 * * *
 
-xWuhan, where the virus emerged, will test all residents after its first outbreak in over a year.
--------------------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/03/world/wuhan-china-covid-new-cases.html)
+As Hikers Vanish, These Mountains Hold Tight to Their Mysteries
+---------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/03/world/03virus-briefing-wuhan/merlin_192512634_aaa909d3-3201-4f93-87c1-3df3d0469640-superJumbo.jpg)](https://www.nytimes.com/2021/08/03/world/wuhan-china-covid-new-cases.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/asia/wonnangatta-valley-disappearances.html)
 
-The city in central China that endured the pandemic’s first lockdown has found its first signs of local transmission since May 2020.
+[![](https://static01.nyt.com/images/2021/08/04/world/04oz-disappearances-promo/00oz-disappearances1-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/asia/wonnangatta-valley-disappearances.html)
 
-By Vivian Wang
+The high country of southern Australia is “remote and beautiful and unpredictable,” a place where visitors can be swallowed up without a sound.
+
+By Yan Zhuang and Asanka Brendon Ratnayake
 
 * * *
 
