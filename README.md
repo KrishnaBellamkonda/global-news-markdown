@@ -19,27 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Australia’s largest airline temporarily lays off 2,500 employees.
------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Lynn C. Franklin, Literary Agent and Memoirist on Adoption, Dies at 74
+----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/03/world/australias-largest-airline-temporarily-lays-off-2500-employees.html)
+[Article here](https://www.nytimes.com/2021/08/02/books/lynn-franklin-dead.html)
 
-[![](https://static01.nyt.com/images/2021/08/03/world/03virus-briefing-australia/03virus-briefing-australia-superJumbo.jpg)](https://www.nytimes.com/2021/08/03/world/australias-largest-airline-temporarily-lays-off-2500-employees.html)
+[![](https://static01.nyt.com/images/2021/08/03/obituaries/29Franklin1/29Franklin1-superJumbo.jpg)](https://www.nytimes.com/2021/08/02/books/lynn-franklin-dead.html)
 
-By Livia Albeck-Ripka, Yu Young Jin, Monika Pronczuk and Kaly Soto
+She represented Desmond Tutu and Deepak Chopra, but the book closest to her was the one she wrote about giving up her baby and then reuniting with him.
+
+By Katharine Q. Seelye
 
 * * *
 
 * * *
 
-An Indian city says it has fully vaccinated every eligible adult who lives there.
----------------------------------------------------------------------------------
+Touring Trinity, the Birthplace of Nuclear Dread
+------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/03/world/an-indian-city-says-it-has-fully-vaccinated-every-eligible-adult-who-lives-there.html)
+[Article here](https://www.nytimes.com/2021/08/03/science/trinity-site-atomic-fat-man.html)
 
-[![](https://static01.nyt.com/images/2021/08/02/us/politics/02virus-briefing-india/02virus-briefing-india-superJumbo.jpg)](https://www.nytimes.com/2021/08/03/world/an-indian-city-says-it-has-fully-vaccinated-every-eligible-adult-who-lives-there.html)
+[![](https://static01.nyt.com/images/2021/08/03/science/02SCI-TRINITY1/02SCI-TRINITY1-superJumbo.jpg)](https://www.nytimes.com/2021/08/03/science/trinity-site-atomic-fat-man.html)
 
-By Suhasini Raj
+A recent visit to the site of the first atomic bomb explosion offered desert vistas, (mildly) radioactive pebbles and troubling reflections.
+
+By Dennis Overbye
 
 * * *
 
