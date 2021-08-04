@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Assassination Mastermind May Still Be at Large, Haiti’s Caretaker Leader Says
------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As Hikers Vanish, These Mountains Hold Tight to Their Mysteries
+---------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/world/americas/haiti-assassination-prime-minister-ariel-henry.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/asia/wonnangatta-valley-disappearances.html)
 
-[![](https://static01.nyt.com/images/2021/08/04/world/04haiti/merlin_192576513_8ed048c0-b9e4-459e-a4b1-10832d99c5b2-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/americas/haiti-assassination-prime-minister-ariel-henry.html)
+[![](https://static01.nyt.com/images/2021/08/04/world/04oz-disappearances-promo/00oz-disappearances1-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/asia/wonnangatta-valley-disappearances.html)
 
-Prime Minister Ariel Henry says he believes that none of the more than 40 people detained in the killing of President Jovenel Moïse have the capacity to organize the complex plot.
+The high country of southern Australia is “remote and beautiful and unpredictable,” a place where visitors can be swallowed up without a sound.
 
-By Anatoly Kurmanaev
-
-* * *
+By Yan Zhuang and Asanka Brendon Ratnayake
 
 * * *
 
-Belarus Sprinter Becomes an Unlikely Dissident
-----------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/03/world/europe/kristina-timanovskaya-belarus-interview.html)
+Heat Emergency Brings Record Temperature and Fires to Southern Europe
+---------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/03/world/03belarus-sprinter2/merlin_192338646_ce222495-aaf5-4e25-9774-a1efe59dc8eb-superJumbo.jpg)](https://www.nytimes.com/2021/08/03/world/europe/kristina-timanovskaya-belarus-interview.html)
+[Article here](https://www.nytimes.com/2021/08/03/world/europe/greece-turkey-heat-fires.html)
 
-An Instagram complaint against her coaches embroiled Kristina Timanovskaya in the precarious politics of her home country, and may force her into asylum.
+[![](https://static01.nyt.com/images/2021/08/03/world/03Greece-heatwave1/merlin_192412137_a1378085-2c43-4710-ae69-475ebc975e12-superJumbo.jpg)](https://www.nytimes.com/2021/08/03/world/europe/greece-turkey-heat-fires.html)
 
-By Valerie Hopkins and Tariq Panja
+Greece experienced its hottest day on record this week, and wildfires raged across the region, leaving much of Southern Europe struggling to cope.
+
+By Niki Kitsantonis
 
 * * *
 
