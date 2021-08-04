@@ -19,29 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Australia’s largest airline temporarily lays off 2,500 employees.
------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Israel will add more countries, including the U.S., to its quarantine list.
+---------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/03/world/australias-largest-airline-temporarily-lays-off-2500-employees.html)
+[Article here](https://www.nytimes.com/2021/08/03/world/israel-will-add-more-countries-including-the-us-to-its-quarantine-list.html)
 
-[![](https://static01.nyt.com/images/2021/08/03/world/03virus-briefing-australia/03virus-briefing-australia-superJumbo.jpg)](https://www.nytimes.com/2021/08/03/world/australias-largest-airline-temporarily-lays-off-2500-employees.html)
+[![](https://static01.nyt.com/images/2021/08/03/lens/03virus-briefing-israel-quarantine1/merlin_190550487_a4ce98f6-54df-4df7-93f1-a872b140efb0-superJumbo.jpg)](https://www.nytimes.com/2021/08/03/world/israel-will-add-more-countries-including-the-us-to-its-quarantine-list.html)
 
-By Livia Albeck-Ripka, Yu Young Jin, Monika Pronczuk and Kaly Soto
-
-* * *
+By Patrick Kingsley and Gabby Sobelman
 
 * * *
 
-Outside the Olympic Cocoon, a Tokyo Abuzz Only With Cicadas
------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/03/world/asia/tokyo-olympics-host-city.html)
+As Hikers Vanish, These Mountains Hold Tight to Their Mysteries
+---------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/03/world/03olympics-dispatch-7/merlin_192496740_d8eaa27b-a30f-449a-8fb2-909863b9f626-superJumbo.jpg)](https://www.nytimes.com/2021/08/03/world/asia/tokyo-olympics-host-city.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/asia/wonnangatta-valley-disappearances.html)
 
-The sequestered Games have left the host city feeling like anything but.
+[![](https://static01.nyt.com/images/2021/08/04/world/04oz-disappearances-promo/00oz-disappearances1-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/asia/wonnangatta-valley-disappearances.html)
 
-By Hannah Beech
+The high country of southern Australia is “remote and beautiful and unpredictable,” a place where visitors can be swallowed up without a sound.
+
+By Yan Zhuang and Asanka Brendon Ratnayake
 
 * * *
 
