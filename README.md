@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As Hikers Vanish, These Mountains Hold Tight to Their Mysteries
----------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Australia’s largest airline temporarily lays off 2,500 employees.
+-----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/world/asia/wonnangatta-valley-disappearances.html)
+[Article here](https://www.nytimes.com/2021/08/03/world/australias-largest-airline-temporarily-lays-off-2500-employees.html)
 
-[![](https://static01.nyt.com/images/2021/08/04/world/04oz-disappearances-promo/00oz-disappearances1-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/asia/wonnangatta-valley-disappearances.html)
+[![](https://static01.nyt.com/images/2021/08/03/world/03virus-briefing-australia/03virus-briefing-australia-superJumbo.jpg)](https://www.nytimes.com/2021/08/03/world/australias-largest-airline-temporarily-lays-off-2500-employees.html)
 
-The high country of southern Australia is “remote and beautiful and unpredictable,” a place where visitors can be swallowed up without a sound.
-
-By Yan Zhuang and Asanka Brendon Ratnayake
+By Livia Albeck-Ripka, Yu Young Jin, Monika Pronczuk and Kaly Soto
 
 * * *
 
 * * *
 
-Heat Emergency Brings Record Temperature and Fires to Southern Europe
----------------------------------------------------------------------
+Outside the Olympic Cocoon, a Tokyo Abuzz Only With Cicadas
+-----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/03/world/europe/greece-turkey-heat-fires.html)
+[Article here](https://www.nytimes.com/2021/08/03/world/asia/tokyo-olympics-host-city.html)
 
-[![](https://static01.nyt.com/images/2021/08/03/world/03Greece-heatwave1/merlin_192412137_a1378085-2c43-4710-ae69-475ebc975e12-superJumbo.jpg)](https://www.nytimes.com/2021/08/03/world/europe/greece-turkey-heat-fires.html)
+[![](https://static01.nyt.com/images/2021/08/03/world/03olympics-dispatch-7/merlin_192496740_d8eaa27b-a30f-449a-8fb2-909863b9f626-superJumbo.jpg)](https://www.nytimes.com/2021/08/03/world/asia/tokyo-olympics-host-city.html)
 
-Greece experienced its hottest day on record this week, and wildfires raged across the region, leaving much of Southern Europe struggling to cope.
+The sequestered Games have left the host city feeling like anything but.
 
-By Niki Kitsantonis
+By Hannah Beech
 
 * * *
 
