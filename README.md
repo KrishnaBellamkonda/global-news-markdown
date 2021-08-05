@@ -19,29 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taliban Claim Responsibility for Major Attack in Afghan Capital
----------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The W.H.O. urges wealthy countries to halt booster shots and send more doses to poorer nations.
+-----------------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/world/asia/afghanistan-kabul-taliban-attack.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/who-covid-vaccine-boosters.html)
 
-[![](https://static01.nyt.com/images/2021/08/04/world/04afghanistan-attack01/merlin_192616680_d610c5b9-7b9b-46a8-a8e1-d8cd4400f4ab-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/asia/afghanistan-kabul-taliban-attack.html)
+[![](https://static01.nyt.com/images/2021/08/04/lens/04virus-briefing-WHO-booster-moratorium1/merlin_188250390_a71e4108-31f9-43f5-95e1-9bb17d41ac11-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/who-covid-vaccine-boosters.html)
 
-The hourslong raid, which killed eight people, targeted a top military official’s home near Kabul’s fortified green zone.
+The moratorium, which the agency asked for until the end of September, is an appeal to the world’s wealthiest nations to address dramatic disparities in global vaccination rates.
 
-By Christina Goldbaum
-
-* * *
+By Isabella Kwai, Benjamin Mueller, Daniel E. Slotnik and Adeel Hassan
 
 * * *
 
-As Wall Street workers return to the office, longstanding dress codes ease up.
-------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/04/world/as-wall-street-workers-return-to-the-office-longstanding-dress-codes-ease-up.html)
+China grapples with its worst outbreak in a year.
+-------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/02/world/02virus-briefing-business-casual-SWAP/merlin_192099159_1b24bc30-0d90-41c5-917d-bbca562734d3-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/as-wall-street-workers-return-to-the-office-longstanding-dress-codes-ease-up.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/china-grapples-with-its-worst-outbreak-in-a-year.html)
 
-By Lananh Nguyen and Melodie Jeng
+[![](https://static01.nyt.com/images/2021/08/04/world/04virus-briefing-virus-china/merlin_192614649_ee25fdee-eff8-4c1e-8fc2-9af1c3729fb5-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/china-grapples-with-its-worst-outbreak-in-a-year.html)
+
+By Sui-Lee Wee and Elsie Chen
 
 * * *
 
