@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Turks Wage War on Social Media as Raging Fires Turn Political
--------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Moderna says its vaccine’s protection holds through six months.
+---------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/world/europe/turkey-fires-erdogan-anger.html)
+[Article here](https://www.nytimes.com/2021/08/05/world/moderna-vaccine-efficacy.html)
 
-[![](https://static01.nyt.com/images/2021/08/04/world/04turkey-wildfires/merlin_192447336_13fb3363-432b-4377-9ba2-daf2d0b71f80-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/europe/turkey-fires-erdogan-anger.html)
+[![](https://static01.nyt.com/images/2021/08/05/world/05virus-briefing-moderna/merlin_186008010_5e99c721-94e2-4247-b8da-91d367ac6a43-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/moderna-vaccine-efficacy.html)
 
-President Recep Tayyip Erdogan has come under a concerted attack by his opponents over his handling of the worst forest fires in decades.
+The company said that it expected boosters would be needed before winter because of the Delta variant, but some experts disagree.
 
-By Carlotta Gall
-
-* * *
+By Carl Zimmer and Sharon LaFraniere
 
 * * *
 
-Mexico Sues Gun Companies in U.S., Accusing Them of Fueling Violence
---------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/04/world/americas/mexico-lawsuit-gun-companies.html)
+The Booster Question
+--------------------
 
-[![](https://static01.nyt.com/images/2021/08/04/world/04mexico-guns1/merlin_136429227_bdd88ba3-2261-4fea-af8c-5fda3d2fd716-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/americas/mexico-lawsuit-gun-companies.html)
+[Article here](https://www.nytimes.com/2021/08/04/briefing/booster-shots-pfizer-covid-vaccine.html)
 
-The government accuses gun makers and suppliers of knowingly flooding the market with firearms attractive to drug cartels.
+[![](https://static01.nyt.com/images/2021/08/04/lens/04ambriefing-promo/04ambriefing-booster-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/04/briefing/booster-shots-pfizer-covid-vaccine.html)
 
-By Natalie Kitroeff and Oscar Lopez
+Momentum around booster shots is building in some countries. Does the U.S. need them?
+
+By Claire Moses
 
 * * *
 
