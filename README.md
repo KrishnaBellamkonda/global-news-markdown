@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Turks Wage War on Social Media as Raging Fires Turn Political
--------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Mexico Sues Gun Companies in U.S., Accusing Them of Fueling Violence
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/world/europe/turkey-fires-erdogan-anger.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/americas/mexico-lawsuit-gun-companies.html)
 
-[![](https://static01.nyt.com/images/2021/08/04/world/04turkey-wildfires/merlin_192447336_13fb3363-432b-4377-9ba2-daf2d0b71f80-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/europe/turkey-fires-erdogan-anger.html)
+[![](https://static01.nyt.com/images/2021/08/04/world/04mexico-guns1/merlin_136429227_bdd88ba3-2261-4fea-af8c-5fda3d2fd716-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/americas/mexico-lawsuit-gun-companies.html)
 
-President Recep Tayyip Erdogan has come under a concerted attack by his opponents over his handling of the worst forest fires in decades.
+The government accuses gun makers and suppliers of knowingly flooding the market with firearms attractive to drug cartels.
 
-By Carlotta Gall
-
-* * *
+By Natalie Kitroeff and Oscar Lopez
 
 * * *
 
-Belarus Sprinter’s Defection Sheds Light on a Dictator’s Levers of Control
---------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/04/world/europe/olympics-belarus-sprinters-defection-kristina-timanovskaya-lukashenko.html)
+The F.D.A. could grant full approval to Pfizer’s vaccine by early September.
+----------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/04/world/04belarus-olympics01/merlin_192596367_b834c83f-7ed0-4851-ac0c-ce863571367d-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/europe/olympics-belarus-sprinters-defection-kristina-timanovskaya-lukashenko.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/the-fda-could-grant-full-approval-to-pfizers-vaccine-by-early-september.html)
 
-Aleksandr G. Lukashenko, and authoritarian leaders before him, have used sports as a propaganda tool. But defections have had a long history of puncturing their aura of invincibility.
+[![](https://static01.nyt.com/images/2021/08/03/world/03virus-briefing-fda-approval/03virus-briefing-fda-approval-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/the-fda-could-grant-full-approval-to-pfizers-vaccine-by-early-september.html)
 
-By Valerie Hopkins
+By Sharon LaFraniere and Noah Weiland
 
 * * *
 
