@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Biden administration plans to require most foreign visitors to be vaccinated.
----------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Turks Wage War on Social Media as Raging Fires Turn Political
+-------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/world/the-biden-administration-plans-to-require-most-foreign-visitors-to-be-vaccinated.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/europe/turkey-fires-erdogan-anger.html)
 
-[![](https://static01.nyt.com/images/2021/08/04/us/04virus-briefing-biden-vaccine-requirement/04virus-briefing-biden-vaccine-requirement-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/the-biden-administration-plans-to-require-most-foreign-visitors-to-be-vaccinated.html)
+[![](https://static01.nyt.com/images/2021/08/04/world/04turkey-wildfires/merlin_192447336_13fb3363-432b-4377-9ba2-daf2d0b71f80-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/europe/turkey-fires-erdogan-anger.html)
 
-Officials say the new policy is being readied in the event that the United States eases its travel rules, which isn’t expected soon.
+President Recep Tayyip Erdogan has come under a concerted attack by his opponents over his handling of the worst forest fires in decades.
 
-By Katie Rogers
-
-* * *
+By Carlotta Gall
 
 * * *
 
-As Wall Street workers return to the office, longstanding dress codes ease up.
-------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/04/world/as-wall-street-workers-return-to-the-office-longstanding-dress-codes-ease-up.html)
+Mexico Sues Gun Companies in U.S., Accusing Them of Fueling Violence
+--------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/02/world/02virus-briefing-business-casual-SWAP/merlin_192099159_1b24bc30-0d90-41c5-917d-bbca562734d3-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/as-wall-street-workers-return-to-the-office-longstanding-dress-codes-ease-up.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/americas/mexico-lawsuit-gun-companies.html)
 
-By Lananh Nguyen and Melodie Jeng
+[![](https://static01.nyt.com/images/2021/08/04/world/04mexico-guns1/merlin_136429227_bdd88ba3-2261-4fea-af8c-5fda3d2fd716-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/americas/mexico-lawsuit-gun-companies.html)
+
+The government accuses gun makers and suppliers of knowingly flooding the market with firearms attractive to drug cartels.
+
+By Natalie Kitroeff and Oscar Lopez
 
 * * *
 
