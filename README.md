@@ -19,29 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Mexico Sues Gun Companies in U.S., Accusing Them of Fueling Violence
---------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Most children recover quickly from Covid, but some have lingering symptoms, a study says.
+-----------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/world/americas/mexico-lawsuit-gun-companies.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/most-children-recover-quickly-from-covid-but-some-have-lingering-symptoms-a-study-says.html)
 
-[![](https://static01.nyt.com/images/2021/08/04/world/04mexico-guns1/merlin_136429227_bdd88ba3-2261-4fea-af8c-5fda3d2fd716-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/americas/mexico-lawsuit-gun-companies.html)
+[![](https://static01.nyt.com/images/2021/08/03/lens/03virus-briefing-lancet-kids1/merlin_192283761_34fdb6d9-b23c-45ac-a040-4b433476d451-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/most-children-recover-quickly-from-covid-but-some-have-lingering-symptoms-a-study-says.html)
 
-The government accuses gun makers and suppliers of knowingly flooding the market with firearms attractive to drug cartels.
-
-By Natalie Kitroeff and Oscar Lopez
+By Emily Anthes
 
 * * *
 
 * * *
 
-The F.D.A. could grant full approval to Pfizer’s vaccine by early September.
-----------------------------------------------------------------------------
+Tensions Flare Again Along Israel-Lebanon Border
+------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/world/the-fda-could-grant-full-approval-to-pfizers-vaccine-by-early-september.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/middleeast/israel-lebanon-tensions.html)
 
-[![](https://static01.nyt.com/images/2021/08/03/world/03virus-briefing-fda-approval/03virus-briefing-fda-approval-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/the-fda-could-grant-full-approval-to-pfizers-vaccine-by-early-september.html)
+[![](https://static01.nyt.com/images/2021/08/04/world/04Israel-Lebanon-01/merlin_192635589_f9d32781-cead-474d-9f9b-badc1eadd284-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/middleeast/israel-lebanon-tensions.html)
 
-By Sharon LaFraniere and Noah Weiland
+Militants in Lebanon fired rockets at Israel, which retaliated with artillery fire. Amid rising frictions in the region, Israeli officials hinted they would respond forcefully to recent escalations linked to Iran.
+
+By Patrick Kingsley
 
 * * *
 
