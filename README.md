@@ -19,29 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Most children recover quickly from Covid, but some have lingering symptoms, a study says.
------------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taliban Claim Responsibility for Major Attack in Afghan Capital
+---------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/world/most-children-recover-quickly-from-covid-but-some-have-lingering-symptoms-a-study-says.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/asia/afghanistan-kabul-taliban-attack.html)
 
-[![](https://static01.nyt.com/images/2021/08/03/lens/03virus-briefing-lancet-kids1/merlin_192283761_34fdb6d9-b23c-45ac-a040-4b433476d451-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/most-children-recover-quickly-from-covid-but-some-have-lingering-symptoms-a-study-says.html)
+[![](https://static01.nyt.com/images/2021/08/04/world/04afghanistan-attack01/merlin_192616680_d610c5b9-7b9b-46a8-a8e1-d8cd4400f4ab-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/asia/afghanistan-kabul-taliban-attack.html)
 
-By Emily Anthes
+The hourslong raid, which killed eight people, targeted a top military official’s home near Kabul’s fortified green zone.
+
+By Christina Goldbaum
 
 * * *
 
 * * *
 
-Tensions Flare Again Along Israel-Lebanon Border
-------------------------------------------------
+As Wall Street workers return to the office, longstanding dress codes ease up.
+------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/world/middleeast/israel-lebanon-tensions.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/as-wall-street-workers-return-to-the-office-longstanding-dress-codes-ease-up.html)
 
-[![](https://static01.nyt.com/images/2021/08/04/world/04Israel-Lebanon-01/merlin_192635589_f9d32781-cead-474d-9f9b-badc1eadd284-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/middleeast/israel-lebanon-tensions.html)
+[![](https://static01.nyt.com/images/2021/08/02/world/02virus-briefing-business-casual-SWAP/merlin_192099159_1b24bc30-0d90-41c5-917d-bbca562734d3-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/as-wall-street-workers-return-to-the-office-longstanding-dress-codes-ease-up.html)
 
-Militants in Lebanon fired rockets at Israel, which retaliated with artillery fire. Amid rising frictions in the region, Israeli officials hinted they would respond forcefully to recent escalations linked to Iran.
-
-By Patrick Kingsley
+By Lananh Nguyen and Melodie Jeng
 
 * * *
 
