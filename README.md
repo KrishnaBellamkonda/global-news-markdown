@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the To head off illegal dance parties, Ibiza calls in foreign undercover detectives.
---------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghan War Casualty Report: August 2021
+---------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/05/world/dance-parties-ibiza.html)
+[Article here](https://www.nytimes.com/2021/08/05/world/asia/afghanistan-casualty-report-august.html)
 
-[![](https://static01.nyt.com/images/2021/08/05/lens/05virus-briefing-ibiza/05virus-briefing-ibiza-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/dance-parties-ibiza.html)
+[![](https://static01.nyt.com/images/2021/08/04/world/04afghanistan-attack01-copy/merlin_192616680_d610c5b9-7b9b-46a8-a8e1-d8cd4400f4ab-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/asia/afghanistan-casualty-report-august.html)
 
-The island’s health inspectors and the police are otherwise occupied by other tasks, an official said in explaining the hiring of outsiders.
+At least 115 Afghan security forces and 58 civilians were killed in Afghanistan in the first five days of August.
 
-By Isabella Kwai
-
-* * *
+By Fatima Faizi
 
 * * *
 
-Is Iran’s Supreme Leader Truly Supreme? Yes, but President Is No Mere Figurehead
---------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/05/world/middleeast/iran-president-ebrahim-raisi.html)
+Israel reinstates some virus restrictions to avoid a full lockdown.
+-------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/04/world/00iran-president-explainer1/merlin_192497430_8b3f7c00-4dff-4b74-80b5-de2310fc0cfb-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/middleeast/iran-president-ebrahim-raisi.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/israel-covid-restrictions-lockdown.html)
 
-Iran’s government is neither the democracy it claims nor the monolithic theocracy portrayed by critics. The new president, inaugurated Thursday, has real powers but is subservient to an “ultimate authority.”
+[![](https://static01.nyt.com/images/2021/08/04/lens/04virus-briefing-israel1/merlin_185973186_71de31c9-3364-4d21-806d-a5c6ae22e662-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/israel-covid-restrictions-lockdown.html)
 
-By Rick Gladstone
+Mask-wearing and vaccination requirements will be expanded, travel rules will be tightened and more Israelis will be told to work from home, the government said.
+
+By Isabel Kershner
 
 * * *
 
