@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The W.H.O. urges wealthy countries to halt booster shots and send more doses to poorer nations.
------------------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the To head off illegal dance parties, Ibiza calls in foreign undercover detectives.
+--------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/world/who-covid-vaccine-boosters.html)
+[Article here](https://www.nytimes.com/2021/08/05/world/dance-parties-ibiza.html)
 
-[![](https://static01.nyt.com/images/2021/08/04/lens/04virus-briefing-WHO-booster-moratorium1/merlin_188250390_a71e4108-31f9-43f5-95e1-9bb17d41ac11-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/who-covid-vaccine-boosters.html)
+[![](https://static01.nyt.com/images/2021/08/05/lens/05virus-briefing-ibiza/05virus-briefing-ibiza-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/dance-parties-ibiza.html)
 
-The moratorium, which the agency asked for until the end of September, is an appeal to the world’s wealthiest nations to address dramatic disparities in global vaccination rates.
+The island’s health inspectors and the police are otherwise occupied by other tasks, an official said in explaining the hiring of outsiders.
 
-By Isabella Kwai, Benjamin Mueller, Daniel E. Slotnik and Adeel Hassan
-
-* * *
+By Isabella Kwai
 
 * * *
 
-The Booster Question
---------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/04/briefing/booster-shots-pfizer-covid-vaccine.html)
+Is Iran’s Supreme Leader Truly Supreme? Yes, but President Is No Mere Figurehead
+--------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/04/lens/04ambriefing-promo/04ambriefing-booster-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/04/briefing/booster-shots-pfizer-covid-vaccine.html)
+[Article here](https://www.nytimes.com/2021/08/05/world/middleeast/iran-president-ebrahim-raisi.html)
 
-Momentum around booster shots is building in some countries. Does the U.S. need them?
+[![](https://static01.nyt.com/images/2021/08/04/world/00iran-president-explainer1/merlin_192497430_8b3f7c00-4dff-4b74-80b5-de2310fc0cfb-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/middleeast/iran-president-ebrahim-raisi.html)
 
-By Claire Moses
+Iran’s government is neither the democracy it claims nor the monolithic theocracy portrayed by critics. The new president, inaugurated Thursday, has real powers but is subservient to an “ultimate authority.”
+
+By Rick Gladstone
 
 * * *
 
