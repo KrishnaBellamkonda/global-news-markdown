@@ -19,16 +19,16 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Moderna says its vaccine’s protection holds through six months.
----------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The W.H.O. urges wealthy countries to halt booster shots and send more doses to poorer nations.
+-----------------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/05/world/moderna-vaccine-efficacy.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/who-covid-vaccine-boosters.html)
 
-[![](https://static01.nyt.com/images/2021/08/05/world/05virus-briefing-moderna/merlin_186008010_5e99c721-94e2-4247-b8da-91d367ac6a43-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/moderna-vaccine-efficacy.html)
+[![](https://static01.nyt.com/images/2021/08/04/lens/04virus-briefing-WHO-booster-moratorium1/merlin_188250390_a71e4108-31f9-43f5-95e1-9bb17d41ac11-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/who-covid-vaccine-boosters.html)
 
-The company said that it expected boosters would be needed before winter because of the Delta variant, but some experts disagree.
+The moratorium, which the agency asked for until the end of September, is an appeal to the world’s wealthiest nations to address dramatic disparities in global vaccination rates.
 
-By Carl Zimmer and Sharon LaFraniere
+By Isabella Kwai, Benjamin Mueller, Daniel E. Slotnik and Adeel Hassan
 
 * * *
 
