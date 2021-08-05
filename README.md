@@ -19,29 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The W.H.O. urges wealthy countries to halt booster shots and send more doses to poorer nations.
------------------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Biden administration plans to require most foreign visitors to be vaccinated.
+---------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/world/who-covid-vaccine-boosters.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/the-biden-administration-plans-to-require-most-foreign-visitors-to-be-vaccinated.html)
 
-[![](https://static01.nyt.com/images/2021/08/04/lens/04virus-briefing-WHO-booster-moratorium1/merlin_188250390_a71e4108-31f9-43f5-95e1-9bb17d41ac11-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/who-covid-vaccine-boosters.html)
+[![](https://static01.nyt.com/images/2021/08/04/us/04virus-briefing-biden-vaccine-requirement/04virus-briefing-biden-vaccine-requirement-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/the-biden-administration-plans-to-require-most-foreign-visitors-to-be-vaccinated.html)
 
-The moratorium, which the agency asked for until the end of September, is an appeal to the world’s wealthiest nations to address dramatic disparities in global vaccination rates.
+Officials say the new policy is being readied in the event that the United States eases its travel rules, which isn’t expected soon.
 
-By Isabella Kwai, Benjamin Mueller, Daniel E. Slotnik and Adeel Hassan
-
-* * *
+By Katie Rogers
 
 * * *
 
-China grapples with its worst outbreak in a year.
--------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/04/world/china-grapples-with-its-worst-outbreak-in-a-year.html)
+As Wall Street workers return to the office, longstanding dress codes ease up.
+------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/04/world/04virus-briefing-virus-china/merlin_192614649_ee25fdee-eff8-4c1e-8fc2-9af1c3729fb5-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/china-grapples-with-its-worst-outbreak-in-a-year.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/as-wall-street-workers-return-to-the-office-longstanding-dress-codes-ease-up.html)
 
-By Sui-Lee Wee and Elsie Chen
+[![](https://static01.nyt.com/images/2021/08/02/world/02virus-briefing-business-casual-SWAP/merlin_192099159_1b24bc30-0d90-41c5-917d-bbca562734d3-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/as-wall-street-workers-return-to-the-office-longstanding-dress-codes-ease-up.html)
+
+By Lananh Nguyen and Melodie Jeng
 
 * * *
 
