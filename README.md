@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Abebech Gobena, the ‘Mother Teresa’ of Africa, Dies at 85
----------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the World’s Coronavirus Infection Total Passes Staggering Figure: 200 Million
+-------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/world/africa/abebech-gobena-dead.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/europe/covid-global-cases-200-million.html)
 
-[![](https://static01.nyt.com/images/2021/08/05/obituaries/04Gobena1/merlin_192669246_e6147034-8164-49c0-95b4-6abdd303d212-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/africa/abebech-gobena-dead.html)
+[![](https://static01.nyt.com/images/2021/08/04/world/04virus-200million-top/merlin_185590854_51037946-8a5a-47f7-80ac-e7a4ce516715-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/europe/covid-global-cases-200-million.html)
 
-She created one of Ethiopia’s largest orphanages and through it saved thousands from starvation and disease. She died of complications of Covid-19.
+Vaccines have weakened the link between surging cases and serious illness, but in vaccine-deprived parts of the world, the deadly pattern remains.
 
-By Clay Risen
-
-* * *
+By Marc Santora and Isabella Kwai
 
 * * *
 
-Mexico Sues Gun Companies in U.S., Accusing Them of Fueling Violence
---------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/04/world/americas/mexico-lawsuit-gun-companies.html)
+In Photos: Fires Ravage Southern Europe
+---------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/04/world/04mexico-guns1/merlin_136429227_bdd88ba3-2261-4fea-af8c-5fda3d2fd716-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/americas/mexico-lawsuit-gun-companies.html)
+[Article here](https://www.nytimes.com/2021/08/05/world/europe/southern-europe-wildfires.html)
 
-The government accuses gun makers and suppliers of knowingly flooding the market with firearms attractive to drug cartels.
+[![](https://static01.nyt.com/images/2021/08/05/world/05europe-widlfires-top/merlin_192653265_0cb78113-9629-4b12-b4e8-34d1d490c188-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/europe/southern-europe-wildfires.html)
 
-By Natalie Kitroeff and Oscar Lopez
+From the Greek islands to southern Turkey, extreme heat and dry conditions are driving devastating wildfires that have killed people and threatened homes, ancient heritage sites and tourist havens.
+
+By Niki Kitsantonis and Megan Specia
 
 * * *
 
