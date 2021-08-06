@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Two Belarus coaches are expelled from the Olympics over their treatment of a sprinter.
---------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In Photos: Fires Ravage Southern Europe
+---------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/05/sports/olympics/belarus-coaches-expelled-kristina-timanovskaya-olympics.html)
+[Article here](https://www.nytimes.com/2021/08/05/world/europe/southern-europe-wildfires.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/sports/06olympics-briefing-belarus-coaches/merlin_192678219_85efabaf-7bf1-4a47-ba79-f5c38c4f02d7-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/sports/olympics/belarus-coaches-expelled-kristina-timanovskaya-olympics.html)
+[![](https://static01.nyt.com/images/2021/08/05/world/05europe-widlfires-top/merlin_192653265_0cb78113-9629-4b12-b4e8-34d1d490c188-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/europe/southern-europe-wildfires.html)
 
-The International Olympic Committee said it had expelled the coaches who were involved in the attempt to force the runner home against her will.
+From the Greek islands to southern Turkey, extreme heat and dry conditions are driving devastating wildfires that have killed people and threatened homes, ancient heritage sites and tourist havens.
 
-By Tariq Panja
-
-* * *
+By Niki Kitsantonis and Megan Specia
 
 * * *
 
-Your Friday Briefing
---------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/05/briefing/iran-president-covid-boosters-electric-vehicles.html)
+Europe is winding down its pandemic aid programs. Is it too soon?
+-----------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/06/lens/06ambriefing-aus-nl-iran2-promo/merlin_192795465_418458eb-5a48-4668-9b49-4d80064f4fe7-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/briefing/iran-president-covid-boosters-electric-vehicles.html)
+[Article here](https://www.nytimes.com/2021/08/05/world/europe-is-winding-down-its-pandemic-aid-programs-is-it-too-soon.html)
 
-Iran’s new hard-line president is sworn in.
+[![](https://static01.nyt.com/images/2021/08/05/us/05virus-briefing-eu-pandemic-aid/merlin_188639469_85e6ff0f-eaa1-40a5-a6ce-90c248fd2f58-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/europe-is-winding-down-its-pandemic-aid-programs-is-it-too-soon.html)
 
-By Matthew Cullen
+Governments want vaccinations and a business rebound to carry the economy now, but cutting aid too quickly could create economic aftershocks.
+
+By Liz Alderman
 
 * * *
 
