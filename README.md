@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A New President Takes Office in Iran, Solidifying Hard-Line Control
--------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the An Arkansas judge temporarily blocks the state’s ban on mask mandates.
+----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/05/world/middleeast/iran-president-raisi-inaugurated.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/arkansas-mask-mandate-asa-hutchinson.html)
 
-[![](https://static01.nyt.com/images/2021/08/05/world/05IRAN-TOP/merlin_192793317_bd18e4f6-cea1-4912-8e61-89e17f72ef51-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/middleeast/iran-president-raisi-inaugurated.html)
+[![](https://static01.nyt.com/images/2021/08/06/us/06virus-briefing-arkansas-masks/06virus-briefing-arkansas-masks-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/arkansas-mask-mandate-asa-hutchinson.html)
 
-President Ebrahim Raisi is a protégé of the supreme leader, Ayatollah Ali Khamenei, and his inauguration gives conservatives control of every part of Iran’s government.
+Gov. Asa Hutchinson signed the ban into law in the spring but had been trying to modify it recently in the face of skyrocketing case counts.
 
-By Farnaz Fassihi
-
-* * *
+By Richard Fausset
 
 * * *
 
-Australian Man to Be Charged in Parliament House Rape Case
-----------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/06/world/australia/brittany-higgins-rape-parliament.html)
+Otelo Saraiva de Carvalho, 84, Dies; Key Figure in Portugal Revolt
+------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06oz-rape/06oz-rape-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/australia/brittany-higgins-rape-parliament.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/europe/otelo-saraiva-de-carvalho-dead.html)
 
-Brittany Higgins had sent shock waves through the country when she said she was attacked by a co-worker in 2019.
+[![](https://static01.nyt.com/images/2021/08/04/obituaries/04deCarvalho1/04deCarvalho1-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/europe/otelo-saraiva-de-carvalho-dead.html)
 
-By Yan Zhuang
+He became a national hero in the 1974 “Carnation Revolution,” which ousted a dictatorship. But he later landed in prison for links to a terrorist group.
+
+By Raphael Minder
 
 * * *
 
