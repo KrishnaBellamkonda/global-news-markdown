@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As Taliban Advance, Biden Officials Cling to Hope for Afghan Peace
-------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
+--------------------
 
-[Article here](https://www.nytimes.com/2021/08/05/us/politics/taliban-afghanistan-peace-deal.html)
+[Article here](https://www.nytimes.com/2021/08/05/briefing/iran-president-greek-fires-olympics.html)
 
-[![](https://static01.nyt.com/images/2021/08/05/us/politics/05dc-afghan-peace1/merlin_192778437_d6e0c2a3-8daa-48af-86f8-816b8d2399e1-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/us/politics/taliban-afghanistan-peace-deal.html)
+[![](https://static01.nyt.com/images/2021/08/05/world/06am-briefing-iran/merlin_192793317_bd18e4f6-cea1-4912-8e61-89e17f72ef51-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/briefing/iran-president-greek-fires-olympics.html)
 
-Taliban leaders and Afghan government negotiators still occasionally meet. But U.S. officials say prospects for a negotiated outcome appear to be fading fast.
+Iran inaugurates a new president.
 
-By Michael Crowley
-
-* * *
+By Whet Moser
 
 * * *
 
-In Qatar, the Olympic Team (Like Much Else) Is Mostly Imported
---------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/06/world/asia/qatar-olympics-athletes.html)
+China says it will provide 2 billion vaccine doses to the world.
+----------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06olympics-qatar-1/merlin_191228517_d7fe57f0-3084-4d5c-8457-0acc29576d31-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/asia/qatar-olympics-athletes.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/china-vaccine-donations-2-billion.html)
 
-The small Gulf country, most of whose residents are foreign workers, has looked beyond its borders for athletes, too.
+[![](https://static01.nyt.com/images/2021/08/06/world/06virus-briefing-china-donate/merlin_191663148_753aa699-6aee-4cb2-b65f-85402ff2b7a5-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/china-vaccine-donations-2-billion.html)
 
-By Hannah Beech
+The pledge, which included a $100 million donation to Covax, intensifies competition with the U.S. over leadership in ending the pandemic.
+
+By Sui-Lee Wee
 
 * * *
 
