@@ -19,16 +19,16 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Thursday Briefing
-----------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Abebech Gobena, the ‘Mother Teresa’ of Africa, Dies at 85
+---------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/briefing/china-lockdown-olympics-belarus-greece.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/africa/abebech-gobena-dead.html)
 
-[![](https://static01.nyt.com/images/2021/08/04/world/05ambriefing-aus-nl-china-promo/05ambriefing-aus-nl-china-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/04/briefing/china-lockdown-olympics-belarus-greece.html)
+[![](https://static01.nyt.com/images/2021/08/05/obituaries/04Gobena1/merlin_192669246_e6147034-8164-49c0-95b4-6abdd303d212-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/africa/abebech-gobena-dead.html)
 
-Delta puts China to the test.
+She created one of Ethiopia’s largest orphanages and through it saved thousands from starvation and disease. She died of complications of Covid-19.
 
-By Melina Delkic and Matthew Cullen
+By Clay Risen
 
 * * *
 
