@@ -19,7 +19,22 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghan War Casualty Report: August 2021
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Boston’s mayor draws sharp criticism for condemning so-called vaccine passports.
+--------------------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/05/world/boston-mayor-janey-vaccine-passport.html)
+
+[![](https://static01.nyt.com/images/2021/08/05/lens/05virus-briefing-boston-mayor-mandates/merlin_191049963_ade29cc9-e725-4dbd-be2e-7ac028c522a9-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/boston-mayor-janey-vaccine-passport.html)
+
+Kim Janey, the city’s acting mayor, walked back a comparison to slavery-era laws, but maintained that policies requiring proof of vaccination would unduly burden Black and Hispanic people.
+
+By Ellen Barry
+
+* * *
+
+* * *
+
+Afghan War Casualty Report: August 2021
 ---------------------------------------
 
 [Article here](https://www.nytimes.com/2021/08/05/world/asia/afghanistan-casualty-report-august.html)
@@ -29,21 +44,6 @@ Come back in a few hours and seeif the news section has changed! (Is it too long
 At least 115 Afghan security forces and 58 civilians were killed in Afghanistan in the first five days of August.
 
 By Fatima Faizi
-
-* * *
-
-* * *
-
-Israel reinstates some virus restrictions to avoid a full lockdown.
--------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/04/world/israel-covid-restrictions-lockdown.html)
-
-[![](https://static01.nyt.com/images/2021/08/04/lens/04virus-briefing-israel1/merlin_185973186_71de31c9-3364-4d21-806d-a5c6ae22e662-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/israel-covid-restrictions-lockdown.html)
-
-Mask-wearing and vaccination requirements will be expanded, travel rules will be tightened and more Israelis will be told to work from home, the government said.
-
-By Isabel Kershner
 
 * * *
 
