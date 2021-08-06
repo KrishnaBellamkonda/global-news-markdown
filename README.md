@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
---------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Australian Man to Be Charged in Parliament House Rape Case
+----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/05/briefing/iran-president-greek-fires-olympics.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/australia/brittany-higgins-rape-parliament.html)
 
-[![](https://static01.nyt.com/images/2021/08/05/world/06am-briefing-iran/merlin_192793317_bd18e4f6-cea1-4912-8e61-89e17f72ef51-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/briefing/iran-president-greek-fires-olympics.html)
+[![](https://static01.nyt.com/images/2021/08/06/world/06oz-rape/06oz-rape-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/australia/brittany-higgins-rape-parliament.html)
 
-Iran inaugurates a new president.
+Brittany Higgins had sent shock waves through the country when she said she was attacked by a co-worker in 2019.
 
-By Whet Moser
-
-* * *
+By Yan Zhuang
 
 * * *
 
-China says it will provide 2 billion vaccine doses to the world.
-----------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/06/world/china-vaccine-donations-2-billion.html)
+‘You Just Think About Eating’: Why Tunisians Backed a Presidential Power Grab
+-----------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06virus-briefing-china-donate/merlin_191663148_753aa699-6aee-4cb2-b65f-85402ff2b7a5-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/china-vaccine-donations-2-billion.html)
+[Article here](https://www.nytimes.com/2021/08/05/world/africa/tunisia-democracy-president-support.html)
 
-The pledge, which included a $100 million donation to Covax, intensifies competition with the U.S. over leadership in ending the pandemic.
+[![](https://static01.nyt.com/images/2021/08/03/world/00tunisia-causes-HP/00tunisia-causes-HP-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/05/world/africa/tunisia-democracy-president-support.html)
 
-By Sui-Lee Wee
+Dissatisfied by the government’s handling of the pandemic and the economy, some in this North African nation welcomed drastic action to change the political leadership.
+
+By Vivian Yee
 
 * * *
 
