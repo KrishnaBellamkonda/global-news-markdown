@@ -19,7 +19,22 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Australian Man to Be Charged in Parliament House Rape Case
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A New President Takes Office in Iran, Solidifying Hard-Line Control
+-------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/05/world/middleeast/iran-president-raisi-inaugurated.html)
+
+[![](https://static01.nyt.com/images/2021/08/05/world/05IRAN-TOP/merlin_192793317_bd18e4f6-cea1-4912-8e61-89e17f72ef51-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/middleeast/iran-president-raisi-inaugurated.html)
+
+President Ebrahim Raisi is a protégé of the supreme leader, Ayatollah Ali Khamenei, and his inauguration gives conservatives control of every part of Iran’s government.
+
+By Farnaz Fassihi
+
+* * *
+
+* * *
+
+Australian Man to Be Charged in Parliament House Rape Case
 ----------------------------------------------------------
 
 [Article here](https://www.nytimes.com/2021/08/06/world/australia/brittany-higgins-rape-parliament.html)
@@ -29,21 +44,6 @@ Come back in a few hours and seeif the news section has changed! (Is it too long
 Brittany Higgins had sent shock waves through the country when she said she was attacked by a co-worker in 2019.
 
 By Yan Zhuang
-
-* * *
-
-* * *
-
-‘You Just Think About Eating’: Why Tunisians Backed a Presidential Power Grab
------------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/05/world/africa/tunisia-democracy-president-support.html)
-
-[![](https://static01.nyt.com/images/2021/08/03/world/00tunisia-causes-HP/00tunisia-causes-HP-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/05/world/africa/tunisia-democracy-president-support.html)
-
-Dissatisfied by the government’s handling of the pandemic and the economy, some in this North African nation welcomed drastic action to change the political leadership.
-
-By Vivian Yee
 
 * * *
 
