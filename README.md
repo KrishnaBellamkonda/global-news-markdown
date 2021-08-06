@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Two Belarus coaches are expelled from the Olympics over their treatment of a sprinter.
+--------------------------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/05/sports/olympics/belarus-coaches-expelled-kristina-timanovskaya-olympics.html)
+
+[![](https://static01.nyt.com/images/2021/08/06/sports/06olympics-briefing-belarus-coaches/merlin_192678219_85efabaf-7bf1-4a47-ba79-f5c38c4f02d7-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/sports/olympics/belarus-coaches-expelled-kristina-timanovskaya-olympics.html)
+
+The International Olympic Committee said it had expelled the coaches who were involved in the attempt to force the runner home against her will.
+
+By Tariq Panja
+
+* * *
+
+* * *
+
+Your Friday Briefing
 --------------------
 
-[Article here](https://www.nytimes.com/2021/08/05/briefing/iran-president-greek-fires-olympics.html)
+[Article here](https://www.nytimes.com/2021/08/05/briefing/iran-president-covid-boosters-electric-vehicles.html)
 
-[![](https://static01.nyt.com/images/2021/08/05/world/06am-briefing-iran/merlin_192793317_bd18e4f6-cea1-4912-8e61-89e17f72ef51-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/briefing/iran-president-greek-fires-olympics.html)
+[![](https://static01.nyt.com/images/2021/08/06/lens/06ambriefing-aus-nl-iran2-promo/merlin_192795465_418458eb-5a48-4668-9b49-4d80064f4fe7-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/briefing/iran-president-covid-boosters-electric-vehicles.html)
 
-Iran inaugurates a new president.
+Iran’s new hard-line president is sworn in.
 
-By Whet Moser
-
-* * *
-
-* * *
-
-How Biden’s E.V. Plan Could Help Tesla and Squeeze Toyota
----------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/06/business/biden-electric-vehicles-automakers.html)
-
-[![](https://static01.nyt.com/images/2021/08/06/business/06ev-race01alt/merlin_153752148_eb4cf9e5-e404-40bf-8b99-2af33f22a80c-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/business/biden-electric-vehicles-automakers.html)
-
-A push to increase sales of electric vehicles favors companies that already have all-electric cars on the market and could penalize those that don’t.
-
-By Jack Ewing and Neal E. Boudette
+By Matthew Cullen
 
 * * *
 
