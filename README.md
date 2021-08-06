@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Boston’s mayor draws sharp criticism for condemning so-called vaccine passports.
---------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Thursday Briefing
+----------------------
 
-[Article here](https://www.nytimes.com/2021/08/05/world/boston-mayor-janey-vaccine-passport.html)
+[Article here](https://www.nytimes.com/2021/08/04/briefing/china-lockdown-olympics-belarus-greece.html)
 
-[![](https://static01.nyt.com/images/2021/08/05/lens/05virus-briefing-boston-mayor-mandates/merlin_191049963_ade29cc9-e725-4dbd-be2e-7ac028c522a9-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/boston-mayor-janey-vaccine-passport.html)
+[![](https://static01.nyt.com/images/2021/08/04/world/05ambriefing-aus-nl-china-promo/05ambriefing-aus-nl-china-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/04/briefing/china-lockdown-olympics-belarus-greece.html)
 
-Kim Janey, the city’s acting mayor, walked back a comparison to slavery-era laws, but maintained that policies requiring proof of vaccination would unduly burden Black and Hispanic people.
+Delta puts China to the test.
 
-By Ellen Barry
-
-* * *
+By Melina Delkic and Matthew Cullen
 
 * * *
 
-Afghan War Casualty Report: August 2021
----------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/05/world/asia/afghanistan-casualty-report-august.html)
+Mexico Sues Gun Companies in U.S., Accusing Them of Fueling Violence
+--------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/04/world/04afghanistan-attack01-copy/merlin_192616680_d610c5b9-7b9b-46a8-a8e1-d8cd4400f4ab-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/asia/afghanistan-casualty-report-august.html)
+[Article here](https://www.nytimes.com/2021/08/04/world/americas/mexico-lawsuit-gun-companies.html)
 
-At least 115 Afghan security forces and 58 civilians were killed in Afghanistan in the first five days of August.
+[![](https://static01.nyt.com/images/2021/08/04/world/04mexico-guns1/merlin_136429227_bdd88ba3-2261-4fea-af8c-5fda3d2fd716-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/americas/mexico-lawsuit-gun-companies.html)
 
-By Fatima Faizi
+The government accuses gun makers and suppliers of knowingly flooding the market with firearms attractive to drug cartels.
+
+By Natalie Kitroeff and Oscar Lopez
 
 * * *
 
