@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In Photos: Fires Ravage Southern Europe
----------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As Taliban Advance, Biden Officials Cling to Hope for Afghan Peace
+------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/05/world/europe/southern-europe-wildfires.html)
+[Article here](https://www.nytimes.com/2021/08/05/us/politics/taliban-afghanistan-peace-deal.html)
 
-[![](https://static01.nyt.com/images/2021/08/05/world/05europe-widlfires-top/merlin_192653265_0cb78113-9629-4b12-b4e8-34d1d490c188-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/europe/southern-europe-wildfires.html)
+[![](https://static01.nyt.com/images/2021/08/05/us/politics/05dc-afghan-peace1/merlin_192778437_d6e0c2a3-8daa-48af-86f8-816b8d2399e1-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/us/politics/taliban-afghanistan-peace-deal.html)
 
-From the Greek islands to southern Turkey, extreme heat and dry conditions are driving devastating wildfires that have killed people and threatened homes, ancient heritage sites and tourist havens.
+Taliban leaders and Afghan government negotiators still occasionally meet. But U.S. officials say prospects for a negotiated outcome appear to be fading fast.
 
-By Niki Kitsantonis and Megan Specia
-
-* * *
+By Michael Crowley
 
 * * *
 
-Europe is winding down its pandemic aid programs. Is it too soon?
------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/05/world/europe-is-winding-down-its-pandemic-aid-programs-is-it-too-soon.html)
+In Qatar, the Olympic Team (Like Much Else) Is Mostly Imported
+--------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/05/us/05virus-briefing-eu-pandemic-aid/merlin_188639469_85e6ff0f-eaa1-40a5-a6ce-90c248fd2f58-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/europe-is-winding-down-its-pandemic-aid-programs-is-it-too-soon.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/asia/qatar-olympics-athletes.html)
 
-Governments want vaccinations and a business rebound to carry the economy now, but cutting aid too quickly could create economic aftershocks.
+[![](https://static01.nyt.com/images/2021/08/06/world/06olympics-qatar-1/merlin_191228517_d7fe57f0-3084-4d5c-8457-0acc29576d31-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/asia/qatar-olympics-athletes.html)
 
-By Liz Alderman
+The small Gulf country, most of whose residents are foreign workers, has looked beyond its borders for athletes, too.
+
+By Hannah Beech
 
 * * *
 
