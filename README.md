@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the World’s Coronavirus Infection Total Passes Staggering Figure: 200 Million
--------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
+--------------------
 
-[Article here](https://www.nytimes.com/2021/08/04/world/europe/covid-global-cases-200-million.html)
+[Article here](https://www.nytimes.com/2021/08/05/briefing/iran-president-greek-fires-olympics.html)
 
-[![](https://static01.nyt.com/images/2021/08/04/world/04virus-200million-top/merlin_185590854_51037946-8a5a-47f7-80ac-e7a4ce516715-superJumbo.jpg)](https://www.nytimes.com/2021/08/04/world/europe/covid-global-cases-200-million.html)
+[![](https://static01.nyt.com/images/2021/08/05/world/06am-briefing-iran/merlin_192793317_bd18e4f6-cea1-4912-8e61-89e17f72ef51-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/briefing/iran-president-greek-fires-olympics.html)
 
-Vaccines have weakened the link between surging cases and serious illness, but in vaccine-deprived parts of the world, the deadly pattern remains.
+Iran inaugurates a new president.
 
-By Marc Santora and Isabella Kwai
-
-* * *
+By Whet Moser
 
 * * *
 
-In Photos: Fires Ravage Southern Europe
----------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/05/world/europe/southern-europe-wildfires.html)
+How Biden’s E.V. Plan Could Help Tesla and Squeeze Toyota
+---------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/05/world/05europe-widlfires-top/merlin_192653265_0cb78113-9629-4b12-b4e8-34d1d490c188-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/europe/southern-europe-wildfires.html)
+[Article here](https://www.nytimes.com/2021/08/06/business/biden-electric-vehicles-automakers.html)
 
-From the Greek islands to southern Turkey, extreme heat and dry conditions are driving devastating wildfires that have killed people and threatened homes, ancient heritage sites and tourist havens.
+[![](https://static01.nyt.com/images/2021/08/06/business/06ev-race01alt/merlin_153752148_eb4cf9e5-e404-40bf-8b99-2af33f22a80c-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/business/biden-electric-vehicles-automakers.html)
 
-By Niki Kitsantonis and Megan Specia
+A push to increase sales of electric vehicles favors companies that already have all-electric cars on the market and could penalize those that don’t.
+
+By Jack Ewing and Neal E. Boudette
 
 * * *
 
