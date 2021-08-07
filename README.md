@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The leader of St. Vincent and the Grenadines is hurt during a protest against vaccine rules.
---------------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
+--------------------
 
-[Article here](https://www.nytimes.com/2021/08/06/world/the-leader-of-st-vincent-and-the-grenadines-is-hurt-during-a-protest-against-vaccine-rules.html)
+[Article here](https://www.nytimes.com/2021/08/05/briefing/iran-president-covid-boosters-electric-vehicles.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06virus-briefing-stvincent/merlin_192810930_3ea71fb4-ae9b-42c9-a3e2-9b43a0ea6050-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/the-leader-of-st-vincent-and-the-grenadines-is-hurt-during-a-protest-against-vaccine-rules.html)
+[![](https://static01.nyt.com/images/2021/08/06/lens/06ambriefing-aus-nl-iran2-promo/merlin_192795465_418458eb-5a48-4668-9b49-4d80064f4fe7-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/briefing/iran-president-covid-boosters-electric-vehicles.html)
 
-By Shashank Bengali
+Iran’s new hard-line president is sworn in.
+
+By Matthew Cullen
 
 * * *
 
 * * *
 
-To head off illegal dance parties, Ibiza calls in foreign undercover detectives.
---------------------------------------------------------------------------------
+New Jersey’s governor orders schools to use masks.
+--------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/05/world/dance-parties-ibiza.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/new-jersey-mask-school.html)
 
-[![](https://static01.nyt.com/images/2021/08/05/lens/05virus-briefing-ibiza/05virus-briefing-ibiza-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/dance-parties-ibiza.html)
+[![](https://static01.nyt.com/images/2021/08/06/world/06virus-briefing-schools-masks/merlin_187080771_96ac0a6a-612f-4e8b-943d-286edb235ed7-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/new-jersey-mask-school.html)
 
-The island’s health inspectors and the police are otherwise occupied by other tasks, an official said in explaining the hiring of outsiders.
+The furious spread of the Delta variant has prompted mask mandates and fights between state and local authorities.
 
-By Isabella Kwai
+By James C. McKinley Jr. and Lauren Hard
 
 * * *
 
