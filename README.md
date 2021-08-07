@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Reimagining Our Relationship With Nature Through Art
-----------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Hezbollah Fires Rockets at Israel as Risk of Escalation Looms
+-------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/06/world/australia/reimagining-our-relationship-with-nature-through-art.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/middleeast/israel-lebanon-rockets.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06australialetter219-NL/06australialetter219-NL-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/australia/reimagining-our-relationship-with-nature-through-art.html)
+[![](https://static01.nyt.com/images/2021/08/06/world/06israel-lebanon01/merlin_192850362_7232b41c-dc17-4f33-99f2-b7b57695d1a8-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/middleeast/israel-lebanon-rockets.html)
 
-One Australian artist gives us a glimpse into a kinder, more caring world.
+Tensions between Israel and Iran and its Hezbollah allies intensified even as both sides signaled they had no interest in an all-out war.
 
-By Yan Zhuang
-
-* * *
+By Isabel Kershner, Ronen Bergman and Ben Hubbard
 
 * * *
 
-Australian Man to Be Charged in Parliament House Rape Case
-----------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/06/world/australia/brittany-higgins-rape-parliament.html)
+Can the Olympics Take the Heat?
+-------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06oz-rape/06oz-rape-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/australia/brittany-higgins-rape-parliament.html)
+[Article here](https://www.nytimes.com/2021/08/06/science/olympics-squirrels-competition.html)
 
-Brittany Higgins had sent shock waves through the country when she said she was attacked by a co-worker in 2019.
+[![](https://static01.nyt.com/images/2021/08/06/science/06sciencetimes-newsletter-2/merlin_147857778_2ccd78b6-ec93-458e-9bc4-df22b8a0a517-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/science/olympics-squirrels-competition.html)
 
-By Yan Zhuang
+Plus: squirrel acrobats, gecko navigators, hair thieves and other natural overachievers in the Friday edition of the Science Times newsletter.
+
+By Alan Burdick
 
 * * *
 
