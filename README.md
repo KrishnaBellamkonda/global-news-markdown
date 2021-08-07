@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Hezbollah Fires Rockets at Israel as Risk of Escalation Looms
--------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taliban Take Second Afghan City in Two Days
+-------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/06/world/middleeast/israel-lebanon-rockets.html)
+[Article here](https://www.nytimes.com/2021/08/07/world/asia/taliban-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06israel-lebanon01/merlin_192850362_7232b41c-dc17-4f33-99f2-b7b57695d1a8-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/middleeast/israel-lebanon-rockets.html)
+[![](https://static01.nyt.com/images/2021/08/07/world/07afghanistan1/merlin_187641231_07b18785-0ebe-4601-b867-c2dd143b5dc4-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/asia/taliban-afghanistan.html)
 
-Tensions between Israel and Iran and its Hezbollah allies intensified even as both sides signaled they had no interest in an all-out war.
+Sheberghan, in Jowzjan Province, collapsed less than 24 hours after a provincial capital in southwestern Afghanistan had fallen to the Taliban.
 
-By Isabel Kershner, Ronen Bergman and Ben Hubbard
-
-* * *
+By Thomas Gibbons-Neff, Fahim Abed and Sharif Hassan
 
 * * *
 
-What’s Going On With Extreme Weather?
--------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/interactive/2021/08/06/climate/what-is-extreme-weather.html)
+Australian Man to Be Charged in Parliament House Rape Case
+----------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/06/29/well/05climate-extremeweather/merlin_190019193_aed7413c-a6d3-4979-94e7-4c87fe23fae3-superJumbo.jpg)](https://www.nytimes.com/interactive/2021/08/06/climate/what-is-extreme-weather.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/australia/brittany-higgins-rape-parliament.html)
 
-Here's what you should know about extreme weather events like heat waves, droughts and storms.
+[![](https://static01.nyt.com/images/2021/08/06/world/06oz-rape/06oz-rape-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/australia/brittany-higgins-rape-parliament.html)
 
-By Henry Fountain
+Brittany Higgins had sent shock waves through the country when she said she was attacked by a co-worker in 2019.
+
+By Yan Zhuang
 
 * * *
 
