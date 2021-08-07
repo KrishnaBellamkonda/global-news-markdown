@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Two Belarus coaches are expelled from the Olympics over their treatment of a sprinter.
---------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the They Wait Hours to Withdraw Cash, but Most A.T.M.s Are Empty
+------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/05/sports/olympics/belarus-coaches-expelled-kristina-timanovskaya-olympics.html)
+[Article here](https://www.nytimes.com/2021/08/07/world/asia/myanmar-cash-coup.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/sports/06olympics-briefing-belarus-coaches/merlin_192678219_85efabaf-7bf1-4a47-ba79-f5c38c4f02d7-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/sports/olympics/belarus-coaches-expelled-kristina-timanovskaya-olympics.html)
+[![](https://static01.nyt.com/images/2021/08/02/world/00myanmar-cash-1/merlin_185479260_d0abef84-82ba-4e27-b641-d43ed4a28d34-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/asia/myanmar-cash-coup.html)
 
-The International Olympic Committee said it had expelled the coaches who were involved in the attempt to force the runner home against her will.
+Myanmar has been crippled by a cash shortage since the military seized power six months ago, plunging the Southeast Asian nation into a financial crisis.
 
-By Tariq Panja
-
-* * *
+By Richard C. Paddock
 
 * * *
 
-Italians (Mostly) Embrace a ‘Green Pass’ to Prove Vaccination on Its First Day
-------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/06/world/europe/italy-green-pass-vaccination-covid.html)
+Fragrance Maker Dares to Sniff ‘What Life Really Smells Like’
+-------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06Italy-VaccinePassport01/merlin_192855414_a04540a1-621d-43af-928a-61463fb43570-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/europe/italy-green-pass-vaccination-covid.html)
+[Article here](https://www.nytimes.com/2021/08/07/world/europe/spain-catalonia-cap-de-creus.html)
 
-While such measures have prompted protests in France and divided Americans, Italians are enjoying a season of rationality under Prime Minister Mario Draghi.
+[![](https://static01.nyt.com/images/2021/07/30/world/00spain-smells-dispatch-01/merlin_190749252_537d23f2-2992-4083-a8fd-e3c7bfb54916-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/europe/spain-catalonia-cap-de-creus.html)
 
-By Jason Horowitz
+Crafting scents that demand a brave nose, and leading smelling tours through a landscape in Catalonia painted by Dalí, an evangelist of odor urges people to catch a whiff of the “sublime.”
+
+By Nicholas Casey
 
 * * *
 
