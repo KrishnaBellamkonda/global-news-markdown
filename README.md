@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
---------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How Biden’s E.V. Plan Could Help Tesla and Squeeze Toyota
+---------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/05/briefing/iran-president-covid-boosters-electric-vehicles.html)
+[Article here](https://www.nytimes.com/2021/08/06/business/biden-electric-vehicles-automakers.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/lens/06ambriefing-aus-nl-iran2-promo/merlin_192795465_418458eb-5a48-4668-9b49-4d80064f4fe7-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/briefing/iran-president-covid-boosters-electric-vehicles.html)
+[![](https://static01.nyt.com/images/2021/08/06/business/06ev-race01alt/merlin_153752148_eb4cf9e5-e404-40bf-8b99-2af33f22a80c-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/business/biden-electric-vehicles-automakers.html)
 
-Iran’s new hard-line president is sworn in.
+A push to increase sales of electric vehicles favors companies that already have all-electric cars on the market and could penalize those that don’t.
 
-By Matthew Cullen
-
-* * *
+By Jack Ewing and Neal E. Boudette
 
 * * *
 
-New Jersey’s governor orders schools to use masks.
---------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/06/world/new-jersey-mask-school.html)
+In Photos: Fires Ravage Southern Europe
+---------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06virus-briefing-schools-masks/merlin_187080771_96ac0a6a-612f-4e8b-943d-286edb235ed7-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/new-jersey-mask-school.html)
+[Article here](https://www.nytimes.com/2021/08/05/world/europe/southern-europe-wildfires.html)
 
-The furious spread of the Delta variant has prompted mask mandates and fights between state and local authorities.
+[![](https://static01.nyt.com/images/2021/08/05/world/05europe-widlfires-top/merlin_192653265_0cb78113-9629-4b12-b4e8-34d1d490c188-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/europe/southern-europe-wildfires.html)
 
-By James C. McKinley Jr. and Lauren Hard
+From the Greek islands to southern Turkey, extreme heat and dry conditions are driving devastating wildfires that have killed people and threatened homes, ancient heritage sites and tourist havens.
+
+By Niki Kitsantonis and Megan Specia
 
 * * *
 
