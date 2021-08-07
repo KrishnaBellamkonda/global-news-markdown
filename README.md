@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Reimagining Our Relationship With Nature Through Art
-----------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Hezbollah Fires Rockets at Israel as Risk of Escalation Looms
+-------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/06/world/australia/reimagining-our-relationship-with-nature-through-art.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/middleeast/israel-lebanon-rockets.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06australialetter219-NL/06australialetter219-NL-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/australia/reimagining-our-relationship-with-nature-through-art.html)
+[![](https://static01.nyt.com/images/2021/08/06/world/06israel-lebanon01/merlin_192850362_7232b41c-dc17-4f33-99f2-b7b57695d1a8-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/middleeast/israel-lebanon-rockets.html)
 
-One Australian artist gives us a glimpse into a kinder, more caring world.
+Tensions between Israel and Iran and its Hezbollah allies intensified even as both sides signaled they had no interest in an all-out war.
 
-By Yan Zhuang
-
-* * *
+By Isabel Kershner, Ronen Bergman and Ben Hubbard
 
 * * *
 
-Myanmar Ambassador, Who Opposed Coup, Is Target of Assassination Plot
----------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/06/nyregion/myanmar-ambassador-plot.html)
+Canada’s Drought Is Forcing Farmers to Make Once-Unthinkable Choices
+--------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/06/nyregion/06ny-myanmar1/merlin_192682560_0424339c-6a87-465d-b651-7a5cef7315bc-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/nyregion/myanmar-ambassador-plot.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/canada/canada-wildfires-drought.html)
 
-Federal prosecutors in Manhattan said two Myanmar citizens living in New York plotted over the past month to attack and potentially kill the country’s ambassador to the United Nations.
+[![](https://static01.nyt.com/images/2021/08/06/world/06CANADA-LETTER1/merlin_191200350_f0da77ff-c962-4a29-bf58-b23d699104b5-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/canada/canada-wildfires-drought.html)
 
-By Troy Closson
+This summer has seen devastation across Western Canada with extreme weather, raging wildfires and drought threatening lives and livelihoods.
+
+By Vjosa Isai
 
 * * *
 
