@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How Biden’s E.V. Plan Could Help Tesla and Squeeze Toyota
----------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Reimagining Our Relationship With Nature Through Art
+----------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/06/business/biden-electric-vehicles-automakers.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/australia/reimagining-our-relationship-with-nature-through-art.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/business/06ev-race01alt/merlin_153752148_eb4cf9e5-e404-40bf-8b99-2af33f22a80c-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/business/biden-electric-vehicles-automakers.html)
+[![](https://static01.nyt.com/images/2021/08/06/world/06australialetter219-NL/06australialetter219-NL-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/australia/reimagining-our-relationship-with-nature-through-art.html)
 
-A push to increase sales of electric vehicles favors companies that already have all-electric cars on the market and could penalize those that don’t.
+One Australian artist gives us a glimpse into a kinder, more caring world.
 
-By Jack Ewing and Neal E. Boudette
-
-* * *
+By Yan Zhuang
 
 * * *
 
-In Photos: Fires Ravage Southern Europe
----------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/05/world/europe/southern-europe-wildfires.html)
+Myanmar Ambassador, Who Opposed Coup, Is Target of Assassination Plot
+---------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/05/world/05europe-widlfires-top/merlin_192653265_0cb78113-9629-4b12-b4e8-34d1d490c188-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/europe/southern-europe-wildfires.html)
+[Article here](https://www.nytimes.com/2021/08/06/nyregion/myanmar-ambassador-plot.html)
 
-From the Greek islands to southern Turkey, extreme heat and dry conditions are driving devastating wildfires that have killed people and threatened homes, ancient heritage sites and tourist havens.
+[![](https://static01.nyt.com/images/2021/08/06/nyregion/06ny-myanmar1/merlin_192682560_0424339c-6a87-465d-b651-7a5cef7315bc-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/nyregion/myanmar-ambassador-plot.html)
 
-By Niki Kitsantonis and Megan Specia
+Federal prosecutors in Manhattan said two Myanmar citizens living in New York plotted over the past month to attack and potentially kill the country’s ambassador to the United Nations.
+
+By Troy Closson
 
 * * *
 
