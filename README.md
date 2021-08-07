@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Hezbollah Fires Rockets at Israel as Risk of Escalation Looms
--------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Two Belarus coaches are expelled from the Olympics over their treatment of a sprinter.
+--------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/06/world/middleeast/israel-lebanon-rockets.html)
+[Article here](https://www.nytimes.com/2021/08/05/sports/olympics/belarus-coaches-expelled-kristina-timanovskaya-olympics.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06israel-lebanon01/merlin_192850362_7232b41c-dc17-4f33-99f2-b7b57695d1a8-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/middleeast/israel-lebanon-rockets.html)
+[![](https://static01.nyt.com/images/2021/08/06/sports/06olympics-briefing-belarus-coaches/merlin_192678219_85efabaf-7bf1-4a47-ba79-f5c38c4f02d7-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/sports/olympics/belarus-coaches-expelled-kristina-timanovskaya-olympics.html)
 
-Tensions between Israel and Iran and its Hezbollah allies intensified even as both sides signaled they had no interest in an all-out war.
+The International Olympic Committee said it had expelled the coaches who were involved in the attempt to force the runner home against her will.
 
-By Isabel Kershner, Ronen Bergman and Ben Hubbard
-
-* * *
+By Tariq Panja
 
 * * *
 
-Can the Olympics Take the Heat?
--------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/06/science/olympics-squirrels-competition.html)
+Italians (Mostly) Embrace a ‘Green Pass’ to Prove Vaccination on Its First Day
+------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/06/science/06sciencetimes-newsletter-2/merlin_147857778_2ccd78b6-ec93-458e-9bc4-df22b8a0a517-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/science/olympics-squirrels-competition.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/europe/italy-green-pass-vaccination-covid.html)
 
-Plus: squirrel acrobats, gecko navigators, hair thieves and other natural overachievers in the Friday edition of the Science Times newsletter.
+[![](https://static01.nyt.com/images/2021/08/06/world/06Italy-VaccinePassport01/merlin_192855414_a04540a1-621d-43af-928a-61463fb43570-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/europe/italy-green-pass-vaccination-covid.html)
 
-By Alan Burdick
+While such measures have prompted protests in France and divided Americans, Italians are enjoying a season of rationality under Prime Minister Mario Draghi.
+
+By Jason Horowitz
 
 * * *
 
