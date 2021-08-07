@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the An Arkansas judge temporarily blocks the state’s ban on mask mandates.
-----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The leader of St. Vincent and the Grenadines is hurt during a protest against vaccine rules.
+--------------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/06/world/arkansas-mask-mandate-asa-hutchinson.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/the-leader-of-st-vincent-and-the-grenadines-is-hurt-during-a-protest-against-vaccine-rules.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/us/06virus-briefing-arkansas-masks/06virus-briefing-arkansas-masks-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/arkansas-mask-mandate-asa-hutchinson.html)
+[![](https://static01.nyt.com/images/2021/08/06/world/06virus-briefing-stvincent/merlin_192810930_3ea71fb4-ae9b-42c9-a3e2-9b43a0ea6050-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/the-leader-of-st-vincent-and-the-grenadines-is-hurt-during-a-protest-against-vaccine-rules.html)
 
-Gov. Asa Hutchinson signed the ban into law in the spring but had been trying to modify it recently in the face of skyrocketing case counts.
-
-By Richard Fausset
+By Shashank Bengali
 
 * * *
 
 * * *
 
-Otelo Saraiva de Carvalho, 84, Dies; Key Figure in Portugal Revolt
-------------------------------------------------------------------
+To head off illegal dance parties, Ibiza calls in foreign undercover detectives.
+--------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/06/world/europe/otelo-saraiva-de-carvalho-dead.html)
+[Article here](https://www.nytimes.com/2021/08/05/world/dance-parties-ibiza.html)
 
-[![](https://static01.nyt.com/images/2021/08/04/obituaries/04deCarvalho1/04deCarvalho1-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/europe/otelo-saraiva-de-carvalho-dead.html)
+[![](https://static01.nyt.com/images/2021/08/05/lens/05virus-briefing-ibiza/05virus-briefing-ibiza-superJumbo.jpg)](https://www.nytimes.com/2021/08/05/world/dance-parties-ibiza.html)
 
-He became a national hero in the 1974 “Carnation Revolution,” which ousted a dictatorship. But he later landed in prison for links to a terrorist group.
+The island’s health inspectors and the police are otherwise occupied by other tasks, an official said in explaining the hiring of outsiders.
 
-By Raphael Minder
+By Isabella Kwai
 
 * * *
 
