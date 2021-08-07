@@ -34,16 +34,16 @@ By Isabel Kershner, Ronen Bergman and Ben Hubbard
 
 * * *
 
-Canada’s Drought Is Forcing Farmers to Make Once-Unthinkable Choices
---------------------------------------------------------------------
+What’s Going On With Extreme Weather?
+-------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/06/world/canada/canada-wildfires-drought.html)
+[Article here](https://www.nytimes.com/interactive/2021/08/06/climate/what-is-extreme-weather.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06CANADA-LETTER1/merlin_191200350_f0da77ff-c962-4a29-bf58-b23d699104b5-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/canada/canada-wildfires-drought.html)
+[![](https://static01.nyt.com/images/2021/06/29/well/05climate-extremeweather/merlin_190019193_aed7413c-a6d3-4979-94e7-4c87fe23fae3-superJumbo.jpg)](https://www.nytimes.com/interactive/2021/08/06/climate/what-is-extreme-weather.html)
 
-This summer has seen devastation across Western Canada with extreme weather, raging wildfires and drought threatening lives and livelihoods.
+Here's what you should know about extreme weather events like heat waves, droughts and storms.
 
-By Vjosa Isai
+By Henry Fountain
 
 * * *
 
