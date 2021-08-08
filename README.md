@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How an Obscure Swim Club Got a Say in Choosing Hong Kong’s Leader
------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Is a Big Casino Footprint in a Tiny Principality a Good or a Bad Bet?
+---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/08/world/asia/hong-kong-china-election.html)
+[Article here](https://www.nytimes.com/2021/08/07/world/europe/liechtenstein-gambling-casinos.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/world/00hk-china2/00hk-china2-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/world/asia/hong-kong-china-election.html)
+[![](https://static01.nyt.com/images/2021/07/28/world/xxlichtenstein-01/merlin_188585007_2a27aac3-f8c5-41b9-a8d2-59b66e171e7f-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/europe/liechtenstein-gambling-casinos.html)
 
-Beijing is making it nearly impossible for the pro-democracy camp to win city elections. One tool: “grass roots” groups loyal to the government.
+Liechtenstein, where gambling had largely been illegal until 2010, now has more casinos per capita than Macau or Monaco. Some critics worry that it’s more than the principality can handle.
 
-By Vivian Wang and Joy Dong
-
-* * *
+By Noele Illien
 
 * * *
 
-Hezbollah Fires Rockets at Israel as Risk of Escalation Looms
--------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/06/world/middleeast/israel-lebanon-rockets.html)
+When cities are falling to the Taliban, what happens next can vary.
+-------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06israel-lebanon01/merlin_192850362_7232b41c-dc17-4f33-99f2-b7b57695d1a8-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/middleeast/israel-lebanon-rockets.html)
+[Article here](https://www.nytimes.com/2021/08/08/world/asia/afghanistan-taliban-cities.html)
 
-Tensions between Israel and Iran and its Hezbollah allies intensified even as both sides signaled they had no interest in an all-out war.
+[![](https://static01.nyt.com/images/2021/08/08/pageoneplus/00afghanistanbriefing-when-cities-fall/merlin_190753719_e137fedd-d26b-49e1-9a94-caffdd5e929b-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/world/asia/afghanistan-taliban-cities.html)
 
-By Isabel Kershner, Ronen Bergman and Ben Hubbard
+By Thomas Gibbons-Neff and Najim Rahim
 
 * * *
 
