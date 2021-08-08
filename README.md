@@ -19,27 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Unvaccinated Americans explain their decisions.
------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the They Wait Hours to Withdraw Cash, but Most A.T.M.s Are Empty
+------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/06/world/unvaccinated-americans-explain-their-decisions.html)
+[Article here](https://www.nytimes.com/2021/08/07/world/asia/myanmar-cash-coup.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06virus-briefing-daily-unvaccinated/merlin_187757796_c4189f2a-5af3-4800-ae11-b99c526f0eea-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/unvaccinated-americans-explain-their-decisions.html)
+[![](https://static01.nyt.com/images/2021/08/02/world/00myanmar-cash-1/merlin_185479260_d0abef84-82ba-4e27-b641-d43ed4a28d34-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/asia/myanmar-cash-coup.html)
+
+Myanmar has been crippled by a cash shortage since the military seized power six months ago, plunging the Southeast Asian nation into a financial crisis.
+
+By Richard C. Paddock
 
 * * *
 
 * * *
 
-New Jersey’s governor orders schools to use masks.
---------------------------------------------------
+Australian Man to Be Charged in Parliament House Rape Case
+----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/06/world/new-jersey-mask-school.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/australia/brittany-higgins-rape-parliament.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06virus-briefing-schools-masks/merlin_187080771_96ac0a6a-612f-4e8b-943d-286edb235ed7-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/new-jersey-mask-school.html)
+[![](https://static01.nyt.com/images/2021/08/06/world/06oz-rape/06oz-rape-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/australia/brittany-higgins-rape-parliament.html)
 
-The furious spread of the Delta variant has prompted mask mandates and fights between state and local authorities.
+Brittany Higgins had sent shock waves through the country when she said she was attacked by a co-worker in 2019.
 
-By James C. McKinley Jr. and Lauren Hard
+By Yan Zhuang
 
 * * *
 
