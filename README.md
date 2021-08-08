@@ -19,31 +19,27 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Italians (Mostly) Embrace a ‘Green Pass’ to Prove Vaccination on Its First Day
-------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Unvaccinated Americans explain their decisions.
+-----------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/06/world/europe/italy-green-pass-vaccination-covid.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/unvaccinated-americans-explain-their-decisions.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06Italy-VaccinePassport01/merlin_192855414_a04540a1-621d-43af-928a-61463fb43570-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/europe/italy-green-pass-vaccination-covid.html)
-
-While such measures have prompted protests in France and divided Americans, Italians are enjoying a season of rationality under Prime Minister Mario Draghi.
-
-By Jason Horowitz
+[![](https://static01.nyt.com/images/2021/08/06/world/06virus-briefing-daily-unvaccinated/merlin_187757796_c4189f2a-5af3-4800-ae11-b99c526f0eea-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/unvaccinated-americans-explain-their-decisions.html)
 
 * * *
 
 * * *
 
-Russia Doesn’t Send U.S. Investor to Jail but Still Sends a Warning
--------------------------------------------------------------------
+New Jersey’s governor orders schools to use masks.
+--------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/06/world/europe/russia-american-investor-calvey-sentence.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/new-jersey-mask-school.html)
 
-[![](https://static01.nyt.com/images/2021/08/07/world/06Russia-Embezzlement-print/merlin_192843924_c071e635-67ae-4e9f-a52c-50079ee34712-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/europe/russia-american-investor-calvey-sentence.html)
+[![](https://static01.nyt.com/images/2021/08/06/world/06virus-briefing-schools-masks/merlin_187080771_96ac0a6a-612f-4e8b-943d-286edb235ed7-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/new-jersey-mask-school.html)
 
-Michael Calvey had long championed investing in Russia. His conviction on embezzlement charges alarmed business leaders, even if his sentence spared him prison.
+The furious spread of the Delta variant has prompted mask mandates and fights between state and local authorities.
 
-By Andrew E. Kramer
+By James C. McKinley Jr. and Lauren Hard
 
 * * *
 
