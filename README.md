@@ -19,27 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Canada’s Drought Is Forcing Farmers to Make Once-Unthinkable Choices
---------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Russia Doesn’t Send U.S. Investor to Jail but Still Sends a Warning
+-------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/06/world/canada/canada-wildfires-drought.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/europe/russia-american-investor-calvey-sentence.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06CANADA-LETTER1/merlin_191200350_f0da77ff-c962-4a29-bf58-b23d699104b5-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/canada/canada-wildfires-drought.html)
+[![](https://static01.nyt.com/images/2021/08/07/world/06Russia-Embezzlement-print/merlin_192843924_c071e635-67ae-4e9f-a52c-50079ee34712-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/europe/russia-american-investor-calvey-sentence.html)
 
-This summer has seen devastation across Western Canada with extreme weather, raging wildfires and drought threatening lives and livelihoods.
+Michael Calvey had long championed investing in Russia. His conviction on embezzlement charges alarmed business leaders, even if his sentence spared him prison.
 
-By Vjosa Isai
-
-* * *
+By Andrew E. Kramer
 
 * * *
 
-Unvaccinated Americans explain their decisions.
------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/06/world/unvaccinated-americans-explain-their-decisions.html)
+No Work, No Food: Pandemic Deepens Global Hunger
+------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06virus-briefing-daily-unvaccinated/merlin_187757796_c4189f2a-5af3-4800-ae11-b99c526f0eea-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/unvaccinated-americans-explain-their-decisions.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/africa/covid-19-global-hunger.html)
+
+[![](https://static01.nyt.com/images/2021/08/02/world/00virus-hunger-child/merlin_188669736_68c466e0-109e-4325-aec3-1e8d73a9232f-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/africa/covid-19-global-hunger.html)
+
+Relentless waves of the virus, combined with crises caused by conflict and climate change, have left tens of millions of people around the world on the brink of famine.
+
+By Christina Goldbaum and Joao Silva
 
 * * *
 
