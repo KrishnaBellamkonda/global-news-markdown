@@ -34,16 +34,16 @@ By Jason Horowitz
 
 * * *
 
-Otelo Saraiva de Carvalho, 84, Dies; Key Figure in Portugal Revolt
-------------------------------------------------------------------
+Russia Doesn’t Send U.S. Investor to Jail but Still Sends a Warning
+-------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/06/world/europe/otelo-saraiva-de-carvalho-dead.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/europe/russia-american-investor-calvey-sentence.html)
 
-[![](https://static01.nyt.com/images/2021/08/07/obituaries/07deCarvalho-obit1/04deCarvalho1-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/europe/otelo-saraiva-de-carvalho-dead.html)
+[![](https://static01.nyt.com/images/2021/08/07/world/06Russia-Embezzlement-print/merlin_192843924_c071e635-67ae-4e9f-a52c-50079ee34712-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/europe/russia-american-investor-calvey-sentence.html)
 
-He became a national hero in the 1974 “Carnation Revolution,” which ousted a dictatorship. But he later landed in prison for links to a terrorist group.
+Michael Calvey had long championed investing in Russia. His conviction on embezzlement charges alarmed business leaders, even if his sentence spared him prison.
 
-By Raphael Minder
+By Andrew E. Kramer
 
 * * *
 
