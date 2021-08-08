@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Russia Doesn’t Send U.S. Investor to Jail but Still Sends a Warning
--------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Reimagining Our Relationship With Nature Through Art
+----------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/06/world/europe/russia-american-investor-calvey-sentence.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/australia/reimagining-our-relationship-with-nature-through-art.html)
 
-[![](https://static01.nyt.com/images/2021/08/07/world/06Russia-Embezzlement-print/merlin_192843924_c071e635-67ae-4e9f-a52c-50079ee34712-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/europe/russia-american-investor-calvey-sentence.html)
+[![](https://static01.nyt.com/images/2021/08/06/world/06australialetter219-NL/06australialetter219-NL-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/australia/reimagining-our-relationship-with-nature-through-art.html)
 
-Michael Calvey had long championed investing in Russia. His conviction on embezzlement charges alarmed business leaders, even if his sentence spared him prison.
+One Australian artist gives us a glimpse into a kinder, more caring world.
 
-By Andrew E. Kramer
-
-* * *
+By Yan Zhuang
 
 * * *
 
-No Work, No Food: Pandemic Deepens Global Hunger
-------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/06/world/africa/covid-19-global-hunger.html)
+Greek Fires Force Thousands More to Evacuate
+--------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/02/world/00virus-hunger-child/merlin_188669736_68c466e0-109e-4325-aec3-1e8d73a9232f-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/africa/covid-19-global-hunger.html)
+[Article here](https://www.nytimes.com/2021/08/07/world/europe/greece-turkey-fires-ferry.html)
 
-Relentless waves of the virus, combined with crises caused by conflict and climate change, have left tens of millions of people around the world on the brink of famine.
+[![](https://static01.nyt.com/images/2021/08/07/world/07greece-fires01/merlin_192934347_4f4d36c3-637d-4fd3-8174-04e455f23cf9-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/europe/greece-turkey-fires-ferry.html)
 
-By Christina Goldbaum and Joao Silva
+Wildfires are raging in Greece and Turkey as southern Europe faces one of its worst heat waves in decades.
+
+By Niki Kitsantonis
 
 * * *
 
