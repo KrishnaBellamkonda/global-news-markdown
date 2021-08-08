@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the They Wait Hours to Withdraw Cash, but Most A.T.M.s Are Empty
-------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Italians (Mostly) Embrace a ‘Green Pass’ to Prove Vaccination on Its First Day
+------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/07/world/asia/myanmar-cash-coup.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/europe/italy-green-pass-vaccination-covid.html)
 
-[![](https://static01.nyt.com/images/2021/08/02/world/00myanmar-cash-1/merlin_185479260_d0abef84-82ba-4e27-b641-d43ed4a28d34-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/asia/myanmar-cash-coup.html)
+[![](https://static01.nyt.com/images/2021/08/06/world/06Italy-VaccinePassport01/merlin_192855414_a04540a1-621d-43af-928a-61463fb43570-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/europe/italy-green-pass-vaccination-covid.html)
 
-Myanmar has been crippled by a cash shortage since the military seized power six months ago, plunging the Southeast Asian nation into a financial crisis.
+While such measures have prompted protests in France and divided Americans, Italians are enjoying a season of rationality under Prime Minister Mario Draghi.
 
-By Richard C. Paddock
-
-* * *
+By Jason Horowitz
 
 * * *
 
-Fragrance Maker Dares to Sniff ‘What Life Really Smells Like’
--------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/07/world/europe/spain-catalonia-cap-de-creus.html)
+Otelo Saraiva de Carvalho, 84, Dies; Key Figure in Portugal Revolt
+------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/30/world/00spain-smells-dispatch-01/merlin_190749252_537d23f2-2992-4083-a8fd-e3c7bfb54916-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/europe/spain-catalonia-cap-de-creus.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/europe/otelo-saraiva-de-carvalho-dead.html)
 
-Crafting scents that demand a brave nose, and leading smelling tours through a landscape in Catalonia painted by Dalí, an evangelist of odor urges people to catch a whiff of the “sublime.”
+[![](https://static01.nyt.com/images/2021/08/07/obituaries/07deCarvalho-obit1/04deCarvalho1-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/europe/otelo-saraiva-de-carvalho-dead.html)
 
-By Nicholas Casey
+He became a national hero in the 1974 “Carnation Revolution,” which ousted a dictatorship. But he later landed in prison for links to a terrorist group.
+
+By Raphael Minder
 
 * * *
 
