@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Reimagining Our Relationship With Nature Through Art
-----------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Hezbollah Fires Rockets at Israel as Risk of Escalation Looms
+-------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/06/world/australia/reimagining-our-relationship-with-nature-through-art.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/middleeast/israel-lebanon-rockets.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06australialetter219-NL/06australialetter219-NL-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/australia/reimagining-our-relationship-with-nature-through-art.html)
+[![](https://static01.nyt.com/images/2021/08/06/world/06israel-lebanon01/merlin_192850362_7232b41c-dc17-4f33-99f2-b7b57695d1a8-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/middleeast/israel-lebanon-rockets.html)
 
-One Australian artist gives us a glimpse into a kinder, more caring world.
+Tensions between Israel and Iran and its Hezbollah allies intensified even as both sides signaled they had no interest in an all-out war.
 
-By Yan Zhuang
-
-* * *
+By Isabel Kershner, Ronen Bergman and Ben Hubbard
 
 * * *
 
-Greek Fires Force Thousands More to Evacuate
---------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/07/world/europe/greece-turkey-fires-ferry.html)
+Children who had even mild Covid are facing confounding long-term symptoms.
+---------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/07/world/07greece-fires01/merlin_192934347_4f4d36c3-637d-4fd3-8174-04e455f23cf9-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/europe/greece-turkey-fires-ferry.html)
+[Article here](https://www.nytimes.com/2021/08/08/world/children-who-had-even-mild-covid-are-facing-confounding-long-term-symptoms.html)
 
-Wildfires are raging in Greece and Turkey as southern Europe faces one of its worst heat waves in decades.
+[![](https://static01.nyt.com/images/2021/08/05/science/08virus-briefing-long-covid-children/merlin_187283484_30991c7d-cd02-4fd7-997c-17845725d124-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/world/children-who-had-even-mild-covid-are-facing-confounding-long-term-symptoms.html)
 
-By Niki Kitsantonis
+By Pam Belluck
 
 * * *
 
