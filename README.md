@@ -19,7 +19,22 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Hezbollah Fires Rockets at Israel as Risk of Escalation Looms
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How an Obscure Swim Club Got a Say in Choosing Hong Kong’s Leader
+-----------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/08/world/asia/hong-kong-china-election.html)
+
+[![](https://static01.nyt.com/images/2021/08/06/world/00hk-china2/00hk-china2-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/world/asia/hong-kong-china-election.html)
+
+Beijing is making it nearly impossible for the pro-democracy camp to win city elections. One tool: “grass roots” groups loyal to the government.
+
+By Vivian Wang and Joy Dong
+
+* * *
+
+* * *
+
+Hezbollah Fires Rockets at Israel as Risk of Escalation Looms
 -------------------------------------------------------------
 
 [Article here](https://www.nytimes.com/2021/08/06/world/middleeast/israel-lebanon-rockets.html)
@@ -29,19 +44,6 @@ Come back in a few hours and seeif the news section has changed! (Is it too long
 Tensions between Israel and Iran and its Hezbollah allies intensified even as both sides signaled they had no interest in an all-out war.
 
 By Isabel Kershner, Ronen Bergman and Ben Hubbard
-
-* * *
-
-* * *
-
-Children who had even mild Covid are facing confounding long-term symptoms.
----------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/08/world/children-who-had-even-mild-covid-are-facing-confounding-long-term-symptoms.html)
-
-[![](https://static01.nyt.com/images/2021/08/05/science/08virus-briefing-long-covid-children/merlin_187283484_30991c7d-cd02-4fd7-997c-17845725d124-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/world/children-who-had-even-mild-covid-are-facing-confounding-long-term-symptoms.html)
-
-By Pam Belluck
 
 * * *
 
