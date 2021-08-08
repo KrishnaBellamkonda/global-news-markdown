@@ -19,31 +19,27 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the They Wait Hours to Withdraw Cash, but Most A.T.M.s Are Empty
-------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Canada’s Drought Is Forcing Farmers to Make Once-Unthinkable Choices
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/07/world/asia/myanmar-cash-coup.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/canada/canada-wildfires-drought.html)
 
-[![](https://static01.nyt.com/images/2021/08/02/world/00myanmar-cash-1/merlin_185479260_d0abef84-82ba-4e27-b641-d43ed4a28d34-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/asia/myanmar-cash-coup.html)
+[![](https://static01.nyt.com/images/2021/08/06/world/06CANADA-LETTER1/merlin_191200350_f0da77ff-c962-4a29-bf58-b23d699104b5-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/canada/canada-wildfires-drought.html)
 
-Myanmar has been crippled by a cash shortage since the military seized power six months ago, plunging the Southeast Asian nation into a financial crisis.
+This summer has seen devastation across Western Canada with extreme weather, raging wildfires and drought threatening lives and livelihoods.
 
-By Richard C. Paddock
-
-* * *
+By Vjosa Isai
 
 * * *
 
-Australian Man to Be Charged in Parliament House Rape Case
-----------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/06/world/australia/brittany-higgins-rape-parliament.html)
+Unvaccinated Americans explain their decisions.
+-----------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/06/world/06oz-rape/06oz-rape-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/australia/brittany-higgins-rape-parliament.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/unvaccinated-americans-explain-their-decisions.html)
 
-Brittany Higgins had sent shock waves through the country when she said she was attacked by a co-worker in 2019.
-
-By Yan Zhuang
+[![](https://static01.nyt.com/images/2021/08/06/world/06virus-briefing-daily-unvaccinated/merlin_187757796_c4189f2a-5af3-4800-ae11-b99c526f0eea-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/unvaccinated-americans-explain-their-decisions.html)
 
 * * *
 
