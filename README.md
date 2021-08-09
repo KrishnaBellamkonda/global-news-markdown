@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the With More Freedom, Young Women in Albania Shun Tradition of ‘Sworn Virgins’
----------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Jacob Desvarieux, Guitarist Who Forged Zouk Style, Dies at 65
+-------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/08/world/europe/sworn-virgins-albania.html)
+[Article here](https://www.nytimes.com/2021/08/08/arts/music/jacob-desvarieux-dead.html)
 
-[![](https://static01.nyt.com/images/2021/08/04/world/04Albania-women1/merlin_191966205_a30a1970-4818-4c7c-a7ac-d720cb6a9a75-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/world/europe/sworn-virgins-albania.html)
+[![](https://static01.nyt.com/images/2021/08/08/us/08desvarieux/08desvarieux-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/arts/music/jacob-desvarieux-dead.html)
 
-A centuries-old tradition in which women declared themselves men so they could enjoy male privilege is dying out as young women have more options available to them to live their own lives.
+His band, Kassav’, found millions of listeners as it held on to Caribbean roots while reaching out to the world. He died of Covid-19.
+
+By Jon Pareles
 
 * * *
 
 * * *
 
-On Afghanistan’s Front Line, There Are No Good Choices
-------------------------------------------------------
+Olympics End as They Began: Strangely
+-------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/09/world/asia/Afghanistan-taliban-kandahar.html)
+[Article here](https://www.nytimes.com/2021/08/08/sports/olympics/tokyo-olympics-closing-ceremony.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/world/00afghanistan-kandahar-dispatch-top/00afghanistan-kandahar-dispatch-top-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/world/asia/Afghanistan-taliban-kandahar.html)
+[![](https://static01.nyt.com/images/2021/08/08/sports/08japan-olympics-closing-1/08japan-olympics-closing-1-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/08/sports/olympics/tokyo-olympics-closing-ceremony.html)
 
-For the past month, Kandahar, Afghanistan’s second-largest city, has been under siege by Taliban fighters. Families stuck between them and government forces have almost nowhere to go.
+The 32nd Summer Olympics came to a close in Tokyo. “We did it — together!” the president of the International Olympic Committee said, to lukewarm applause.
 
-By Thomas Gibbons-Neff, Fahim Abed and Jim Huylebroek
+By Motoko Rich
 
 * * *
 
