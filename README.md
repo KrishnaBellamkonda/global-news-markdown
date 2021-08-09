@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the For Seniors Especially, Covid Can Be Stealthy
----------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the With More Freedom, Young Women in Albania Shun Tradition of ‘Sworn Virgins’
+---------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/08/health/coronavirus-symptoms-elderly.html)
+[Article here](https://www.nytimes.com/2021/08/08/world/europe/sworn-virgins-albania.html)
 
-[![](https://static01.nyt.com/images/2021/08/10/science/07SCI-SPAN-ATYPICAL-1/merlin_192514638_a5286e84-51f5-4f70-870e-85273cf892f4-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/health/coronavirus-symptoms-elderly.html)
+[![](https://static01.nyt.com/images/2021/08/04/world/04Albania-women1/merlin_191966205_a30a1970-4818-4c7c-a7ac-d720cb6a9a75-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/world/europe/sworn-virgins-albania.html)
 
-With infections increasing once more, and hospitalization rising among older adults, health experts offer a timely warning: a coronavirus infection can look different in older patients.
-
-By Paula Span
+A centuries-old tradition in which women declared themselves men so they could enjoy male privilege is dying out as young women have more options available to them to live their own lives.
 
 * * *
 
 * * *
 
-A Hotter Future
----------------
+On Afghanistan’s Front Line, There Are No Good Choices
+------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/09/briefing/climate-report-global-warming-future.html)
+[Article here](https://www.nytimes.com/2021/08/09/world/asia/Afghanistan-taliban-kandahar.html)
 
-[![](https://static01.nyt.com/images/2021/08/09/lens/09ambriefing-promo/09ambriefing-climate01-superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/09/briefing/climate-report-global-warming-future.html)
+[![](https://static01.nyt.com/images/2021/08/06/world/00afghanistan-kandahar-dispatch-top/00afghanistan-kandahar-dispatch-top-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/world/asia/Afghanistan-taliban-kandahar.html)
 
-Human activity has significantly heated the Earth already. But several climate futures are still possible.
+For the past month, Kandahar, Afghanistan’s second-largest city, has been under siege by Taliban fighters. Families stuck between them and government forces have almost nowhere to go.
 
-By Somini Sengupta
+By Thomas Gibbons-Neff, Fahim Abed and Jim Huylebroek
 
 * * *
 
