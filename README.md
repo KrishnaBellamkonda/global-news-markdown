@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Greek Fires Force Thousands More to Evacuate
---------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the For Seniors Especially, Covid Can Be Stealthy
+---------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/07/world/europe/greece-turkey-fires-ferry.html)
+[Article here](https://www.nytimes.com/2021/08/08/health/coronavirus-symptoms-elderly.html)
 
-[![](https://static01.nyt.com/images/2021/08/07/world/07greece-fires01/merlin_192934347_4f4d36c3-637d-4fd3-8174-04e455f23cf9-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/europe/greece-turkey-fires-ferry.html)
+[![](https://static01.nyt.com/images/2021/08/10/science/07SCI-SPAN-ATYPICAL-1/merlin_192514638_a5286e84-51f5-4f70-870e-85273cf892f4-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/health/coronavirus-symptoms-elderly.html)
 
-Wildfires are raging in Greece and Turkey as southern Europe faces one of its worst heat waves in decades.
+With infections increasing once more, and hospitalization rising among older adults, health experts offer a timely warning: a coronavirus infection can look different in older patients.
 
-By Niki Kitsantonis
-
-* * *
+By Paula Span
 
 * * *
 
-Arkansas’ governor says it ‘was an error’ to ban mask mandates.
----------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/08/world/asa-hutchinson-arkansas-mask-mandate.html)
+Jacob Desvarieux, Guitarist Who Forged Zouk Style, Dies at 65
+-------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/08/business/08virus-briefing-arkansas/08virus-briefing-arkansas-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/world/asa-hutchinson-arkansas-mask-mandate.html)
+[Article here](https://www.nytimes.com/2021/08/08/arts/music/jacob-desvarieux-dead.html)
 
-Gov. Asa Hutchinson is working to modify a bill he signed in April in the wake of rising case counts and outbreaks at schools.
+[![](https://static01.nyt.com/images/2021/08/08/us/08desvarieux/08desvarieux-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/arts/music/jacob-desvarieux-dead.html)
 
-By Melina Delkic
+His band, Kassav’, found millions of listeners as it held on to Caribbean roots while reaching out to the world. He died of Covid-19.
+
+By Jon Pareles
 
 * * *
 
