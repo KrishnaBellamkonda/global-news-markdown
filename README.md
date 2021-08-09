@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Alibaba Will Fire Employee After Rape Accusation
-------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the For Seniors Especially, Covid Can Be Stealthy
+---------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/08/business/alibaba-rape-china-metoo.html)
+[Article here](https://www.nytimes.com/2021/08/08/health/coronavirus-symptoms-elderly.html)
 
-[![](https://static01.nyt.com/images/2021/08/09/world/08china-metoo-print/merlin_190777800_5d1c1c40-bc1f-4340-b7dd-121c955b3e8a-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/business/alibaba-rape-china-metoo.html)
+[![](https://static01.nyt.com/images/2021/08/10/science/07SCI-SPAN-ATYPICAL-1/merlin_192514638_a5286e84-51f5-4f70-870e-85273cf892f4-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/health/coronavirus-symptoms-elderly.html)
 
-Two senior managers also resigned for failing to respond appropriately after the woman reported the incident, the company’s chief executive said in a memo.
+With infections increasing once more, and hospitalization rising among older adults, health experts offer a timely warning: a coronavirus infection can look different in older patients.
 
-By Sui-Lee Wee
-
-* * *
+By Paula Span
 
 * * *
 
-They Wait Hours to Withdraw Cash, but Most A.T.M.s Are Empty
-------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/07/world/asia/myanmar-cash-coup.html)
+Jacob Desvarieux, Guitarist Who Forged Zouk Style, Dies at 65
+-------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/02/world/00myanmar-cash-1/merlin_185479260_d0abef84-82ba-4e27-b641-d43ed4a28d34-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/asia/myanmar-cash-coup.html)
+[Article here](https://www.nytimes.com/2021/08/08/arts/music/jacob-desvarieux-dead.html)
 
-Myanmar has been crippled by a cash shortage since the military seized power six months ago, plunging the Southeast Asian nation into a financial crisis.
+[![](https://static01.nyt.com/images/2021/08/08/us/08desvarieux/08desvarieux-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/arts/music/jacob-desvarieux-dead.html)
 
-By Richard C. Paddock
+His band, Kassav’, found millions of listeners as it held on to Caribbean roots while reaching out to the world. He died of Covid-19.
+
+By Jon Pareles
 
 * * *
 
