@@ -34,16 +34,16 @@ By Paula Span
 
 * * *
 
-Jacob Desvarieux, Guitarist Who Forged Zouk Style, Dies at 65
--------------------------------------------------------------
+A Hotter Future
+---------------
 
-[Article here](https://www.nytimes.com/2021/08/08/arts/music/jacob-desvarieux-dead.html)
+[Article here](https://www.nytimes.com/2021/08/09/briefing/climate-report-global-warming-future.html)
 
-[![](https://static01.nyt.com/images/2021/08/08/us/08desvarieux/08desvarieux-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/arts/music/jacob-desvarieux-dead.html)
+[![](https://static01.nyt.com/images/2021/08/09/lens/09ambriefing-promo/09ambriefing-climate01-superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/09/briefing/climate-report-global-warming-future.html)
 
-His band, Kassav’, found millions of listeners as it held on to Caribbean roots while reaching out to the world. He died of Covid-19.
+Human activity has significantly heated the Earth already. But several climate futures are still possible.
 
-By Jon Pareles
+By Somini Sengupta
 
 * * *
 
