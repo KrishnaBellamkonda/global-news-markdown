@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Is a Big Casino Footprint in a Tiny Principality a Good or a Bad Bet?
----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Taliban fly their flag in Kunduz as exhausted Afghan troops regroup.
+------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/07/world/europe/liechtenstein-gambling-casinos.html)
+[Article here](https://www.nytimes.com/2021/08/08/world/asia/afghanistan-taliban-kunduz.html)
 
-[![](https://static01.nyt.com/images/2021/07/28/world/xxlichtenstein-01/merlin_188585007_2a27aac3-f8c5-41b9-a8d2-59b66e171e7f-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/europe/liechtenstein-gambling-casinos.html)
+[![](https://static01.nyt.com/images/2021/08/08/world/08KUNDUZ-VIDEO-COVER/08KUNDUZ-VIDEO-COVER-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/world/asia/afghanistan-taliban-kunduz.html)
 
-Liechtenstein, where gambling had largely been illegal until 2010, now has more casinos per capita than Macau or Monaco. Some critics worry that it’s more than the principality can handle.
+The rapid fall of important Afghan cities comes as insurgent fighters have pressed their offensive all around the country, dividing Afghan forces as U.S. troops depart.
 
-By Noele Illien
-
-* * *
+By Christina Goldbaum, Najim Rahim, Sharif Hassan and Thomas Gibbons-Neff
 
 * * *
 
-When cities are falling to the Taliban, what happens next can vary.
--------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/08/world/asia/afghanistan-taliban-cities.html)
+Greek Fires Force Thousands More to Evacuate
+--------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/08/pageoneplus/00afghanistanbriefing-when-cities-fall/merlin_190753719_e137fedd-d26b-49e1-9a94-caffdd5e929b-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/world/asia/afghanistan-taliban-cities.html)
+[Article here](https://www.nytimes.com/2021/08/07/world/europe/greece-turkey-fires-ferry.html)
 
-By Thomas Gibbons-Neff and Najim Rahim
+[![](https://static01.nyt.com/images/2021/08/07/world/07greece-fires01/merlin_192934347_4f4d36c3-637d-4fd3-8174-04e455f23cf9-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/europe/greece-turkey-fires-ferry.html)
+
+Wildfires are raging in Greece and Turkey as southern Europe faces one of its worst heat waves in decades.
+
+By Niki Kitsantonis
 
 * * *
 
