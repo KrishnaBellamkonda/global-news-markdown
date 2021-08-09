@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Behind the Haiti Assassination, Colombia’s Growing Mercenary Industry
----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Alibaba Will Fire Employee After Rape Accusation
+------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/07/world/americas/haiti-assassination-colombia-mercenaries.html)
+[Article here](https://www.nytimes.com/2021/08/08/business/alibaba-rape-china-metoo.html)
 
-[![](https://static01.nyt.com/images/2021/08/07/world/07colombia-mercenaries-HP/07colombia-mercenaries-HP-superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/07/world/americas/haiti-assassination-colombia-mercenaries.html)
+[![](https://static01.nyt.com/images/2021/08/09/world/08china-metoo-print/merlin_190777800_5d1c1c40-bc1f-4340-b7dd-121c955b3e8a-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/business/alibaba-rape-china-metoo.html)
 
-Exporting soldiers has become a vast industry in Colombia, fueled by the country’s long U.S.-backed war, limited opportunity at home and growing demand abroad.
+Two senior managers also resigned for failing to respond appropriately after the woman reported the incident, the company’s chief executive said in a memo.
 
-By Julie Turkewitz and Anatoly Kurmanaev
-
-* * *
+By Sui-Lee Wee
 
 * * *
 
-Taliban Take Second Afghan City in Two Days
--------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/07/world/asia/taliban-afghanistan.html)
+They Wait Hours to Withdraw Cash, but Most A.T.M.s Are Empty
+------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/07/world/07afghanistan1/merlin_187641231_07b18785-0ebe-4601-b867-c2dd143b5dc4-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/asia/taliban-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/07/world/asia/myanmar-cash-coup.html)
 
-Sheberghan, in Jowzjan Province, collapsed less than 24 hours after a provincial capital in southwestern Afghanistan had fallen to the Taliban.
+[![](https://static01.nyt.com/images/2021/08/02/world/00myanmar-cash-1/merlin_185479260_d0abef84-82ba-4e27-b641-d43ed4a28d34-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/asia/myanmar-cash-coup.html)
 
-By Thomas Gibbons-Neff, Fahim Abed and Sharif Hassan
+Myanmar has been crippled by a cash shortage since the military seized power six months ago, plunging the Southeast Asian nation into a financial crisis.
+
+By Richard C. Paddock
 
 * * *
 
