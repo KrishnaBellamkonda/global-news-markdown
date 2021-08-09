@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Taliban fly their flag in Kunduz as exhausted Afghan troops regroup.
-------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taliban Take Second Afghan City in Two Days
+-------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/08/world/asia/afghanistan-taliban-kunduz.html)
+[Article here](https://www.nytimes.com/2021/08/07/world/asia/taliban-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/08/08/world/08KUNDUZ-VIDEO-COVER/08KUNDUZ-VIDEO-COVER-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/world/asia/afghanistan-taliban-kunduz.html)
+[![](https://static01.nyt.com/images/2021/08/07/world/07afghanistan1/merlin_187641231_07b18785-0ebe-4601-b867-c2dd143b5dc4-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/asia/taliban-afghanistan.html)
 
-The rapid fall of important Afghan cities comes as insurgent fighters have pressed their offensive all around the country, dividing Afghan forces as U.S. troops depart.
+Sheberghan, in Jowzjan Province, collapsed less than 24 hours after a provincial capital in southwestern Afghanistan had fallen to the Taliban.
 
-By Christina Goldbaum, Najim Rahim, Sharif Hassan and Thomas Gibbons-Neff
-
-* * *
+By Thomas Gibbons-Neff, Fahim Abed and Sharif Hassan
 
 * * *
 
-Greek Fires Force Thousands More to Evacuate
---------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/07/world/europe/greece-turkey-fires-ferry.html)
+Canada’s Drought Is Forcing Farmers to Make Once-Unthinkable Choices
+--------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/07/world/07greece-fires01/merlin_192934347_4f4d36c3-637d-4fd3-8174-04e455f23cf9-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/europe/greece-turkey-fires-ferry.html)
+[Article here](https://www.nytimes.com/2021/08/06/world/canada/canada-wildfires-drought.html)
 
-Wildfires are raging in Greece and Turkey as southern Europe faces one of its worst heat waves in decades.
+[![](https://static01.nyt.com/images/2021/08/06/world/06CANADA-LETTER1/merlin_191200350_f0da77ff-c962-4a29-bf58-b23d699104b5-superJumbo.jpg)](https://www.nytimes.com/2021/08/06/world/canada/canada-wildfires-drought.html)
 
-By Niki Kitsantonis
+This summer has seen devastation across Western Canada with extreme weather, raging wildfires and drought threatening lives and livelihoods.
+
+By Vjosa Isai
 
 * * *
 
