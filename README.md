@@ -19,22 +19,7 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Conservative Fellow Travelers: Tucker Carlson Drops In On Viktor Orban
-----------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/07/world/europe/tucker-carlson-hungary.html)
-
-[![](https://static01.nyt.com/images/2021/08/04/world/xxhungary-carlson01/merlin_192679038_d2ccc748-66b5-47cf-994d-e4eb48874f6d-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/europe/tucker-carlson-hungary.html)
-
-This week, the talk show host has been in Hungary, where Prime Minister Viktor Orban hopes to set up an ideological center for a global conservative movement.
-
-By Benjamin Novak and Michael M. Grynbaum
-
-* * *
-
-* * *
-
-Behind the Haiti Assassination, Colombia’s Growing Mercenary Industry
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Behind the Haiti Assassination, Colombia’s Growing Mercenary Industry
 ---------------------------------------------------------------------
 
 [Article here](https://www.nytimes.com/2021/08/07/world/americas/haiti-assassination-colombia-mercenaries.html)
@@ -44,6 +29,21 @@ Behind the Haiti Assassination, Colombia’s Growing Mercenary Industry
 Exporting soldiers has become a vast industry in Colombia, fueled by the country’s long U.S.-backed war, limited opportunity at home and growing demand abroad.
 
 By Julie Turkewitz and Anatoly Kurmanaev
+
+* * *
+
+* * *
+
+Taliban Take Second Afghan City in Two Days
+-------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/07/world/asia/taliban-afghanistan.html)
+
+[![](https://static01.nyt.com/images/2021/08/07/world/07afghanistan1/merlin_187641231_07b18785-0ebe-4601-b867-c2dd143b5dc4-superJumbo.jpg)](https://www.nytimes.com/2021/08/07/world/asia/taliban-afghanistan.html)
+
+Sheberghan, in Jowzjan Province, collapsed less than 24 hours after a provincial capital in southwestern Afghanistan had fallen to the Taliban.
+
+By Thomas Gibbons-Neff, Fahim Abed and Sharif Hassan
 
 * * *
 
