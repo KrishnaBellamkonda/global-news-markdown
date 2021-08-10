@@ -19,22 +19,7 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Washington State sets vaccine mandate for government and health care workers.
------------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/09/us/washington-state-workers-vaccine-mandate.html)
-
-[![](https://static01.nyt.com/images/2021/08/09/world/09virus-briefing-washington-state-mandate/merlin_174228081_fc070fa0-d81e-4293-8c8c-6b71561d7f3a-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/us/washington-state-workers-vaccine-mandate.html)
-
-Employees who refuse to get vaccinated would face losing their jobs, Gov. Jay Inslee said.
-
-By Adeel Hassan
-
-* * *
-
-* * *
-
-Settling Scores at a Fist-Fighting Festival in the Peruvian Andes
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Settling Scores at a Fist-Fighting Festival in the Peruvian Andes
 -----------------------------------------------------------------
 
 [Article here](https://www.nytimes.com/2021/08/09/travel/takanakuy-fighting-festival-peru.html)
@@ -44,6 +29,21 @@ Settling Scores at a Fist-Fighting Festival in the Peruvian Andes
 Each year on Dec. 25, thousands of locals gather in the town of Santo Tomás — dressed in elaborate costumes — to dance, drink and duke it out.
 
 By Mike Kai Chen
+
+* * *
+
+* * *
+
+Your Tuesday Briefing
+---------------------
+
+[Article here](https://www.nytimes.com/2021/08/09/briefing/climate-change-fires-olympics-afghanistan.html)
+
+[![](https://static01.nyt.com/images/2021/08/09/climate/10ambriefing-aus-nl-promo/merlin_192692550_3d5e43d9-a626-4a74-869f-6e7bdec851a7-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/briefing/climate-change-fires-olympics-afghanistan.html)
+
+A major climate report presents bleak findings.
+
+By Melina Delkic
 
 * * *
 
