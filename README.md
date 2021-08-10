@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Jacob Desvarieux, Guitarist Who Forged Zouk Style, Dies at 65
--------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As Afghan Cities Fall to Taliban, Brutal New Chapter Unfolds
+------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/08/arts/music/jacob-desvarieux-dead.html)
+[Article here](https://www.nytimes.com/2021/08/08/world/asia/taliban-kunduz-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/08/08/us/08desvarieux/08desvarieux-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/arts/music/jacob-desvarieux-dead.html)
+[![](https://static01.nyt.com/images/2021/08/08/world/08kunduz/08kunduz-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/world/asia/taliban-kunduz-afghanistan.html)
 
-His band, Kassav’, found millions of listeners as it held on to Caribbean roots while reaching out to the world. He died of Covid-19.
+“This is now a different kind of war, reminiscent of Syria.” The seizure of five capitals has amplified fears about Afghanistan’s future after the U.S. withdrawal.
 
-By Jon Pareles
-
-* * *
+By Christina Goldbaum, Najim Rahim, Sharif Hassan and Thomas Gibbons-Neff
 
 * * *
 
-Olympics End as They Began: Strangely
--------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/08/sports/olympics/tokyo-olympics-closing-ceremony.html)
+U.S. Signals It Will Release Some Still-Secret Files on Saudi Arabia and 9/11
+-----------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/08/sports/08japan-olympics-closing-1/08japan-olympics-closing-1-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/08/sports/olympics/tokyo-olympics-closing-ceremony.html)
+[Article here](https://www.nytimes.com/2021/08/09/us/politics/sept-11-saudi-arabia-biden.html)
 
-The 32nd Summer Olympics came to a close in Tokyo. “We did it — together!” the president of the International Olympic Committee said, to lukewarm applause.
+[![](https://static01.nyt.com/images/2021/08/06/us/politics/06dc-attacks/merlin_176881176_8335782d-bf5b-4a97-932e-9d907535b0cc-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/us/politics/sept-11-saudi-arabia-biden.html)
 
-By Motoko Rich
+The F.B.I. said it would review some long-classified documents for possible disclosure, a decision that followed a push by families of the attacks’ victims.
+
+By Katie Rogers, Heather Murphy and Charlie Savage
 
 * * *
 
