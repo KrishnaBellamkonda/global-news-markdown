@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Settling Scores at a Fist-Fighting Festival in the Peruvian Andes
------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Washington State sets vaccine mandate for government and health care workers.
+-----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/09/travel/takanakuy-fighting-festival-peru.html)
+[Article here](https://www.nytimes.com/2021/08/09/us/washington-state-workers-vaccine-mandate.html)
 
-[![](https://static01.nyt.com/images/2021/08/09/travel/09travel-peru-promo/09travel-peru-promo-superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/09/travel/takanakuy-fighting-festival-peru.html)
+[![](https://static01.nyt.com/images/2021/08/09/world/09virus-briefing-washington-state-mandate/merlin_174228081_fc070fa0-d81e-4293-8c8c-6b71561d7f3a-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/us/washington-state-workers-vaccine-mandate.html)
 
-Each year on Dec. 25, thousands of locals gather in the town of Santo Tomás — dressed in elaborate costumes — to dance, drink and duke it out.
+Employees who refuse to get vaccinated would face losing their jobs, Gov. Jay Inslee said.
 
-By Mike Kai Chen
-
-* * *
+By Adeel Hassan
 
 * * *
 
-Greece works to contain wildfires, as help arrives from other nations.
-----------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/09/world/europe/greece-fires.html)
+Your Tuesday Briefing
+---------------------
 
-[![](https://static01.nyt.com/images/2021/08/09/multimedia/09weather-climate-briefing-greece-monday/merlin_193072803_eac7bd11-73b9-4214-acc5-7987fd650e6f-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/world/europe/greece-fires.html)
+[Article here](https://www.nytimes.com/2021/08/10/briefing/climate-afghanistan-virus.html)
 
-Wildfires were still burning in Turkey and other parts of Europe, where a protracted heat wave has created tinderbox conditions.
+[![](https://static01.nyt.com/images/2021/08/10/us/10ambriefing-europe-nl-climate/merlin_193110306_f87a96f2-01ed-4710-bb97-b2bd841e1135-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/briefing/climate-afghanistan-virus.html)
 
-By Niki Kitsantonis
+Global reaction to a major climate report.
+
+By Natasha Frost
 
 * * *
 
