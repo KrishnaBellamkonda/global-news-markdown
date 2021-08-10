@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the He Worked With the U.S. for 9 Years. Now He’s Left Behind in Afghanistan.
--------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Suspect in Fire at French Cathedral Is Arrested in Killing of a Priest
+----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/10/world/afghan-interpreter-us-military.html)
+[Article here](https://www.nytimes.com/2021/08/09/world/europe/France-priest-killed-immigration-law.html)
 
-[![](https://static01.nyt.com/images/2021/08/10/video/10vid-afghan-thumb/10vid-afghan-thumb-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/afghan-interpreter-us-military.html)
+[![](https://static01.nyt.com/images/2021/08/09/world/09FRANCE1/09FRANCE1-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/world/europe/France-priest-killed-immigration-law.html)
 
-Video calls provide a rare, intimate look into the daily life of an Afghan family whose future is hanging in the balance as the U.S. war in Afghanistan comes to an end.
+The arrest of the suspect, a Rwandan asylum-seeker facing deportation, fueled criticism of the government’s immigration laws by right-wing politicians.
 
-By Isabelle Niu
-
-* * *
+By Norimitsu Onishi
 
 * * *
 
-The State of the American Mall
-------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/10/briefing/shopping-pandemic-american-malls.html)
+U.S. Signals It Will Release Some Still-Secret Files on Saudi Arabia and 9/11
+-----------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/10/lens/10ambriefing-promo/10ambriefing-mall01-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/10/briefing/shopping-pandemic-american-malls.html)
+[Article here](https://www.nytimes.com/2021/08/09/us/politics/sept-11-saudi-arabia-biden.html)
 
-The pandemic has changed shopping habits. Today, we take a look at what’s happening with malls in the U.S.
+[![](https://static01.nyt.com/images/2021/08/06/us/politics/06dc-attacks/merlin_176881176_8335782d-bf5b-4a97-932e-9d907535b0cc-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/us/politics/sept-11-saudi-arabia-biden.html)
 
-By Sapna Maheshwari
+The F.B.I. said it would review some long-classified documents for possible disclosure, a decision that followed a push by families of the attacks’ victims.
+
+By Katie Rogers, Heather Murphy and Charlie Savage
 
 * * *
 
