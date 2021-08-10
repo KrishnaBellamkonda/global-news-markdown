@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Washington State sets vaccine mandate for government and health care workers.
------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Wednesday Briefing
+-----------------------
 
-[Article here](https://www.nytimes.com/2021/08/09/us/washington-state-workers-vaccine-mandate.html)
+[Article here](https://www.nytimes.com/2021/08/10/briefing/taliban-advance-travel-us-cuomo-resignation.html)
 
-[![](https://static01.nyt.com/images/2021/08/09/world/09virus-briefing-washington-state-mandate/merlin_174228081_fc070fa0-d81e-4293-8c8c-6b71561d7f3a-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/us/washington-state-workers-vaccine-mandate.html)
+[![](https://static01.nyt.com/images/2021/08/10/world/11ambriefing-aus-nl-PROMO/merlin_123206912_4c009c2b-480d-44b3-8989-028d96fe6d21-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/briefing/taliban-advance-travel-us-cuomo-resignation.html)
 
-Employees who refuse to get vaccinated would face losing their jobs, Gov. Jay Inslee said.
+The Taliban is advancing rapidly.
 
-By Adeel Hassan
-
-* * *
+By Melina Delkic
 
 * * *
 
-Your Tuesday Briefing
----------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/10/briefing/climate-afghanistan-virus.html)
+Mexico’s President Defends News Anchor After Cartel Threat
+----------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/10/us/10ambriefing-europe-nl-climate/merlin_193110306_f87a96f2-01ed-4710-bb97-b2bd841e1135-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/briefing/climate-afghanistan-virus.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/americas/mexico-president-journalist-cartel-threat.html)
 
-Global reaction to a major climate report.
+[![](https://static01.nyt.com/images/2021/08/10/world/10mexico-journalist/merlin_193126938_a6d97734-454b-4f21-9b39-b3fc5e474e79-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/americas/mexico-president-journalist-cartel-threat.html)
 
-By Natasha Frost
+President Andrés Manuel López Obrador came out in defense of a TV news anchor, Azucena Uresti, after she received a death threat, apparently from a powerful drug cartel.
+
+By Oscar Lopez
 
 * * *
 
