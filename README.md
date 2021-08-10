@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Monday Briefing
---------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Mystery Attacks on Diplomats Leave Scores of Victims but Still Little Evidence
+------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/08/briefing/afghanistan-taliban-olympics.html)
+[Article here](https://www.nytimes.com/2021/08/08/us/politics/havana-syndrome-attacks-mystery.html)
 
-[![](https://static01.nyt.com/images/2021/08/09/us/09ambriefing-europe-nl-promo/09ambriefing-europe-nl-lede-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/briefing/afghanistan-taliban-olympics.html)
+[![](https://static01.nyt.com/images/2021/08/08/lens/08dc-intel-photo1/08dc-intel-photo1-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/us/politics/havana-syndrome-attacks-mystery.html)
 
-The Taliban take three more cities.
+While the leading theory in the “Havana syndrome” cases is directed microwave attacks, a classified session for senior government officials said months of investigation were inconclusive.
 
-By Natasha Frost
-
-* * *
+By David E. Sanger
 
 * * *
 
-Deadly Clashes Threaten South Sudan’s Shaky Peace Deal
-------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/09/world/africa/deadly-clashes-threaten-south-sudans-shaky-peace-deal.html)
+‘There Is a Right and Wrong Way to Tickle a Rat’
+------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/08/world/08southsudan-01/merlin_190582449_1ecb9412-1482-45b1-a8fd-d7c6cf615707-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/world/africa/deadly-clashes-threaten-south-sudans-shaky-peace-deal.html)
+[Article here](https://www.nytimes.com/2021/08/09/world/australia/lab-rats-tickle.html)
 
-Infighting within the vice president’s party is undermining an already unstable ruling alliance that was formed after a five-year civil war killed 400,000 people.
+[![](https://static01.nyt.com/images/2021/08/09/world/09oz-tickle-rats/09oz-tickle-rats-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/world/australia/lab-rats-tickle.html)
 
-By Abdi Latif Dahir
+Researchers in Australia tickled the rodents every day for a month to see if it would improve their emotional well-being.
+
+By Yan Zhuang
 
 * * *
 
