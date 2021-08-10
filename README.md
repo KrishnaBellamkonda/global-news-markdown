@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Deadly Clashes Threaten South Sudan’s Shaky Peace Deal
-------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/09/world/africa/deadly-clashes-threaten-south-sudans-shaky-peace-deal.html)
-
-[![](https://static01.nyt.com/images/2021/08/08/world/08southsudan-01/merlin_190582449_1ecb9412-1482-45b1-a8fd-d7c6cf615707-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/world/africa/deadly-clashes-threaten-south-sudans-shaky-peace-deal.html)
-
-Infighting within the vice president’s party is undermining an already unstable ruling alliance that was formed after a five-year civil war killed 400,000 people.
-
-By Abdi Latif Dahir
-
-* * *
-
-* * *
-
-Europe Reopened to Americans. Why, It Asks, Hasn’t the U.S. Reciprocated?
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the He Worked With the U.S. for 9 Years. Now He’s Left Behind in Afghanistan.
 -------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/10/world/europe/europe-reopened-to-americans-why-it-asks-hasnt-the-us-reciprocated.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/afghan-interpreter-us-military.html)
 
-[![](https://static01.nyt.com/images/2021/08/08/world/08VIRUS-EUROPEANS-TOP/merlin_193050768_5998e323-9939-4926-8309-5fb3dae1e045-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/europe/europe-reopened-to-americans-why-it-asks-hasnt-the-us-reciprocated.html)
+[![](https://static01.nyt.com/images/2021/08/10/video/10vid-afghan-thumb/10vid-afghan-thumb-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/afghan-interpreter-us-military.html)
 
-America’s borders remain closed to most European travelers during the pandemic, even those fully vaccinated. With fears of the Delta variant raging, there appears to be no end in sight.
+Video calls provide a rare, intimate look into the daily life of an Afghan family whose future is hanging in the balance as the U.S. war in Afghanistan comes to an end.
 
-By Nicholas Casey
+By Isabelle Niu
+
+* * *
+
+* * *
+
+The State of the American Mall
+------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/10/briefing/shopping-pandemic-american-malls.html)
+
+[![](https://static01.nyt.com/images/2021/08/10/lens/10ambriefing-promo/10ambriefing-mall01-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/10/briefing/shopping-pandemic-american-malls.html)
+
+The pandemic has changed shopping habits. Today, we take a look at what’s happening with malls in the U.S.
+
+By Sapna Maheshwari
 
 * * *
 
