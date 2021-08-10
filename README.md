@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Mystery Attacks on Diplomats Leave Scores of Victims but Still Little Evidence
-------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Deadly Clashes Threaten South Sudan’s Shaky Peace Deal
+------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/08/us/politics/havana-syndrome-attacks-mystery.html)
+[Article here](https://www.nytimes.com/2021/08/09/world/africa/deadly-clashes-threaten-south-sudans-shaky-peace-deal.html)
 
-[![](https://static01.nyt.com/images/2021/08/08/lens/08dc-intel-photo1/08dc-intel-photo1-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/us/politics/havana-syndrome-attacks-mystery.html)
+[![](https://static01.nyt.com/images/2021/08/08/world/08southsudan-01/merlin_190582449_1ecb9412-1482-45b1-a8fd-d7c6cf615707-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/world/africa/deadly-clashes-threaten-south-sudans-shaky-peace-deal.html)
 
-While the leading theory in the “Havana syndrome” cases is directed microwave attacks, a classified session for senior government officials said months of investigation were inconclusive.
+Infighting within the vice president’s party is undermining an already unstable ruling alliance that was formed after a five-year civil war killed 400,000 people.
 
-By David E. Sanger
-
-* * *
+By Abdi Latif Dahir
 
 * * *
 
-‘There Is a Right and Wrong Way to Tickle a Rat’
-------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/09/world/australia/lab-rats-tickle.html)
+Europe Reopened to Americans. Why, It Asks, Hasn’t the U.S. Reciprocated?
+-------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/09/world/09oz-tickle-rats/09oz-tickle-rats-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/world/australia/lab-rats-tickle.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/europe/europe-reopened-to-americans-why-it-asks-hasnt-the-us-reciprocated.html)
 
-Researchers in Australia tickled the rodents every day for a month to see if it would improve their emotional well-being.
+[![](https://static01.nyt.com/images/2021/08/08/world/08VIRUS-EUROPEANS-TOP/merlin_193050768_5998e323-9939-4926-8309-5fb3dae1e045-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/europe/europe-reopened-to-americans-why-it-asks-hasnt-the-us-reciprocated.html)
 
-By Yan Zhuang
+America’s borders remain closed to most European travelers during the pandemic, even those fully vaccinated. With fears of the Delta variant raging, there appears to be no end in sight.
+
+By Nicholas Casey
 
 * * *
 
