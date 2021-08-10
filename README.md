@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Settling Scores at a Fist-Fighting Festival in the Peruvian Andes
------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Monday Briefing
+--------------------
 
-[Article here](https://www.nytimes.com/2021/08/09/travel/takanakuy-fighting-festival-peru.html)
+[Article here](https://www.nytimes.com/2021/08/08/briefing/afghanistan-taliban-olympics.html)
 
-[![](https://static01.nyt.com/images/2021/08/09/travel/09travel-peru-promo/09travel-peru-promo-superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/09/travel/takanakuy-fighting-festival-peru.html)
+[![](https://static01.nyt.com/images/2021/08/09/us/09ambriefing-europe-nl-promo/09ambriefing-europe-nl-lede-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/briefing/afghanistan-taliban-olympics.html)
 
-Each year on Dec. 25, thousands of locals gather in the town of Santo Tomás — dressed in elaborate costumes — to dance, drink and duke it out.
+The Taliban take three more cities.
 
-By Mike Kai Chen
-
-* * *
+By Natasha Frost
 
 * * *
 
-Your Tuesday Briefing
----------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/09/briefing/climate-change-fires-olympics-afghanistan.html)
+Deadly Clashes Threaten South Sudan’s Shaky Peace Deal
+------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/09/climate/10ambriefing-aus-nl-promo/merlin_192692550_3d5e43d9-a626-4a74-869f-6e7bdec851a7-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/briefing/climate-change-fires-olympics-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/09/world/africa/deadly-clashes-threaten-south-sudans-shaky-peace-deal.html)
 
-A major climate report presents bleak findings.
+[![](https://static01.nyt.com/images/2021/08/08/world/08southsudan-01/merlin_190582449_1ecb9412-1482-45b1-a8fd-d7c6cf615707-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/world/africa/deadly-clashes-threaten-south-sudans-shaky-peace-deal.html)
 
-By Melina Delkic
+Infighting within the vice president’s party is undermining an already unstable ruling alliance that was formed after a five-year civil war killed 400,000 people.
+
+By Abdi Latif Dahir
 
 * * *
 
