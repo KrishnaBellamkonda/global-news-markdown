@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As Afghan Cities Fall to Taliban, Brutal New Chapter Unfolds
-------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/08/world/asia/taliban-kunduz-afghanistan.html)
-
-[![](https://static01.nyt.com/images/2021/08/08/world/08kunduz/08kunduz-superJumbo.jpg)](https://www.nytimes.com/2021/08/08/world/asia/taliban-kunduz-afghanistan.html)
-
-“This is now a different kind of war, reminiscent of Syria.” The seizure of five capitals has amplified fears about Afghanistan’s future after the U.S. withdrawal.
-
-By Christina Goldbaum, Najim Rahim, Sharif Hassan and Thomas Gibbons-Neff
-
-* * *
-
-* * *
-
-U.S. Signals It Will Release Some Still-Secret Files on Saudi Arabia and 9/11
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Washington State sets vaccine mandate for government and health care workers.
 -----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/09/us/politics/sept-11-saudi-arabia-biden.html)
+[Article here](https://www.nytimes.com/2021/08/09/us/washington-state-workers-vaccine-mandate.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/us/politics/06dc-attacks/merlin_176881176_8335782d-bf5b-4a97-932e-9d907535b0cc-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/us/politics/sept-11-saudi-arabia-biden.html)
+[![](https://static01.nyt.com/images/2021/08/09/world/09virus-briefing-washington-state-mandate/merlin_174228081_fc070fa0-d81e-4293-8c8c-6b71561d7f3a-superJumbo.jpg)](https://www.nytimes.com/2021/08/09/us/washington-state-workers-vaccine-mandate.html)
 
-The F.B.I. said it would review some long-classified documents for possible disclosure, a decision that followed a push by families of the attacks’ victims.
+Employees who refuse to get vaccinated would face losing their jobs, Gov. Jay Inslee said.
 
-By Katie Rogers, Heather Murphy and Charlie Savage
+By Adeel Hassan
+
+* * *
+
+* * *
+
+Settling Scores at a Fist-Fighting Festival in the Peruvian Andes
+-----------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/09/travel/takanakuy-fighting-festival-peru.html)
+
+[![](https://static01.nyt.com/images/2021/08/09/travel/09travel-peru-promo/09travel-peru-promo-superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/09/travel/takanakuy-fighting-festival-peru.html)
+
+Each year on Dec. 25, thousands of locals gather in the town of Santo Tomás — dressed in elaborate costumes — to dance, drink and duke it out.
+
+By Mike Kai Chen
 
 * * *
 
