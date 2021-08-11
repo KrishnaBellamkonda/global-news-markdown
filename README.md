@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Wednesday Briefing
------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Ying-shih Yu, Renowned Scholar of Chinese Thought, Dies at 91
+-------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/10/briefing/taliban-advance-travel-us-cuomo-resignation.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/asia/ying-shih-yu-dead.html)
 
-[![](https://static01.nyt.com/images/2021/08/10/world/11ambriefing-aus-nl-PROMO/merlin_123206912_4c009c2b-480d-44b3-8989-028d96fe6d21-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/briefing/taliban-advance-travel-us-cuomo-resignation.html)
+[![](https://static01.nyt.com/images/2021/08/09/obituaries/09Yu/09Yu-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/asia/ying-shih-yu-dead.html)
 
-The Taliban is advancing rapidly.
+He believed that Chinese tradition was more varied and tolerant than critics thought it to be, and that it could be a vessel for enlightened values and democratic progress.
 
-By Melina Delkic
-
-* * *
+By Chris Buckley
 
 * * *
 
-Mexico’s President Defends News Anchor After Cartel Threat
-----------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/10/world/americas/mexico-president-journalist-cartel-threat.html)
+Saudi Arabia lifts a ban on foreign pilgrims heading to Mecca.
+--------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/10/world/10mexico-journalist/merlin_193126938_a6d97734-454b-4f21-9b39-b3fc5e474e79-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/americas/mexico-president-journalist-cartel-threat.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/middleeast/saudi-arabia-mecca-umrah.html)
 
-President Andrés Manuel López Obrador came out in defense of a TV news anchor, Azucena Uresti, after she received a death threat, apparently from a powerful drug cartel.
+[![](https://static01.nyt.com/images/2021/08/10/world/10virus-briefing-umrah/merlin_188506218_8d0f03c7-4662-487d-bdc7-39ee86457137-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/middleeast/saudi-arabia-mecca-umrah.html)
 
-By Oscar Lopez
+Starting this week, pilgrims fully vaccinated against the coronavirus by certain vaccines from outside the kingdom can apply to join the umrah pilgrimage.
+
+By Asmaa al-Omar
 
 * * *
 
