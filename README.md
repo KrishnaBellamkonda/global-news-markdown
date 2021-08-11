@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the He Worked With the U.S. for 9 Years. Now He’s Left Behind in Afghanistan.
--------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Covid-19 Has Slammed Bangladesh’s Hospitals. It Is Reopening Anyway.
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/10/world/afghan-interpreter-us-military.html)
+[Article here](https://www.nytimes.com/2021/08/11/world/asia/covid-bangladesh.html)
 
-[![](https://static01.nyt.com/images/2021/08/10/video/10vid-afghan-thumb/10vid-afghan-thumb-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/afghan-interpreter-us-military.html)
+[![](https://static01.nyt.com/images/2021/08/11/world/11virus-bangladesh-6/merlin_192790398_4b600b01-d27c-458e-b290-9c9d5e6e8906-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/asia/covid-bangladesh.html)
 
-Video calls provide a rare, intimate look into the daily life of an Afghan family whose future is hanging in the balance as the U.S. war in Afghanistan comes to an end.
+The government is lifting a lockdown despite warnings from health experts that the outbreak could worsen.
 
-By Isabelle Niu
-
-* * *
+By Saif Hasnat and Karan Deep Singh
 
 * * *
 
-Thousands in Britain Are Trying to Save Geronimo the Alpaca From Execution
---------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/10/world/europe/geronimo-alpaca-execution-.html)
+Your Wednesday Briefing
+-----------------------
 
-[![](https://static01.nyt.com/images/2021/08/10/us/10xp-alpaca/10xp-alpaca-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/europe/geronimo-alpaca-execution-.html)
+[Article here](https://www.nytimes.com/2021/08/10/briefing/taliban-advance-travel-us-cuomo-resignation.html)
 
-Agricultural authorities say he has bovine tuberculosis, but a local vet and a “human chain” of “alpaca angels” say the government’s test yields false positives.
+[![](https://static01.nyt.com/images/2021/08/10/world/11ambriefing-aus-nl-PROMO/merlin_123206912_4c009c2b-480d-44b3-8989-028d96fe6d21-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/briefing/taliban-advance-travel-us-cuomo-resignation.html)
 
-By Heather Murphy
+The Taliban is advancing rapidly.
+
+By Melina Delkic
 
 * * *
 
