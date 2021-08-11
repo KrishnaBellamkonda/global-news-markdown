@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Thousands in Britain Are Trying to Save Geronimo the Alpaca From Execution
---------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Non-E.U. visitors to France can get a health pass to enter social venues.
+-------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/10/world/europe/geronimo-alpaca-execution-.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/europe/france-covid-health-pass.html)
 
-[![](https://static01.nyt.com/images/2021/08/10/us/10xp-alpaca/10xp-alpaca-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/europe/geronimo-alpaca-execution-.html)
+[![](https://static01.nyt.com/images/2021/08/10/world/10virus-briefing-paris-pass/merlin_193096182_68c5ffdb-77f2-4280-9653-98def02b23dd-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/europe/france-covid-health-pass.html)
 
-Agricultural authorities say he has bovine tuberculosis, but a local vet and a “human chain” of “alpaca angels” say the government’s test yields false positives.
+Tourists had been concerned that they would not be allowed in cafes, museums and sporting events if their foreign vaccination certificates were not recognized.
 
-By Heather Murphy
-
-* * *
+By Constant Méheut
 
 * * *
 
-Ying-shih Yu, Renowned Scholar of Chinese Thought, Dies at 91
--------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/10/world/asia/ying-shih-yu-dead.html)
+China Sentences Canadian Businessman to 11 Years in Prison
+----------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/09/obituaries/09Yu/09Yu-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/asia/ying-shih-yu-dead.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/asia/china-canada-spavor-kovrig.html)
 
-He believed that Chinese tradition was more varied and tolerant than critics thought it to be, and that it could be a vessel for enlightened values and democratic progress.
+[![](https://static01.nyt.com/images/2021/08/11/world/11china-canada-HFO2/china-canada-HFO2-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/asia/china-canada-spavor-kovrig.html)
 
-By Chris Buckley
+The prosecution of Michael Spavor has been widely seen as political retaliation by China against Canada for the detention of a Chinese technology executive.
+
+By Chris Buckley, Dan Bilefsky and Tracy Sherlock
 
 * * *
 
