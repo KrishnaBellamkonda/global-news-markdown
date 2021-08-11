@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A Yearlong Cry for Help, Then Death After an Assault
-----------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the He Worked With the U.S. for 9 Years. Now He’s Left Behind in Afghanistan.
+-------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/10/world/europe/uk-domestic-abuse.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/afghan-interpreter-us-military.html)
 
-[![](https://static01.nyt.com/images/2021/08/09/world/09Daniella1/merlin_191213475_afa47b8b-c67e-4ce9-9875-69a3a1c55b14-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/europe/uk-domestic-abuse.html)
+[![](https://static01.nyt.com/images/2021/08/10/video/10vid-afghan-thumb/10vid-afghan-thumb-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/afghan-interpreter-us-military.html)
 
-Daniela Espirito Santo died after an assault by her boyfriend, who had been arrested, then released, by police. Her case is emblematic of Britain’s failure to protect victims of domestic abuse.
+Video calls provide a rare, intimate look into the daily life of an Afghan family whose future is hanging in the balance as the U.S. war in Afghanistan comes to an end.
 
-By Jane Bradley
-
-* * *
+By Isabelle Niu
 
 * * *
 
-A surge in dengue cases adds to the hospital burden in Covid-racked South Asia.
--------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/10/world/a-surge-in-dengue-cases-adds-to-the-hospital-burden-in-covid-racked-south-asia.html)
+China Sentences Canadian Businessman to 11 Years in Prison
+----------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/10/world/10virus-briefing-Indiadengue/merlin_191935839_8d3071b7-af22-4ecf-893b-845210a0733e-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/a-surge-in-dengue-cases-adds-to-the-hospital-burden-in-covid-racked-south-asia.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/asia/china-canada-spavor-kovrig.html)
 
-By Aanya Wipulasena and Saif Hasnat
+[![](https://static01.nyt.com/images/2021/08/11/world/11china-canada-HFO2/china-canada-HFO2-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/asia/china-canada-spavor-kovrig.html)
+
+The prosecution of Michael Spavor has been widely seen as political retaliation by China against Canada for the detention of a Chinese technology executive.
+
+By Chris Buckley, Dan Bilefsky and Tracy Sherlock
 
 * * *
 
