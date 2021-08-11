@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the He Worked With the U.S. for 9 Years. Now He’s Left Behind in Afghanistan.
--------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Thousands in Britain Are Trying to Save Geronimo the Alpaca From Execution
+--------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/10/world/afghan-interpreter-us-military.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/europe/geronimo-alpaca-execution-.html)
 
-[![](https://static01.nyt.com/images/2021/08/10/video/10vid-afghan-thumb/10vid-afghan-thumb-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/afghan-interpreter-us-military.html)
+[![](https://static01.nyt.com/images/2021/08/10/us/10xp-alpaca/10xp-alpaca-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/europe/geronimo-alpaca-execution-.html)
 
-Video calls provide a rare, intimate look into the daily life of an Afghan family whose future is hanging in the balance as the U.S. war in Afghanistan comes to an end.
+Agricultural authorities say he has bovine tuberculosis, but a local vet and a “human chain” of “alpaca angels” say the government’s test yields false positives.
 
-By Isabelle Niu
-
-* * *
+By Heather Murphy
 
 * * *
 
-China Sentences Canadian Businessman to 11 Years in Prison
-----------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/10/world/asia/china-canada-spavor-kovrig.html)
+Ying-shih Yu, Renowned Scholar of Chinese Thought, Dies at 91
+-------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/11/world/11china-canada-HFO2/china-canada-HFO2-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/asia/china-canada-spavor-kovrig.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/asia/ying-shih-yu-dead.html)
 
-The prosecution of Michael Spavor has been widely seen as political retaliation by China against Canada for the detention of a Chinese technology executive.
+[![](https://static01.nyt.com/images/2021/08/09/obituaries/09Yu/09Yu-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/asia/ying-shih-yu-dead.html)
 
-By Chris Buckley, Dan Bilefsky and Tracy Sherlock
+He believed that Chinese tradition was more varied and tolerant than critics thought it to be, and that it could be a vessel for enlightened values and democratic progress.
+
+By Chris Buckley
 
 * * *
 
