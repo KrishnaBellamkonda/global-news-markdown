@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Wednesday Briefing
------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taliban Overrun 3 More Provincial Capitals, Increasing Pressure on Kabul
+------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/11/briefing/cuomo-domestic-abuse-soccer.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/asia/afghanistan-taliban-farah-cities.html)
 
-[![](https://static01.nyt.com/images/2021/08/11/us/11ambriefing-europe-nl-promo/merlin_193127319_33971fcd-0341-4cc9-a781-4993821fc6b3-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/briefing/cuomo-domestic-abuse-soccer.html)
+[![](https://static01.nyt.com/images/2021/08/10/world/10afghanistan-01/merlin_123206912_4c009c2b-480d-44b3-8989-028d96fe6d21-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/asia/afghanistan-taliban-farah-cities.html)
 
-Gov. Andrew Cuomo resigns.
+Local officials said insurgents had flooded Pul-i-Khumri and Faizabad in the north, and Farah in western Afghanistan, making it 9 fallen cities in five days.
 
-By Natasha Frost
-
-* * *
+By Thomas Gibbons-Neff, Najim Rahim and Taimoor Shah
 
 * * *
 
-Non-E.U. visitors to France can get a health pass to enter social venues.
--------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/10/world/europe/france-covid-health-pass.html)
+As Wildfires Ravage Greece, Countries Send Aid
+----------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/10/world/10virus-briefing-paris-pass/merlin_193096182_68c5ffdb-77f2-4280-9653-98def02b23dd-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/europe/france-covid-health-pass.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/europe/wildfires-greece-aid.html)
 
-Tourists had been concerned that they would not be allowed in cafes, museums and sporting events if their foreign vaccination certificates were not recognized.
+[![](https://static01.nyt.com/images/2021/08/10/world/10greece-fires-01/merlin_193118853_057ac865-015c-48d7-a7dd-83c5b736d18b-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/europe/wildfires-greece-aid.html)
 
-By Constant Méheut
+The prime minister called the fires, which have destroyed more than 200,000 acres of Greek forestland, a “natural disaster of unprecedented proportions.”
+
+By Niki Kitsantonis
 
 * * *
 
