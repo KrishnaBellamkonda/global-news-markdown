@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taliban Overrun 3 More Provincial Capitals, Increasing Pressure on Kabul
-------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the He Worked With the U.S. for 9 Years. Now He’s Left Behind in Afghanistan.
+-------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/10/world/asia/afghanistan-taliban-farah-cities.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/afghan-interpreter-us-military.html)
 
-[![](https://static01.nyt.com/images/2021/08/10/world/10afghanistan-01/merlin_123206912_4c009c2b-480d-44b3-8989-028d96fe6d21-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/asia/afghanistan-taliban-farah-cities.html)
+[![](https://static01.nyt.com/images/2021/08/10/video/10vid-afghan-thumb/10vid-afghan-thumb-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/afghan-interpreter-us-military.html)
 
-Local officials said insurgents had flooded Pul-i-Khumri and Faizabad in the north, and Farah in western Afghanistan, making it 9 fallen cities in five days.
+Video calls provide a rare, intimate look into the daily life of an Afghan family whose future is hanging in the balance as the U.S. war in Afghanistan comes to an end.
 
-By Thomas Gibbons-Neff, Najim Rahim and Taimoor Shah
-
-* * *
+By Isabelle Niu
 
 * * *
 
-As Wildfires Ravage Greece, Countries Send Aid
-----------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/10/world/europe/wildfires-greece-aid.html)
+Thousands in Britain Are Trying to Save Geronimo the Alpaca From Execution
+--------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/10/world/10greece-fires-01/merlin_193118853_057ac865-015c-48d7-a7dd-83c5b736d18b-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/europe/wildfires-greece-aid.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/europe/geronimo-alpaca-execution-.html)
 
-The prime minister called the fires, which have destroyed more than 200,000 acres of Greek forestland, a “natural disaster of unprecedented proportions.”
+[![](https://static01.nyt.com/images/2021/08/10/us/10xp-alpaca/10xp-alpaca-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/europe/geronimo-alpaca-execution-.html)
 
-By Niki Kitsantonis
+Agricultural authorities say he has bovine tuberculosis, but a local vet and a “human chain” of “alpaca angels” say the government’s test yields false positives.
+
+By Heather Murphy
 
 * * *
 
