@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Ying-shih Yu, Renowned Scholar of Chinese Thought, Dies at 91
--------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Wednesday Briefing
+-----------------------
 
-[Article here](https://www.nytimes.com/2021/08/10/world/asia/ying-shih-yu-dead.html)
+[Article here](https://www.nytimes.com/2021/08/11/briefing/cuomo-domestic-abuse-soccer.html)
 
-[![](https://static01.nyt.com/images/2021/08/09/obituaries/09Yu/09Yu-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/asia/ying-shih-yu-dead.html)
+[![](https://static01.nyt.com/images/2021/08/11/us/11ambriefing-europe-nl-promo/merlin_193127319_33971fcd-0341-4cc9-a781-4993821fc6b3-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/briefing/cuomo-domestic-abuse-soccer.html)
 
-He believed that Chinese tradition was more varied and tolerant than critics thought it to be, and that it could be a vessel for enlightened values and democratic progress.
+Gov. Andrew Cuomo resigns.
 
-By Chris Buckley
-
-* * *
+By Natasha Frost
 
 * * *
 
-Saudi Arabia lifts a ban on foreign pilgrims heading to Mecca.
---------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/10/world/middleeast/saudi-arabia-mecca-umrah.html)
+Non-E.U. visitors to France can get a health pass to enter social venues.
+-------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/10/world/10virus-briefing-umrah/merlin_188506218_8d0f03c7-4662-487d-bdc7-39ee86457137-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/middleeast/saudi-arabia-mecca-umrah.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/europe/france-covid-health-pass.html)
 
-Starting this week, pilgrims fully vaccinated against the coronavirus by certain vaccines from outside the kingdom can apply to join the umrah pilgrimage.
+[![](https://static01.nyt.com/images/2021/08/10/world/10virus-briefing-paris-pass/merlin_193096182_68c5ffdb-77f2-4280-9653-98def02b23dd-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/europe/france-covid-health-pass.html)
 
-By Asmaa al-Omar
+Tourists had been concerned that they would not be allowed in cafes, museums and sporting events if their foreign vaccination certificates were not recognized.
+
+By Constant Méheut
 
 * * *
 
