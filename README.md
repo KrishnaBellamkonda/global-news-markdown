@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Covid-19 Has Slammed Bangladesh’s Hospitals. It Is Reopening Anyway.
---------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A Yearlong Cry for Help, Then Death After an Assault
+----------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/11/world/asia/covid-bangladesh.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/europe/uk-domestic-abuse.html)
 
-[![](https://static01.nyt.com/images/2021/08/11/world/11virus-bangladesh-6/merlin_192790398_4b600b01-d27c-458e-b290-9c9d5e6e8906-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/asia/covid-bangladesh.html)
+[![](https://static01.nyt.com/images/2021/08/09/world/09Daniella1/merlin_191213475_afa47b8b-c67e-4ce9-9875-69a3a1c55b14-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/europe/uk-domestic-abuse.html)
 
-The government is lifting a lockdown despite warnings from health experts that the outbreak could worsen.
+Daniela Espirito Santo died after an assault by her boyfriend, who had been arrested, then released, by police. Her case is emblematic of Britain’s failure to protect victims of domestic abuse.
 
-By Saif Hasnat and Karan Deep Singh
-
-* * *
+By Jane Bradley
 
 * * *
 
-Your Wednesday Briefing
------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/10/briefing/taliban-advance-travel-us-cuomo-resignation.html)
+A surge in dengue cases adds to the hospital burden in Covid-racked South Asia.
+-------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/10/world/11ambriefing-aus-nl-PROMO/merlin_123206912_4c009c2b-480d-44b3-8989-028d96fe6d21-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/briefing/taliban-advance-travel-us-cuomo-resignation.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/a-surge-in-dengue-cases-adds-to-the-hospital-burden-in-covid-racked-south-asia.html)
 
-The Taliban is advancing rapidly.
+[![](https://static01.nyt.com/images/2021/08/10/world/10virus-briefing-Indiadengue/merlin_191935839_8d3071b7-af22-4ecf-893b-845210a0733e-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/a-surge-in-dengue-cases-adds-to-the-hospital-burden-in-covid-racked-south-asia.html)
 
-By Melina Delkic
+By Aanya Wipulasena and Saif Hasnat
 
 * * *
 
