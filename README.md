@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Poland’s Government Wins Vote on Media Bill, Despite Losing Majority
---------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your $4.39 Latte From the Local Roaster Could Soon Cost More
+------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/11/world/europe/polands-media-law-passes.html)
+[Article here](https://www.nytimes.com/2021/08/12/business/coffee-prices-higher.html)
 
-[![](https://static01.nyt.com/images/2021/08/11/world/11polandHFO-01/merlin_193154436_d878c454-cf94-41df-a69b-9e66539439c2-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/europe/polands-media-law-passes.html)
+[![](https://static01.nyt.com/images/2021/08/10/business/00CoffeePrices-01/merlin_193101318_b5c45469-accc-4523-b77f-5d96f6708103-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/business/coffee-prices-higher.html)
 
-The bill, which would ban non-European companies from controlling Polish broadcasters, was narrowly approved in a chaotic session in a win for the right-wing government.
+Climate shocks in Brazil and shipping bottlenecks have pushed the price of coffee beans sharply higher. Starbucks says it won’t be affected for more than a year, but small cafes can’t hold off that long.
 
-By Steven Erlanger and Monika Pronczuk
-
-* * *
+By Coral Murphy Marcos
 
 * * *
 
-Here’s what to know about breakthrough infections and the Delta variant.
-------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/11/science/heres-what-to-know-about-breakthrough-infections-and-the-delta-variant.html)
+Meet Delta, the good Samaritan robot.
+-------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/11/world/11virus-briefing-breakthrough-explainer/11virus-briefing-breakthrough-explainer-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/science/heres-what-to-know-about-breakthrough-infections-and-the-delta-variant.html)
+[Article here](https://www.nytimes.com/2021/08/12/world/asia/delta-robot-indonesia.html)
 
-By Apoorva Mandavilli
+[![](https://static01.nyt.com/images/2021/08/12/world/12virus-briefing-Indonesia-robot/merlin_191834436_05d964d8-ebb3-4c4b-93d4-8b59864588fe-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/asia/delta-robot-indonesia.html)
+
+The robot, made using a rice cooker and other household goods, is delivering food and other essential items to Indonesian villagers infected with the virus.
+
+By Yu Young Jin and Muktita Suhartono
 
 * * *
 
