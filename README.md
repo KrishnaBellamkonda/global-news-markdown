@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Algerian Soldiers Die Fighting Wildfires, President Says
---------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Thursday Briefing
+----------------------
 
-[Article here](https://www.nytimes.com/2021/08/10/world/algerian-soldiers-die-fighting-wildfires-president-says.html)
+[Article here](https://www.nytimes.com/2021/08/11/briefing/wildfires-delta-scotland-trump.html)
 
-[![](https://static01.nyt.com/images/2021/08/10/world/10algeria1/merlin_193121448_f8f304bc-f032-4d62-9a14-65ad2ade48c1-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/algerian-soldiers-die-fighting-wildfires-president-says.html)
+[![](https://static01.nyt.com/images/2021/08/11/world/12am-briefing-europe-greece-fire/merlin_193154997_2b36b717-cf80-4e1c-bf4f-c71a275ff1c9-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/briefing/wildfires-delta-scotland-trump.html)
 
-At least 25 soldiers were killed saving residents from wildfires ravaging mountain forests and villages east of the capital, he said. The civilian death toll from the blazes rose to at least 17.
+Extreme weather in Europe.
 
-By The Associated Press
-
-* * *
+By Natasha Frost
 
 * * *
 
-Thousands in Germany get extra shots after a nurse is suspected of tampering with the vaccine.
-----------------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/11/world/europe/german-nurse-vaccine-saline.html)
+China Sentences Canadian Businessman to 11 Years in Prison
+----------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/11/world/11virus-briefing-germany/11virus-briefing-germany-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/europe/german-nurse-vaccine-saline.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/asia/china-canada-spavor-kovrig.html)
 
-The nurse admitted to replacing six vaccine doses with a saline solution. The police suspect that she may have done so with many others during her time working at a clinic early this year.
+[![](https://static01.nyt.com/images/2021/08/11/world/11china-canada-HFO2/china-canada-HFO2-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/asia/china-canada-spavor-kovrig.html)
 
-By Christopher F. Schuetze
+The prosecution of Michael Spavor has been widely seen as political retaliation by China against Canada for the detention of a Chinese technology executive.
+
+By Chris Buckley, Dan Bilefsky and Tracy Sherlock
 
 * * *
 
