@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the What to Know About Breakthrough Infections and the Delta Variant
-----------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Algerian Soldiers Die Fighting Wildfires, President Says
+--------------------------------------------------------
 
-[Article here](https://www.nytimes.com/article/covid-breakthrough-delta-variant.html)
+[Article here](https://www.nytimes.com/2021/08/10/world/algerian-soldiers-die-fighting-wildfires-president-says.html)
 
-[![](https://static01.nyt.com/images/2021/08/10/science/00virus-breakthrough2/merlin_192270498_5dc4dd99-73d4-4f84-8d13-4f564b4dee1c-superJumbo.jpg)](https://www.nytimes.com/article/covid-breakthrough-delta-variant.html)
+[![](https://static01.nyt.com/images/2021/08/10/world/10algeria1/merlin_193121448_f8f304bc-f032-4d62-9a14-65ad2ade48c1-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/algerian-soldiers-die-fighting-wildfires-president-says.html)
 
-Scientific understanding of the coronavirus variant is changing quickly. Here’s a recap of the most important findings.
+At least 25 soldiers were killed saving residents from wildfires ravaging mountain forests and villages east of the capital, he said. The civilian death toll from the blazes rose to at least 17.
 
-By Apoorva Mandavilli
-
-* * *
+By The Associated Press
 
 * * *
 
-Germany will stop paying for virus tests for people choosing to remain unvaccinated.
-------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/10/world/europe/germany-covid-test.html)
+Thousands in Germany get extra shots after a nurse is suspected of tampering with the vaccine.
+----------------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/10/world/10virus-briefing-germanytesting/merlin_189829398_d03318dd-ab58-4cde-b56b-a98e13e81311-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/europe/germany-covid-test.html)
+[Article here](https://www.nytimes.com/2021/08/11/world/europe/german-nurse-vaccine-saline.html)
 
-People who choose not to get vaccinated will no longer get free antigen tests, starting in October.
+[![](https://static01.nyt.com/images/2021/08/11/world/11virus-briefing-germany/11virus-briefing-germany-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/europe/german-nurse-vaccine-saline.html)
 
-By Christopher F. Schuetze, Nicholas Casey, Eileen Sullivan, Davey Alba, Jason Gutierrez, Constant Méheut, Aanya Wipulasena and Saif Hasnat
+The nurse admitted to replacing six vaccine doses with a saline solution. The police suspect that she may have done so with many others during her time working at a clinic early this year.
+
+By Christopher F. Schuetze
 
 * * *
 
