@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Thursday Briefing
-----------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Indonesian Army to End So-Called Virginity Tests, Chief Says
+------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/11/briefing/wildfires-delta-scotland-trump.html)
+[Article here](https://www.nytimes.com/2021/08/11/world/asia/indonesia-army-virginity-tests.html)
 
-[![](https://static01.nyt.com/images/2021/08/11/world/12am-briefing-europe-greece-fire/merlin_193154997_2b36b717-cf80-4e1c-bf4f-c71a275ff1c9-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/briefing/wildfires-delta-scotland-trump.html)
+[![](https://static01.nyt.com/images/2021/08/07/world/07xp-indonesia/merlin_162156429_c500ff45-b920-441e-86b3-3dc25aac2d35-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/asia/indonesia-army-virginity-tests.html)
 
-Extreme weather in Europe.
+Women in the army have been subjected for decades to a procedure that has been condemned as pseudoscientific and a violation of human rights.
 
-By Natasha Frost
-
-* * *
+By Daniel Victor, Muktita Suhartono and Christine Hauser
 
 * * *
 
-China Sentences Canadian Businessman to 11 Years in Prison
-----------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/10/world/asia/china-canada-spavor-kovrig.html)
+Here’s what to know about breakthrough infections and the Delta variant.
+------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/11/world/11china-canada-HFO2/china-canada-HFO2-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/asia/china-canada-spavor-kovrig.html)
+[Article here](https://www.nytimes.com/2021/08/11/science/heres-what-to-know-about-breakthrough-infections-and-the-delta-variant.html)
 
-The prosecution of Michael Spavor has been widely seen as political retaliation by China against Canada for the detention of a Chinese technology executive.
+[![](https://static01.nyt.com/images/2021/08/11/world/11virus-briefing-breakthrough-explainer/11virus-briefing-breakthrough-explainer-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/science/heres-what-to-know-about-breakthrough-infections-and-the-delta-variant.html)
 
-By Chris Buckley, Dan Bilefsky and Tracy Sherlock
+By Apoorva Mandavilli
 
 * * *
 
