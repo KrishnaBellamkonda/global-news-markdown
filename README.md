@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A man who traveled to an Australian town while infected with the virus is being charged.
-----------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Indonesian Army to End So-Called Virginity Tests, Chief Says
+------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/11/world/australia/a-man-who-traveled-to-an-australian-town-while-infected-with-the-virus-is-being-charged.html)
+[Article here](https://www.nytimes.com/2021/08/11/world/asia/indonesia-army-virginity-tests.html)
 
-[![](https://static01.nyt.com/images/2021/08/11/world/11virus-briefing-globalroundup/merlin_187021179_b30676ad-f854-4a22-8851-9e686301b621-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/australia/a-man-who-traveled-to-an-australian-town-while-infected-with-the-virus-is-being-charged.html)
+[![](https://static01.nyt.com/images/2021/08/07/world/07xp-indonesia/merlin_162156429_c500ff45-b920-441e-86b3-3dc25aac2d35-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/asia/indonesia-army-virginity-tests.html)
 
-By Yan Zhuang
+Women in the army have been subjected for decades to a procedure that has been condemned as pseudoscientific and a violation of human rights.
+
+By Daniel Victor, Muktita Suhartono and Christine Hauser
 
 * * *
 
 * * *
 
-New Zealand, a pandemic success story, unveils a reopening strategy.
---------------------------------------------------------------------
+At least 5 children are missing as flash floods sweep through northern Turkey.
+------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/12/world/new-zealand-virus-reopening.html)
+[Article here](https://www.nytimes.com/2021/08/11/world/europe/turkey-floods.html)
 
-[![](https://static01.nyt.com/images/2021/08/12/world/12virus-briefing-nz-elimination/merlin_193177884_e5cb987e-398d-46b9-b802-319c84b26aee-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/new-zealand-virus-reopening.html)
+[![](https://static01.nyt.com/images/2021/08/11/world/11weather-climate-briefing-turkey-floods/merlin_193159893_50b3f5aa-0e83-4241-b8c3-e475ef24d2eb-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/europe/turkey-floods.html)
 
-From early next year, vaccinated travelers from low-risk countries can enter New Zealand without having to quarantine.
+Dozens of people have been rescued from flood-hit areas since Wednesday.
 
-By Natasha Frost
+By The New York Times
 
 * * *
 
