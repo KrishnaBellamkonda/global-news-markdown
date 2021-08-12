@@ -19,7 +19,22 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Indonesian Army to End So-Called Virginity Tests, Chief Says
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Thousands in Britain Are Trying to Save Geronimo the Alpaca From Execution
+--------------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/10/world/europe/geronimo-alpaca-execution-.html)
+
+[![](https://static01.nyt.com/images/2021/08/10/us/10xp-alpaca/10xp-alpaca-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/europe/geronimo-alpaca-execution-.html)
+
+Agricultural authorities say he has bovine tuberculosis, but a local vet and a “human chain” of “alpaca angels” say the government’s test yields false positives.
+
+By Heather Murphy
+
+* * *
+
+* * *
+
+Indonesian Army to End So-Called Virginity Tests, Chief Says
 ------------------------------------------------------------
 
 [Article here](https://www.nytimes.com/2021/08/11/world/asia/indonesia-army-virginity-tests.html)
@@ -29,19 +44,6 @@ Come back in a few hours and seeif the news section has changed! (Is it too long
 Women in the army have been subjected for decades to a procedure that has been condemned as pseudoscientific and a violation of human rights.
 
 By Daniel Victor, Muktita Suhartono and Christine Hauser
-
-* * *
-
-* * *
-
-Here’s what to know about breakthrough infections and the Delta variant.
-------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/11/science/heres-what-to-know-about-breakthrough-infections-and-the-delta-variant.html)
-
-[![](https://static01.nyt.com/images/2021/08/11/world/11virus-briefing-breakthrough-explainer/11virus-briefing-breakthrough-explainer-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/science/heres-what-to-know-about-breakthrough-infections-and-the-delta-variant.html)
-
-By Apoorva Mandavilli
 
 * * *
 
