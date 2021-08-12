@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Greek Island Is New Epicenter of Europe’s Summer of Calamity
-------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the This Boy Band Is the Joy That Hong Kong Needs Right Now
+-------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/11/world/europe/greece-wildfires-evia-climate-change-europe.html)
+[Article here](https://www.nytimes.com/2021/08/12/world/asia/hong-kong-mirror-band.html)
 
-[![](https://static01.nyt.com/images/2021/08/11/world/11greece-fires-promo/merlin_193154997_2b36b717-cf80-4e1c-bf4f-c71a275ff1c9-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/europe/greece-wildfires-evia-climate-change-europe.html)
+[![](https://static01.nyt.com/images/2021/08/09/world/00hongkong-boyband1/merlin_191599572_2abf6491-91cb-45f8-92ba-f1566376d89e-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/asia/hong-kong-mirror-band.html)
 
-Evia was ravaged by wildfires this week, adding to the list of places that have fallen victim to extreme weather events made worse by climate change and scorching temperatures.
+The popularity of the group, called Mirror, has offered the city a rare burst of unity and pleasure after years of political upheaval.
 
-By Jason Horowitz
-
-* * *
+By Vivian Wang and Joy Dong
 
 * * *
 
-Russia Brings a New Criminal Charge Against Navalny
----------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/11/world/europe/navalny-russia-criminal-charges.html)
+Migrants are not causing a rise in virus cases, border-area officials say.
+--------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/11/world/11russia-navalny01/11russia-navalny01-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/europe/navalny-russia-criminal-charges.html)
+[Article here](https://www.nytimes.com/live/2021/08/12/world/covid-delta-variant-vaccine/migrants-are-not-causing-a-rise-in-virus-cases-border-area-officials-say)
 
-The jailed opposition leader faces three additional years in prison — enough to keep him locked away until after the presidential election in 2024.
+[![](https://static01.nyt.com/images/2021/08/12/world/12virus-briefing-virus-border/merlin_193138329_76bca1fa-2073-43d2-be59-94aea8a7c1f5-superJumbo.jpg)](https://www.nytimes.com/live/2021/08/12/world/covid-delta-variant-vaccine/migrants-are-not-causing-a-rise-in-virus-cases-border-area-officials-say)
 
-By Anton Troianovski
+By Miriam Jordan
 
 * * *
 
