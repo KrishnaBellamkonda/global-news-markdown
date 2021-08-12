@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Thousands in Britain Are Trying to Save Geronimo the Alpaca From Execution
---------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Poland’s Government Wins Vote on Media Bill, Despite Losing Majority
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/10/world/europe/geronimo-alpaca-execution-.html)
+[Article here](https://www.nytimes.com/2021/08/11/world/europe/polands-media-law-passes.html)
 
-[![](https://static01.nyt.com/images/2021/08/10/us/10xp-alpaca/10xp-alpaca-superJumbo.jpg)](https://www.nytimes.com/2021/08/10/world/europe/geronimo-alpaca-execution-.html)
+[![](https://static01.nyt.com/images/2021/08/11/world/11polandHFO-01/merlin_193154436_d878c454-cf94-41df-a69b-9e66539439c2-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/europe/polands-media-law-passes.html)
 
-Agricultural authorities say he has bovine tuberculosis, but a local vet and a “human chain” of “alpaca angels” say the government’s test yields false positives.
+The bill, which would ban non-European companies from controlling Polish broadcasters, was narrowly approved in a chaotic session in a win for the right-wing government.
 
-By Heather Murphy
-
-* * *
+By Steven Erlanger and Monika Pronczuk
 
 * * *
 
-Indonesian Army to End So-Called Virginity Tests, Chief Says
-------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/11/world/asia/indonesia-army-virginity-tests.html)
+Here’s what to know about breakthrough infections and the Delta variant.
+------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/07/world/07xp-indonesia/merlin_162156429_c500ff45-b920-441e-86b3-3dc25aac2d35-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/asia/indonesia-army-virginity-tests.html)
+[Article here](https://www.nytimes.com/2021/08/11/science/heres-what-to-know-about-breakthrough-infections-and-the-delta-variant.html)
 
-Women in the army have been subjected for decades to a procedure that has been condemned as pseudoscientific and a violation of human rights.
+[![](https://static01.nyt.com/images/2021/08/11/world/11virus-briefing-breakthrough-explainer/11virus-briefing-breakthrough-explainer-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/science/heres-what-to-know-about-breakthrough-infections-and-the-delta-variant.html)
 
-By Daniel Victor, Muktita Suhartono and Christine Hauser
+By Apoorva Mandavilli
 
 * * *
 
