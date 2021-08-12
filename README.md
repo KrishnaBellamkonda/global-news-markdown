@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your $4.39 Latte From the Local Roaster Could Soon Cost More
-------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A man who traveled to an Australian town while infected with the virus is being charged.
+----------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/12/business/coffee-prices-higher.html)
+[Article here](https://www.nytimes.com/2021/08/11/world/australia/a-man-who-traveled-to-an-australian-town-while-infected-with-the-virus-is-being-charged.html)
 
-[![](https://static01.nyt.com/images/2021/08/10/business/00CoffeePrices-01/merlin_193101318_b5c45469-accc-4523-b77f-5d96f6708103-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/business/coffee-prices-higher.html)
+[![](https://static01.nyt.com/images/2021/08/11/world/11virus-briefing-globalroundup/merlin_187021179_b30676ad-f854-4a22-8851-9e686301b621-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/australia/a-man-who-traveled-to-an-australian-town-while-infected-with-the-virus-is-being-charged.html)
 
-Climate shocks in Brazil and shipping bottlenecks have pushed the price of coffee beans sharply higher. Starbucks says it won’t be affected for more than a year, but small cafes can’t hold off that long.
-
-By Coral Murphy Marcos
+By Yan Zhuang
 
 * * *
 
 * * *
 
-Meet Delta, the good Samaritan robot.
--------------------------------------
+New Zealand, a pandemic success story, unveils a reopening strategy.
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/12/world/asia/delta-robot-indonesia.html)
+[Article here](https://www.nytimes.com/2021/08/12/world/new-zealand-virus-reopening.html)
 
-[![](https://static01.nyt.com/images/2021/08/12/world/12virus-briefing-Indonesia-robot/merlin_191834436_05d964d8-ebb3-4c4b-93d4-8b59864588fe-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/asia/delta-robot-indonesia.html)
+[![](https://static01.nyt.com/images/2021/08/12/world/12virus-briefing-nz-elimination/merlin_193177884_e5cb987e-398d-46b9-b802-319c84b26aee-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/new-zealand-virus-reopening.html)
 
-The robot, made using a rice cooker and other household goods, is delivering food and other essential items to Indonesian villagers infected with the virus.
+From early next year, vaccinated travelers from low-risk countries can enter New Zealand without having to quarantine.
 
-By Yu Young Jin and Muktita Suhartono
+By Natasha Frost
 
 * * *
 
