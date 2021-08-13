@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Russia Brings a New Criminal Charge Against Navalny
----------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The largest U.S. teachers’ union announces support for vaccination or testing for educators.
+--------------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/11/world/europe/navalny-russia-criminal-charges.html)
+[Article here](https://www.nytimes.com/2021/08/12/world/teachers-union-vaccine-mandate.html)
 
-[![](https://static01.nyt.com/images/2021/08/11/world/11russia-navalny01/11russia-navalny01-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/europe/navalny-russia-criminal-charges.html)
+[![](https://static01.nyt.com/images/2021/08/12/us/12virus-briefing-teachers-vaccine/merlin_190776543_12a434d1-3807-4989-bd01-08962054c146-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/teachers-union-vaccine-mandate.html)
 
-The jailed opposition leader faces three additional years in prison — enough to keep him locked away until after the presidential election in 2024.
+The announcement comes after the leader of another major teachers’ union signaled strong support for vaccine mandates.
 
-By Anton Troianovski
-
-* * *
+By Sarah Mervosh
 
 * * *
 
-How the Infrastructure Bill Passed (the Senate)
------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/12/briefing/infrastructure-bill-senate-bipartisan.html)
+Could the Taliban Take Over Afghanistan? Here’s What We Know.
+-------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/12/lens/12ambriefing-promo/12ambriefing-bipartisan-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/12/briefing/infrastructure-bill-senate-bipartisan.html)
+[Article here](https://www.nytimes.com/2021/08/11/world/asia/taliban-afghanistan-troops-explainer.html)
 
-The Senate passed Biden’s infrastructure bill with bipartisan support. Here’s how that happened.
+[![](https://static01.nyt.com/images/2021/08/11/world/11afghanistan-explainer/merlin_192879819_4e6197c2-6710-4f24-8680-a125e6f255be-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/asia/taliban-afghanistan-troops-explainer.html)
 
-By Ian Prasad Philbrick
+The Taliban seized nine cities over six days in a major escalation of their military offensive. Here’s what you need to know.
+
+By Christina Goldbaum
 
 * * *
 
