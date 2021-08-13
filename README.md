@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Dutch-Turkish Novelist Depicts Her Journey to Secularism With No Inhibitions
-----------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghanistan Collapse Accelerates as the Taliban Capture 3 Vital Cities
+----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/13/world/europe/netherlands-dutch-turkish-novelist.html)
+[Article here](https://www.nytimes.com/2021/08/12/world/asia/kandahar-afghanistan-taliban.html)
 
-[![](https://static01.nyt.com/images/2021/07/22/world/00SaturdayProfile-LaleGul-01/merlin_190119969_e492425c-6f57-4540-bdbf-da830b88a944-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/europe/netherlands-dutch-turkish-novelist.html)
+[![](https://static01.nyt.com/images/2021/08/12/world/00AFGHANISTAN-KANDAHAR-HFO/merlin_192879501_c6a50e9e-c02e-4598-ba16-cf3514e4f789-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/asia/kandahar-afghanistan-taliban.html)
 
-Lale Gul’s autobiographical and sexually frank tale of a woman breaking with her conservative Muslim culture, and her strict parents, is a best seller in the Netherlands. “I’m done hiding,” she says.
+Kandahar, Lashkar Gah and Herat have now fallen to the insurgents, who are racing to seize control of the entire country.
 
-By Thomas Erdbrink
-
-* * *
+By Christina Goldbaum, Sharif Hassan and Fahim Abed
 
 * * *
 
-Afghanistan’s Unraveling May Strike Another Blow to U.S. Credibility
---------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/13/world/europe/afghanistan-eu-us-credibility.html)
+For a Crime at 14, He Faces Death in a Case Casting Doubt on Saudi Reforms
+--------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/13/world/13afghan-europe01/merlin_192879168_da0853a9-a860-44c8-b427-e8127c51365c-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/europe/afghanistan-eu-us-credibility.html)
+[Article here](https://www.nytimes.com/2021/08/13/world/middleeast/saudi-arabia-execution.html)
 
-Allies may understand the desire to give up on a failed project, but the retreat heightens the sense that America’s backing is no longer unbounded.
+[![](https://static01.nyt.com/images/2021/08/12/world/12saudi-execution/merlin_165667356_379a7b7d-0c70-4241-8729-b172ad0c9fca-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/middleeast/saudi-arabia-execution.html)
 
-By Steven Erlanger
+The kingdom has announced changes to its justice system, but still sentenced a teenager to death for a robbery and the killing of a police officer, despite an alibi and claims of a forced confession.
+
+By Asmaa al-Omar and Ben Hubbard
 
 * * *
 
