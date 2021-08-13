@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Australians seek ways to speed vaccinations as government rollout sputters.
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
+--------------------
+
+[Article here](https://www.nytimes.com/2021/08/12/briefing/afghanistan-evacuations-australia-lockdowns-fires.html)
+
+[![](https://static01.nyt.com/images/2021/08/12/world/13ambriefing-aus-promo2/13ambriefing-aus-AFGHANISTAN-KANDAHAR2-superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/12/briefing/afghanistan-evacuations-australia-lockdowns-fires.html)
+
+A U.S. evacuation from Afghanistan.
+
+By Melina Delkic
+
+* * *
+
+* * *
+
+Australian officials are criticized over ‘double quarantine’ for Olympians.
 ---------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/12/world/australians-seek-ways-to-speed-vaccinations-as-government-rollout-sputters.html)
+[Article here](https://www.nytimes.com/2021/08/12/world/australia/australia-olympic-athletes-quarantine.html)
 
-[![](https://static01.nyt.com/images/2021/08/12/world/12virus-briefing-australia-covid/merlin_193157814_0a4d4f39-f1e0-49fe-a68f-19255933ee74-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/australians-seek-ways-to-speed-vaccinations-as-government-rollout-sputters.html)
+[![](https://static01.nyt.com/images/2021/08/12/world/12virus-briefing-australia-olympians/merlin_192225684_e9aba83d-94bc-4c01-be38-34ebe43aa63b-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/australia/australia-olympic-athletes-quarantine.html)
 
-A stubborn Delta outbreak has kicked a complacent country into gear, with community members working to fill gaps in the government’s sputtering vaccine rollout.
+Sixteen athletes traveling to the state of South Australia must spend 28 days in quarantine. The country’s Olympic committee called the requirement “cruel.”
 
-By Damien Cave
-
-* * *
-
-* * *
-
-Three more major cities are under Taliban control, as the government’s forces near collapse.
---------------------------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-taliban-advance-kandahar.html)
-
-[![](https://static01.nyt.com/images/2021/08/12/world/00AFGHANISTAN-KANDAHAR-HFO/merlin_192879501_c6a50e9e-c02e-4598-ba16-cf3514e4f789-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-taliban-advance-kandahar.html)
-
-With Lashkar Gah and Kandahar, the Taliban now effectively control southern Afghanistan. The western city of Herat is also in their hands.
-
-By Thomas Gibbons-Neff and Christina Goldbaum
+By Yan Zhuang
 
 * * *
 
