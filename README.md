@@ -34,16 +34,16 @@ By Catherine Porter
 
 * * *
 
-Sicily Registers Record-High Temperature as Heat Wave Sweeps Italian Island
----------------------------------------------------------------------------
+The Hidden Melodies of Subways Around the World
+-----------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/12/world/europe/sicily-record-high-temperature-119-degrees.html)
+[Article here](https://www.nytimes.com/interactive/2021/08/13/arts/subway-train-sounds.html)
 
-[![](https://static01.nyt.com/images/2021/08/12/world/12Italy-heat-03/12Italy-heat-03-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/europe/sicily-record-high-temperature-119-degrees.html)
+[![](https://static01.nyt.com/images/2021/08/13/arts/subway-sounds-promo/subway-sounds-promo-superJumbo.jpg)](https://www.nytimes.com/interactive/2021/08/13/arts/subway-train-sounds.html)
 
-A monitoring station on the island reported a temperature of 119.84 Fahrenheit, 48.8 degrees Celsius, on Wednesday. If verified, it would be the highest ever recorded in Europe.
+When train doors close, these jingles warn riders to stand clear.
 
-By Gaia Pianigiani
+By Sophie Haigney and Denise Lu
 
 * * *
 
