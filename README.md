@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The largest U.S. teachers’ union announces support for vaccination or testing for educators.
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How the Infrastructure Bill Passed (the Senate)
+-----------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/12/briefing/infrastructure-bill-senate-bipartisan.html)
+
+[![](https://static01.nyt.com/images/2021/08/12/lens/12ambriefing-promo/12ambriefing-bipartisan-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/12/briefing/infrastructure-bill-senate-bipartisan.html)
+
+The Senate passed Biden’s infrastructure bill with bipartisan support. Here’s how that happened.
+
+By Ian Prasad Philbrick
+
+* * *
+
+* * *
+
+Europe may have hit its hottest temperature on record amid devastating wildfires and floods.
 --------------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/12/world/teachers-union-vaccine-mandate.html)
+[Article here](https://www.nytimes.com/2021/08/12/climate/europe-hottest-temperature-sicily.html)
 
-[![](https://static01.nyt.com/images/2021/08/12/us/12virus-briefing-teachers-vaccine/merlin_190776543_12a434d1-3807-4989-bd01-08962054c146-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/teachers-union-vaccine-mandate.html)
+[![](https://static01.nyt.com/images/2021/08/12/world/12Italy-heat-02/merlin_193155696_18d9c713-b5e9-43f1-9a2d-afe1c77b6cd7-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/climate/europe-hottest-temperature-sicily.html)
 
-The announcement comes after the leader of another major teachers’ union signaled strong support for vaccine mandates.
+A monitoring station in Sicily reached nearly 120 degrees Fahrenheit. And at least five children were missing as flash floods swept through northern Turkey.
 
-By Sarah Mervosh
-
-* * *
-
-* * *
-
-Could the Taliban Take Over Afghanistan? Here’s What We Know.
--------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/11/world/asia/taliban-afghanistan-troops-explainer.html)
-
-[![](https://static01.nyt.com/images/2021/08/11/world/11afghanistan-explainer/merlin_192879819_4e6197c2-6710-4f24-8680-a125e6f255be-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/asia/taliban-afghanistan-troops-explainer.html)
-
-The Taliban seized nine cities over six days in a major escalation of their military offensive. Here’s what you need to know.
-
-By Christina Goldbaum
+By Gaia Pianigiani and Niki Kitsantonis
 
 * * *
 
