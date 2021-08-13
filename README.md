@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
---------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Dutch-Turkish Novelist Depicts Her Journey to Secularism With No Inhibitions
+----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/12/briefing/afghanistan-evacuations-australia-lockdowns-fires.html)
+[Article here](https://www.nytimes.com/2021/08/13/world/europe/netherlands-dutch-turkish-novelist.html)
 
-[![](https://static01.nyt.com/images/2021/08/12/world/13ambriefing-aus-promo2/13ambriefing-aus-AFGHANISTAN-KANDAHAR2-superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/12/briefing/afghanistan-evacuations-australia-lockdowns-fires.html)
+[![](https://static01.nyt.com/images/2021/07/22/world/00SaturdayProfile-LaleGul-01/merlin_190119969_e492425c-6f57-4540-bdbf-da830b88a944-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/europe/netherlands-dutch-turkish-novelist.html)
 
-A U.S. evacuation from Afghanistan.
+Lale Gul’s autobiographical and sexually frank tale of a woman breaking with her conservative Muslim culture, and her strict parents, is a best seller in the Netherlands. “I’m done hiding,” she says.
 
-By Melina Delkic
-
-* * *
+By Thomas Erdbrink
 
 * * *
 
-Australian officials are criticized over ‘double quarantine’ for Olympians.
----------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/12/world/australia/australia-olympic-athletes-quarantine.html)
+Afghanistan’s Unraveling May Strike Another Blow to U.S. Credibility
+--------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/12/world/12virus-briefing-australia-olympians/merlin_192225684_e9aba83d-94bc-4c01-be38-34ebe43aa63b-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/australia/australia-olympic-athletes-quarantine.html)
+[Article here](https://www.nytimes.com/2021/08/13/world/europe/afghanistan-eu-us-credibility.html)
 
-Sixteen athletes traveling to the state of South Australia must spend 28 days in quarantine. The country’s Olympic committee called the requirement “cruel.”
+[![](https://static01.nyt.com/images/2021/08/13/world/13afghan-europe01/merlin_192879168_da0853a9-a860-44c8-b427-e8127c51365c-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/europe/afghanistan-eu-us-credibility.html)
 
-By Yan Zhuang
+Allies may understand the desire to give up on a failed project, but the retreat heightens the sense that America’s backing is no longer unbounded.
+
+By Steven Erlanger
 
 * * *
 
