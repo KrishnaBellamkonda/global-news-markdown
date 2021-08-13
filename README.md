@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How the Infrastructure Bill Passed (the Senate)
------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Australian officials are criticized over ‘double quarantine’ for Olympians.
+---------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/12/briefing/infrastructure-bill-senate-bipartisan.html)
+[Article here](https://www.nytimes.com/2021/08/12/world/australia/australia-olympic-athletes-quarantine.html)
 
-[![](https://static01.nyt.com/images/2021/08/12/lens/12ambriefing-promo/12ambriefing-bipartisan-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/12/briefing/infrastructure-bill-senate-bipartisan.html)
+[![](https://static01.nyt.com/images/2021/08/12/world/12virus-briefing-australia-olympians/merlin_192225684_e9aba83d-94bc-4c01-be38-34ebe43aa63b-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/australia/australia-olympic-athletes-quarantine.html)
 
-The Senate passed Biden’s infrastructure bill with bipartisan support. Here’s how that happened.
+Sixteen athletes traveling to the state of South Australia must spend 28 days in quarantine. The country’s Olympic committee called the requirement “cruel.”
 
-By Ian Prasad Philbrick
-
-* * *
+By Yan Zhuang
 
 * * *
 
-Europe may have hit its hottest temperature on record amid devastating wildfires and floods.
---------------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/12/climate/europe-hottest-temperature-sicily.html)
+H.H.S. will require its health workers to get the Covid vaccine.
+----------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/12/world/12Italy-heat-02/merlin_193155696_18d9c713-b5e9-43f1-9a2d-afe1c77b6cd7-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/climate/europe-hottest-temperature-sicily.html)
+[Article here](https://www.nytimes.com/2021/08/12/world/hhs-vaccine-mandate-covid.html)
 
-A monitoring station in Sicily reached nearly 120 degrees Fahrenheit. And at least five children were missing as flash floods swept through northern Turkey.
+[![](https://static01.nyt.com/images/2021/08/12/us/12virus-briefing-hhs/merlin_186574416_3e39c082-a322-4f67-865a-bb390d4f27a7-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/hhs-vaccine-mandate-covid.html)
 
-By Gaia Pianigiani and Niki Kitsantonis
+President Biden has been pushing for more agencies and companies to enforce similar rules as the Delta variant fuels a wave of new cases.
+
+By Noah Weiland
 
 * * *
 
