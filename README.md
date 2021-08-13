@@ -19,22 +19,7 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Europe may have hit its hottest temperature on record amid devastating wildfires and floods.
---------------------------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/12/climate/europe-hottest-temperature-sicily.html)
-
-[![](https://static01.nyt.com/images/2021/08/12/world/12weather-climate-briefing-europe/merlin_193155696_18d9c713-b5e9-43f1-9a2d-afe1c77b6cd7-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/climate/europe-hottest-temperature-sicily.html)
-
-A monitoring station in Sicily reached nearly 120 degrees Fahrenheit. And at least five children were missing as flash floods swept through northern Turkey.
-
-By Gaia Pianigiani and Niki Kitsantonis
-
-* * *
-
-* * *
-
-For a Crime at 14, He Faces Death in a Case Casting Doubt on Saudi Reforms
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the For a Crime at 14, He Faces Death in a Case Casting Doubt on Saudi Reforms
 --------------------------------------------------------------------------
 
 [Article here](https://www.nytimes.com/2021/08/13/world/middleeast/saudi-arabia-execution.html)
@@ -44,6 +29,21 @@ For a Crime at 14, He Faces Death in a Case Casting Doubt on Saudi Reforms
 The kingdom has announced changes to its justice system, but still sentenced a teenager to death for a robbery and the killing of a police officer, despite an alibi and claims of a forced confession.
 
 By Asmaa al-Omar and Ben Hubbard
+
+* * *
+
+* * *
+
+Australians seek ways to speed vaccinations as government rollout sputters.
+---------------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/12/world/australians-seek-ways-to-speed-vaccinations-as-government-rollout-sputters.html)
+
+[![](https://static01.nyt.com/images/2021/08/12/world/12virus-briefing-australia-covid/merlin_193157814_0a4d4f39-f1e0-49fe-a68f-19255933ee74-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/australians-seek-ways-to-speed-vaccinations-as-government-rollout-sputters.html)
+
+A stubborn Delta outbreak has kicked a complacent country into gear, with community members working to fill gaps in the government’s sputtering vaccine rollout.
+
+By Damien Cave
 
 * * *
 
