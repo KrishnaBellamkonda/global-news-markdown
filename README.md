@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A Return to Freedom, After Nearly a Year Trapped Indoors Under Lockdown
------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Europe may have hit its hottest temperature on record amid devastating wildfires and floods.
+--------------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/12/world/canada-toronto-care-home.html)
+[Article here](https://www.nytimes.com/2021/08/12/climate/europe-hottest-temperature-sicily.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/world/00virus-canada-carehome/merlin_189377421_8aee975c-5c89-424a-a7c5-8a58610bb52e-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/canada-toronto-care-home.html)
+[![](https://static01.nyt.com/images/2021/08/12/world/12weather-climate-briefing-europe/merlin_193155696_18d9c713-b5e9-43f1-9a2d-afe1c77b6cd7-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/climate/europe-hottest-temperature-sicily.html)
 
-“This is more fun than I’ve had in a year.” In June, a long-term-care home resident experienced the joy of the outside world after nearly a year locked indoors because of coronavirus restrictions.
+A monitoring station in Sicily reached nearly 120 degrees Fahrenheit. And at least five children were missing as flash floods swept through northern Turkey.
 
-By Catherine Porter
-
-* * *
+By Gaia Pianigiani and Niki Kitsantonis
 
 * * *
 
-The Hidden Melodies of Subways Around the World
------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/interactive/2021/08/13/arts/subway-train-sounds.html)
+For a Crime at 14, He Faces Death in a Case Casting Doubt on Saudi Reforms
+--------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/13/arts/subway-sounds-promo/subway-sounds-promo-superJumbo.jpg)](https://www.nytimes.com/interactive/2021/08/13/arts/subway-train-sounds.html)
+[Article here](https://www.nytimes.com/2021/08/13/world/middleeast/saudi-arabia-execution.html)
 
-When train doors close, these jingles warn riders to stand clear.
+[![](https://static01.nyt.com/images/2021/08/12/world/12saudi-execution/merlin_165667356_379a7b7d-0c70-4241-8729-b172ad0c9fca-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/middleeast/saudi-arabia-execution.html)
 
-By Sophie Haigney and Denise Lu
+The kingdom has announced changes to its justice system, but still sentenced a teenager to death for a robbery and the killing of a police officer, despite an alibi and claims of a forced confession.
+
+By Asmaa al-Omar and Ben Hubbard
 
 * * *
 
