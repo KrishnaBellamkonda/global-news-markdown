@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Daily Coffee Habit Is About to Get More Expensive
-------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Russia Brings a New Criminal Charge Against Navalny
+---------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/12/business/coffee-prices-higher.html)
+[Article here](https://www.nytimes.com/2021/08/11/world/europe/navalny-russia-criminal-charges.html)
 
-[![](https://static01.nyt.com/images/2021/08/10/business/00CoffeePrices-01/merlin_193101318_b5c45469-accc-4523-b77f-5d96f6708103-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/business/coffee-prices-higher.html)
+[![](https://static01.nyt.com/images/2021/08/11/world/11russia-navalny01/11russia-navalny01-superJumbo.jpg)](https://www.nytimes.com/2021/08/11/world/europe/navalny-russia-criminal-charges.html)
 
-Climate shocks in Brazil and shipping bottlenecks have pushed the price of coffee beans sharply higher. Starbucks says it won’t be affected for more than a year, but small cafes can’t hold off that long.
+The jailed opposition leader faces three additional years in prison — enough to keep him locked away until after the presidential election in 2024.
 
-By Coral Murphy Marcos
-
-* * *
+By Anton Troianovski
 
 * * *
 
-The University of Texas at San Antonio opts to start fall classes remotely.
----------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/12/world/university-of-texas-san-antonio-delta-remote.html)
+How the Infrastructure Bill Passed (the Senate)
+-----------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/12/world/12virus-briefing-university-of-texas-2/merlin_177619578_b20a48a2-41dd-4eed-a1cc-879f02f979cd-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/university-of-texas-san-antonio-delta-remote.html)
+[Article here](https://www.nytimes.com/2021/08/12/briefing/infrastructure-bill-senate-bipartisan.html)
 
-University leaders are hamstrung by Gov. Greg Abbott’s that bars schools, among many other entities, from requiring vaccines or masks.
+[![](https://static01.nyt.com/images/2021/08/12/lens/12ambriefing-promo/12ambriefing-bipartisan-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/12/briefing/infrastructure-bill-senate-bipartisan.html)
 
-By Stephanie Saul
+The Senate passed Biden’s infrastructure bill with bipartisan support. Here’s how that happened.
+
+By Ian Prasad Philbrick
 
 * * *
 
