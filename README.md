@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Hidden Melodies of Subways Around the World
------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghanistan’s Unraveling May Strike Another Blow to U.S. Credibility
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/interactive/2021/08/13/arts/subway-train-sounds.html)
+[Article here](https://www.nytimes.com/2021/08/13/world/europe/afghanistan-eu-us-credibility.html)
 
-[![](https://static01.nyt.com/images/2021/08/13/arts/subway-sounds-promo/subway-sounds-promo-superJumbo.jpg)](https://www.nytimes.com/interactive/2021/08/13/arts/subway-train-sounds.html)
+[![](https://static01.nyt.com/images/2021/08/13/world/13afghan-europe01/merlin_192879168_da0853a9-a860-44c8-b427-e8127c51365c-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/europe/afghanistan-eu-us-credibility.html)
 
-When train doors close, these jingles warn riders to stand clear.
+Allies may understand the desire to give up on a failed project, but the retreat heightens the sense that America’s backing is no longer unbounded.
 
-By Sophie Haigney, Denise Lu, Gabriel Gianordoli and Umi Syam
-
-* * *
+By Steven Erlanger
 
 * * *
 
-A Changing Country
-------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/13/briefing/census-2020-diversity-united-states.html)
+For a Crime at 14, He Faces Death in a Case Casting Doubt on Saudi Reforms
+--------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/13/lens/13ambriefing-promo/13ambriefing-phoenix02-superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/13/briefing/census-2020-diversity-united-states.html)
+[Article here](https://www.nytimes.com/2021/08/13/world/middleeast/saudi-arabia-execution.html)
 
-The United States population is getting more diverse, according to data from the 2020 census.
+[![](https://static01.nyt.com/images/2021/08/12/world/12saudi-execution/merlin_165667356_379a7b7d-0c70-4241-8729-b172ad0c9fca-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/middleeast/saudi-arabia-execution.html)
 
-By the staff of The Morning
+The kingdom has announced changes to its justice system, but still sentenced a teenager to death for a robbery and the killing of a police officer, despite an alibi and claims of a forced confession.
+
+By Asmaa al-Omar and Ben Hubbard
 
 * * *
 
