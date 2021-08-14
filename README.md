@@ -19,7 +19,22 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A Popular Comedy’s Return in France Exposes Growing Divides
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Canada promises refuge for 20,000 Afghans as nations scramble to evacuate.
+--------------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/14/world/asia/canada-refugees-afghanistan.html)
+
+[![](https://static01.nyt.com/images/2021/08/14/world/14afghanistan-briefing-canada-evacuations/14afghanistan-briefing-canada-evacuations-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/asia/canada-refugees-afghanistan.html)
+
+Several European countries have said they are withdrawing embassy workers and seeking to evacuate those who have helped them.
+
+By Elian Peltier
+
+* * *
+
+* * *
+
+A Popular Comedy’s Return in France Exposes Growing Divides
 -----------------------------------------------------------
 
 [Article here](https://www.nytimes.com/2021/08/14/world/europe/france-OSS-117-movie-comedy.html)
@@ -29,21 +44,6 @@ Come back in a few hours and seeif the news section has changed! (Is it too long
 After 12 years, a French spy spoof movie series featuring a clueless, racist and sexist hero re-emerges in a nation where laughter has become more complicated.
 
 By Norimitsu Onishi
-
-* * *
-
-* * *
-
-Taliban Sweep in Afghanistan Follows Years of U.S. Miscalculations
-------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/14/us/afghanistan-biden.html)
-
-[![](https://static01.nyt.com/images/2021/08/12/world/14dc-intel/merlin_106307455_5c1305db-0902-4660-b496-bd670fb5b326-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/us/afghanistan-biden.html)
-
-An Afghan military that did not believe in itself and a U.S. effort that Mr. Biden, and most Americans, no longer believed in brought an ignoble end to America’s longest war.
-
-By David E. Sanger and Helene Cooper
 
 * * *
 
