@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Rare Mass Shooting in Britain Leaves 6 Dead, Including a Child
---------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Afghan Military Was Built Over 20 Years. How Did It Collapse So Quickly?
+----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/12/world/europe/england-fatal-shooting-plymouth.html)
+[Article here](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-rapid-military-collapse.html)
 
-[![](https://static01.nyt.com/images/2021/09/12/world/12england-shooting01sub/merlin_193216683_da3cc00e-85a5-4f5e-a916-545a26b1502c-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/europe/england-fatal-shooting-plymouth.html)
+[![](https://static01.nyt.com/images/2021/08/12/world/00afghan-forces-top/merlin_192879774_c32b0d73-ba39-4fe7-a43c-02f6aa0f9820-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-rapid-military-collapse.html)
 
-The killings in the southwestern city of Plymouth were not terrorism-related, the police said. It was the country’s first mass shooting since 2010.
+The Taliban’s rapid advance has made clear that U.S. efforts to turn Afghanistan’s military into a robust, independent fighting force have failed, with its soldiers feeling abandoned by inept leaders.
 
-By Daniel Victor and Stephen Castle
-
-* * *
+By Thomas Gibbons-Neff, Fahim Abed and Sharif Hassan
 
 * * *
 
-Flooding in China kills 21, as thousands escape to shelters.
-------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/13/world/asia/china-flooding-evacuations.html)
+Taliban Sweep in Afghanistan Follows Years of U.S. Miscalculations
+------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/13/world/13weather-climate-briefing-china-flooding/merlin_193216689_1e8b9d3f-2019-4bcd-8d4d-5058627fbdf6-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/asia/china-flooding-evacuations.html)
+[Article here](https://www.nytimes.com/2021/08/14/us/afghanistan-biden.html)
 
-Heavy rainfall, expected to continue through Friday night, brought flooding that drove more than 7,200 people into shelters and damaged property.
+[![](https://static01.nyt.com/images/2021/08/12/world/14dc-intel/merlin_106307455_5c1305db-0902-4660-b496-bd670fb5b326-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/us/afghanistan-biden.html)
 
-By Daniel Victor
+An Afghan military that did not believe in itself and a U.S. effort that Mr. Biden, and most Americans, no longer believed in brought an ignoble end to America’s longest war.
+
+By David E. Sanger and Helene Cooper
 
 * * *
 
