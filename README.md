@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Rare Mass Shooting in Britain Leaves 6 Dead, Including a Child
---------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Russia Says It Will Expel a BBC Journalist
+------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/12/world/europe/england-fatal-shooting-plymouth.html)
+[Article here](https://www.nytimes.com/2021/08/13/world/europe/russia-bbc-journalist.html)
 
-[![](https://static01.nyt.com/images/2021/09/12/world/12england-shooting01sub/merlin_193216683_da3cc00e-85a5-4f5e-a916-545a26b1502c-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/europe/england-fatal-shooting-plymouth.html)
+[![](https://static01.nyt.com/images/2021/08/13/world/13RUSSIA-BBC1/merlin_183577575_159436fc-f1d8-4811-b0b6-c7243f30c52d-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/europe/russia-bbc-journalist.html)
 
-The killings in the southwestern city of Plymouth were not terrorism-related, the police said. It was the country’s first mass shooting since 2010.
+The move, reported by a state television channel, comes amid an escalating confrontation with the Western news media and a crackdown on domestic dissent.
 
-By Daniel Victor and Stephen Castle
-
-* * *
+By Anton Troianovski
 
 * * *
 
-Three more major cities are under Taliban control, as the government’s forces near collapse.
---------------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-taliban-advance-kandahar.html)
+Latest U.K. Scandals Show a System Rife With Insider Ties
+---------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/12/world/00AFGHANISTAN-KANDAHAR-HFO/merlin_192879501_c6a50e9e-c02e-4598-ba16-cf3514e4f789-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-taliban-advance-kandahar.html)
+[Article here](https://www.nytimes.com/2021/08/13/world/europe/uk-boris-johnson-cameron.html)
 
-With Lashkar Gah and Kandahar, the Taliban now effectively control southern Afghanistan. The western city of Herat is also in their hands.
+[![](https://static01.nyt.com/images/2021/08/11/world/11uk-donors1/merlin_165358419_4bf5b806-c94f-4d6c-8ed2-3754f9f14a6d-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/europe/uk-boris-johnson-cameron.html)
 
-By Thomas Gibbons-Neff and Christina Goldbaum
+For years, Britain relied on an informal code of gentlemen’s agreements to help prevent influence-peddling and cronyism in politics. Some say that no longer works.
+
+By Stephen Castle
 
 * * *
 
