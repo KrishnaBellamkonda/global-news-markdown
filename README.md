@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Dutch-Turkish Novelist Depicts Her Journey to Secularism With No Inhibitions
-----------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Rare Mass Shooting in Britain Leaves 6 Dead, Including a Child
+--------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/13/world/europe/netherlands-dutch-turkish-novelist.html)
+[Article here](https://www.nytimes.com/2021/08/12/world/europe/england-fatal-shooting-plymouth.html)
 
-[![](https://static01.nyt.com/images/2021/07/22/world/00SaturdayProfile-LaleGul-01/merlin_190119969_e492425c-6f57-4540-bdbf-da830b88a944-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/europe/netherlands-dutch-turkish-novelist.html)
+[![](https://static01.nyt.com/images/2021/09/12/world/12england-shooting01sub/merlin_193216683_da3cc00e-85a5-4f5e-a916-545a26b1502c-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/europe/england-fatal-shooting-plymouth.html)
 
-Lale Gul’s autobiographical and sexually frank tale of a woman breaking with her conservative Muslim culture, and her strict parents, is a best seller in the Netherlands. “I’m done hiding,” she says.
+The killings in the southwestern city of Plymouth were not terrorism-related, the police said. It was the country’s first mass shooting since 2010.
 
-By Thomas Erdbrink
-
-* * *
+By Daniel Victor and Stephen Castle
 
 * * *
 
-An Afghan warlord who steadfastly resisted the Taliban surrendered. Others may follow his lead.
------------------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-mohammad-ismail-khan.html)
+Three more major cities are under Taliban control, as the government’s forces near collapse.
+--------------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/13/world/13afghanistan-live-briefing-ishmael-khan-falls/merlin_192871158_c55f3b79-8084-417a-a058-34bff1ff8d6b-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-mohammad-ismail-khan.html)
+[Article here](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-taliban-advance-kandahar.html)
 
-The surrender of Ismail Khan, the only warlord who posed a serious threat to the insurgents in the western region of the country, could be a sign that others may soon switch allegiances.
+[![](https://static01.nyt.com/images/2021/08/12/world/00AFGHANISTAN-KANDAHAR-HFO/merlin_192879501_c6a50e9e-c02e-4598-ba16-cf3514e4f789-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-taliban-advance-kandahar.html)
 
-By Sharif Hassan
+With Lashkar Gah and Kandahar, the Taliban now effectively control southern Afghanistan. The western city of Herat is also in their hands.
+
+By Thomas Gibbons-Neff and Christina Goldbaum
 
 * * *
 
