@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Latest U.K. Scandals Show a System Rife With Insider Ties
----------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Rare Mass Shooting in Britain Leaves 6 Dead, Including a Child
+--------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/13/world/europe/uk-boris-johnson-cameron.html)
+[Article here](https://www.nytimes.com/2021/08/12/world/europe/england-fatal-shooting-plymouth.html)
 
-[![](https://static01.nyt.com/images/2021/08/11/world/11uk-donors1/merlin_165358419_4bf5b806-c94f-4d6c-8ed2-3754f9f14a6d-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/europe/uk-boris-johnson-cameron.html)
+[![](https://static01.nyt.com/images/2021/09/12/world/12england-shooting01sub/merlin_193216683_da3cc00e-85a5-4f5e-a916-545a26b1502c-superJumbo.jpg)](https://www.nytimes.com/2021/08/12/world/europe/england-fatal-shooting-plymouth.html)
 
-For years, Britain relied on an informal code of gentlemen’s agreements to help prevent influence-peddling and cronyism in politics. Some say that no longer works.
+The killings in the southwestern city of Plymouth were not terrorism-related, the police said. It was the country’s first mass shooting since 2010.
 
-By Stephen Castle
-
-* * *
+By Daniel Victor and Stephen Castle
 
 * * *
 
-Dutch-Turkish Novelist Depicts Her Journey to Secularism With No Inhibitions
-----------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/13/world/europe/netherlands-dutch-turkish-novelist.html)
+Flooding in China kills 21, as thousands escape to shelters.
+------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/07/22/world/00SaturdayProfile-LaleGul-01/merlin_190119969_e492425c-6f57-4540-bdbf-da830b88a944-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/europe/netherlands-dutch-turkish-novelist.html)
+[Article here](https://www.nytimes.com/2021/08/13/world/asia/china-flooding-evacuations.html)
 
-Lale Gul’s autobiographical and sexually frank tale of a woman breaking with her conservative Muslim culture, and her strict parents, is a best seller in the Netherlands. “I’m done hiding,” she says.
+[![](https://static01.nyt.com/images/2021/08/13/world/13weather-climate-briefing-china-flooding/merlin_193216689_1e8b9d3f-2019-4bcd-8d4d-5058627fbdf6-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/asia/china-flooding-evacuations.html)
 
-By Thomas Erdbrink
+Heavy rainfall, expected to continue through Friday night, brought flooding that drove more than 7,200 people into shelters and damaged property.
+
+By Daniel Victor
 
 * * *
 
