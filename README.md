@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Canada promises refuge for 20,000 Afghans as nations scramble to evacuate.
---------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the 20 Years of Defense, Erased by the Taliban in a Few Months
+----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/14/world/asia/canada-refugees-afghanistan.html)
+[Article here](https://www.nytimes.com/interactive/2021/08/14/world/asia/afghanistan-maps-taliban.html)
 
-[![](https://static01.nyt.com/images/2021/08/14/world/14afghanistan-briefing-canada-evacuations/14afghanistan-briefing-canada-evacuations-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/asia/canada-refugees-afghanistan.html)
+[![](https://static01.nyt.com/images/2021/08/14/us/afghanistan-maps-taliban-promo-1628964568896/afghanistan-maps-taliban-promo-1628964568896-superJumbo-v2.jpg)](https://www.nytimes.com/interactive/2021/08/14/world/asia/afghanistan-maps-taliban.html)
 
-Several European countries have said they are withdrawing embassy workers and seeking to evacuate those who have helped them.
+Maps show the stunning speed of Taliban advances after the United States began to withdraw.
 
-By Elian Peltier
-
-* * *
+By Scott Reinhard and David Zucchino
 
 * * *
 
-A Popular Comedy’s Return in France Exposes Growing Divides
------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/14/world/europe/france-OSS-117-movie-comedy.html)
+Latest U.K. Scandals Show a System Rife With Insider Ties
+---------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/14/world/14FRANCE-HUMOR01/merlin_193219059_1e67579b-eb01-4163-938f-abee19baeb75-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/europe/france-OSS-117-movie-comedy.html)
+[Article here](https://www.nytimes.com/2021/08/13/world/europe/uk-boris-johnson-cameron.html)
 
-After 12 years, a French spy spoof movie series featuring a clueless, racist and sexist hero re-emerges in a nation where laughter has become more complicated.
+[![](https://static01.nyt.com/images/2021/08/11/world/11uk-donors1/merlin_165358419_4bf5b806-c94f-4d6c-8ed2-3754f9f14a6d-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/europe/uk-boris-johnson-cameron.html)
 
-By Norimitsu Onishi
+For years, Britain relied on an informal code of gentlemen’s agreements to help prevent influence-peddling and cronyism in politics. Some say that no longer works.
+
+By Stephen Castle
 
 * * *
 
