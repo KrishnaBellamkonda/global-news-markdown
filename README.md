@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Russia Says It Will Expel a BBC Journalist
-------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Hidden Melodies of Subways Around the World
+-----------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/13/world/europe/russia-bbc-journalist.html)
+[Article here](https://www.nytimes.com/interactive/2021/08/13/arts/subway-train-sounds.html)
 
-[![](https://static01.nyt.com/images/2021/08/13/world/13RUSSIA-BBC1/merlin_183577575_159436fc-f1d8-4811-b0b6-c7243f30c52d-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/europe/russia-bbc-journalist.html)
+[![](https://static01.nyt.com/images/2021/08/13/arts/subway-sounds-promo/subway-sounds-promo-superJumbo.jpg)](https://www.nytimes.com/interactive/2021/08/13/arts/subway-train-sounds.html)
 
-The move, reported by a state television channel, comes amid an escalating confrontation with the Western news media and a crackdown on domestic dissent.
+When train doors close, these jingles warn riders to stand clear.
 
-By Anton Troianovski
-
-* * *
+By Sophie Haigney, Denise Lu, Gabriel Gianordoli and Umi Syam
 
 * * *
 
-Latest U.K. Scandals Show a System Rife With Insider Ties
----------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/13/world/europe/uk-boris-johnson-cameron.html)
+A Changing Country
+------------------
 
-[![](https://static01.nyt.com/images/2021/08/11/world/11uk-donors1/merlin_165358419_4bf5b806-c94f-4d6c-8ed2-3754f9f14a6d-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/europe/uk-boris-johnson-cameron.html)
+[Article here](https://www.nytimes.com/2021/08/13/briefing/census-2020-diversity-united-states.html)
 
-For years, Britain relied on an informal code of gentlemen’s agreements to help prevent influence-peddling and cronyism in politics. Some say that no longer works.
+[![](https://static01.nyt.com/images/2021/08/13/lens/13ambriefing-promo/13ambriefing-phoenix02-superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/13/briefing/census-2020-diversity-united-states.html)
 
-By Stephen Castle
+The United States population is getting more diverse, according to data from the 2020 census.
+
+By the staff of The Morning
 
 * * *
 
