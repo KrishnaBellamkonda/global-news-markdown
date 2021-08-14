@@ -19,16 +19,16 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Afghan Military Was Built Over 20 Years. How Did It Collapse So Quickly?
-----------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A Popular Comedy’s Return in France Exposes Growing Divides
+-----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-rapid-military-collapse.html)
+[Article here](https://www.nytimes.com/2021/08/14/world/europe/france-OSS-117-movie-comedy.html)
 
-[![](https://static01.nyt.com/images/2021/08/12/world/00afghan-forces-top/merlin_192879774_c32b0d73-ba39-4fe7-a43c-02f6aa0f9820-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-rapid-military-collapse.html)
+[![](https://static01.nyt.com/images/2021/08/14/world/14FRANCE-HUMOR01/merlin_193219059_1e67579b-eb01-4163-938f-abee19baeb75-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/europe/france-OSS-117-movie-comedy.html)
 
-The Taliban’s rapid advance has made clear that U.S. efforts to turn Afghanistan’s military into a robust, independent fighting force have failed, with its soldiers feeling abandoned by inept leaders.
+After 12 years, a French spy spoof movie series featuring a clueless, racist and sexist hero re-emerges in a nation where laughter has become more complicated.
 
-By Thomas Gibbons-Neff, Fahim Abed and Sharif Hassan
+By Norimitsu Onishi
 
 * * *
 
