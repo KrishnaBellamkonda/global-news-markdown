@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Taliban seek to isolate Kabul, the Pentagon says.
------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Canada promises refuge for 20,000 Afghans as nations scramble to evacuate.
+--------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/13/world/asia/taliban-isolate-kabul-pentagon.html)
+[Article here](https://www.nytimes.com/2021/08/14/world/asia/canada-refugees-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/08/13/us/13afghanistan-live-briefing-pentagon/merlin_193225383_cbc65abe-fb62-43fc-acb8-45c49cb02d09-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/asia/taliban-isolate-kabul-pentagon.html)
+[![](https://static01.nyt.com/images/2021/08/14/world/14afghanistan-briefing-canada-evacuations/14afghanistan-briefing-canada-evacuations-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/asia/canada-refugees-afghanistan.html)
 
-Despite dwindling resistance to the Taliban advance, a Pentagon spokesman insisted that Afghan government forces could still fight back.
+Several European countries have said they are withdrawing embassy workers and seeking to evacuate those who have helped them.
 
-By Jennifer Steinhauer
-
-* * *
+By Elian Peltier
 
 * * *
 
-Mysterious Hacker Group Suspected in July Cyberattack on Iranian Trains
------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/14/world/middleeast/iran-trains-cyberattack.html)
+Here is what to know about the Haiti earthquake.
+------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/10/world/00Iran-Hack01/merlin_174351867_a127d33f-5007-4e50-9f36-712ea661b966-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/middleeast/iran-trains-cyberattack.html)
+[Article here](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-what-to-know.html)
 
-An investigation by a cybersecurity company has concluded that a little-known group opposed to the Iranian government was most likely behind the hack that caused chaos on the railway system.
+[![](https://static01.nyt.com/images/2021/08/14/world/14haiti-earthquake-live-what-we-know1/14haiti-earthquake-live-what-we-know1-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-what-to-know.html)
 
-By Ronen Bergman
+The quake hit early Saturday, as many residents slept or got ready for the day.
+
+By Isabella Grullón Paz
 
 * * *
 
