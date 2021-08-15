@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Poverty, Disease, Customs: Why So Many Indonesian Children Die of Covid
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Taliban seek to isolate Kabul, the Pentagon says.
+-----------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/13/world/asia/taliban-isolate-kabul-pentagon.html)
+
+[![](https://static01.nyt.com/images/2021/08/13/us/13afghanistan-live-briefing-pentagon/merlin_193225383_cbc65abe-fb62-43fc-acb8-45c49cb02d09-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/asia/taliban-isolate-kabul-pentagon.html)
+
+Despite dwindling resistance to the Taliban advance, a Pentagon spokesman insisted that Afghan government forces could still fight back.
+
+By Jennifer Steinhauer
+
+* * *
+
+* * *
+
+Mysterious Hacker Group Suspected in July Cyberattack on Iranian Trains
 -----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/14/world/asia/indonesia-children-covid-deaths.html)
+[Article here](https://www.nytimes.com/2021/08/14/world/middleeast/iran-trains-cyberattack.html)
 
-[![](https://static01.nyt.com/images/2021/08/12/world/00virus-Indonesia-children-1-sub/merlin_192564693_a2095058-1d20-4e1f-af03-59e8d9695327-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/asia/indonesia-children-covid-deaths.html)
+[![](https://static01.nyt.com/images/2021/08/10/world/00Iran-Hack01/merlin_174351867_a127d33f-5007-4e50-9f36-712ea661b966-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/middleeast/iran-trains-cyberattack.html)
 
-The disease kills far more children in developing countries than in rich ones, and some factors make them especially vulnerable in Indonesia.
+An investigation by a cybersecurity company has concluded that a little-known group opposed to the Iranian government was most likely behind the hack that caused chaos on the railway system.
 
-By Dera Menra Sijabat, Richard C. Paddock and Muktita Suhartono
-
-* * *
-
-* * *
-
-A Pricey Drive Down Montenegro’s Highway ‘From Nowhere to Nowhere’
-------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/14/world/europe/montenegro-highway-china.html)
-
-[![](https://static01.nyt.com/images/2021/08/05/world/xxmontenegro-china01/merlin_192773721_879a4a5e-e304-45d8-befe-15b994db2b17-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/europe/montenegro-highway-china.html)
-
-The Montenegrin leader says that an almost $1 billion Chinese-built highway approved by his predecessor has badly strained the country’s finances.
-
-By Andrew Higgins
+By Ronen Bergman
 
 * * *
 
