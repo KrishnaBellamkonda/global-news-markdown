@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Canada promises refuge for 20,000 Afghans as nations scramble to evacuate.
---------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A Pricey Drive Down Montenegro’s Highway ‘From Nowhere to Nowhere’
+------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/14/world/asia/canada-refugees-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/14/world/europe/montenegro-highway-china.html)
 
-[![](https://static01.nyt.com/images/2021/08/14/world/14afghanistan-briefing-canada-evacuations/14afghanistan-briefing-canada-evacuations-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/asia/canada-refugees-afghanistan.html)
+[![](https://static01.nyt.com/images/2021/08/05/world/xxmontenegro-china01/merlin_192773721_879a4a5e-e304-45d8-befe-15b994db2b17-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/europe/montenegro-highway-china.html)
 
-Several European countries have said they are withdrawing embassy workers and seeking to evacuate those who have helped them.
+The Montenegrin leader says that an almost $1 billion Chinese-built highway approved by his predecessor has badly strained the country’s finances.
 
-By Elian Peltier
-
-* * *
+By Andrew Higgins
 
 * * *
 
-Here is what to know about the Haiti earthquake.
-------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-what-to-know.html)
+Russia Says It Will Expel a BBC Journalist
+------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/14/world/14haiti-earthquake-live-what-we-know1/14haiti-earthquake-live-what-we-know1-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-what-to-know.html)
+[Article here](https://www.nytimes.com/2021/08/13/world/europe/russia-bbc-journalist.html)
 
-The quake hit early Saturday, as many residents slept or got ready for the day.
+[![](https://static01.nyt.com/images/2021/08/13/world/13RUSSIA-BBC1/merlin_183577575_159436fc-f1d8-4811-b0b6-c7243f30c52d-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/europe/russia-bbc-journalist.html)
 
-By Isabella Grullón Paz
+The move, reported by a state television channel, comes amid an escalating confrontation with the Western news media and a crackdown on domestic dissent.
+
+By Anton Troianovski
 
 * * *
 
