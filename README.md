@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Fearing Kabul’s Fall, U.S. Officials Implore Afghans to ‘Fight’
----------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the ‘Our Hands and Feet Are Tied’: Hong Kong’s Opposition Quits in Droves
+---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/13/us/politics/kabul-biden-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/15/world/asia/hong-kong-china-politics.html)
 
-[![](https://static01.nyt.com/images/2021/08/13/us/politics/13dc-afghan-diplo1/merlin_192879597_84d0d484-741d-4055-8893-dedc516a658b-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/us/politics/kabul-biden-afghanistan.html)
+[![](https://static01.nyt.com/images/2021/08/13/world/00hongkong-politics1/merlin_175565343_73d64d3f-8c76-44a1-a74a-25d9c5abfbfc-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/asia/hong-kong-china-politics.html)
 
-The calls to action underscore the stark reality that the United States has no intention of rescuing government forces.
+The landslide victory of pro-democracy politicians in local elections in 2019 was a stunning rebuke of Beijing. Now, fear of retaliation has driven them to quit.
 
-By Michael Crowley
-
-* * *
+By Austin Ramzy and Tiffany May
 
 * * *
 
-Under pressure to quit, Afghanistan’s president pledges only to end ‘instability.’
-----------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-ghani-president-isolated.html)
+A Popular Comedy’s Return in France Exposes Growing Divides
+-----------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/13/world/13GHANI-AFGHAN/merlin_189894783_5f797b7b-8dea-408d-98e0-92064338f065-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-ghani-president-isolated.html)
+[Article here](https://www.nytimes.com/2021/08/14/world/europe/france-OSS-117-movie-comedy.html)
 
-A recorded speech aired Saturday indicated that President Ashraf Ghani, who has little support at home or abroad, would keep clinging to office.
+[![](https://static01.nyt.com/images/2021/08/14/world/14FRANCE-HUMOR01/merlin_193219059_1e67579b-eb01-4163-938f-abee19baeb75-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/europe/france-OSS-117-movie-comedy.html)
 
-By Adam Nossiter
+After 12 years, a French spy spoof movie series featuring a clueless, racist and sexist hero re-emerges in a nation where laughter has become more complicated.
+
+By Norimitsu Onishi
 
 * * *
 
