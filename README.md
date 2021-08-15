@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A Possible Election Call as the Pandemic’s 4th Wave Gets Underway
------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Fearing Kabul’s Fall, U.S. Officials Implore Afghans to ‘Fight’
+---------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/13/world/canada/canada-election-pandemic.html)
+[Article here](https://www.nytimes.com/2021/08/13/us/politics/kabul-biden-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/08/13/world/13canadaletter-poll/13canadaletter-poll-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/canada/canada-election-pandemic.html)
+[![](https://static01.nyt.com/images/2021/08/13/us/politics/13dc-afghan-diplo1/merlin_192879597_84d0d484-741d-4055-8893-dedc516a658b-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/us/politics/kabul-biden-afghanistan.html)
 
-Prime Minister Justin Trudeau may call an early election as soon as Sunday despite rising Covid-19 cases. If so, it won’t be campaigning as usual.
+The calls to action underscore the stark reality that the United States has no intention of rescuing government forces.
 
-By Ian Austen
-
-* * *
+By Michael Crowley
 
 * * *
 
-Here is what to know about the Haiti earthquake.
-------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-what-to-know.html)
+Under pressure to quit, Afghanistan’s president pledges only to end ‘instability.’
+----------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/14/world/14haiti-earthquake-live-what-we-know1/14haiti-earthquake-live-what-we-know1-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-what-to-know.html)
+[Article here](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-ghani-president-isolated.html)
 
-The quake hit early Saturday, as many residents slept or got ready for the day.
+[![](https://static01.nyt.com/images/2021/08/13/world/13GHANI-AFGHAN/merlin_189894783_5f797b7b-8dea-408d-98e0-92064338f065-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-ghani-president-isolated.html)
 
-By Isabella Grullón Paz
+A recorded speech aired Saturday indicated that President Ashraf Ghani, who has little support at home or abroad, would keep clinging to office.
+
+By Adam Nossiter
 
 * * *
 
