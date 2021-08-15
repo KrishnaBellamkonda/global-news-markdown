@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A Pricey Drive Down Montenegro’s Highway ‘From Nowhere to Nowhere’
-------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Texas takes its ban on school mask mandates to the state Supreme Court.
+-----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/14/world/europe/montenegro-highway-china.html)
+[Article here](https://www.nytimes.com/2021/08/14/world/texas-abbott-battle-mask-mandate.html)
 
-[![](https://static01.nyt.com/images/2021/08/05/world/xxmontenegro-china01/merlin_192773721_879a4a5e-e304-45d8-befe-15b994db2b17-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/europe/montenegro-highway-china.html)
+[![](https://static01.nyt.com/images/2021/08/14/world/14virus-briefing-texas/merlin_193193742_9524916a-2984-4584-8a7d-2bc47d4f54ae-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/texas-abbott-battle-mask-mandate.html)
 
-The Montenegrin leader says that an almost $1 billion Chinese-built highway approved by his predecessor has badly strained the country’s finances.
+After judges in the San Antonio and Dallas areas ruled to uphold locally issued mask mandates, the state’s attorney general took a case to the state’s top court.
 
-By Andrew Higgins
-
-* * *
+By Andrea Kannapell
 
 * * *
 
-Russia Says It Will Expel a BBC Journalist
-------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/13/world/europe/russia-bbc-journalist.html)
+Germany adds the U.S. to its ‘high risk’ list, requiring some travelers to quarantine.
+--------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/13/world/13RUSSIA-BBC1/merlin_183577575_159436fc-f1d8-4811-b0b6-c7243f30c52d-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/europe/russia-bbc-journalist.html)
+[Article here](https://www.nytimes.com/2021/08/14/world/europe/germany-us-high-risk-list.html)
 
-The move, reported by a state television channel, comes amid an escalating confrontation with the Western news media and a crackdown on domestic dissent.
+[![](https://static01.nyt.com/images/2021/08/14/world/14virus-briefing-germany-us-risk/14virus-briefing-germany-us-risk-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/europe/germany-us-high-risk-list.html)
 
-By Anton Troianovski
+American tourists and other nonessential travelers will have to quarantine for 10 days, starting Sunday, if they cannot document full vaccination or immunity from a past infection.
+
+By Christopher F. Schuetze
 
 * * *
 
