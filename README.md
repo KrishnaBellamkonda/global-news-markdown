@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Texas takes its ban on school mask mandates to the state Supreme Court.
------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A Possible Election Call as the Pandemic’s 4th Wave Gets Underway
+-----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/14/world/texas-abbott-battle-mask-mandate.html)
+[Article here](https://www.nytimes.com/2021/08/13/world/canada/canada-election-pandemic.html)
 
-[![](https://static01.nyt.com/images/2021/08/14/world/14virus-briefing-texas/merlin_193193742_9524916a-2984-4584-8a7d-2bc47d4f54ae-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/texas-abbott-battle-mask-mandate.html)
+[![](https://static01.nyt.com/images/2021/08/13/world/13canadaletter-poll/13canadaletter-poll-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/canada/canada-election-pandemic.html)
 
-After judges in the San Antonio and Dallas areas ruled to uphold locally issued mask mandates, the state’s attorney general took a case to the state’s top court.
+Prime Minister Justin Trudeau may call an early election as soon as Sunday despite rising Covid-19 cases. If so, it won’t be campaigning as usual.
 
-By Andrea Kannapell
-
-* * *
+By Ian Austen
 
 * * *
 
-Germany adds the U.S. to its ‘high risk’ list, requiring some travelers to quarantine.
---------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/14/world/europe/germany-us-high-risk-list.html)
+Here is what to know about the Haiti earthquake.
+------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/14/world/14virus-briefing-germany-us-risk/14virus-briefing-germany-us-risk-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/europe/germany-us-high-risk-list.html)
+[Article here](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-what-to-know.html)
 
-American tourists and other nonessential travelers will have to quarantine for 10 days, starting Sunday, if they cannot document full vaccination or immunity from a past infection.
+[![](https://static01.nyt.com/images/2021/08/14/world/14haiti-earthquake-live-what-we-know1/14haiti-earthquake-live-what-we-know1-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-what-to-know.html)
 
-By Christopher F. Schuetze
+The quake hit early Saturday, as many residents slept or got ready for the day.
+
+By Isabella Grullón Paz
 
 * * *
 
