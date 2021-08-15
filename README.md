@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the 20 Years of Defense, Erased by the Taliban in a Few Months
-----------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Poverty, Disease, Customs: Why So Many Indonesian Children Die of Covid
+-----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/interactive/2021/08/14/world/asia/afghanistan-maps-taliban.html)
+[Article here](https://www.nytimes.com/2021/08/14/world/asia/indonesia-children-covid-deaths.html)
 
-[![](https://static01.nyt.com/images/2021/08/14/us/afghanistan-maps-taliban-promo-1628964568896/afghanistan-maps-taliban-promo-1628964568896-superJumbo-v2.jpg)](https://www.nytimes.com/interactive/2021/08/14/world/asia/afghanistan-maps-taliban.html)
+[![](https://static01.nyt.com/images/2021/08/12/world/00virus-Indonesia-children-1-sub/merlin_192564693_a2095058-1d20-4e1f-af03-59e8d9695327-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/asia/indonesia-children-covid-deaths.html)
 
-Maps show the stunning speed of Taliban advances after the United States began to withdraw.
+The disease kills far more children in developing countries than in rich ones, and some factors make them especially vulnerable in Indonesia.
 
-By Scott Reinhard and David Zucchino
-
-* * *
+By Dera Menra Sijabat, Richard C. Paddock and Muktita Suhartono
 
 * * *
 
-Latest U.K. Scandals Show a System Rife With Insider Ties
----------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/13/world/europe/uk-boris-johnson-cameron.html)
+A Pricey Drive Down Montenegro’s Highway ‘From Nowhere to Nowhere’
+------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/11/world/11uk-donors1/merlin_165358419_4bf5b806-c94f-4d6c-8ed2-3754f9f14a6d-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/europe/uk-boris-johnson-cameron.html)
+[Article here](https://www.nytimes.com/2021/08/14/world/europe/montenegro-highway-china.html)
 
-For years, Britain relied on an informal code of gentlemen’s agreements to help prevent influence-peddling and cronyism in politics. Some say that no longer works.
+[![](https://static01.nyt.com/images/2021/08/05/world/xxmontenegro-china01/merlin_192773721_879a4a5e-e304-45d8-befe-15b994db2b17-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/europe/montenegro-highway-china.html)
 
-By Stephen Castle
+The Montenegrin leader says that an almost $1 billion Chinese-built highway approved by his predecessor has badly strained the country’s finances.
+
+By Andrew Higgins
 
 * * *
 
