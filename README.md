@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the ‘Our Hands and Feet Are Tied’: Hong Kong’s Opposition Quits in Droves
----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Social media posts from the quake-damaged area of Haiti help convey the disaster’s scope.
+-----------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/15/world/asia/hong-kong-china-politics.html)
+[Article here](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-photos-news-social-media.html)
 
-[![](https://static01.nyt.com/images/2021/08/13/world/00hongkong-politics1/merlin_175565343_73d64d3f-8c76-44a1-a74a-25d9c5abfbfc-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/asia/hong-kong-china-politics.html)
+[![](https://static01.nyt.com/images/2021/08/14/world/14haiti-earthquake-live-social-media/14haiti-earthquake-live-social-media-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-photos-news-social-media.html)
 
-The landslide victory of pro-democracy politicians in local elections in 2019 was a stunning rebuke of Beijing. Now, fear of retaliation has driven them to quit.
+With news organizations and emergency officials scrambling to gain access to affected areas, social media has provided a vital window.
 
-By Austin Ramzy and Tiffany May
-
-* * *
+By Isabella Grullón Paz
 
 * * *
 
-A Popular Comedy’s Return in France Exposes Growing Divides
------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/14/world/europe/france-OSS-117-movie-comedy.html)
+Here is what to know about the Haiti earthquake.
+------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/14/world/14FRANCE-HUMOR01/merlin_193219059_1e67579b-eb01-4163-938f-abee19baeb75-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/europe/france-OSS-117-movie-comedy.html)
+[Article here](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-what-to-know.html)
 
-After 12 years, a French spy spoof movie series featuring a clueless, racist and sexist hero re-emerges in a nation where laughter has become more complicated.
+[![](https://static01.nyt.com/images/2021/08/14/world/14haiti-earthquake-live-what-we-know1/14haiti-earthquake-live-what-we-know1-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-what-to-know.html)
 
-By Norimitsu Onishi
+The quake hit early Saturday, as many residents slept or got ready for the day.
+
+By Isabella Grullón Paz
 
 * * *
 
