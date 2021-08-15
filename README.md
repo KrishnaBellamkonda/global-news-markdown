@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Afghan Military Was Built Over 20 Years. How Did It Collapse So Quickly?
-----------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taliban Sweep in Afghanistan Follows Years of U.S. Miscalculations
+------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-rapid-military-collapse.html)
+[Article here](https://www.nytimes.com/2021/08/14/us/afghanistan-biden.html)
 
-[![](https://static01.nyt.com/images/2021/08/12/world/00afghan-forces-top/merlin_192879774_c32b0d73-ba39-4fe7-a43c-02f6aa0f9820-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-rapid-military-collapse.html)
+[![](https://static01.nyt.com/images/2021/08/12/world/14dc-intel/merlin_106307455_5c1305db-0902-4660-b496-bd670fb5b326-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/us/afghanistan-biden.html)
 
-The Taliban’s rapid advance has made clear that U.S. efforts to turn Afghanistan’s military into a robust, independent fighting force have failed, with its soldiers feeling abandoned by inept leaders.
+An Afghan military that did not believe in itself and a U.S. effort that Mr. Biden, and most Americans, no longer believed in brought an ignoble end to America’s longest war.
 
-By Thomas Gibbons-Neff, Fahim Abed and Sharif Hassan
-
-* * *
+By David E. Sanger and Helene Cooper
 
 * * *
 
-A Possible Election Call as the Pandemic’s 4th Wave Gets Underway
------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/13/world/canada/canada-election-pandemic.html)
+20 Years of Defense, Erased by the Taliban in a Few Months
+----------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/13/world/13canadaletter-poll/13canadaletter-poll-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/canada/canada-election-pandemic.html)
+[Article here](https://www.nytimes.com/interactive/2021/08/14/world/asia/afghanistan-maps-taliban.html)
 
-Prime Minister Justin Trudeau may call an early election as soon as Sunday despite rising Covid-19 cases. If so, it won’t be campaigning as usual.
+[![](https://static01.nyt.com/images/2021/08/14/us/afghanistan-maps-taliban-promo-1628964568896/afghanistan-maps-taliban-promo-1628964568896-superJumbo-v2.jpg)](https://www.nytimes.com/interactive/2021/08/14/world/asia/afghanistan-maps-taliban.html)
 
-By Ian Austen
+Maps show the stunning speed of Taliban advances after the United States began to withdraw.
+
+By Scott Reinhard and David Zucchino
 
 * * *
 
