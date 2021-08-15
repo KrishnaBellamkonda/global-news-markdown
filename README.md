@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Social media posts from the quake-damaged area of Haiti help convey the disaster’s scope.
------------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Afghan Military Was Built Over 20 Years. How Did It Collapse So Quickly?
+----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-photos-news-social-media.html)
+[Article here](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-rapid-military-collapse.html)
 
-[![](https://static01.nyt.com/images/2021/08/14/world/14haiti-earthquake-live-social-media/14haiti-earthquake-live-social-media-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-photos-news-social-media.html)
+[![](https://static01.nyt.com/images/2021/08/12/world/00afghan-forces-top/merlin_192879774_c32b0d73-ba39-4fe7-a43c-02f6aa0f9820-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/asia/afghanistan-rapid-military-collapse.html)
 
-With news organizations and emergency officials scrambling to gain access to affected areas, social media has provided a vital window.
+The Taliban’s rapid advance has made clear that U.S. efforts to turn Afghanistan’s military into a robust, independent fighting force have failed, with its soldiers feeling abandoned by inept leaders.
 
-By Isabella Grullón Paz
-
-* * *
+By Thomas Gibbons-Neff, Fahim Abed and Sharif Hassan
 
 * * *
 
-Here is what to know about the Haiti earthquake.
-------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-what-to-know.html)
+A Possible Election Call as the Pandemic’s 4th Wave Gets Underway
+-----------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/14/world/14haiti-earthquake-live-what-we-know1/14haiti-earthquake-live-what-we-know1-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-what-to-know.html)
+[Article here](https://www.nytimes.com/2021/08/13/world/canada/canada-election-pandemic.html)
 
-The quake hit early Saturday, as many residents slept or got ready for the day.
+[![](https://static01.nyt.com/images/2021/08/13/world/13canadaletter-poll/13canadaletter-poll-superJumbo.jpg)](https://www.nytimes.com/2021/08/13/world/canada/canada-election-pandemic.html)
 
-By Isabella Grullón Paz
+Prime Minister Justin Trudeau may call an early election as soon as Sunday despite rising Covid-19 cases. If so, it won’t be campaigning as usual.
+
+By Ian Austen
 
 * * *
 
