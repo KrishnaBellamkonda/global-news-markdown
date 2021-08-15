@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taliban Sweep in Afghanistan Follows Years of U.S. Miscalculations
-------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghans working for U.S. government broadcasters fear Taliban backlash.
+-----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/14/us/afghanistan-biden.html)
+[Article here](https://www.nytimes.com/2021/08/15/world/asia/afghans-radio-united-states-taliban-fear.html)
 
-[![](https://static01.nyt.com/images/2021/08/12/world/14dc-intel/merlin_106307455_5c1305db-0902-4660-b496-bd670fb5b326-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/us/afghanistan-biden.html)
+[![](https://static01.nyt.com/images/2021/08/15/world/15afghanistan-briefing-media/15afghanistan-briefing-media-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/15/world/asia/afghans-radio-united-states-taliban-fear.html)
 
-An Afghan military that did not believe in itself and a U.S. effort that Mr. Biden, and most Americans, no longer believed in brought an ignoble end to America’s longest war.
+The Afghans working for the U.S. government broadcasters in Kabul have long been targets of the insurgents, who killed a journalist in November.
 
-By David E. Sanger and Helene Cooper
-
-* * *
+By Ben Smith
 
 * * *
 
-20 Years of Defense, Erased by the Taliban in a Few Months
-----------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/interactive/2021/08/14/world/asia/afghanistan-maps-taliban.html)
+Blinken says the Taliban moved faster than expected, but defends removal of U.S. troops.
+----------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/14/us/afghanistan-maps-taliban-promo-1628964568896/afghanistan-maps-taliban-promo-1628964568896-superJumbo-v2.jpg)](https://www.nytimes.com/interactive/2021/08/14/world/asia/afghanistan-maps-taliban.html)
+[Article here](https://www.nytimes.com/2021/08/15/world/taliban-blinken-afghanistan-kabul.html)
 
-Maps show the stunning speed of Taliban advances after the United States began to withdraw.
+[![](https://static01.nyt.com/images/2021/08/15/world/15afghanistan-briefing-blinken/merlin_193100604_6bb9d262-f1ca-42b2-b627-62e900b09639-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/taliban-blinken-afghanistan-kabul.html)
 
-By Scott Reinhard and David Zucchino
+The secretary of state forcefully defended the decision to withdraw the American military from Afghanistan, citing threats to the United States if it reneged on a peace deal.
+
+By Lara Jakes
 
 * * *
 
