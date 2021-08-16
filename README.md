@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taliban Sweep in Afghanistan Follows Years of U.S. Miscalculations
-------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/14/us/afghanistan-biden.html)
-
-[![](https://static01.nyt.com/images/2021/08/12/world/14dc-intel/merlin_106307455_5c1305db-0902-4660-b496-bd670fb5b326-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/us/afghanistan-biden.html)
-
-An Afghan military that did not believe in itself and a U.S. effort that Mr. Biden, and most Americans, no longer believed in brought an ignoble end to America’s longest war.
-
-By David E. Sanger and Helene Cooper
-
-* * *
-
-* * *
-
-Your Monday Briefing
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Monday Briefing
 --------------------
 
-[Article here](https://www.nytimes.com/2021/08/15/briefing/your-monday-briefing.html)
+[Article here](https://www.nytimes.com/2021/08/15/briefing/taliban-haiti-earthquake.html)
 
-[![](https://static01.nyt.com/images/2020/12/08/multimedia/16ambriefing-aus-nl-PROMO/home-fader-hp-slides-slide-8IK5-superJumbo-v4.jpg)](https://www.nytimes.com/2021/08/15/briefing/your-monday-briefing.html)
+[![](https://static01.nyt.com/images/2021/08/16/us/16ambriefing-europe-nl-promo/16ambriefing-europe-nl-lede-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/briefing/taliban-haiti-earthquake.html)
 
-The Taliban take Afghanistan.
+The Taliban’s victory in Afghanistan.
 
-By Amelia Nierenberg
+By Natasha Frost
+
+* * *
+
+* * *
+
+Haiti lies in the possible path of Tropical Storm Grace.
+--------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/14/world/americas/tropical-storm-grace-haiti.html)
+
+[![](https://static01.nyt.com/images/2021/08/14/world/14haiti-earthquake-live-tropical-storm-grace/14haiti-earthquake-live-tropical-storm-grace-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/americas/tropical-storm-grace-haiti.html)
+
+The storm is projected to pass near Haiti sometime on Monday, the National Hurricane Center said, but it is possible the storm will spare the beleaguered country.
+
+By Alyssa Lukpat and Jesus Jiménez
 
 * * *
 
