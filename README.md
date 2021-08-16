@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the For Biden, Images of Defeat He Wanted to Avoid
-----------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Can the vaccinated develop long Covid?
+--------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/15/us/politics/afghanistan-biden.html)
+[Article here](https://www.nytimes.com/2021/08/16/briefing/long-covid-afghanistan-haiti.html)
 
-[![](https://static01.nyt.com/images/2021/08/15/us/politics/15dc-prexy-1/merlin_193198014_4d717085-117d-4369-829f-977bb2a2aa1a-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/us/politics/afghanistan-biden.html)
+[![](https://static01.nyt.com/images/2021/08/16/lens/16ambriefing-promo/16ambriefing-covid-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/16/briefing/long-covid-afghanistan-haiti.html)
 
-President Biden will go down in history, fairly or unfairly, as the president who presided over a humiliating final act in the American experiment in Afghanistan.
+Long Covid remains a worrisome complication after a Covid-19 infection. Are the vaccinated at risk, too?
 
-By David E. Sanger
-
-* * *
+By Tara Parker-Pope
 
 * * *
 
-Officials in Washington are scrambling to keep up with the fast-moving events in Afghanistan.
----------------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/15/world/officials-in-washington-are-scrambling-to-keep-up-with-the-fast-moving-events-in-afghanistan.html)
+Tropical Depression Grace heads toward quake-ravaged Haiti.
+-----------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/15/world/15afghanistan-briefing-diplo-mood2/merlin_193304097_f7929bf9-91bf-4690-a4e9-9a9044de1984-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/officials-in-washington-are-scrambling-to-keep-up-with-the-fast-moving-events-in-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/15/world/americas/haiti-tropical-storm-grace-path.html)
 
-By Lara Jakes, Eric Schmitt and Helene Cooper
+[![](https://static01.nyt.com/images/2021/08/15/world/15haiti-earthquake-tropical-storm/15haiti-earthquake-tropical-storm-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/americas/haiti-tropical-storm-grace-path.html)
+
+The tropical depression is expected to batter Haiti late Monday or early Tuesday.
+
+By Alyssa Lukpat and Alexandra E. Petri
 
 * * *
 
