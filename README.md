@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Haiti lies in the possible path of Tropical Storm Grace.
---------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In Zambia Election, Opposition Leader Storms to Decisive Win Over President
+---------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/14/world/americas/tropical-storm-grace-haiti.html)
+[Article here](https://www.nytimes.com/2021/08/15/world/africa/zambia-presidential-election.html)
 
-[![](https://static01.nyt.com/images/2021/08/14/world/14haiti-earthquake-live-tropical-storm-grace/14haiti-earthquake-live-tropical-storm-grace-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/americas/tropical-storm-grace-haiti.html)
+[![](https://static01.nyt.com/images/2021/08/15/world/15zambia-HFO1/merlin_193151412_5b65f048-cc23-4060-9808-ca57987467fe-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/africa/zambia-presidential-election.html)
 
-The storm is projected to pass near Haiti sometime on Monday, the National Hurricane Center said, but it is possible the storm will spare the beleaguered country.
+Voters picked Hakainde Hichilema, a businessman who had lost five previous bids for the job, to take over from Edgar Lungu, who has led the southern African nation since 2015.
 
-By Alyssa Lukpat and Jesus Jiménez
-
-* * *
+By John Eligon
 
 * * *
 
-The Texas State Supreme Court upholds Texas’ mask mandate ban, for now.
+* * *
+
+Mysterious Hacker Group Suspected in July Cyberattack on Iranian Trains
 -----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/15/world/texas-covid-masks-ban-abbott.html)
+[Article here](https://www.nytimes.com/2021/08/14/world/middleeast/iran-trains-cyberattack.html)
 
-[![](https://static01.nyt.com/images/2021/08/15/multimedia/15virus-briefing-texas-01/15virus-briefing-texas-01-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/texas-covid-masks-ban-abbott.html)
+[![](https://static01.nyt.com/images/2021/08/10/world/00Iran-Hack01/merlin_174351867_a127d33f-5007-4e50-9f36-712ea661b966-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/middleeast/iran-trains-cyberattack.html)
 
-The decision is temporary because the State Supreme Court must make a final ruling.
+An investigation by a cybersecurity company has concluded that a little-known group opposed to the Iranian government was most likely behind the hack that caused chaos on the railway system.
 
-By Ethan Hauser
+By Ronen Bergman
 
 * * *
 
