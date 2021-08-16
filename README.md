@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Haiti quake prompted tsunami warning that was later rescinded.
---------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the For Biden, Images of Defeat He Wanted to Avoid
+----------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/14/world/americas/haiti-tsunami-warning.html)
+[Article here](https://www.nytimes.com/2021/08/15/us/politics/afghanistan-biden.html)
 
-[![](https://static01.nyt.com/images/2021/08/14/world/14haiti-earthquake-live-tsunami/14haiti-earthquake-live-tsunami-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/americas/haiti-tsunami-warning.html)
+[![](https://static01.nyt.com/images/2021/08/15/us/politics/15dc-prexy-1/merlin_193198014_4d717085-117d-4369-829f-977bb2a2aa1a-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/us/politics/afghanistan-biden.html)
 
-There was one report of water flooding a street in Les Cayes.
+President Biden will go down in history, fairly or unfairly, as the president who presided over a humiliating final act in the American experiment in Afghanistan.
 
-By Isabella Grullón Paz
-
-* * *
+By David E. Sanger
 
 * * *
 
-Social media posts from the quake-damaged area of Haiti help convey the disaster’s scope.
------------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-photos-news-social-media.html)
+Officials in Washington are scrambling to keep up with the fast-moving events in Afghanistan.
+---------------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/14/world/14haiti-earthquake-live-social-media/14haiti-earthquake-live-social-media-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-photos-news-social-media.html)
+[Article here](https://www.nytimes.com/2021/08/15/world/officials-in-washington-are-scrambling-to-keep-up-with-the-fast-moving-events-in-afghanistan.html)
 
-With news organizations and emergency officials scrambling to gain access to affected areas, social media has provided a vital window.
+[![](https://static01.nyt.com/images/2021/08/15/world/15afghanistan-briefing-diplo-mood2/merlin_193304097_f7929bf9-91bf-4690-a4e9-9a9044de1984-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/officials-in-washington-are-scrambling-to-keep-up-with-the-fast-moving-events-in-afghanistan.html)
 
-By Isabella Grullón Paz
+By Lara Jakes, Eric Schmitt and Helene Cooper
 
 * * *
 
