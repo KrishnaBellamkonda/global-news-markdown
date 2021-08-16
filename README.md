@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A Florida school board defies the governor’s mask ban.
-------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghans storm Kabul’s airport in a desperate bid to escape.
+-----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/15/us/delta-covid-florida-schools-masks.html)
+[Article here](https://www.nytimes.com/2021/08/16/world/asia/kabul-airport-taliban-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/09/15/world/15virus-briefing-broward/merlin_193297185_b74b55fb-448f-42eb-aa5d-8158e30b8f91-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/us/delta-covid-florida-schools-masks.html)
+[![](https://static01.nyt.com/images/2021/08/16/us/politics/16afghan-briefing-scene-sub/merlin_193332960_6ef836b3-e6e4-4e88-9464-0792d18b0e61-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/world/asia/kabul-airport-taliban-afghanistan.html)
 
-After Broward County officials voted to impose a mandate on face coverings, Gov. Ron DeSantis threatened to revoke their pay.
+The U.S. military took charge of security over part of the airport’s civilian side as thousands rushed the tarmac. Some hung from jets even as they taxied down the runway.
 
-By Melina Delkic
-
-* * *
+By Austin Ramzy, Carlotta Gall and Marc Santora
 
 * * *
 
-Can the vaccinated develop long Covid?
---------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/16/briefing/long-covid-afghanistan-haiti.html)
+Kabul’s Sudden Fall to Taliban Ends U.S. Era in Afghanistan
+-----------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/16/lens/16ambriefing-promo/16ambriefing-covid-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/16/briefing/long-covid-afghanistan-haiti.html)
+[Article here](https://www.nytimes.com/2021/08/15/world/asia/afghanistan-taliban-kabul-surrender.html)
 
-Long Covid remains a worrisome complication after a Covid-19 infection. Are the vaccinated at risk, too?
+[![](https://static01.nyt.com/images/2021/08/15/world/15afghanistan-promo/merlin_193304262_e05f3b6d-2960-4f33-81b9-8d5a99ab234d-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/asia/afghanistan-taliban-kabul-surrender.html)
 
-By Tara Parker-Pope
+A takeover of the entire country was all but absolute as the Afghan government collapsed and the U.S. rushed through a frenzied evacuation.
+
+By David Zucchino, Jim Huylebroek and Kiana Hayeri
 
 * * *
 
