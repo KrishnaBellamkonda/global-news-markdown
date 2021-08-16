@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The prospect of booster shots is igniting a global health debate.
------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A Florida school board defies the governor’s mask ban.
+------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/16/world/booster-shots-debate.html)
+[Article here](https://www.nytimes.com/2021/08/15/us/delta-covid-florida-schools-masks.html)
 
-[![](https://static01.nyt.com/images/2021/08/13/us/13virus-briefing-vaccine-booster/merlin_186207246_c172b13a-c96a-494a-a2e3-5cded2f678c7-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/world/booster-shots-debate.html)
+[![](https://static01.nyt.com/images/2021/09/15/world/15virus-briefing-broward/merlin_193297185_b74b55fb-448f-42eb-aa5d-8158e30b8f91-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/us/delta-covid-florida-schools-masks.html)
 
-Citing a lack of scientific evidence, the W.H.O. argues that extra vaccine doses should be sent to poor countries instead.
+After Broward County officials voted to impose a mandate on face coverings, Gov. Ron DeSantis threatened to revoke their pay.
 
-By Daniel E. Slotnik and Noah Weiland
-
-* * *
+By Melina Delkic
 
 * * *
 
-Japan’s Economy Returns to Growth, but Virus Threat Looms
----------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/15/business/japan-economy-gdp-second-quarter.html)
+Can the vaccinated develop long Covid?
+--------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/16/lens/16japan-economy/16japan-economy-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/15/business/japan-economy-gdp-second-quarter.html)
+[Article here](https://www.nytimes.com/2021/08/16/briefing/long-covid-afghanistan-haiti.html)
 
-Even as other major economies have roared back to life, Japan’s has been stuck in a cycle of growth and contraction.
+[![](https://static01.nyt.com/images/2021/08/16/lens/16ambriefing-promo/16ambriefing-covid-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/16/briefing/long-covid-afghanistan-haiti.html)
 
-By Ben Dooley and Makiko Inoue
+Long Covid remains a worrisome complication after a Covid-19 infection. Are the vaccinated at risk, too?
+
+By Tara Parker-Pope
 
 * * *
 
