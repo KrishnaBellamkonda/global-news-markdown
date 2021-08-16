@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In an Overrun Kabul, Many Have No Place to Run
-----------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The prospect of booster shots is igniting a global health debate.
+-----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/15/world/asia/kabul-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/16/world/booster-shots-debate.html)
 
-[![](https://static01.nyt.com/images/2021/08/15/world/15kabul-scene1/15kabul-scene1-superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/15/world/asia/kabul-afghanistan.html)
+[![](https://static01.nyt.com/images/2021/08/13/us/13virus-briefing-vaccine-booster/merlin_186207246_c172b13a-c96a-494a-a2e3-5cded2f678c7-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/world/booster-shots-debate.html)
 
-Afghanistan’s capital fell to the Taliban far faster than many had imagined it would, leaving most Afghans with no way out.
+Citing a lack of scientific evidence, the W.H.O. argues that extra vaccine doses should be sent to poor countries instead.
 
-By Carlotta Gall, Christina Goldbaum, Thomas Gibbons-Neff and Ruhullah Khapalwak
-
-* * *
+By Daniel E. Slotnik and Noah Weiland
 
 * * *
 
-Evacuation from Kabul falters as chaos at airport reigns.
+* * *
+
+Japan’s Economy Returns to Growth, but Virus Threat Looms
 ---------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/15/world/asia/us-evacuation-kabul.html)
+[Article here](https://www.nytimes.com/2021/08/15/business/japan-economy-gdp-second-quarter.html)
 
-[![](https://static01.nyt.com/images/2021/08/15/world/15afghanistan-briefing-US-evacuation/merlin_193303338_ee7c86d1-efb7-40e8-bb8c-bbf87a1f833a-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/asia/us-evacuation-kabul.html)
+[![](https://static01.nyt.com/images/2021/08/16/lens/16japan-economy/16japan-economy-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/15/business/japan-economy-gdp-second-quarter.html)
 
-The U.S. embassy warned citizens to not head to the airport after reports of gunfire and said the situation is “changing quickly.”
+Even as other major economies have roared back to life, Japan’s has been stuck in a cycle of growth and contraction.
+
+By Ben Dooley and Makiko Inoue
 
 * * *
 
