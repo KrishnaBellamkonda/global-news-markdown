@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghans working for U.S. government broadcasters fear Taliban backlash.
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Haiti lies in the possible path of Tropical Storm Grace.
+--------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/14/world/americas/tropical-storm-grace-haiti.html)
+
+[![](https://static01.nyt.com/images/2021/08/14/world/14haiti-earthquake-live-tropical-storm-grace/14haiti-earthquake-live-tropical-storm-grace-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/americas/tropical-storm-grace-haiti.html)
+
+The storm is projected to pass near Haiti sometime on Monday, the National Hurricane Center said, but it is possible the storm will spare the beleaguered country.
+
+By Alyssa Lukpat and Jesus Jiménez
+
+* * *
+
+* * *
+
+The Texas State Supreme Court upholds Texas’ mask mandate ban, for now.
 -----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/15/world/asia/afghans-radio-united-states-taliban-fear.html)
+[Article here](https://www.nytimes.com/2021/08/15/world/texas-covid-masks-ban-abbott.html)
 
-[![](https://static01.nyt.com/images/2021/08/15/world/15afghanistan-briefing-media/15afghanistan-briefing-media-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/15/world/asia/afghans-radio-united-states-taliban-fear.html)
+[![](https://static01.nyt.com/images/2021/08/15/multimedia/15virus-briefing-texas-01/15virus-briefing-texas-01-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/texas-covid-masks-ban-abbott.html)
 
-The Afghans working for the U.S. government broadcasters in Kabul have long been targets of the insurgents, who killed a journalist in November.
+The decision is temporary because the State Supreme Court must make a final ruling.
 
-By Ben Smith
-
-* * *
-
-* * *
-
-Blinken says the Taliban moved faster than expected, but defends removal of U.S. troops.
-----------------------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/15/world/taliban-blinken-afghanistan-kabul.html)
-
-[![](https://static01.nyt.com/images/2021/08/15/world/15afghanistan-briefing-blinken/merlin_193100604_6bb9d262-f1ca-42b2-b627-62e900b09639-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/taliban-blinken-afghanistan-kabul.html)
-
-The secretary of state forcefully defended the decision to withdraw the American military from Afghanistan, citing threats to the United States if it reneged on a peace deal.
-
-By Lara Jakes
+By Ethan Hauser
 
 * * *
 
