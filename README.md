@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Can the vaccinated develop long Covid?
---------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In an Overrun Kabul, Many Have No Place to Run
+----------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/16/briefing/long-covid-afghanistan-haiti.html)
+[Article here](https://www.nytimes.com/2021/08/15/world/asia/kabul-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/08/16/lens/16ambriefing-promo/16ambriefing-covid-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/16/briefing/long-covid-afghanistan-haiti.html)
+[![](https://static01.nyt.com/images/2021/08/15/world/15kabul-scene1/15kabul-scene1-superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/15/world/asia/kabul-afghanistan.html)
 
-Long Covid remains a worrisome complication after a Covid-19 infection. Are the vaccinated at risk, too?
+Afghanistan’s capital fell to the Taliban far faster than many had imagined it would, leaving most Afghans with no way out.
 
-By Tara Parker-Pope
-
-* * *
+By Carlotta Gall, Christina Goldbaum, Thomas Gibbons-Neff and Ruhullah Khapalwak
 
 * * *
 
-Tropical Depression Grace heads toward quake-ravaged Haiti.
------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/15/world/americas/haiti-tropical-storm-grace-path.html)
+Evacuation from Kabul falters as chaos at airport reigns.
+---------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/15/world/15haiti-earthquake-tropical-storm/15haiti-earthquake-tropical-storm-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/americas/haiti-tropical-storm-grace-path.html)
+[Article here](https://www.nytimes.com/2021/08/15/world/asia/us-evacuation-kabul.html)
 
-The tropical depression is expected to batter Haiti late Monday or early Tuesday.
+[![](https://static01.nyt.com/images/2021/08/15/world/15afghanistan-briefing-US-evacuation/merlin_193303338_ee7c86d1-efb7-40e8-bb8c-bbf87a1f833a-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/asia/us-evacuation-kabul.html)
 
-By Alyssa Lukpat and Alexandra E. Petri
+The U.S. embassy warned citizens to not head to the airport after reports of gunfire and said the situation is “changing quickly.”
 
 * * *
 
