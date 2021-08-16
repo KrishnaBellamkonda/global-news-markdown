@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In Zambia Election, Opposition Leader Storms to Decisive Win Over President
----------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taliban Sweep in Afghanistan Follows Years of U.S. Miscalculations
+------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/15/world/africa/zambia-presidential-election.html)
+[Article here](https://www.nytimes.com/2021/08/14/us/afghanistan-biden.html)
 
-[![](https://static01.nyt.com/images/2021/08/15/world/15zambia-HFO1/merlin_193151412_5b65f048-cc23-4060-9808-ca57987467fe-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/africa/zambia-presidential-election.html)
+[![](https://static01.nyt.com/images/2021/08/12/world/14dc-intel/merlin_106307455_5c1305db-0902-4660-b496-bd670fb5b326-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/us/afghanistan-biden.html)
 
-Voters picked Hakainde Hichilema, a businessman who had lost five previous bids for the job, to take over from Edgar Lungu, who has led the southern African nation since 2015.
+An Afghan military that did not believe in itself and a U.S. effort that Mr. Biden, and most Americans, no longer believed in brought an ignoble end to America’s longest war.
 
-By John Eligon
-
-* * *
+By David E. Sanger and Helene Cooper
 
 * * *
 
-Mysterious Hacker Group Suspected in July Cyberattack on Iranian Trains
------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/14/world/middleeast/iran-trains-cyberattack.html)
+Your Monday Briefing
+--------------------
 
-[![](https://static01.nyt.com/images/2021/08/10/world/00Iran-Hack01/merlin_174351867_a127d33f-5007-4e50-9f36-712ea661b966-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/middleeast/iran-trains-cyberattack.html)
+[Article here](https://www.nytimes.com/2021/08/15/briefing/your-monday-briefing.html)
 
-An investigation by a cybersecurity company has concluded that a little-known group opposed to the Iranian government was most likely behind the hack that caused chaos on the railway system.
+[![](https://static01.nyt.com/images/2020/12/08/multimedia/16ambriefing-aus-nl-PROMO/home-fader-hp-slides-slide-8IK5-superJumbo-v4.jpg)](https://www.nytimes.com/2021/08/15/briefing/your-monday-briefing.html)
 
-By Ronen Bergman
+The Taliban take Afghanistan.
+
+By Amelia Nierenberg
 
 * * *
 
