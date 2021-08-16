@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Monday Briefing
---------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Haiti quake prompted tsunami warning that was later rescinded.
+--------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/15/briefing/taliban-haiti-earthquake.html)
+[Article here](https://www.nytimes.com/2021/08/14/world/americas/haiti-tsunami-warning.html)
 
-[![](https://static01.nyt.com/images/2021/08/16/us/16ambriefing-europe-nl-promo/16ambriefing-europe-nl-lede-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/briefing/taliban-haiti-earthquake.html)
+[![](https://static01.nyt.com/images/2021/08/14/world/14haiti-earthquake-live-tsunami/14haiti-earthquake-live-tsunami-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/americas/haiti-tsunami-warning.html)
 
-The Taliban’s victory in Afghanistan.
+There was one report of water flooding a street in Les Cayes.
 
-By Natasha Frost
-
-* * *
+By Isabella Grullón Paz
 
 * * *
 
-Haiti lies in the possible path of Tropical Storm Grace.
---------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/14/world/americas/tropical-storm-grace-haiti.html)
+Social media posts from the quake-damaged area of Haiti help convey the disaster’s scope.
+-----------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/14/world/14haiti-earthquake-live-tropical-storm-grace/14haiti-earthquake-live-tropical-storm-grace-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/americas/tropical-storm-grace-haiti.html)
+[Article here](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-photos-news-social-media.html)
 
-The storm is projected to pass near Haiti sometime on Monday, the National Hurricane Center said, but it is possible the storm will spare the beleaguered country.
+[![](https://static01.nyt.com/images/2021/08/14/world/14haiti-earthquake-live-social-media/14haiti-earthquake-live-social-media-superJumbo.jpg)](https://www.nytimes.com/2021/08/14/world/americas/haiti-earthquake-photos-news-social-media.html)
 
-By Alyssa Lukpat and Jesus Jiménez
+With news organizations and emergency officials scrambling to gain access to affected areas, social media has provided a vital window.
+
+By Isabella Grullón Paz
 
 * * *
 
