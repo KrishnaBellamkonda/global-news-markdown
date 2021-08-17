@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Babies and Toddlers Spread Virus in Homes More Easily Than Teens, Study Finds
------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After 7 years of failing to fix Afghanistan, Ghani made a hasty escape.
+-----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/16/health/covid-kids-toddlers-transmission.html)
+[Article here](https://www.nytimes.com/2021/08/17/world/asia/after-7-years-of-failing-to-fix-afghanistan-ghani-made-a-hasty-escape.html)
 
-[![](https://static01.nyt.com/images/2021/08/16/science/16virus-kids/16virus-kids-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/health/covid-kids-toddlers-transmission.html)
+[![](https://static01.nyt.com/images/2021/08/17/multimedia/17afghanistan-briefing-ghani-01/17afghanistan-briefing-ghani-01-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/asia/after-7-years-of-failing-to-fix-afghanistan-ghani-made-a-hasty-escape.html)
 
-Although young children bring the coronavirus home less often than teens do, their close contact with caregivers may make them likelier to transmit it.
-
-By Emily Anthes
+By Matthew Rosenberg and Adam Nossiter
 
 * * *
 
 * * *
 
-What If You Could Become Invisible to Mosquitoes?
--------------------------------------------------
+Haiti Quake Destroyed Many Churches, Shredding a Mainstay of Support
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/17/science/crispr-mosquito-vision.html)
+[Article here](https://www.nytimes.com/2021/08/16/world/americas/haiti-earthquake-aid-grace.html)
 
-[![](https://static01.nyt.com/images/2021/08/11/science/00mosquito-vision/00mosquito-vision-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/science/crispr-mosquito-vision.html)
+[![](https://static01.nyt.com/images/2021/08/16/world/16HAITI-LEDE/16HAITI-LEDE-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/world/americas/haiti-earthquake-aid-grace.html)
 
-Using Crispr, scientists have taken the first step toward creating a mosquito that is blind to human hosts.
+“We are the only thing here,” said a cleric in Les Cayes, one of the cities worst hit by the quake. In some towns, not a church was left standing.
 
-By Sabrina Imbler
+By Maria Abi-Habib and Andre Paultre
 
 * * *
 
