@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Malaysia’s prime minister resigns over anger about his handling of the virus.
------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Thousands Who Helped the U.S. in Afghanistan Are Trapped. What Happens Next?
+----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/16/world/asia/Muhyiddin-Yassin-resigns.html)
+[Article here](https://www.nytimes.com/2021/08/16/us/afghanistan-visa-refugees-us.html)
 
-[![](https://static01.nyt.com/images/2021/08/16/world/16virus-briefing-malaysia-prime-minister-sub/merlin_193326297_fccec237-1dcb-41e0-886c-7a75128ca64a-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/world/asia/Muhyiddin-Yassin-resigns.html)
+[![](https://static01.nyt.com/images/2021/08/16/us/16visa-explainer-1/merlin_193320756_76e1b28a-9a53-489a-a8ab-e2b4e92abcec-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/us/afghanistan-visa-refugees-us.html)
 
-Prime Minister Muhyiddin Yassin will stay on until a successor is appointed, continuing to steer the Southeast Asian country through its worst wave of the virus yet.
+Many of those who worked alongside U.S. troops have waited years for visas to come to the United States. The speedy withdrawal of forces left most of them behind.
 
-By Daniel Victor
-
-* * *
+By Miriam Jordan
 
 * * *
 
-The Taliban take over the presidential palace.
-----------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/16/world/asia/taliban-presidential-palace-afghanistan.html)
+The Day After the Fall
+----------------------
 
-[![](https://static01.nyt.com/images/2021/08/16/world/16afghanistan-palace/16afghanistan-palace-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/world/asia/taliban-presidential-palace-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/17/briefing/taliban-afghanistan-collapse.html)
 
-After a peaceful overtaking of the palace in Kabul, the insurgents said they would use the building to announce the restoration of an Islamic emirate.
+[![](https://static01.nyt.com/images/2021/08/16/lens/17ambriefing-promo/17ambriefing-kabul02-superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/17/briefing/taliban-afghanistan-collapse.html)
 
-By Carlotta Gall, Daniel Victor and Ruhullah Khapalwak
+A day after the collapse of the Afghan government, we’re looking at how the story is unfolding.
+
+By the staff of The Morning
 
 * * *
 
