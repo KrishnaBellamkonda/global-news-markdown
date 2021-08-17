@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Thousands Who Helped the U.S. in Afghanistan Are Trapped. What Happens Next?
-----------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Taliban takeover of Afghanistan could extinguish U.S. influence in Kabul.
+-----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/16/us/afghanistan-visa-refugees-us.html)
+[Article here](https://www.nytimes.com/2021/08/16/world/the-taliban-takeover-of-afghanistan-could-extinguish-us-influence-in-kabul.html)
 
-[![](https://static01.nyt.com/images/2021/08/16/us/16visa-explainer-1/merlin_193320756_76e1b28a-9a53-489a-a8ab-e2b4e92abcec-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/us/afghanistan-visa-refugees-us.html)
+[![](https://static01.nyt.com/images/2021/08/16/us/politics/16afghan-briefing-us/merlin_193333125_f2f0112d-d1a3-41c2-9caf-cd24dc40c8fb-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/world/the-taliban-takeover-of-afghanistan-could-extinguish-us-influence-in-kabul.html)
 
-Many of those who worked alongside U.S. troops have waited years for visas to come to the United States. The speedy withdrawal of forces left most of them behind.
-
-By Miriam Jordan
+By Lara Jakes and Michael Crowley
 
 * * *
 
 * * *
 
-The Day After the Fall
-----------------------
+Quake-Struck Haiti Is Lashed by Heavy Rains After Storm Hits
+------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/17/briefing/taliban-afghanistan-collapse.html)
+[Article here](https://www.nytimes.com/2021/08/17/world/americas/haiti-hurricane-storm.html)
 
-[![](https://static01.nyt.com/images/2021/08/16/lens/17ambriefing-promo/17ambriefing-kabul02-superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/17/briefing/taliban-afghanistan-collapse.html)
+[![](https://static01.nyt.com/images/2021/08/17/world/17haiti-storm01/merlin_193347267_26829cb9-d64b-4983-93da-81e5f0b44daf-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/americas/haiti-hurricane-storm.html)
 
-A day after the collapse of the Afghan government, we’re looking at how the story is unfolding.
+The deluge could complicate the relief efforts that followed a 7.2-magnitude temblor that devastated the southwest of the country on Saturday.
 
-By the staff of The Morning
+By Anatoly Kurmanaev and Constant Méheut
 
 * * *
 
