@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After 7 Years of Failing to Fix Afghanistan, Ghani Makes a Hasty Escape
------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Haiti Quake Destroyed Many Churches, Shredding a Mainstay of Support
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/16/world/asia/afghanistan-president-ashraf-ghani.html)
+[Article here](https://www.nytimes.com/2021/08/16/world/americas/haiti-earthquake-aid-grace.html)
 
-[![](https://static01.nyt.com/images/2021/08/16/world/16GHANI1/merlin_193320759_3497c6c9-ba18-4678-abcf-e7c4e2b8d52e-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/world/asia/afghanistan-president-ashraf-ghani.html)
+[![](https://static01.nyt.com/images/2021/08/16/world/16HAITI-LEDE/16HAITI-LEDE-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/world/americas/haiti-earthquake-aid-grace.html)
 
-By the time ex-president Ashraf Ghani fled the country, the hot-tempered leader was isolated and ineffective. Critics blamed him for the chaos in Kabul, saying he had betrayed his people.
+“We are the only thing here,” said a cleric in Les Cayes, one of the cities worst hit by the quake. In some towns, not a church was left standing.
 
-By Matthew Rosenberg and Adam Nossiter
-
-* * *
+By Maria Abi-Habib and Andre Paultre
 
 * * *
 
-Taliban Takeover Could Extinguish U.S. Influence in Kabul
----------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/15/us/politics/biden-taliban-afghanistan.html)
+Your Tuesday Briefing
+---------------------
 
-[![](https://static01.nyt.com/images/2021/08/16/us/politics/16dc-diplo-print1/merlin_193297425_2a34394d-3b13-45f6-bd7a-94fc9736c9ce-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/us/politics/biden-taliban-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/16/briefing/afghanistan-haiti-coronavirus-boosters.html)
 
-After 20 years of diplomacy and support, American officials are now contemplating the harrowing question of whether — and how — they might engage with a Taliban government in Afghanistan.
+[![](https://static01.nyt.com/images/2021/08/17/us/17ambriefing-europe-nl-promo/merlin_193342167_3ccde99f-d574-4ac6-b642-04f7caa8743e-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/briefing/afghanistan-haiti-coronavirus-boosters.html)
 
-By Lara Jakes and Michael Crowley
+Biden defends the withdrawal from Afghanistan.
+
+By Natasha Frost
 
 * * *
 
