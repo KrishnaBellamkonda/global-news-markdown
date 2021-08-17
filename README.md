@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Tuesday Briefing
----------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Babies and Toddlers Spread Virus in Homes More Easily Than Teens, Study Finds
+-----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/16/briefing/afghanistan-haiti-coronavirus-boosters.html)
+[Article here](https://www.nytimes.com/2021/08/16/health/covid-kids-toddlers-transmission.html)
 
-[![](https://static01.nyt.com/images/2021/08/17/us/17ambriefing-europe-nl-promo/merlin_193342167_3ccde99f-d574-4ac6-b642-04f7caa8743e-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/briefing/afghanistan-haiti-coronavirus-boosters.html)
+[![](https://static01.nyt.com/images/2021/08/16/science/16virus-kids/16virus-kids-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/health/covid-kids-toddlers-transmission.html)
 
-Biden defends the withdrawal from Afghanistan.
+Although young children bring the coronavirus home less often than teens do, their close contact with caregivers may make them likelier to transmit it.
 
-By Natasha Frost
-
-* * *
+By Emily Anthes
 
 * * *
 
-Khmer Rouge Leader Appears in Court to Appeal Genocide Conviction
------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/17/world/asia/khmer-rouge-trial-cambodia.html)
+What If You Could Become Invisible to Mosquitoes?
+-------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/17/world/17cambodia-1/17cambodia-1-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/asia/khmer-rouge-trial-cambodia.html)
+[Article here](https://www.nytimes.com/2021/08/17/science/crispr-mosquito-vision.html)
 
-The trial is seen as the final stage of the long-running and expensive tribunal centered on the atrocities carried out in Cambodia during the 1970s.
+[![](https://static01.nyt.com/images/2021/08/11/science/00mosquito-vision/00mosquito-vision-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/science/crispr-mosquito-vision.html)
 
-By Seth Mydans
+Using Crispr, scientists have taken the first step toward creating a mosquito that is blind to human hosts.
+
+By Sabrina Imbler
 
 * * *
 
