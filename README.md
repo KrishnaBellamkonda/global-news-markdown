@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Haiti Quake Destroyed Many Churches, Shredding a Mainstay of Support
---------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Malaysia’s prime minister resigns over anger about his handling of the virus.
+-----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/16/world/americas/haiti-earthquake-aid-grace.html)
+[Article here](https://www.nytimes.com/2021/08/16/world/asia/Muhyiddin-Yassin-resigns.html)
 
-[![](https://static01.nyt.com/images/2021/08/16/world/16HAITI-LEDE/16HAITI-LEDE-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/world/americas/haiti-earthquake-aid-grace.html)
+[![](https://static01.nyt.com/images/2021/08/16/world/16virus-briefing-malaysia-prime-minister-sub/merlin_193326297_fccec237-1dcb-41e0-886c-7a75128ca64a-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/world/asia/Muhyiddin-Yassin-resigns.html)
 
-“We are the only thing here,” said a cleric in Les Cayes, one of the cities worst hit by the quake. In some towns, not a church was left standing.
+Prime Minister Muhyiddin Yassin will stay on until a successor is appointed, continuing to steer the Southeast Asian country through its worst wave of the virus yet.
 
-By Maria Abi-Habib and Andre Paultre
-
-* * *
+By Daniel Victor
 
 * * *
 
-What a U.K. Staycation Looks Like in a Pandemic
------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/16/business/coronavirus-uk-summer-holiday.html)
+The Taliban take over the presidential palace.
+----------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/11/business/00UK-HOLIDAY-STAFFSHORTAGES-1/00UK-HOLIDAY-STAFFSHORTAGES-1-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/business/coronavirus-uk-summer-holiday.html)
+[Article here](https://www.nytimes.com/2021/08/16/world/asia/taliban-presidential-palace-afghanistan.html)
 
-The classic summer holiday to Europe has been replaced by a trip to the shores of England, where business is good but owners struggle with worker shortages and Covid restrictions.
+[![](https://static01.nyt.com/images/2021/08/16/world/16afghanistan-palace/16afghanistan-palace-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/world/asia/taliban-presidential-palace-afghanistan.html)
 
-By Eshe Nelson and Alex Ingram
+After a peaceful overtaking of the palace in Kabul, the insurgents said they would use the building to announce the restoration of an Islamic emirate.
+
+By Carlotta Gall, Daniel Victor and Ruhullah Khapalwak
 
 * * *
 
