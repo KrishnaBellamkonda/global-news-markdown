@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Haiti Quake Destroyed Many Churches, Shredding a Mainstay of Support
---------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Khmer Rouge Leader Appears in Court to Appeal Genocide Conviction
+-----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/16/world/americas/haiti-earthquake-aid-grace.html)
+[Article here](https://www.nytimes.com/2021/08/17/world/asia/khmer-rouge-trial-cambodia.html)
 
-[![](https://static01.nyt.com/images/2021/08/16/world/16HAITI-LEDE/16HAITI-LEDE-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/world/americas/haiti-earthquake-aid-grace.html)
+[![](https://static01.nyt.com/images/2021/08/17/world/17cambodia-1/17cambodia-1-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/asia/khmer-rouge-trial-cambodia.html)
 
-“We are the only thing here,” said a cleric in Les Cayes, one of the cities worst hit by the quake. In some towns, not a church was left standing.
+The trial is seen as the final stage of the long-running and expensive tribunal centered on the atrocities carried out in Cambodia during the 1970s.
 
-By Maria Abi-Habib and Andre Paultre
-
-* * *
+By Seth Mydans
 
 * * *
 
-Your Tuesday Briefing
----------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/16/briefing/afghanistan-haiti-coronavirus-boosters.html)
+In Zambia Election, Opposition Leader Storms to Decisive Win Over President
+---------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/17/us/17ambriefing-europe-nl-promo/merlin_193342167_3ccde99f-d574-4ac6-b642-04f7caa8743e-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/briefing/afghanistan-haiti-coronavirus-boosters.html)
+[Article here](https://www.nytimes.com/2021/08/15/world/africa/zambia-presidential-election.html)
 
-Biden defends the withdrawal from Afghanistan.
+[![](https://static01.nyt.com/images/2021/08/15/world/15zambia-HFO1/merlin_193151412_5b65f048-cc23-4060-9808-ca57987467fe-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/africa/zambia-presidential-election.html)
 
-By Natasha Frost
+Voters picked Hakainde Hichilema, a businessman who had lost five previous bids for the job, to take over from Edgar Lungu, who has led the southern African nation since 2015.
+
+By John Eligon
 
 * * *
 
