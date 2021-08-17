@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghans storm Kabul’s airport in a desperate bid to escape.
------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After 7 Years of Failing to Fix Afghanistan, Ghani Makes a Hasty Escape
+-----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/16/world/asia/kabul-airport-taliban-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/16/world/asia/afghanistan-president-ashraf-ghani.html)
 
-[![](https://static01.nyt.com/images/2021/08/16/us/politics/16afghan-briefing-scene-sub/merlin_193332960_6ef836b3-e6e4-4e88-9464-0792d18b0e61-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/world/asia/kabul-airport-taliban-afghanistan.html)
+[![](https://static01.nyt.com/images/2021/08/16/world/16GHANI1/merlin_193320759_3497c6c9-ba18-4678-abcf-e7c4e2b8d52e-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/world/asia/afghanistan-president-ashraf-ghani.html)
 
-The U.S. military took charge of security over part of the airport’s civilian side as thousands rushed the tarmac. Some hung from jets even as they taxied down the runway.
+By the time ex-president Ashraf Ghani fled the country, the hot-tempered leader was isolated and ineffective. Critics blamed him for the chaos in Kabul, saying he had betrayed his people.
 
-By Austin Ramzy, Carlotta Gall and Marc Santora
-
-* * *
+By Matthew Rosenberg and Adam Nossiter
 
 * * *
 
-Kabul’s Sudden Fall to Taliban Ends U.S. Era in Afghanistan
------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/15/world/asia/afghanistan-taliban-kabul-surrender.html)
+Taliban Takeover Could Extinguish U.S. Influence in Kabul
+---------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/15/world/15afghanistan-promo/merlin_193304262_e05f3b6d-2960-4f33-81b9-8d5a99ab234d-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/asia/afghanistan-taliban-kabul-surrender.html)
+[Article here](https://www.nytimes.com/2021/08/15/us/politics/biden-taliban-afghanistan.html)
 
-A takeover of the entire country was all but absolute as the Afghan government collapsed and the U.S. rushed through a frenzied evacuation.
+[![](https://static01.nyt.com/images/2021/08/16/us/politics/16dc-diplo-print1/merlin_193297425_2a34394d-3b13-45f6-bd7a-94fc9736c9ce-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/us/politics/biden-taliban-afghanistan.html)
 
-By David Zucchino, Jim Huylebroek and Kiana Hayeri
+After 20 years of diplomacy and support, American officials are now contemplating the harrowing question of whether — and how — they might engage with a Taliban government in Afghanistan.
+
+By Lara Jakes and Michael Crowley
 
 * * *
 
