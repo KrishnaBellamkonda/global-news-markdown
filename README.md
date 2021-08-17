@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Khmer Rouge Leader Appears in Court to Appeal Genocide Conviction
------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Haiti Quake Destroyed Many Churches, Shredding a Mainstay of Support
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/17/world/asia/khmer-rouge-trial-cambodia.html)
+[Article here](https://www.nytimes.com/2021/08/16/world/americas/haiti-earthquake-aid-grace.html)
 
-[![](https://static01.nyt.com/images/2021/08/17/world/17cambodia-1/17cambodia-1-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/asia/khmer-rouge-trial-cambodia.html)
+[![](https://static01.nyt.com/images/2021/08/16/world/16HAITI-LEDE/16HAITI-LEDE-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/world/americas/haiti-earthquake-aid-grace.html)
 
-The trial is seen as the final stage of the long-running and expensive tribunal centered on the atrocities carried out in Cambodia during the 1970s.
+“We are the only thing here,” said a cleric in Les Cayes, one of the cities worst hit by the quake. In some towns, not a church was left standing.
 
-By Seth Mydans
-
-* * *
+By Maria Abi-Habib and Andre Paultre
 
 * * *
 
-In Zambia Election, Opposition Leader Storms to Decisive Win Over President
----------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/15/world/africa/zambia-presidential-election.html)
+What a U.K. Staycation Looks Like in a Pandemic
+-----------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/15/world/15zambia-HFO1/merlin_193151412_5b65f048-cc23-4060-9808-ca57987467fe-superJumbo.jpg)](https://www.nytimes.com/2021/08/15/world/africa/zambia-presidential-election.html)
+[Article here](https://www.nytimes.com/2021/08/16/business/coronavirus-uk-summer-holiday.html)
 
-Voters picked Hakainde Hichilema, a businessman who had lost five previous bids for the job, to take over from Edgar Lungu, who has led the southern African nation since 2015.
+[![](https://static01.nyt.com/images/2021/08/11/business/00UK-HOLIDAY-STAFFSHORTAGES-1/00UK-HOLIDAY-STAFFSHORTAGES-1-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/business/coronavirus-uk-summer-holiday.html)
 
-By John Eligon
+The classic summer holiday to Europe has been replaced by a trip to the shores of England, where business is good but owners struggle with worker shortages and Covid restrictions.
+
+By Eshe Nelson and Alex Ingram
 
 * * *
 
