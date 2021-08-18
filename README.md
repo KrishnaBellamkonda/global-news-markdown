@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How ‘The Daily’ Covered Afghanistan’s Fall
-------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the ‘There’s So Much More to Afghanistan’: Khaled Hosseini Reflects on His Birthplace
+---------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/18/insider/daily-podcast-afghanistan-fall.html)
+[Article here](https://www.nytimes.com/2021/08/18/books/khaled-hosseini-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/08/18/world/18a2_itt/merlin_193063623_842a16a0-ca65-4ce3-a2b9-e4f235874e7f-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/insider/daily-podcast-afghanistan-fall.html)
+[![](https://static01.nyt.com/images/2021/08/18/books/18HOSSEINI/merlin_193399968_2169b026-2306-418e-a81d-79b93d5f6446-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/books/khaled-hosseini-afghanistan.html)
 
-Three audio journalists with different specialties discuss shaping an episode that captured the collapse through a single voice.
+The author of “The Kite Runner” and “A Thousand Splendid Suns” talks about the pain and frustration of watching the country from afar.
 
-By Mark Shimabukuro
-
-* * *
+By Elizabeth A. Harris
 
 * * *
 
-Facebook reaffirms a ban on Taliban accounts even as the group looks to communicate a new message.
---------------------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/18/world/facebook-reaffirms-a-ban-on-taliban-accounts-even-as-the-group-looks-to-communicate-a-new-message.html)
+‘We’re on Our Own’: Many Earthquake Survivors Expect No Help From Haitian Officials
+-----------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/18/world/18afghanistan-briefing-facebook-taliban/merlin_193375218_3aed27b9-6aa8-4c58-ab75-d75499cc3ed4-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/world/facebook-reaffirms-a-ban-on-taliban-accounts-even-as-the-group-looks-to-communicate-a-new-message.html)
+[Article here](https://www.nytimes.com/2021/08/18/world/americas/haiti-quake-aid.html)
 
-By Daniel Victor
+[![](https://static01.nyt.com/images/2021/08/18/world/18haiti2/merlin_193391748_9a400686-ad00-4723-822c-71b0d4ca0cb7-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/world/americas/haiti-quake-aid.html)
+
+“No one trusts this government here,” said a farmer in one village where at least 20 residents were killed by the quake as they attended a funeral at a church that collapsed.
+
+By Anatoly Kurmanaev and Andre Paultre
 
 * * *
 
