@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Intelligence Warned of Afghan Military Collapse, Despite Biden’s Assurances
----------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A First Amendment Precedent
+---------------------------
 
-[Article here](https://www.nytimes.com/2021/08/17/us/politics/afghanistan-biden-administration.html)
+[Article here](https://www.nytimes.com/2021/08/18/briefing/first-amendment-taliban-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/08/17/us/politics/17dc-intel-sub1a/merlin_193374306_852afd6c-da16-441f-9d32-b9b732c2b19d-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/us/politics/afghanistan-biden-administration.html)
+[![](https://static01.nyt.com/images/2021/08/18/lens/18ambriefing-promo/18ambriefing-scotus-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/18/briefing/first-amendment-taliban-afghanistan.html)
 
-Even as the president was telling the public that Kabul was unlikely to fall, intelligence assessments painted a grimmer picture.
+The Supreme Court may reconsider a major case concerning freedom of the press. The Times’s Adam Liptak explains why.
 
-By Mark Mazzetti, Julian E. Barnes and Adam Goldman
-
-* * *
+By Adam Liptak
 
 * * *
 
-Body Parts Found in Landing Gear of Flight From Kabul, Officials Say
---------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/17/us/politics/afghans-deaths-us-plane.html)
+How Haiti Was Devastated by Two Natural Disasters in Three Days
+---------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/17/us/politics/17dc-plane-1/merlin_193374204_a9f5a983-2209-4184-9e85-15663bb6fd2a-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/us/politics/afghans-deaths-us-plane.html)
+[Article here](https://www.nytimes.com/interactive/2021/08/18/world/americas/haiti-earthquake-grace.html)
 
-Harrowing video of the chaos, recorded by the Afghan news media, has circulated around the world. The Air Force said the episode was under investigation.
+[![](https://static01.nyt.com/images/2021/08/17/us/haiti-earthquake-grace-promo-1629244715428/haiti-earthquake-grace-promo-1629244715428-superJumbo.jpg)](https://www.nytimes.com/interactive/2021/08/18/world/americas/haiti-earthquake-grace.html)
 
-By Helene Cooper and Eric Schmitt
+The impact of a magnitude-7.2 earthquake on Saturday was magnified Monday by heavy rains and wind from Grace, then a tropical depression, which would soon strengthen into a tropical storm.
+
+By Tim Wallace, Ashley Wu and Jugal K. Patel
 
 * * *
 
