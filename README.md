@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the For America, and Afghanistan, the Post-9/11 Era Ends Painfully
---------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How ‘The Daily’ Covered Afghanistan’s Fall
+------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/17/world/asia/afghanistan-united-states.html)
+[Article here](https://www.nytimes.com/2021/08/18/insider/daily-podcast-afghanistan-fall.html)
 
-[![](https://static01.nyt.com/images/2021/08/16/world/16afghan-america/merlin_193332042_b2ee84b9-9afd-4635-a6b8-47c6bdd83f03-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/asia/afghanistan-united-states.html)
+[![](https://static01.nyt.com/images/2021/08/18/world/18a2_itt/merlin_193063623_842a16a0-ca65-4ce3-a2b9-e4f235874e7f-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/insider/daily-podcast-afghanistan-fall.html)
 
-The desperate scenes at the Kabul airport will now give Afghanistan a place in America’s national memory as another failed attempt to reshape a far-off land.
+Three audio journalists with different specialties discuss shaping an episode that captured the collapse through a single voice.
 
-By Roger Cohen
-
-* * *
+By Mark Shimabukuro
 
 * * *
 
-For Afghan Women, Taliban Stir Fears of Return to a Repressive Past
--------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/17/world/asia/afghanistan-women-taliban.html)
+Facebook reaffirms a ban on Taliban accounts even as the group looks to communicate a new message.
+--------------------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/17/world/17afghanistan-women5/merlin_152369871_2638c444-f603-4e3e-9c74-dcc412f577e0-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/asia/afghanistan-women-taliban.html)
+[Article here](https://www.nytimes.com/2021/08/18/world/facebook-reaffirms-a-ban-on-taliban-accounts-even-as-the-group-looks-to-communicate-a-new-message.html)
 
-Since the U.S. ousted the Taliban, women and girls have rejoined society in ways that would have been unimaginable under their rule. Now those gains are threatened.
+[![](https://static01.nyt.com/images/2021/08/18/world/18afghanistan-briefing-facebook-taliban/merlin_193375218_3aed27b9-6aa8-4c58-ab75-d75499cc3ed4-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/world/facebook-reaffirms-a-ban-on-taliban-accounts-even-as-the-group-looks-to-communicate-a-new-message.html)
 
-By Farnaz Fassihi and Dan Bilefsky
+By Daniel Victor
 
 * * *
 
