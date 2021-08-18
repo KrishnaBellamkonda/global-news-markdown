@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the For America, and Afghanistan, the Post-9/11 Era Ends Painfully
---------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Khmer Rouge Leader Appears in Court to Appeal Genocide Conviction
+-----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/17/world/asia/afghanistan-united-states.html)
+[Article here](https://www.nytimes.com/2021/08/17/world/asia/khmer-rouge-trial-cambodia.html)
 
-[![](https://static01.nyt.com/images/2021/08/16/world/16afghan-america/merlin_193332042_b2ee84b9-9afd-4635-a6b8-47c6bdd83f03-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/asia/afghanistan-united-states.html)
+[![](https://static01.nyt.com/images/2021/08/17/world/17cambodia-1/17cambodia-1-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/asia/khmer-rouge-trial-cambodia.html)
 
-The desperate scenes at the Kabul airport will now give Afghanistan a place in America’s national memory as another failed attempt to reshape a far-off land.
+The trial is seen as the final stage of the long-running and expensive tribunal centered on the atrocities carried out in Cambodia during the 1970s.
 
-By Roger Cohen
-
-* * *
+By Seth Mydans
 
 * * *
 
-Pope Francis Encourages Covid Vaccines in Media Campaign
---------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/17/business/media/pope-covid-vaccine-ad.html)
+Haiti Quake Toll Leaps to Nearly 2,000 Dead as Rain Pelts Survivors
+-------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/17/business/17Virus-Pope-01/merlin_193365657_63d4ea94-057b-4fd0-be26-f8668889c73d-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/business/media/pope-covid-vaccine-ad.html)
+[Article here](https://www.nytimes.com/2021/08/17/world/americas/haiti-hurricane-storm.html)
 
-“Getting the vaccines that are authorized by the respective authorities is an act of love,” the pope says in a video from the Ad Council.
+[![](https://static01.nyt.com/images/2021/08/17/world/17haiti-storm01/merlin_193347267_26829cb9-d64b-4983-93da-81e5f0b44daf-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/americas/haiti-hurricane-storm.html)
 
-By Tiffany Hsu
+The new casualty figures from Saturday’s quake, including 10,000 injured, come as victims struggled with a storm deluge that could complicate relief efforts.
+
+By Anatoly Kurmanaev and Constant Méheut
 
 * * *
 
