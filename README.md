@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Taliban respond with force to an outpouring of public anger.
-----------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Intelligence Warned of Afghan Military Collapse, Despite Biden’s Assurances
+---------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/18/world/asia/afghanistan-taliban-protests.html)
+[Article here](https://www.nytimes.com/2021/08/17/us/politics/afghanistan-biden-administration.html)
 
-[![](https://static01.nyt.com/images/2021/08/18/world/18afghanistan-briefing-LEDE-03/merlin_193397178_2823415b-9523-4fb5-a1d9-6b691b215186-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/world/asia/afghanistan-taliban-protests.html)
+[![](https://static01.nyt.com/images/2021/08/17/us/politics/17dc-intel-sub1a/merlin_193374306_852afd6c-da16-441f-9d32-b9b732c2b19d-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/us/politics/afghanistan-biden-administration.html)
 
-Hundreds of protesters took to the streets in Jalalabad. The Taliban shot into the crowd and beat protesters.
+Even as the president was telling the public that Kabul was unlikely to fall, intelligence assessments painted a grimmer picture.
 
-By Marc Santora, Jim Huylebroek and Carlotta Gall
-
-* * *
+By Mark Mazzetti, Julian E. Barnes and Adam Goldman
 
 * * *
 
-Haiti Quake Toll Leaps to Nearly 2,000 Dead as Rain Pelts Survivors
--------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/17/world/americas/haiti-hurricane-storm.html)
+Body Parts Found in Landing Gear of Flight From Kabul, Officials Say
+--------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/17/world/17haiti-storm01/merlin_193347267_26829cb9-d64b-4983-93da-81e5f0b44daf-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/americas/haiti-hurricane-storm.html)
+[Article here](https://www.nytimes.com/2021/08/17/us/politics/afghans-deaths-us-plane.html)
 
-The new casualty figures from Saturday’s quake, including 10,000 injured, come as victims struggled with a storm deluge that could complicate relief efforts.
+[![](https://static01.nyt.com/images/2021/08/17/us/politics/17dc-plane-1/merlin_193374204_a9f5a983-2209-4184-9e85-15663bb6fd2a-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/us/politics/afghans-deaths-us-plane.html)
 
-By Anatoly Kurmanaev and Constant Méheut
+Harrowing video of the chaos, recorded by the Afghan news media, has circulated around the world. The Air Force said the episode was under investigation.
+
+By Helene Cooper and Eric Schmitt
 
 * * *
 
