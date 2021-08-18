@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The War in Afghanistan: How It Started and How It Is Ending
------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the For America, and Afghanistan, the Post-9/11 Era Ends Painfully
+--------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/article/afghanistan-war-us.html)
+[Article here](https://www.nytimes.com/2021/08/17/world/asia/afghanistan-united-states.html)
 
-[![](https://static01.nyt.com/images/2021/04/21/world/21afghanistan-explainer-2/merlin_10297984_59ad5aff-017e-4524-a125-bea34a76f05f-superJumbo.jpg)](https://www.nytimes.com/article/afghanistan-war-us.html)
+[![](https://static01.nyt.com/images/2021/08/16/world/16afghan-america/merlin_193332042_b2ee84b9-9afd-4635-a6b8-47c6bdd83f03-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/asia/afghanistan-united-states.html)
 
-Just as the United States was set to withdraw its military from Afghanistan after nearly 20 years of war, the Taliban took over Kabul, the country’s capital.
+The desperate scenes at the Kabul airport will now give Afghanistan a place in America’s national memory as another failed attempt to reshape a far-off land.
 
-By David Zucchino
-
-* * *
+By Roger Cohen
 
 * * *
 
-Your Wednesday Briefing
------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/17/briefing/taliban-haiti-breakthrough-infections.html)
+Pope Francis Encourages Covid Vaccines in Media Campaign
+--------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/18/us/18ambriefing-europe-nl-promo/18ambriefing-europe-nl-taliban-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/briefing/taliban-haiti-breakthrough-infections.html)
+[Article here](https://www.nytimes.com/2021/08/17/business/media/pope-covid-vaccine-ad.html)
 
-History clouds the Taliban’s promises.
+[![](https://static01.nyt.com/images/2021/08/17/business/17Virus-Pope-01/merlin_193365657_63d4ea94-057b-4fd0-be26-f8668889c73d-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/business/media/pope-covid-vaccine-ad.html)
 
-By Natasha Frost
+“Getting the vaccines that are authorized by the respective authorities is an act of love,” the pope says in a video from the Ad Council.
+
+By Tiffany Hsu
 
 * * *
 
