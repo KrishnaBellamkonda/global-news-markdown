@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Khmer Rouge Leader Appears in Court to Appeal Genocide Conviction
------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the U.S. mask requirement for travelers is extended to January.
+-----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/17/world/asia/khmer-rouge-trial-cambodia.html)
+[Article here](https://www.nytimes.com/2021/08/17/world/us-mask-requirement-travelers.html)
 
-[![](https://static01.nyt.com/images/2021/08/17/world/17cambodia-1/17cambodia-1-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/asia/khmer-rouge-trial-cambodia.html)
+[![](https://static01.nyt.com/images/2021/08/17/lens/17virusbriefing-tsa/merlin_193178040_00f5b187-251e-4bd7-afdd-94ff221ba671-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/us-mask-requirement-travelers.html)
 
-The trial is seen as the final stage of the long-running and expensive tribunal centered on the atrocities carried out in Cambodia during the 1970s.
+The mandate covers airports, as well as buses, trains and shuttle buses connected to airports, and all public buses, trains, subways and ferries.
 
-By Seth Mydans
-
-* * *
+By Azi Paybarah
 
 * * *
 
-Haiti Quake Toll Leaps to Nearly 2,000 Dead as Rain Pelts Survivors
--------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/17/world/americas/haiti-hurricane-storm.html)
+How Haiti Was Devastated by Two Natural Disasters in Three Days
+---------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/17/world/17haiti-storm01/merlin_193347267_26829cb9-d64b-4983-93da-81e5f0b44daf-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/americas/haiti-hurricane-storm.html)
+[Article here](https://www.nytimes.com/interactive/2021/08/18/world/americas/haiti-earthquake-grace.html)
 
-The new casualty figures from Saturday’s quake, including 10,000 injured, come as victims struggled with a storm deluge that could complicate relief efforts.
+[![](https://static01.nyt.com/images/2021/08/17/us/haiti-earthquake-grace-promo-1629244715428/haiti-earthquake-grace-promo-1629244715428-superJumbo.jpg)](https://www.nytimes.com/interactive/2021/08/18/world/americas/haiti-earthquake-grace.html)
 
-By Anatoly Kurmanaev and Constant Méheut
+The impact of a magnitude-7.2 earthquake on Saturday was magnified Monday by heavy rains and wind from Grace, then a tropical depression, which would soon strengthen into a tropical storm.
+
+By Tim Wallace, Ashley Wu and Jugal K. Patel
 
 * * *
 
