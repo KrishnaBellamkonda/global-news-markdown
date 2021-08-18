@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the U.S. mask requirement for travelers is extended to January.
------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Taliban respond with force to an outpouring of public anger.
+----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/17/world/us-mask-requirement-travelers.html)
+[Article here](https://www.nytimes.com/2021/08/18/world/asia/afghanistan-taliban-protests.html)
 
-[![](https://static01.nyt.com/images/2021/08/17/lens/17virusbriefing-tsa/merlin_193178040_00f5b187-251e-4bd7-afdd-94ff221ba671-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/us-mask-requirement-travelers.html)
+[![](https://static01.nyt.com/images/2021/08/18/world/18afghanistan-briefing-LEDE-03/merlin_193397178_2823415b-9523-4fb5-a1d9-6b691b215186-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/world/asia/afghanistan-taliban-protests.html)
 
-The mandate covers airports, as well as buses, trains and shuttle buses connected to airports, and all public buses, trains, subways and ferries.
+Hundreds of protesters took to the streets in Jalalabad. The Taliban shot into the crowd and beat protesters.
 
-By Azi Paybarah
-
-* * *
+By Marc Santora, Jim Huylebroek and Carlotta Gall
 
 * * *
 
-How Haiti Was Devastated by Two Natural Disasters in Three Days
----------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/interactive/2021/08/18/world/americas/haiti-earthquake-grace.html)
+Haiti Quake Toll Leaps to Nearly 2,000 Dead as Rain Pelts Survivors
+-------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/17/us/haiti-earthquake-grace-promo-1629244715428/haiti-earthquake-grace-promo-1629244715428-superJumbo.jpg)](https://www.nytimes.com/interactive/2021/08/18/world/americas/haiti-earthquake-grace.html)
+[Article here](https://www.nytimes.com/2021/08/17/world/americas/haiti-hurricane-storm.html)
 
-The impact of a magnitude-7.2 earthquake on Saturday was magnified Monday by heavy rains and wind from Grace, then a tropical depression, which would soon strengthen into a tropical storm.
+[![](https://static01.nyt.com/images/2021/08/17/world/17haiti-storm01/merlin_193347267_26829cb9-d64b-4983-93da-81e5f0b44daf-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/americas/haiti-hurricane-storm.html)
 
-By Tim Wallace, Ashley Wu and Jugal K. Patel
+The new casualty figures from Saturday’s quake, including 10,000 injured, come as victims struggled with a storm deluge that could complicate relief efforts.
+
+By Anatoly Kurmanaev and Constant Méheut
 
 * * *
 
