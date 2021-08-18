@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Days May Be Numbered for the World’s Oldest Bank
-------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The War in Afghanistan: How It Started and How It Is Ending
+-----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/17/business/days-may-be-numbered-for-the-worlds-oldest-bank.html)
+[Article here](https://www.nytimes.com/article/afghanistan-war-us.html)
 
-[![](https://static01.nyt.com/images/2021/08/17/business/00OldestBank-1/merlin_193225155_e549e50a-80ca-4b77-ab27-0ec1f990e91f-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/business/days-may-be-numbered-for-the-worlds-oldest-bank.html)
+[![](https://static01.nyt.com/images/2021/04/21/world/21afghanistan-explainer-2/merlin_10297984_59ad5aff-017e-4524-a125-bea34a76f05f-superJumbo.jpg)](https://www.nytimes.com/article/afghanistan-war-us.html)
 
-After performing poorly in a stress test, Monte dei Paschi di Siena, founded in 1472, could be swallowed by UniCredit.
+Just as the United States was set to withdraw its military from Afghanistan after nearly 20 years of war, the Taliban took over Kabul, the country’s capital.
 
-By Gaia Pianigiani and Jack Ewing
-
-* * *
+By David Zucchino
 
 * * *
 
-Haiti Quake Toll Leaps to Nearly 2,000 Dead as Rain Pelts Survivors
--------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/17/world/americas/haiti-hurricane-storm.html)
+Your Wednesday Briefing
+-----------------------
 
-[![](https://static01.nyt.com/images/2021/08/17/world/17haiti-storm01/merlin_193347267_26829cb9-d64b-4983-93da-81e5f0b44daf-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/americas/haiti-hurricane-storm.html)
+[Article here](https://www.nytimes.com/2021/08/17/briefing/taliban-haiti-breakthrough-infections.html)
 
-The new casualty figures from Saturday’s quake, including 10,000 injured, come as victims struggled with a storm deluge that could complicate relief efforts.
+[![](https://static01.nyt.com/images/2021/08/18/us/18ambriefing-europe-nl-promo/18ambriefing-europe-nl-taliban-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/briefing/taliban-haiti-breakthrough-infections.html)
 
-By Anatoly Kurmanaev and Constant Méheut
+History clouds the Taliban’s promises.
+
+By Natasha Frost
 
 * * *
 
