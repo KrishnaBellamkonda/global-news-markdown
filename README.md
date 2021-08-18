@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After 7 years of failing to fix Afghanistan, Ghani made a hasty escape.
------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Khmer Rouge Leader Appears in Court to Appeal Genocide Conviction
+-----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/17/world/asia/after-7-years-of-failing-to-fix-afghanistan-ghani-made-a-hasty-escape.html)
+[Article here](https://www.nytimes.com/2021/08/17/world/asia/khmer-rouge-trial-cambodia.html)
 
-[![](https://static01.nyt.com/images/2021/08/17/multimedia/17afghanistan-briefing-ghani-01/17afghanistan-briefing-ghani-01-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/asia/after-7-years-of-failing-to-fix-afghanistan-ghani-made-a-hasty-escape.html)
+[![](https://static01.nyt.com/images/2021/08/17/world/17cambodia-1/17cambodia-1-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/asia/khmer-rouge-trial-cambodia.html)
 
-By Matthew Rosenberg and Adam Nossiter
+The trial is seen as the final stage of the long-running and expensive tribunal centered on the atrocities carried out in Cambodia during the 1970s.
+
+By Seth Mydans
 
 * * *
 
 * * *
 
-Haiti Quake Destroyed Many Churches, Shredding a Mainstay of Support
---------------------------------------------------------------------
+For America, and Afghanistan, the Post-9/11 Era Ends Painfully
+--------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/16/world/americas/haiti-earthquake-aid-grace.html)
+[Article here](https://www.nytimes.com/2021/08/17/world/asia/afghanistan-united-states.html)
 
-[![](https://static01.nyt.com/images/2021/08/16/world/16HAITI-LEDE/16HAITI-LEDE-superJumbo.jpg)](https://www.nytimes.com/2021/08/16/world/americas/haiti-earthquake-aid-grace.html)
+[![](https://static01.nyt.com/images/2021/08/16/world/16afghan-america/merlin_193332042_b2ee84b9-9afd-4635-a6b8-47c6bdd83f03-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/asia/afghanistan-united-states.html)
 
-“We are the only thing here,” said a cleric in Les Cayes, one of the cities worst hit by the quake. In some towns, not a church was left standing.
+The desperate scenes at the Kabul airport will now give Afghanistan a place in America’s national memory as another failed attempt to reshape a far-off land.
 
-By Maria Abi-Habib and Andre Paultre
+By Roger Cohen
 
 * * *
 
