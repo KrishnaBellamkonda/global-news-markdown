@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A First Amendment Precedent
----------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the For America, and Afghanistan, the Post-9/11 Era Ends Painfully
+--------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/18/briefing/first-amendment-taliban-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/17/world/asia/afghanistan-united-states.html)
 
-[![](https://static01.nyt.com/images/2021/08/18/lens/18ambriefing-promo/18ambriefing-scotus-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/18/briefing/first-amendment-taliban-afghanistan.html)
+[![](https://static01.nyt.com/images/2021/08/16/world/16afghan-america/merlin_193332042_b2ee84b9-9afd-4635-a6b8-47c6bdd83f03-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/asia/afghanistan-united-states.html)
 
-The Supreme Court may reconsider a major case concerning freedom of the press. The Times’s Adam Liptak explains why.
+The desperate scenes at the Kabul airport will now give Afghanistan a place in America’s national memory as another failed attempt to reshape a far-off land.
 
-By Adam Liptak
-
-* * *
+By Roger Cohen
 
 * * *
 
-How Haiti Was Devastated by Two Natural Disasters in Three Days
----------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/interactive/2021/08/18/world/americas/haiti-earthquake-grace.html)
+For Afghan Women, Taliban Stir Fears of Return to a Repressive Past
+-------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/17/us/haiti-earthquake-grace-promo-1629244715428/haiti-earthquake-grace-promo-1629244715428-superJumbo.jpg)](https://www.nytimes.com/interactive/2021/08/18/world/americas/haiti-earthquake-grace.html)
+[Article here](https://www.nytimes.com/2021/08/17/world/asia/afghanistan-women-taliban.html)
 
-The impact of a magnitude-7.2 earthquake on Saturday was magnified Monday by heavy rains and wind from Grace, then a tropical depression, which would soon strengthen into a tropical storm.
+[![](https://static01.nyt.com/images/2021/08/17/world/17afghanistan-women5/merlin_152369871_2638c444-f603-4e3e-9c74-dcc412f577e0-superJumbo.jpg)](https://www.nytimes.com/2021/08/17/world/asia/afghanistan-women-taliban.html)
 
-By Tim Wallace, Ashley Wu and Jugal K. Patel
+Since the U.S. ousted the Taliban, women and girls have rejoined society in ways that would have been unimaginable under their rule. Now those gains are threatened.
+
+By Farnaz Fassihi and Dan Bilefsky
 
 * * *
 
