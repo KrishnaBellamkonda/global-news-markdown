@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Vaccine Effectiveness Against Infection May Wane, C.D.C. Studies Find
----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Dangerous Road to the Kabul Airport
+---------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/18/health/covid-cdc-boosters-elderly.html)
+[Article here](https://www.nytimes.com/interactive/2021/08/18/world/asia/kabul-airport-afghanistan-maps.html)
 
-[![](https://static01.nyt.com/images/2021/08/18/science/18virus-cdc1/merlin_193074279_6d001e57-b1fc-4881-b4a0-87d9a0cac195-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/health/covid-cdc-boosters-elderly.html)
+[![](https://static01.nyt.com/images/2021/08/18/us/kabul-airport-afghanistan-maps-promo-1629325507334/kabul-airport-afghanistan-maps-promo-1629325507334-superJumbo.jpg)](https://www.nytimes.com/interactive/2021/08/18/world/asia/kabul-airport-afghanistan-maps.html)
 
-Federal health officials said the new data justified a campaign of booster shots. But some scientists disagreed, saying not every American needs another dose.
+Thousands of people have headed to the airport trying to flee, but Taliban fighters have blocked entrances, fired rifles and beaten some people in the crowds.
 
-By Apoorva Mandavilli
-
-* * *
+By Lauren Leatherby, Jim Huylebroek, Scott Reinhard and Sarah Kerr
 
 * * *
 
-‘We’re on Our Own’: Many Earthquake Survivors Expect No Help From Haitian Officials
------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/18/world/americas/haiti-quake-aid.html)
+Biden Says Troops May Stay in Kabul Longer to Assist Evacuations
+----------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/18/world/18haiti2/merlin_193391748_9a400686-ad00-4723-822c-71b0d4ca0cb7-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/world/americas/haiti-quake-aid.html)
+[Article here](https://www.nytimes.com/2021/08/18/us/politics/military-afghan-evacuation.html)
 
-“No one trusts this government here,” said a farmer in one village where at least 20 residents were killed by the quake as they attended a funeral at a church that collapsed.
+[![](https://static01.nyt.com/images/2021/08/18/us/18dc-military/merlin_193374192_d194557a-4cd6-4ad0-8f2e-dcb02f536a72-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/us/politics/military-afghan-evacuation.html)
 
-By Anatoly Kurmanaev and Andre Paultre
+Tens of thousands of people trying to flee remain in the country, unable to leave.
+
+By Eric Schmitt, Helene Cooper and Michael D. Shear
 
 * * *
 
