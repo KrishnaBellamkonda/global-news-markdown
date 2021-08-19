@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Dangerous Road to the Kabul Airport
----------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Israel, Once the Model for Beating Covid, Faces New Surge of Infections
+-----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/interactive/2021/08/18/world/asia/kabul-airport-afghanistan-maps.html)
+[Article here](https://www.nytimes.com/2021/08/18/world/middleeast/israel-virus-infections-booster.html)
 
-[![](https://static01.nyt.com/images/2021/08/18/us/kabul-airport-afghanistan-maps-promo-1629325507334/kabul-airport-afghanistan-maps-promo-1629325507334-superJumbo.jpg)](https://www.nytimes.com/interactive/2021/08/18/world/asia/kabul-airport-afghanistan-maps.html)
+[![](https://static01.nyt.com/images/2021/08/18/world/18ISRAEL-VIRUS01/merlin_193188354_e514d58c-2019-480d-868e-273d4bc589f5-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/world/middleeast/israel-virus-infections-booster.html)
 
-Thousands of people have headed to the airport trying to flee, but Taliban fighters have blocked entrances, fired rifles and beaten some people in the crowds.
+One of the most vaccinated societies, Israel now has one of the highest infection rates in the world, raising questions about the vaccine’s efficacy.
 
-By Lauren Leatherby, Jim Huylebroek, Scott Reinhard and Sarah Kerr
-
-* * *
+By Isabel Kershner
 
 * * *
 
-Biden Says Troops May Stay in Kabul Longer to Assist Evacuations
-----------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/18/us/politics/military-afghan-evacuation.html)
+How the Pandemic Changed Abortion Access
+----------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/18/us/18dc-military/merlin_193374192_d194557a-4cd6-4ad0-8f2e-dcb02f536a72-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/us/politics/military-afghan-evacuation.html)
+[Article here](https://www.nytimes.com/2021/08/19/briefing/abortion-afghanistan-masks.html)
 
-Tens of thousands of people trying to flee remain in the country, unable to leave.
+[![](https://static01.nyt.com/images/2021/08/19/lens/19ambriefing-promo/19ambriefing-abortionpill-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/19/briefing/abortion-afghanistan-masks.html)
 
-By Eric Schmitt, Helene Cooper and Michael D. Shear
+During the pandemic, health care providers can send abortion medication by mail. Will the courts allow that to continue?
+
+By Emily Bazelon
 
 * * *
 
