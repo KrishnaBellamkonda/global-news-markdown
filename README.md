@@ -19,16 +19,16 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Series of U.S. Actions Left Afghan Allies Frantic, Stranded and Eager to Get Out
---------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Bill Davis, Pragmatic Ontario Premier, Dies at 92
+-------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/18/us/politics/afghanistan-refugees.html)
+[Article here](https://www.nytimes.com/2021/08/18/world/canada/bill-davis-pragmatic-ontario-premier-dies-at-92.html)
 
-[![](https://static01.nyt.com/images/2021/08/18/us/politics/00dc-refugees-1/merlin_193398777_ba744f44-87c5-471d-b7d9-f001b188a314-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/us/politics/afghanistan-refugees.html)
+[![](https://static01.nyt.com/images/2021/08/19/obituaries/Davis-01/merlin_193373037_6528a636-859a-41e7-b56f-d0fb8b2d8dc6-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/world/canada/bill-davis-pragmatic-ontario-premier-dies-at-92.html)
 
-President Biden’s decision not to begin mass evacuations of Afghans months ago has left thousands of people in limbo.
+A champion of education in his province, he helped his nation achieve sovereignty from Britain by brokering a 1982 compromise.
 
-By Zolan Kanno-Youngs and Annie Karni
+By Sam Roberts
 
 * * *
 
