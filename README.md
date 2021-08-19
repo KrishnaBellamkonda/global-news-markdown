@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Indian Politician Cleared of Charges in Wife’s Death
-----------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Series of U.S. Actions Left Afghan Allies Frantic, Stranded and Eager to Get Out
+--------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/18/world/asia/shashi-tharoor-sunanda-pushkar.html)
+[Article here](https://www.nytimes.com/2021/08/18/us/politics/afghanistan-refugees.html)
 
-[![](https://static01.nyt.com/images/2021/08/18/world/18india-suicide01/18india-suicide01-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/world/asia/shashi-tharoor-sunanda-pushkar.html)
+[![](https://static01.nyt.com/images/2021/08/18/us/politics/00dc-refugees-1/merlin_193398777_ba744f44-87c5-471d-b7d9-f001b188a314-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/us/politics/afghanistan-refugees.html)
 
-Shashi Tharoor had been accused of driving Sunanda Pushkar to suicide in a case that the main opposition party had long criticized as politically motivated.
+President Biden’s decision not to begin mass evacuations of Afghans months ago has left thousands of people in limbo.
 
-By Suhasini Raj
-
-* * *
+By Zolan Kanno-Youngs and Annie Karni
 
 * * *
 
-Israel, Once the Model for Beating Covid, Faces New Surge of Infections
------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/18/world/middleeast/israel-virus-infections-booster.html)
+Your Thursday Briefing
+----------------------
 
-[![](https://static01.nyt.com/images/2021/08/18/world/18ISRAEL-VIRUS01/merlin_193188354_e514d58c-2019-480d-868e-273d4bc589f5-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/world/middleeast/israel-virus-infections-booster.html)
+[Article here](https://www.nytimes.com/2021/08/18/briefing/afghanistan-taliban-protests-israel-covid.html)
 
-One of the most vaccinated societies, Israel now has one of the highest infection rates in the world, raising questions about the vaccine’s efficacy.
+[![](https://static01.nyt.com/images/2021/08/19/world/19ambriefing-aus-nl-promo/merlin_193397196_69b6ccb8-81e1-4a7f-b588-4f391c88a81e-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/briefing/afghanistan-taliban-protests-israel-covid.html)
 
-By Isabel Kershner
+Afghan protests against the Taliban.
+
+By Melina Delkic
 
 * * *
 
