@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Bill Davis, Pragmatic Ontario Premier, Dies at 92
--------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Israel, Once the Model for Beating Covid, Faces New Surge of Infections
+-----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/18/world/canada/bill-davis-pragmatic-ontario-premier-dies-at-92.html)
+[Article here](https://www.nytimes.com/2021/08/18/world/middleeast/israel-virus-infections-booster.html)
 
-[![](https://static01.nyt.com/images/2021/08/19/obituaries/Davis-01/merlin_193373037_6528a636-859a-41e7-b56f-d0fb8b2d8dc6-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/world/canada/bill-davis-pragmatic-ontario-premier-dies-at-92.html)
+[![](https://static01.nyt.com/images/2021/08/18/world/18ISRAEL-VIRUS01/merlin_193188354_e514d58c-2019-480d-868e-273d4bc589f5-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/world/middleeast/israel-virus-infections-booster.html)
 
-A champion of education in his province, he helped his nation achieve sovereignty from Britain by brokering a 1982 compromise.
+One of the most vaccinated societies, Israel now has one of the highest infection rates in the world, raising questions about the vaccine’s efficacy.
 
-By Sam Roberts
-
-* * *
+By Isabel Kershner
 
 * * *
 
-Your Thursday Briefing
-----------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/18/briefing/afghanistan-taliban-protests-israel-covid.html)
+Seeking Global Recognition, Taliban Take a New Approach: Making Nice
+--------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/19/world/19ambriefing-aus-nl-promo/merlin_193397196_69b6ccb8-81e1-4a7f-b588-4f391c88a81e-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/briefing/afghanistan-taliban-protests-israel-covid.html)
+[Article here](https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.html)
 
-Afghan protests against the Taliban.
+[![](https://static01.nyt.com/images/2021/08/18/world/18int-afghan2/merlin_193374273_6b5c09d5-fa25-4493-8e01-0eb3b5f9e551-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.html)
 
-By Melina Delkic
+The group’s head-spinning claims of moderation follow a common playbook for rebel-held governments, with mixed lessons for Afghanistan’s future.
+
+By Max Fisher
 
 * * *
 
