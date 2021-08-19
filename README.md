@@ -19,16 +19,16 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Collapse and Conquest: The Taliban Strategy That Seized Afghanistan
--------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Vaccine Effectiveness Against Infection May Wane, C.D.C. Studies Find
+---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/18/world/asia/taliban-victory-strategy-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/18/health/covid-cdc-boosters-elderly.html)
 
-[![](https://static01.nyt.com/images/2021/08/18/world/00taliban-01/00taliban-01-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/world/asia/taliban-victory-strategy-afghanistan.html)
+[![](https://static01.nyt.com/images/2021/08/18/science/18virus-cdc1/merlin_193074279_6d001e57-b1fc-4881-b4a0-87d9a0cac195-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/health/covid-cdc-boosters-elderly.html)
 
-Starting in the spring, the Taliban negotiated wholesale surrenders and seized roadways and weapons, handing them vital propaganda victories and freedom to move quickly to the next opportunity.
+Federal health officials said the new data justified a campaign of booster shots. But some scientists disagreed, saying not every American needs another dose.
 
-By David Zucchino
+By Apoorva Mandavilli
 
 * * *
 
