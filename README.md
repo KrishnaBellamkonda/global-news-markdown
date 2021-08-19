@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Paralympic officials in Tokyo report the first virus case in the Olympic Village.
----------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Collapse and Conquest: The Taliban Strategy That Seized Afghanistan
+-------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/19/world/asia/paralympics-virus-case.html)
+[Article here](https://www.nytimes.com/2021/08/18/world/asia/taliban-victory-strategy-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/08/19/world/19virus-briefing-paralympics/merlin_192730854_99c92902-e8c2-4956-aa22-76c1a30630d0-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/asia/paralympics-virus-case.html)
+[![](https://static01.nyt.com/images/2021/08/18/world/00taliban-01/00taliban-01-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/world/asia/taliban-victory-strategy-afghanistan.html)
 
-Instances of coronavirus linked to the Games come as Japan is reporting record numbers of infections.
+Starting in the spring, the Taliban negotiated wholesale surrenders and seized roadways and weapons, handing them vital propaganda victories and freedom to move quickly to the next opportunity.
 
-By Motoko Rich
-
-* * *
+By David Zucchino
 
 * * *
 
-Israel, Once the Model for Beating Covid, Faces New Surge of Infections
------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/18/world/middleeast/israel-virus-infections-booster.html)
+‘We’re on Our Own’: Many Earthquake Survivors Expect No Help From Haitian Officials
+-----------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/18/world/18ISRAEL-VIRUS01/merlin_193188354_e514d58c-2019-480d-868e-273d4bc589f5-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/world/middleeast/israel-virus-infections-booster.html)
+[Article here](https://www.nytimes.com/2021/08/18/world/americas/haiti-quake-aid.html)
 
-One of the most vaccinated societies, Israel now has one of the highest infection rates in the world, raising questions about the vaccine’s efficacy.
+[![](https://static01.nyt.com/images/2021/08/18/world/18haiti2/merlin_193391748_9a400686-ad00-4723-822c-71b0d4ca0cb7-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/world/americas/haiti-quake-aid.html)
 
-By Isabel Kershner
+“No one trusts this government here,” said a farmer in one village where at least 20 residents were killed by the quake as they attended a funeral at a church that collapsed.
+
+By Anatoly Kurmanaev and Andre Paultre
 
 * * *
 
