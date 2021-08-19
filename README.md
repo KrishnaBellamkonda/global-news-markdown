@@ -19,7 +19,22 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Israel, Once the Model for Beating Covid, Faces New Surge of Infections
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Paralympic officials in Tokyo report the first virus case in the Olympic Village.
+---------------------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/19/world/asia/paralympics-virus-case.html)
+
+[![](https://static01.nyt.com/images/2021/08/19/world/19virus-briefing-paralympics/merlin_192730854_99c92902-e8c2-4956-aa22-76c1a30630d0-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/asia/paralympics-virus-case.html)
+
+Instances of coronavirus linked to the Games come as Japan is reporting record numbers of infections.
+
+By Motoko Rich
+
+* * *
+
+* * *
+
+Israel, Once the Model for Beating Covid, Faces New Surge of Infections
 -----------------------------------------------------------------------
 
 [Article here](https://www.nytimes.com/2021/08/18/world/middleeast/israel-virus-infections-booster.html)
@@ -29,21 +44,6 @@ Come back in a few hours and seeif the news section has changed! (Is it too long
 One of the most vaccinated societies, Israel now has one of the highest infection rates in the world, raising questions about the vaccine’s efficacy.
 
 By Isabel Kershner
-
-* * *
-
-* * *
-
-Seeking Global Recognition, Taliban Take a New Approach: Making Nice
---------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.html)
-
-[![](https://static01.nyt.com/images/2021/08/18/world/18int-afghan2/merlin_193374273_6b5c09d5-fa25-4493-8e01-0eb3b5f9e551-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/asia/taliban-foreign-recognition.html)
-
-The group’s head-spinning claims of moderation follow a common playbook for rebel-held governments, with mixed lessons for Afghanistan’s future.
-
-By Max Fisher
 
 * * *
 
