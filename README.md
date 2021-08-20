@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Australia Is Betting on Remote Quarantine. Here’s What I Learned on the Inside.
--------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taliban threats to Afghan journalists are growing.
+--------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/20/world/australia/howard-springs-quarantine.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/asia/taliban-threats-to-afghan-journalists-are-growing.html)
 
-[![](https://static01.nyt.com/images/2021/08/19/world/00oz-quarantine1/00oz-quarantine1-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/australia/howard-springs-quarantine.html)
+[![](https://static01.nyt.com/images/2021/08/20/world/20afghanistan-briefing-journalist-hunt/merlin_193375101_0bb465a8-b4b2-4b36-ac3a-01762241c5e1-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/taliban-threats-to-afghan-journalists-are-growing.html)
 
-The pandemic has reinforced countries’ peculiar currents of national identity. In Australia, it’s a collectivist urge, sometimes at the expense of personal liberty.
-
-By Damien Cave
+By James C. McKinley Jr., Michael M. Grynbaum, Tiffany Hsu and Katie Robertson
 
 * * *
 
 * * *
 
-President Biden will speak Friday on the troubled evacuation effort.
---------------------------------------------------------------------
+As Chinese Vaccines Stumble, U.S. Finds New Opening in Asia
+-----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/19/world/asia/biden-speech-evacuation.html)
+[Article here](https://www.nytimes.com/2021/08/20/business/economy/china-vaccine-us-covid-diplomacy.html)
 
-[![](https://static01.nyt.com/images/2021/09/19/world/19afghanistan-briefing-biden-remarks/merlin_193413201_d948ade3-1981-442a-bbee-eb8dcc4240bc-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/asia/biden-speech-evacuation.html)
+[![](https://static01.nyt.com/images/2021/08/13/business/00china-vaccine-1/merlin_187355166_f4fc60b9-4b94-4aa1-91c7-3029823200bf-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/business/economy/china-vaccine-us-covid-diplomacy.html)
 
-The remarks come after days of tumult in and around Hamid Karzai International Airport since the Taliban took Kabul.
+Several Southeast Asian nations are raising doubts about the efficacy of China’s vaccines. The Biden administration has recently offered to provide shots, “no strings attached.”
 
-By Chris Cameron
+By Sui-Lee Wee and Steven Lee Myers
 
 * * *
 
