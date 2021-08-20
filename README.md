@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the GoFundMe Says It Has Helped Campaigns Raise $3 Billion
-------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How News Organizations Got Afghan Colleagues Out of Kabul
+---------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2016/12/14/business/gofundme-nonprofits.html)
+[Article here](https://www.nytimes.com/2021/08/19/business/afghanistan-news.html)
 
-[![](https://static01.nyt.com/images/2016/12/13/us/14xp-gofundme/14xp-gofundme-thumbStandard.jpg)](https://www.nytimes.com/2016/12/14/business/gofundme-nonprofits.html)
+[![](https://static01.nyt.com/images/2021/08/19/business/19afghanistan-escape/19afghanistan-escape-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/business/afghanistan-news.html)
 
-The crowdfunding site has become synonymous with online giving to help in disasters and smaller crises. Some fear it could hurt traditional charities.
+The evacuation of those who worked for outlets like The New York Times and The Washington Post came after a global rescue effort stretching from the Pentagon to Qatar.
 
-By Katie Rogers
-
-* * *
+By Michael M. Grynbaum, Tiffany Hsu and Katie Robertson
 
 * * *
 
-In Photos: Afghanistan Under the Taliban
-----------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/19/world/asia/Afghanistan-taliban-photos.html)
+Intelligence Agencies Did Not Predict Imminence of Afghan Collapse, Officials Say
+---------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/19/world/00afghanistan-photos-1-promo/00afghanistan-photos-1-promo-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/19/world/asia/Afghanistan-taliban-photos.html)
+[Article here](https://www.nytimes.com/2021/08/18/us/politics/afghanistan-intelligence-agencies.html)
 
-As the U.S. was winding down its time in the country, the Taliban swiftly retook power, reviving fears of a brutal and violent reign.
+[![](https://static01.nyt.com/images/2021/08/18/us/politics/18DC-INTEL/merlin_193398744_3ecffbc9-56f4-46f5-aef1-6a6f65d7cffc-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/us/politics/afghanistan-intelligence-agencies.html)
 
-By The New York Times
+The acknowledgment came as the Biden administration faces heavy criticism over its handling of the withdrawal of American-led forces from Afghanistan.
+
+By Julian E. Barnes
 
 * * *
 
