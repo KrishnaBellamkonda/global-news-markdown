@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Those plastic barriers probably don’t help and may even make things worse.
---------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the President Biden will speak Friday on the troubled evacuation effort.
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/19/well/those-plastic-barriers-probably-dont-help-and-may-even-make-things-worse.html)
+[Article here](https://www.nytimes.com/2021/08/19/world/asia/biden-speech-evacuation.html)
 
-[![](https://static01.nyt.com/images/2021/08/19/world/19covid-briering-barriers-1sub/merlin_192249258_3d0e1989-88e1-46fa-a6e9-0baf2d5125bc-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/well/those-plastic-barriers-probably-dont-help-and-may-even-make-things-worse.html)
+[![](https://static01.nyt.com/images/2021/09/19/world/19afghanistan-briefing-biden-remarks/merlin_193413201_d948ade3-1981-442a-bbee-eb8dcc4240bc-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/asia/biden-speech-evacuation.html)
 
-By Tara Parker-Pope
+The remarks come after days of tumult in and around Hamid Karzai International Airport since the Taliban took Kabul.
+
+By Chris Cameron
 
 * * *
 
 * * *
 
-Your Friday Briefing
---------------------
+Trump’s Deal With the Taliban Draws Fire From His Former Allies
+---------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/19/briefing/taliban-coronavirus-wildfires.html)
+[Article here](https://www.nytimes.com/2021/08/19/us/politics/trump-biden-afghan-taliban.html)
 
-[![](https://static01.nyt.com/images/2021/08/19/world/20-am-briefing-europe-afghan-forces/20-am-briefing-europe-afghan-forces-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/19/briefing/taliban-coronavirus-wildfires.html)
+[![](https://static01.nyt.com/images/2021/09/18/us/politics/18dc-trumpafghan-1/merlin_160506423_cb840c08-f6c8-4b68-a0ab-5df8989db811-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/us/politics/trump-biden-afghan-taliban.html)
 
-Hiding and hunted by the Taliban.
+The former president and his secretary of state, Mike Pompeo, are attacking President Biden over Afghanistan even as their own policy faces harsh criticism.
 
-By Natasha Frost
+By Michael Crowley
 
 * * *
 
