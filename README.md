@@ -19,16 +19,16 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The U.S. wants a U.N. meeting scaled back to avoid a ‘superspreader event.’
----------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the On the ground: Kabul on edge.
+-----------------------------
 
-[Article here](https://www.nytimes.com/2021/08/19/world/un-event-superspreader.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-kabul-dispatch.html)
 
-[![](https://static01.nyt.com/images/2021/08/19/world/19virus-briefing-unga/merlin_177598353_e0da35bc-0637-40de-8e5c-393410f49d40-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/un-event-superspreader.html)
+[![](https://static01.nyt.com/images/2021/08/20/world/20afghan-briefing-jim-1/merlin_193436628_cae0ffac-8ca8-4a0c-b652-02dabd0928ed-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-kabul-dispatch.html)
 
-The annual General Assembly meeting would ordinarily attract scores of heads of state and other top officials to New York. But American officials say it should be mainly virtual again this year for safety’s sake.
+A New York Times photographer chronicled a day in Kabul. It is a portrait of a city of contrasts, with tension sometimes breaking into the open and at other times bubbling beneath the hum of daily life.
 
-By Rick Gladstone
+By Jim Huylebroek
 
 * * *
 
