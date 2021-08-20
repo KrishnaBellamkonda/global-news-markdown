@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the ‘We’re on Our Own’: Many Earthquake Survivors Expect No Help From Haitian Officials
------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the GoFundMe Says It Has Helped Campaigns Raise $3 Billion
+------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/18/world/americas/haiti-quake-aid.html)
+[Article here](https://www.nytimes.com/2016/12/14/business/gofundme-nonprofits.html)
 
-[![](https://static01.nyt.com/images/2021/08/18/world/18haiti2/merlin_193391748_9a400686-ad00-4723-822c-71b0d4ca0cb7-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/world/americas/haiti-quake-aid.html)
+[![](https://static01.nyt.com/images/2016/12/13/us/14xp-gofundme/14xp-gofundme-thumbStandard.jpg)](https://www.nytimes.com/2016/12/14/business/gofundme-nonprofits.html)
 
-“No one trusts this government here,” said a farmer in one village where at least 20 residents were killed by the quake as they attended a funeral at a church that collapsed.
+The crowdfunding site has become synonymous with online giving to help in disasters and smaller crises. Some fear it could hurt traditional charities.
 
-By Anatoly Kurmanaev and Andre Paultre
-
-* * *
+By Katie Rogers
 
 * * *
 
-How the Pandemic Changed Abortion Access
+* * *
+
+In Photos: Afghanistan Under the Taliban
 ----------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/19/briefing/abortion-afghanistan-masks.html)
+[Article here](https://www.nytimes.com/2021/08/19/world/asia/Afghanistan-taliban-photos.html)
 
-[![](https://static01.nyt.com/images/2021/08/19/lens/19ambriefing-promo/19ambriefing-abortionpill-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/19/briefing/abortion-afghanistan-masks.html)
+[![](https://static01.nyt.com/images/2021/08/19/world/00afghanistan-photos-1-promo/00afghanistan-photos-1-promo-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/19/world/asia/Afghanistan-taliban-photos.html)
 
-During the pandemic, health care providers can send abortion medication by mail. Will the courts allow that to continue?
+As the U.S. was winding down its time in the country, the Taliban swiftly retook power, reviving fears of a brutal and violent reign.
 
-By Emily Bazelon
+By The New York Times
 
 * * *
 
