@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Taliban’s use of social media is a thorny problem for tech companies.
--------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Australia Is Betting on Remote Quarantine. Here’s What I Learned on the Inside.
+-------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/19/world/the-talibans-use-of-social-media-is-a-thorny-problem-for-tech-companies.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/australia/howard-springs-quarantine.html)
 
-[![](https://static01.nyt.com/images/2021/08/19/world/19afghanistan-briefing-social-media/merlin_193375215_ed64b58e-7f2d-4887-941c-f23ec9496995-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/the-talibans-use-of-social-media-is-a-thorny-problem-for-tech-companies.html)
+[![](https://static01.nyt.com/images/2021/08/19/world/00oz-quarantine1/00oz-quarantine1-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/australia/howard-springs-quarantine.html)
 
-By Sheera Frenkel and Ben Decker
+The pandemic has reinforced countries’ peculiar currents of national identity. In Australia, it’s a collectivist urge, sometimes at the expense of personal liberty.
+
+By Damien Cave
 
 * * *
 
 * * *
 
-To protect users, Facebook says it’s hiding friends lists on accounts in Afghanistan.
--------------------------------------------------------------------------------------
+President Biden will speak Friday on the troubled evacuation effort.
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-facebook.html)
+[Article here](https://www.nytimes.com/2021/08/19/world/asia/biden-speech-evacuation.html)
 
-[![](https://static01.nyt.com/images/2021/08/20/world/20afghanistan-briefing-facebook/merlin_106439698_ad0e4e4a-91e4-4ede-a855-f07ff16f708d-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-facebook.html)
+[![](https://static01.nyt.com/images/2021/09/19/world/19afghanistan-briefing-biden-remarks/merlin_193413201_d948ade3-1981-442a-bbee-eb8dcc4240bc-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/asia/biden-speech-evacuation.html)
 
-The company said it was the first time it had taken such a step, intended to shield Afghan users from Taliban reprisals for posts and links.
+The remarks come after days of tumult in and around Hamid Karzai International Airport since the Taliban took Kabul.
 
-By Paul Mozur
+By Chris Cameron
 
 * * *
 
