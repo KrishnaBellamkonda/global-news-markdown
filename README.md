@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How News Organizations Got Afghan Colleagues Out of Kabul
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Sluggish Visa Process Strands Thousands of Afghans Who Worked for U.S.
+----------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/19/us/politics/afghanistan-visas-refugees.html)
+
+[![](https://static01.nyt.com/images/2021/08/19/us/politics/19dc-evacuate-1/merlin_193428267_6184f457-e84e-4449-a2ae-545638632b2b-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/us/politics/afghanistan-visas-refugees.html)
+
+Officials described impatience across the Biden administration with the State Department as thousands of Afghans wait outside Kabul’s airport.
+
+By Lara Jakes, Annie Karni and Kenneth P. Vogel
+
+* * *
+
+* * *
+
+Cuba’s acclaimed health system reels as the virus surges.
 ---------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/19/business/afghanistan-news.html)
+[Article here](https://www.nytimes.com/2021/08/19/world/americas/cubas-acclaimed-health-system-reels-as-the-virus-surges.html)
 
-[![](https://static01.nyt.com/images/2021/08/19/business/19afghanistan-escape/19afghanistan-escape-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/business/afghanistan-news.html)
+[![](https://static01.nyt.com/images/2021/08/17/world/17CUBA-01/merlin_192442374_98a07bd1-35ed-4618-b52c-87b97fc5743a-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/americas/cubas-acclaimed-health-system-reels-as-the-virus-surges.html)
 
-The evacuation of those who worked for outlets like The New York Times and The Washington Post came after a global rescue effort stretching from the Pentagon to Qatar.
-
-By Michael M. Grynbaum, Tiffany Hsu and Katie Robertson
-
-* * *
-
-* * *
-
-Intelligence Agencies Did Not Predict Imminence of Afghan Collapse, Officials Say
----------------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/18/us/politics/afghanistan-intelligence-agencies.html)
-
-[![](https://static01.nyt.com/images/2021/08/18/us/politics/18DC-INTEL/merlin_193398744_3ecffbc9-56f4-46f5-aef1-6a6f65d7cffc-superJumbo.jpg)](https://www.nytimes.com/2021/08/18/us/politics/afghanistan-intelligence-agencies.html)
-
-The acknowledgment came as the Biden administration faces heavy criticism over its handling of the withdrawal of American-led forces from Afghanistan.
-
-By Julian E. Barnes
+By Frances Robles
 
 * * *
 
