@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taliban Quash Protests and Seize Enemies, Tightening Grip on Afghanistan
-------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Taliban’s use of social media is a thorny problem for tech companies.
+-------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/19/world/asia/afghanistan-protests.html)
+[Article here](https://www.nytimes.com/2021/08/19/world/the-talibans-use-of-social-media-is-a-thorny-problem-for-tech-companies.html)
 
-[![](https://static01.nyt.com/images/2021/08/19/world/19afghanistan-briefing-lede-name-04/merlin_193428003_c044e215-e2d8-4aea-9950-978ea5625bdc-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/asia/afghanistan-protests.html)
+[![](https://static01.nyt.com/images/2021/08/19/world/19afghanistan-briefing-social-media/merlin_193375215_ed64b58e-7f2d-4887-941c-f23ec9496995-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/the-talibans-use-of-social-media-is-a-thorny-problem-for-tech-companies.html)
 
-The Taliban’s actions and history of brutality cast doubt on their promises of amnesty, and many Afghans are afraid to venture out of their homes.
-
-By Carlotta Gall, Marc Santora and Richard Pérez-Peña
+By Sheera Frenkel and Ben Decker
 
 * * *
 
 * * *
 
-How the Pandemic Changed Abortion Access
-----------------------------------------
+To protect users, Facebook says it’s hiding friends lists on accounts in Afghanistan.
+-------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/19/briefing/abortion-afghanistan-masks.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-facebook.html)
 
-[![](https://static01.nyt.com/images/2021/08/19/lens/19ambriefing-promo/19ambriefing-abortionpill-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/19/briefing/abortion-afghanistan-masks.html)
+[![](https://static01.nyt.com/images/2021/08/20/world/20afghanistan-briefing-facebook/merlin_106439698_ad0e4e4a-91e4-4ede-a855-f07ff16f708d-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-facebook.html)
 
-During the pandemic, health care providers can send abortion medication by mail. Will the courts allow that to continue?
+The company said it was the first time it had taken such a step, intended to shield Afghan users from Taliban reprisals for posts and links.
 
-By Emily Bazelon
+By Paul Mozur
 
 * * *
 
