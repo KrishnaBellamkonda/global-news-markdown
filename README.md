@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the On the ground: Kabul on edge.
------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taliban Quash Protests and Seize Enemies, Tightening Grip on Afghanistan
+------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-kabul-dispatch.html)
+[Article here](https://www.nytimes.com/2021/08/19/world/asia/afghanistan-protests.html)
 
-[![](https://static01.nyt.com/images/2021/08/20/world/20afghan-briefing-jim-1/merlin_193436628_cae0ffac-8ca8-4a0c-b652-02dabd0928ed-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-kabul-dispatch.html)
+[![](https://static01.nyt.com/images/2021/08/19/world/19afghanistan-briefing-lede-name-04/merlin_193428003_c044e215-e2d8-4aea-9950-978ea5625bdc-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/asia/afghanistan-protests.html)
 
-A New York Times photographer chronicled a day in Kabul. It is a portrait of a city of contrasts, with tension sometimes breaking into the open and at other times bubbling beneath the hum of daily life.
+The Taliban’s actions and history of brutality cast doubt on their promises of amnesty, and many Afghans are afraid to venture out of their homes.
 
-By Jim Huylebroek
-
-* * *
+By Carlotta Gall, Marc Santora and Richard Pérez-Peña
 
 * * *
 
-In Photos: Afghanistan Under the Taliban
+* * *
+
+How the Pandemic Changed Abortion Access
 ----------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/19/world/asia/Afghanistan-taliban-photos.html)
+[Article here](https://www.nytimes.com/2021/08/19/briefing/abortion-afghanistan-masks.html)
 
-[![](https://static01.nyt.com/images/2021/08/19/world/00afghanistan-photos-1-promo/00afghanistan-photos-1-promo-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/19/world/asia/Afghanistan-taliban-photos.html)
+[![](https://static01.nyt.com/images/2021/08/19/lens/19ambriefing-promo/19ambriefing-abortionpill-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/19/briefing/abortion-afghanistan-masks.html)
 
-As the U.S. was winding down its time in the country, the Taliban swiftly retook power, reviving fears of a brutal and violent reign.
+During the pandemic, health care providers can send abortion medication by mail. Will the courts allow that to continue?
 
-By The New York Times
+By Emily Bazelon
 
 * * *
 
