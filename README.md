@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the 1946: Vatican Newspaper Denounces a Pistol Duel
------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The U.S. wants a U.N. meeting scaled back to avoid a ‘superspreader event.’
+---------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/20/world/europe/vatican-newspaper-duels.html)
+[Article here](https://www.nytimes.com/2021/08/19/world/un-event-superspreader.html)
 
-[![](https://static01.nyt.com/images/2021/08/20/world/20iht-retrospective-image/20iht-retrospective-image-superJumbo.png)](https://www.nytimes.com/2021/08/20/world/europe/vatican-newspaper-duels.html)
+[![](https://static01.nyt.com/images/2021/08/19/world/19virus-briefing-unga/merlin_177598353_e0da35bc-0637-40de-8e5c-393410f49d40-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/un-event-superspreader.html)
 
-The Osservatore Romano complained that the shootout between two Romans — despite leaving neither hurt — hinted at the societal ills that had flourished in postwar Italy.
+The annual General Assembly meeting would ordinarily attract scores of heads of state and other top officials to New York. But American officials say it should be mainly virtual again this year for safety’s sake.
 
-By The International Herald Tribune
-
-* * *
+By Rick Gladstone
 
 * * *
 
-The Taliban’s use of social media is a thorny problem for tech companies.
--------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/19/world/the-talibans-use-of-social-media-is-a-thorny-problem-for-tech-companies.html)
+In Photos: Afghanistan Under the Taliban
+----------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/19/world/19afghanistan-briefing-social-media/merlin_193375215_ed64b58e-7f2d-4887-941c-f23ec9496995-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/the-talibans-use-of-social-media-is-a-thorny-problem-for-tech-companies.html)
+[Article here](https://www.nytimes.com/2021/08/19/world/asia/Afghanistan-taliban-photos.html)
 
-By Sheera Frenkel and Ben Decker
+[![](https://static01.nyt.com/images/2021/08/19/world/00afghanistan-photos-1-promo/00afghanistan-photos-1-promo-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/19/world/asia/Afghanistan-taliban-photos.html)
+
+As the U.S. was winding down its time in the country, the Taliban swiftly retook power, reviving fears of a brutal and violent reign.
+
+By The New York Times
 
 * * *
 
