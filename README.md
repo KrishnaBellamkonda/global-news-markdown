@@ -19,29 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Sluggish Visa Process Strands Thousands of Afghans Who Worked for U.S.
-----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Those plastic barriers probably don’t help and may even make things worse.
+--------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/19/us/politics/afghanistan-visas-refugees.html)
+[Article here](https://www.nytimes.com/2021/08/19/well/those-plastic-barriers-probably-dont-help-and-may-even-make-things-worse.html)
 
-[![](https://static01.nyt.com/images/2021/08/19/us/politics/19dc-evacuate-1/merlin_193428267_6184f457-e84e-4449-a2ae-545638632b2b-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/us/politics/afghanistan-visas-refugees.html)
+[![](https://static01.nyt.com/images/2021/08/19/world/19covid-briering-barriers-1sub/merlin_192249258_3d0e1989-88e1-46fa-a6e9-0baf2d5125bc-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/well/those-plastic-barriers-probably-dont-help-and-may-even-make-things-worse.html)
 
-Officials described impatience across the Biden administration with the State Department as thousands of Afghans wait outside Kabul’s airport.
-
-By Lara Jakes, Annie Karni and Kenneth P. Vogel
+By Tara Parker-Pope
 
 * * *
 
 * * *
 
-Cuba’s acclaimed health system reels as the virus surges.
----------------------------------------------------------
+Your Friday Briefing
+--------------------
 
-[Article here](https://www.nytimes.com/2021/08/19/world/americas/cubas-acclaimed-health-system-reels-as-the-virus-surges.html)
+[Article here](https://www.nytimes.com/2021/08/19/briefing/taliban-coronavirus-wildfires.html)
 
-[![](https://static01.nyt.com/images/2021/08/17/world/17CUBA-01/merlin_192442374_98a07bd1-35ed-4618-b52c-87b97fc5743a-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/americas/cubas-acclaimed-health-system-reels-as-the-virus-surges.html)
+[![](https://static01.nyt.com/images/2021/08/19/world/20-am-briefing-europe-afghan-forces/20-am-briefing-europe-afghan-forces-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/19/briefing/taliban-coronavirus-wildfires.html)
 
-By Frances Robles
+Hiding and hunted by the Taliban.
+
+By Natasha Frost
 
 * * *
 
