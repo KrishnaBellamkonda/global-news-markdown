@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the President Biden will speak Friday on the troubled evacuation effort.
---------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the 1946: Vatican Newspaper Denounces a Pistol Duel
+-----------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/19/world/asia/biden-speech-evacuation.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/europe/vatican-newspaper-duels.html)
 
-[![](https://static01.nyt.com/images/2021/09/19/world/19afghanistan-briefing-biden-remarks/merlin_193413201_d948ade3-1981-442a-bbee-eb8dcc4240bc-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/asia/biden-speech-evacuation.html)
+[![](https://static01.nyt.com/images/2021/08/20/world/20iht-retrospective-image/20iht-retrospective-image-superJumbo.png)](https://www.nytimes.com/2021/08/20/world/europe/vatican-newspaper-duels.html)
 
-The remarks come after days of tumult in and around Hamid Karzai International Airport since the Taliban took Kabul.
+The Osservatore Romano complained that the shootout between two Romans — despite leaving neither hurt — hinted at the societal ills that had flourished in postwar Italy.
 
-By Chris Cameron
-
-* * *
+By The International Herald Tribune
 
 * * *
 
-Trump’s Deal With the Taliban Draws Fire From His Former Allies
----------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/19/us/politics/trump-biden-afghan-taliban.html)
+The Taliban’s use of social media is a thorny problem for tech companies.
+-------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/18/us/politics/18dc-trumpafghan-1/merlin_160506423_cb840c08-f6c8-4b68-a0ab-5df8989db811-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/us/politics/trump-biden-afghan-taliban.html)
+[Article here](https://www.nytimes.com/2021/08/19/world/the-talibans-use-of-social-media-is-a-thorny-problem-for-tech-companies.html)
 
-The former president and his secretary of state, Mike Pompeo, are attacking President Biden over Afghanistan even as their own policy faces harsh criticism.
+[![](https://static01.nyt.com/images/2021/08/19/world/19afghanistan-briefing-social-media/merlin_193375215_ed64b58e-7f2d-4887-941c-f23ec9496995-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/the-talibans-use-of-social-media-is-a-thorny-problem-for-tech-companies.html)
 
-By Michael Crowley
+By Sheera Frenkel and Ben Decker
 
 * * *
 
