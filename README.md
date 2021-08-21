@@ -19,22 +19,7 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A Century After the Titanic Sank, a Film Tries to Rescue 6 Survivors’ Stories
------------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/21/world/chinese-titanic-survivors-the-six.html)
-
-[![](https://static01.nyt.com/images/2021/08/18/lens/00xp-china-titanic1/00xp-china-titanic1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/chinese-titanic-survivors-the-six.html)
-
-“The Six,” a new documentary, attempts to track down the fate of Chinese sailors who survived the Titanic but were scattered by Western immigration laws.
-
-By Jennifer Jett
-
-* * *
-
-* * *
-
-In Melbourne, Australia, a protest against Covid restrictions turned violent.
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In Melbourne, Australia, a protest against Covid restrictions turned violent.
 -----------------------------------------------------------------------------
 
 [Article here](https://www.nytimes.com/2021/08/21/world/australia/melbourne-protests-covid-restrictions.html)
@@ -44,6 +29,21 @@ In Melbourne, Australia, a protest against Covid restrictions turned violent.
 The police said it was the first time officers had been forced to use “a range of nonlethal options” to disperse anti-lockdown protesters in Melbourne.
 
 By Yan Zhuang
+
+* * *
+
+* * *
+
+Afghanistan Faces Economic Shock as Sanctions Replace Foreign Aid
+-----------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/21/business/afghanistan-economy.html)
+
+[![](https://static01.nyt.com/images/2021/08/21/business/20JPdc-afghanistan-Economy-print/merlin_193475193_521357b7-3c9c-4543-842d-b5bd33d1c8f3-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/business/afghanistan-economy.html)
+
+The Taliban will be under pressure to keep a fragile economy afloat.
+
+By Alan Rappeport
 
 * * *
 
