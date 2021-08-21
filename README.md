@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Nicole Kidman’s Quarantine Pass Generates Anger in Hong Kong
-------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A baby passed over a wall in Kabul has been reunited with family, the military says.
+------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/20/world/asia/nicole-kidman-hong-kong.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-kabul-baby.html)
 
-[![](https://static01.nyt.com/images/2021/08/20/multimedia/20xp-kidman-swap/merlin_167189259_1b939844-a5c7-4096-ba01-6545fe82bedf-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/nicole-kidman-hong-kong.html)
+[![](https://static01.nyt.com/images/2021/08/20/us/20afghanistan-briefing-airport-baby/merlin_193456074_bf2a354e-031d-4fd2-9a8e-1ca7ebea5340-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-kabul-baby.html)
 
-The actress, in Hong Kong to film a series about wealthy expatriates, was allowed to skip a coronavirus quarantine. Residents saw the exemption as deeply unfair, and it became a point of debate among lawmakers.
+The image of the infant being hoisted over concertina wire went viral and prompted questions about what happened to the child.
 
-By Mike Ives
-
-* * *
+By Katie Rogers
 
 * * *
 
-Biden’s Inaccurate Claims in Defending Afghanistan Withdrawal
--------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/20/us/politics/biden-afghanistan-fact-check.html)
+Evgeny Sveshnikov, Grandmaster and Theorist of Chess, Dies at 71
+----------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/20/us/politics/20dc-factcheck/merlin_193478433_6f50cb66-7bd5-4e33-b586-57d1a9a98282-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/us/politics/biden-afghanistan-fact-check.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/europe/evgeny-sveshnikov-dead.html)
 
-The president made misleading or false claims about the reaction of allies to the withdrawal, the presence of Al Qaeda and conditions for Americans traveling to the Kabul airport.
+[![](https://static01.nyt.com/images/2021/08/20/obituaries/20Sveshnikov1/merlin_193398669_5c681e61-c852-4c0d-be37-2bb9b75e73f1-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/europe/evgeny-sveshnikov-dead.html)
 
-By Linda Qiu
+He made significant contributions to the theory of the game, particularly in the openings, one of which is named for him.
+
+By Dylan Loeb McClain
 
 * * *
 
