@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In Melbourne, Australia, a protest against Covid restrictions turned violent.
------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Patience Runs Thin in Haiti Quake Zone as Fights Erupt for Cash and Food
+------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/21/world/australia/melbourne-protests-covid-restrictions.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/americas/haiti-quake-aid-fights.html)
 
-[![](https://static01.nyt.com/images/2021/08/21/world/21virus-briefing-oz-protests/merlin_193494093_43aeb0fb-7671-4f97-858d-47ab6368be91-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/australia/melbourne-protests-covid-restrictions.html)
+[![](https://static01.nyt.com/images/2021/08/20/world/20HAITI1/merlin_193448559_64283a24-1c36-4115-a650-f44e5b1ff364-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/americas/haiti-quake-aid-fights.html)
 
-The police said it was the first time officers had been forced to use “a range of nonlethal options” to disperse anti-lockdown protesters in Melbourne.
+Nearly a week after a magnitude 7.2 earthquake wreaked death and devastation in southern Haiti, survivors were growing increasingly frantic over the slow trickle of relief.
 
-By Yan Zhuang
-
-* * *
+By Anatoly Kurmanaev and Maria Abi-Habib
 
 * * *
 
-Afghanistan Faces Economic Shock as Sanctions Replace Foreign Aid
------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/21/business/afghanistan-economy.html)
+As Canada Awaits a New Group of Refugees, Questions Loom
+--------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/21/business/20JPdc-afghanistan-Economy-print/merlin_193475193_521357b7-3c9c-4543-842d-b5bd33d1c8f3-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/business/afghanistan-economy.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/canada/canada-afghanistan-refugees.html)
 
-The Taliban will be under pressure to keep a fragile economy afloat.
+[![](https://static01.nyt.com/images/2021/08/20/world/20CANADA-LETTER-KABUL2/merlin_193428264_ad67097b-5cdf-4736-b7c1-b3e52f7bdad0-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/canada/canada-afghanistan-refugees.html)
 
-By Alan Rappeport
+Canada said that it would take in 20,000 refugees from Afghanistan. But Canadians hoping to sponsor some of them will have to wait until government plans become clear.
+
+By Ian Austen
 
 * * *
 
