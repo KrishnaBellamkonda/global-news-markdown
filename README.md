@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Trump’s Deal With the Taliban Draws Fire From His Former Allies
----------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the On the ground: Kabul on edge.
+-----------------------------
 
-[Article here](https://www.nytimes.com/2021/08/19/us/politics/trump-biden-afghan-taliban.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-kabul-dispatch.html)
 
-[![](https://static01.nyt.com/images/2021/09/18/us/politics/18dc-trumpafghan-1/merlin_160506423_cb840c08-f6c8-4b68-a0ab-5df8989db811-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/us/politics/trump-biden-afghan-taliban.html)
+[![](https://static01.nyt.com/images/2021/08/20/world/20afghan-briefing-jim-1/merlin_193436628_cae0ffac-8ca8-4a0c-b652-02dabd0928ed-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-kabul-dispatch.html)
 
-The former president and his secretary of state, Mike Pompeo, are attacking President Biden over Afghanistan even as their own policy faces harsh criticism.
+A New York Times photographer chronicled a day in Kabul. It is a portrait of a city of contrasts, with tension sometimes breaking into the open and at other times bubbling beneath the hum of daily life.
 
-By Michael Crowley
-
-* * *
+By Jim Huylebroek
 
 * * *
 
-Nando’s, a Chicken Chain Beloved in Britain, Struggles With Poultry Shortage
-----------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/20/world/europe/nandos-chicken-shortage-closures-britain.html)
+President Biden will speak Friday on the troubled evacuation effort.
+--------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/20/world/20nandos01/merlin_193402098_1d51e8a2-497d-49c6-bd08-e1f246b7dec5-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/europe/nandos-chicken-shortage-closures-britain.html)
+[Article here](https://www.nytimes.com/2021/08/19/world/asia/biden-speech-evacuation.html)
 
-The restaurant has beguiled British palates for almost three decades. But a recent chicken shortage saw almost 50 stores temporarily close this last week.
+[![](https://static01.nyt.com/images/2021/09/19/world/19afghanistan-briefing-biden-remarks/merlin_193413201_d948ade3-1981-442a-bbee-eb8dcc4240bc-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/asia/biden-speech-evacuation.html)
 
-By Aina J. Khan
+The remarks come after days of tumult in and around Hamid Karzai International Airport since the Taliban took Kabul.
+
+By Chris Cameron
 
 * * *
 
