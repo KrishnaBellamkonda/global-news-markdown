@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the On the ground: Kabul on edge.
------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the 1946: Vatican Newspaper Denounces a Pistol Duel
+-----------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-kabul-dispatch.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/europe/vatican-newspaper-duels.html)
 
-[![](https://static01.nyt.com/images/2021/08/20/world/20afghan-briefing-jim-1/merlin_193436628_cae0ffac-8ca8-4a0c-b652-02dabd0928ed-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-kabul-dispatch.html)
+[![](https://static01.nyt.com/images/2021/08/20/world/20iht-retrospective-image/20iht-retrospective-image-superJumbo.png)](https://www.nytimes.com/2021/08/20/world/europe/vatican-newspaper-duels.html)
 
-A New York Times photographer chronicled a day in Kabul. It is a portrait of a city of contrasts, with tension sometimes breaking into the open and at other times bubbling beneath the hum of daily life.
+The Osservatore Romano complained that the shootout between two Romans — despite leaving neither hurt — hinted at the societal ills that had flourished in postwar Italy.
 
-By Jim Huylebroek
-
-* * *
+By The International Herald Tribune
 
 * * *
 
-President Biden will speak Friday on the troubled evacuation effort.
---------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/19/world/asia/biden-speech-evacuation.html)
+Biden Defends Afghanistan Evacuation as Thousands Besiege Kabul Airport
+-----------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/19/world/19afghanistan-briefing-biden-remarks/merlin_193413201_d948ade3-1981-442a-bbee-eb8dcc4240bc-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/world/asia/biden-speech-evacuation.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/asia/biden-afghanistan-evacuation-kabul-airport.html)
 
-The remarks come after days of tumult in and around Hamid Karzai International Airport since the Taliban took Kabul.
+[![](https://static01.nyt.com/images/2021/08/20/world/20AFGHANISTAN-LEDEALL1/merlin_193473240_ebccfda7-c7eb-463e-9b7b-741b575df6f9-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/biden-afghanistan-evacuation-kabul-airport.html)
 
-By Chris Cameron
+The president cited “significant progress’’ in getting Americans out of Afghanistan. But Afghans linked to U.S. troops and other Western groups fear being left behind.
+
+By Mark Landler
 
 * * *
 
