@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As Canada Awaits a New Group of Refugees, Questions Loom
---------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A Century After the Titanic Sank, a Film Tries to Rescue 6 Survivors’ Stories
+-----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/20/world/canada/canada-afghanistan-refugees.html)
+[Article here](https://www.nytimes.com/2021/08/21/world/chinese-titanic-survivors-the-six.html)
 
-[![](https://static01.nyt.com/images/2021/08/20/world/20CANADA-LETTER-KABUL2/merlin_193428264_ad67097b-5cdf-4736-b7c1-b3e52f7bdad0-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/canada/canada-afghanistan-refugees.html)
+[![](https://static01.nyt.com/images/2021/08/18/lens/00xp-china-titanic1/00xp-china-titanic1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/chinese-titanic-survivors-the-six.html)
 
-Canada said that it would take in 20,000 refugees from Afghanistan. But Canadians hoping to sponsor some of them will have to wait until government plans become clear.
+“The Six,” a new documentary, attempts to track down the fate of Chinese sailors who survived the Titanic but were scattered by Western immigration laws.
 
-By Ian Austen
-
-* * *
+By Jennifer Jett
 
 * * *
 
-The Struggle to Save a House of Music, and Its Legacy
------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/21/world/africa/morocco-dar-gnawa.html)
+In Melbourne, Australia, a protest against Covid restrictions turned violent.
+-----------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/11/world/00Morocco-Music01/merlin_192780219_066f822d-cce3-40e1-b66c-2f082e4493e1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/africa/morocco-dar-gnawa.html)
+[Article here](https://www.nytimes.com/2021/08/21/world/australia/melbourne-protests-covid-restrictions.html)
 
-For decades, the Tangier home of Abdellah El Gourd has been a wellspring of the Gnawa musical tradition and a place of pilgrimage for jazz performers. But it has fallen into deep disrepair.
+[![](https://static01.nyt.com/images/2021/08/21/world/21virus-briefing-oz-protests/merlin_193494093_43aeb0fb-7671-4f97-858d-47ab6368be91-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/australia/melbourne-protests-covid-restrictions.html)
 
-By Aida Alami
+The police said it was the first time officers had been forced to use “a range of nonlethal options” to disperse anti-lockdown protesters in Melbourne.
+
+By Yan Zhuang
 
 * * *
 
