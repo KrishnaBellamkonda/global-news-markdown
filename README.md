@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taliban threats to Afghan journalists are growing.
---------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Nicole Kidman’s Quarantine Pass Generates Anger in Hong Kong
+------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/20/world/asia/taliban-threats-to-afghan-journalists-are-growing.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/asia/nicole-kidman-hong-kong.html)
 
-[![](https://static01.nyt.com/images/2021/08/20/world/20afghanistan-briefing-journalist-hunt/merlin_193375101_0bb465a8-b4b2-4b36-ac3a-01762241c5e1-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/taliban-threats-to-afghan-journalists-are-growing.html)
+[![](https://static01.nyt.com/images/2021/08/20/multimedia/20xp-kidman-swap/merlin_167189259_1b939844-a5c7-4096-ba01-6545fe82bedf-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/nicole-kidman-hong-kong.html)
 
-By James C. McKinley Jr., Michael M. Grynbaum, Tiffany Hsu and Katie Robertson
+The actress, in Hong Kong to film a series about wealthy expatriates, was allowed to skip a coronavirus quarantine. Residents saw the exemption as deeply unfair, and it became a point of debate among lawmakers.
+
+By Mike Ives
 
 * * *
 
 * * *
 
-Afghanistan’s ethnic minorities fear a repeat of past atrocities.
------------------------------------------------------------------
+Biden’s Inaccurate Claims in Defending Afghanistan Withdrawal
+-------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-taliban-hazara.html)
+[Article here](https://www.nytimes.com/2021/08/20/us/politics/biden-afghanistan-fact-check.html)
 
-[![](https://static01.nyt.com/images/2021/08/20/world/20afghanistan-briefing-Hazara-massacre/merlin_193436145_f3630f8c-a666-40b7-831c-daedbfc8f026-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-taliban-hazara.html)
+[![](https://static01.nyt.com/images/2021/08/20/us/politics/20dc-factcheck/merlin_193478433_6f50cb66-7bd5-4e33-b586-57d1a9a98282-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/us/politics/biden-afghanistan-fact-check.html)
 
-An investigation by Amnesty International detailed the execution of nine Hazara men by Taliban militants in July.
+The president made misleading or false claims about the reaction of allies to the withdrawal, the presence of Al Qaeda and conditions for Americans traveling to the Kabul airport.
 
-By Sharif Hassan and Marc Santora
+By Linda Qiu
 
 * * *
 
