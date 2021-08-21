@@ -32,16 +32,16 @@ By James C. McKinley Jr., Michael M. Grynbaum, Tiffany Hsu and Katie Robertson
 
 * * *
 
-As Chinese Vaccines Stumble, U.S. Finds New Opening in Asia
------------------------------------------------------------
+Afghanistan’s ethnic minorities fear a repeat of past atrocities.
+-----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/20/business/economy/china-vaccine-us-covid-diplomacy.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-taliban-hazara.html)
 
-[![](https://static01.nyt.com/images/2021/08/13/business/00china-vaccine-1/merlin_187355166_f4fc60b9-4b94-4aa1-91c7-3029823200bf-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/business/economy/china-vaccine-us-covid-diplomacy.html)
+[![](https://static01.nyt.com/images/2021/08/20/world/20afghanistan-briefing-Hazara-massacre/merlin_193436145_f3630f8c-a666-40b7-831c-daedbfc8f026-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-taliban-hazara.html)
 
-Several Southeast Asian nations are raising doubts about the efficacy of China’s vaccines. The Biden administration has recently offered to provide shots, “no strings attached.”
+An investigation by Amnesty International detailed the execution of nine Hazara men by Taliban militants in July.
 
-By Sui-Lee Wee and Steven Lee Myers
+By Sharif Hassan and Marc Santora
 
 * * *
 
