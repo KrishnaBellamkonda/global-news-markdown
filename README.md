@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the 1946: Vatican Newspaper Denounces a Pistol Duel
------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As Canada Awaits a New Group of Refugees, Questions Loom
+--------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/20/world/europe/vatican-newspaper-duels.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/canada/canada-afghanistan-refugees.html)
 
-[![](https://static01.nyt.com/images/2021/08/20/world/20iht-retrospective-image/20iht-retrospective-image-superJumbo.png)](https://www.nytimes.com/2021/08/20/world/europe/vatican-newspaper-duels.html)
+[![](https://static01.nyt.com/images/2021/08/20/world/20CANADA-LETTER-KABUL2/merlin_193428264_ad67097b-5cdf-4736-b7c1-b3e52f7bdad0-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/canada/canada-afghanistan-refugees.html)
 
-The Osservatore Romano complained that the shootout between two Romans — despite leaving neither hurt — hinted at the societal ills that had flourished in postwar Italy.
+Canada said that it would take in 20,000 refugees from Afghanistan. But Canadians hoping to sponsor some of them will have to wait until government plans become clear.
 
-By The International Herald Tribune
-
-* * *
+By Ian Austen
 
 * * *
 
-Biden Defends Afghanistan Evacuation as Thousands Besiege Kabul Airport
------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/20/world/asia/biden-afghanistan-evacuation-kabul-airport.html)
+The Struggle to Save a House of Music, and Its Legacy
+-----------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/20/world/20AFGHANISTAN-LEDEALL1/merlin_193473240_ebccfda7-c7eb-463e-9b7b-741b575df6f9-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/biden-afghanistan-evacuation-kabul-airport.html)
+[Article here](https://www.nytimes.com/2021/08/21/world/africa/morocco-dar-gnawa.html)
 
-The president cited “significant progress’’ in getting Americans out of Afghanistan. But Afghans linked to U.S. troops and other Western groups fear being left behind.
+[![](https://static01.nyt.com/images/2021/08/11/world/00Morocco-Music01/merlin_192780219_066f822d-cce3-40e1-b66c-2f082e4493e1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/africa/morocco-dar-gnawa.html)
 
-By Mark Landler
+For decades, the Tangier home of Abdellah El Gourd has been a wellspring of the Gnawa musical tradition and a place of pilgrimage for jazz performers. But it has fallen into deep disrepair.
+
+By Aida Alami
 
 * * *
 
