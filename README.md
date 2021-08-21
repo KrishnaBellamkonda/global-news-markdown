@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Patience Runs Thin in Haiti Quake Zone as Fights Erupt for Cash and Food
-------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How to Help Afghan Refugees and the Relief Effort
+-------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/20/world/americas/haiti-quake-aid-fights.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/asia/how-to-help-afghanistan-refugees.html)
 
-[![](https://static01.nyt.com/images/2021/08/20/world/20HAITI1/merlin_193448559_64283a24-1c36-4115-a650-f44e5b1ff364-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/americas/haiti-quake-aid-fights.html)
+[![](https://static01.nyt.com/images/2021/09/18/world/18afghanistan-howtohelp2/merlin_193473240_b07a06bb-3644-4385-ba85-bfd32d0263d1-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/how-to-help-afghanistan-refugees.html)
 
-Nearly a week after a magnitude 7.2 earthquake wreaked death and devastation in southern Haiti, survivors were growing increasingly frantic over the slow trickle of relief.
+Here are some organizations accepting donations and volunteers to assist in Afghan refugee resettlement.
 
-By Anatoly Kurmanaev and Maria Abi-Habib
-
-* * *
+By The New York Times
 
 * * *
 
-As Canada Awaits a New Group of Refugees, Questions Loom
---------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/20/world/canada/canada-afghanistan-refugees.html)
+‘We will get you home.’ Biden vows to rescue Americans despite mayhem in Kabul.
+-------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/20/world/20CANADA-LETTER-KABUL2/merlin_193428264_ad67097b-5cdf-4736-b7c1-b3e52f7bdad0-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/canada/canada-afghanistan-refugees.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/asia/biden-afghanistan-kabul.html)
 
-Canada said that it would take in 20,000 refugees from Afghanistan. But Canadians hoping to sponsor some of them will have to wait until government plans become clear.
+[![](https://static01.nyt.com/images/2021/08/20/world/20afghanistan-briefing-biden-presser1/merlin_193477551_52376b2a-4f72-4f9b-a579-3b4b52e474d0-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/biden-afghanistan-kabul.html)
 
-By Ian Austen
+The president acknowledged, however, that he did not know how many Americans were still in Afghanistan.
+
+By Katie Rogers
 
 * * *
 
