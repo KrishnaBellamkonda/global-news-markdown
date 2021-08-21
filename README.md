@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A baby passed over a wall in Kabul has been reunited with family, the military says.
-------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Trump’s Deal With the Taliban Draws Fire From His Former Allies
+---------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-kabul-baby.html)
+[Article here](https://www.nytimes.com/2021/08/19/us/politics/trump-biden-afghan-taliban.html)
 
-[![](https://static01.nyt.com/images/2021/08/20/us/20afghanistan-briefing-airport-baby/merlin_193456074_bf2a354e-031d-4fd2-9a8e-1ca7ebea5340-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-kabul-baby.html)
+[![](https://static01.nyt.com/images/2021/09/18/us/politics/18dc-trumpafghan-1/merlin_160506423_cb840c08-f6c8-4b68-a0ab-5df8989db811-superJumbo.jpg)](https://www.nytimes.com/2021/08/19/us/politics/trump-biden-afghan-taliban.html)
 
-The image of the infant being hoisted over concertina wire went viral and prompted questions about what happened to the child.
+The former president and his secretary of state, Mike Pompeo, are attacking President Biden over Afghanistan even as their own policy faces harsh criticism.
 
-By Katie Rogers
-
-* * *
+By Michael Crowley
 
 * * *
 
-Evgeny Sveshnikov, Grandmaster and Theorist of Chess, Dies at 71
-----------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/20/world/europe/evgeny-sveshnikov-dead.html)
+Nando’s, a Chicken Chain Beloved in Britain, Struggles With Poultry Shortage
+----------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/20/obituaries/20Sveshnikov1/merlin_193398669_5c681e61-c852-4c0d-be37-2bb9b75e73f1-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/europe/evgeny-sveshnikov-dead.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/europe/nandos-chicken-shortage-closures-britain.html)
 
-He made significant contributions to the theory of the game, particularly in the openings, one of which is named for him.
+[![](https://static01.nyt.com/images/2021/08/20/world/20nandos01/merlin_193402098_1d51e8a2-497d-49c6-bd08-e1f246b7dec5-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/europe/nandos-chicken-shortage-closures-britain.html)
 
-By Dylan Loeb McClain
+The restaurant has beguiled British palates for almost three decades. But a recent chicken shortage saw almost 50 stores temporarily close this last week.
+
+By Aina J. Khan
 
 * * *
 
