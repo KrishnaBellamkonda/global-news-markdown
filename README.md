@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How to Help Afghan Refugees and the Relief Effort
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Donors Send Quake Aid to Haiti, but for How Long?
 -------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/20/world/asia/how-to-help-afghanistan-refugees.html)
+[Article here](https://www.nytimes.com/2021/08/21/world/americas/haiti-earthquake-aid.html)
 
-[![](https://static01.nyt.com/images/2021/09/18/world/18afghanistan-howtohelp2/merlin_193473240_b07a06bb-3644-4385-ba85-bfd32d0263d1-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/how-to-help-afghanistan-refugees.html)
+[![](https://static01.nyt.com/images/2021/08/20/world/20haiti-aid1/merlin_193414350_c0286e44-3b87-40b1-95b0-71252c5eb0e7-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/americas/haiti-earthquake-aid.html)
 
-Here are some organizations accepting donations and volunteers to assist in Afghan refugee resettlement.
+Misuse of previous aid money, Haiti’s political convulsions, and competing humanitarian demands may signal less generosity this time.
 
-By The New York Times
-
-* * *
+By Rick Gladstone
 
 * * *
 
-‘We will get you home.’ Biden vows to rescue Americans despite mayhem in Kabul.
--------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/20/world/asia/biden-afghanistan-kabul.html)
+Biden Defends Afghanistan Evacuation as Thousands Besiege Kabul Airport
+-----------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/20/world/20afghanistan-briefing-biden-presser1/merlin_193477551_52376b2a-4f72-4f9b-a579-3b4b52e474d0-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/biden-afghanistan-kabul.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/asia/biden-afghanistan-evacuation-kabul-airport.html)
 
-The president acknowledged, however, that he did not know how many Americans were still in Afghanistan.
+[![](https://static01.nyt.com/images/2021/08/20/world/20AFGHANISTAN-LEDEALL1/merlin_193473240_ebccfda7-c7eb-463e-9b7b-741b575df6f9-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/biden-afghanistan-evacuation-kabul-airport.html)
 
-By Katie Rogers
+The president cited “significant progress’’ in getting Americans out of Afghanistan. But Afghans linked to U.S. troops and other Western groups fear being left behind.
+
+By Mark Landler
 
 * * *
 
