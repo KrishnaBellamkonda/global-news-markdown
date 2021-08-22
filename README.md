@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the He Guarded Haiti’s Slain President. And He Was a Suspect in a Drug Inquiry.
----------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A Century After the Titanic Sank, a Film Tries to Rescue 6 Survivors’ Stories
+-----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/21/world/americas/haiti-president-assassination-drugs.html)
+[Article here](https://www.nytimes.com/2021/08/21/world/chinese-titanic-survivors-the-six.html)
 
-[![](https://static01.nyt.com/images/2021/08/21/world/21Haiti-DEA7/merlin_162323280_9bee066c-245a-4929-a496-61a22b33b848-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/americas/haiti-president-assassination-drugs.html)
+[![](https://static01.nyt.com/images/2021/08/18/lens/00xp-china-titanic1/00xp-china-titanic1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/chinese-titanic-survivors-the-six.html)
 
-Officials are examining whether President Jovenel Moïse’s killing was tied to the drug trade. The man in charge of his safety was a suspect in a major trafficking case, they say.
+“The Six,” a new documentary, attempts to track down the fate of Chinese sailors who survived the Titanic but were scattered by Western immigration laws.
 
-By Maria Abi-Habib
-
-* * *
+By Jennifer Jett
 
 * * *
 
-Putin Takes Shot at West, but Says He’ll Work to ‘Normalize’ Afghanistan
-------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/20/world/europe/putin-afghanistan-merkel.html)
+Jesse Jackson and his wife, Jacqueline, are hospitalized with Covid-19.
+-----------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/20/world/20RUSSIA-GERMANY1/merlin_193473576_f6840bd4-b8ef-4ce0-8f14-61d1bbd0b5c1-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/europe/putin-afghanistan-merkel.html)
+[Article here](https://www.nytimes.com/2021/08/21/us/jesse-jackson-wife-hospitalized-covid-19.html)
 
-President Vladimir V. Putin of Russia said the Taliban takeover of Afghanistan showed that it was time for the West to end its “policy of imposing someone’s outside values from abroad.”
+[![](https://static01.nyt.com/images/2021/08/21/world/21virus-briefing-jackson/merlin_192587040_a4a5c3dc-5c7b-451b-a800-7081b27b9455-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/us/jesse-jackson-wife-hospitalized-covid-19.html)
 
-By Anton Troianovski
+Mr. Jackson, 79, was vaccinated in January.
 
 * * *
 
