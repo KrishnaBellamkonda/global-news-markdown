@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A baby passed over a wall in Kabul is reunited with his family, the military says.
-----------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Tony Blair, who led the U.K. into Afghanistan, criticizes the pullout.
+----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-kabul-baby.html)
+[Article here](https://www.nytimes.com/2021/08/22/world/tony-blair-afghanistan-pullout.html)
 
-[![](https://static01.nyt.com/images/2021/08/20/us/20afghanistan-briefing-airport-baby/merlin_193456074_bf2a354e-031d-4fd2-9a8e-1ca7ebea5340-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-kabul-baby.html)
+[![](https://static01.nyt.com/images/2021/08/22/world/22afghanistanbriefing-tony-blair/merlin_15962709_4ea881df-c327-4bc9-a11d-3ff741bcd066-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/world/tony-blair-afghanistan-pullout.html)
 
-The image of the infant being hoisted over concertina wire went viral and prompted questions about what happened to the child.
+The former prime minister of Britain called the withdrawal ‘an imbecilic political slogan about ending ‘the forever wars.’
 
-By Katie Rogers
-
-* * *
+By Austin Ramzy
 
 * * *
 
-‘My Blood Is Boiling’: War Fever Surges in Ethiopia as Its Civil War Spreads
-----------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/22/world/africa/ethiopia-civil-war-spreads.html)
+The Struggle to Save a House of Music, and Its Legacy
+-----------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/22/world/22Ethiopia1/merlin_191083176_6cf7e0bb-70cc-4209-93e9-98b38f75026a-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/world/africa/ethiopia-civil-war-spreads.html)
+[Article here](https://www.nytimes.com/2021/08/21/world/africa/morocco-dar-gnawa.html)
 
-A government drive to enlist civilians in the war effort threatens to widen the conflict, forcing ethnic groups to take sides and potentially spilling into the broader region.
+[![](https://static01.nyt.com/images/2021/08/11/world/00Morocco-Music01/merlin_192780219_066f822d-cce3-40e1-b66c-2f082e4493e1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/africa/morocco-dar-gnawa.html)
 
-By Abdi Latif Dahir
+For decades, the Tangier home of Abdellah El Gourd has been a wellspring of the Gnawa musical tradition and a place of pilgrimage for jazz performers. But it has fallen into deep disrepair.
+
+By Aida Alami
 
 * * *
 
