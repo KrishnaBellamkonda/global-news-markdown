@@ -19,7 +19,22 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A Century After the Titanic Sank, a Film Tries to Rescue 6 Survivors’ Stories
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The situation at Kabul’s airport deteriorates as diplomats warn of threats.
+---------------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/21/world/asia/kabul-airport-afghanistan-security.html)
+
+[![](https://static01.nyt.com/images/2021/08/21/world/21afghanistan-briefing-pentagon/21afghanistan-briefing-pentagon-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/kabul-airport-afghanistan-security.html)
+
+Some Americans made it through the chaos at the airport despite warnings by the U.S. State Department to wait for orders to evacuate.
+
+By Eric Schmitt
+
+* * *
+
+* * *
+
+A Century After the Titanic Sank, a Film Tries to Rescue 6 Survivors’ Stories
 -----------------------------------------------------------------------------
 
 [Article here](https://www.nytimes.com/2021/08/21/world/chinese-titanic-survivors-the-six.html)
@@ -29,19 +44,6 @@ Come back in a few hours and seeif the news section has changed! (Is it too long
 “The Six,” a new documentary, attempts to track down the fate of Chinese sailors who survived the Titanic but were scattered by Western immigration laws.
 
 By Jennifer Jett
-
-* * *
-
-* * *
-
-Jesse Jackson and his wife, Jacqueline, are hospitalized with Covid-19.
------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/21/us/jesse-jackson-wife-hospitalized-covid-19.html)
-
-[![](https://static01.nyt.com/images/2021/08/21/world/21virus-briefing-jackson/merlin_192587040_a4a5c3dc-5c7b-451b-a800-7081b27b9455-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/us/jesse-jackson-wife-hospitalized-covid-19.html)
-
-Mr. Jackson, 79, was vaccinated in January.
 
 * * *
 
