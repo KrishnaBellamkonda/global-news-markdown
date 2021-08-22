@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Tony Blair, who led the U.K. into Afghanistan, criticizes the pullout.
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Vietnam War Victims Wanted Justice. They Were Given ‘30 Bags of Rice.’
 ----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/22/world/tony-blair-afghanistan-pullout.html)
+[Article here](https://www.nytimes.com/2021/08/21/world/asia/vietnam-war-south-korea-massacre.html)
 
-[![](https://static01.nyt.com/images/2021/08/22/world/22afghanistanbriefing-tony-blair/merlin_15962709_4ea881df-c327-4bc9-a11d-3ff741bcd066-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/world/tony-blair-afghanistan-pullout.html)
+[![](https://static01.nyt.com/images/2021/08/18/world/00skorea-vietnam-1/00skorea-vietnam-1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/vietnam-war-south-korea-massacre.html)
 
-The former prime minister of Britain called the withdrawal ‘an imbecilic political slogan about ending ‘the forever wars.’
+South Korean troops were the largest foreign contingent fighting alongside American soldiers during the Vietnam War. They have long been dogged by allegations of brutality.
 
-By Austin Ramzy
-
-* * *
+By Choe Sang-Hun
 
 * * *
 
-The Struggle to Save a House of Music, and Its Legacy
------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/21/world/africa/morocco-dar-gnawa.html)
+America’s Afghan War: A Defeat Foretold?
+----------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/11/world/00Morocco-Music01/merlin_192780219_066f822d-cce3-40e1-b66c-2f082e4493e1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/africa/morocco-dar-gnawa.html)
+[Article here](https://www.nytimes.com/2021/08/21/world/europe/afghanistan-us-history-colonial-wars.html)
 
-For decades, the Tangier home of Abdellah El Gourd has been a wellspring of the Gnawa musical tradition and a place of pilgrimage for jazz performers. But it has fallen into deep disrepair.
+[![](https://static01.nyt.com/images/2021/08/21/world/21AFGHAN-FOLLY1/merlin_190754004_852ed427-fe92-4882-ab7c-8dfe9aa0b8c1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/europe/afghanistan-us-history-colonial-wars.html)
 
-By Aida Alami
+Recent history suggests that it is foolish for Western powers to fight wars in other people’s lands and that the U.S. intervention was almost certainly doomed from the start.
+
+By Adam Nossiter
 
 * * *
 
