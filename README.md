@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Vietnam War Victims Wanted Justice. They Were Given ‘30 Bags of Rice.’
-----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Jesse Jackson and his wife, Jacqueline, are hospitalized with Covid-19.
+-----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/21/world/asia/vietnam-war-south-korea-massacre.html)
+[Article here](https://www.nytimes.com/2021/08/21/us/jesse-jackson-wife-hospitalized-covid-19.html)
 
-[![](https://static01.nyt.com/images/2021/08/18/world/00skorea-vietnam-1/00skorea-vietnam-1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/vietnam-war-south-korea-massacre.html)
+[![](https://static01.nyt.com/images/2021/08/21/world/21virus-briefing-jackson/merlin_192587040_a4a5c3dc-5c7b-451b-a800-7081b27b9455-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/us/jesse-jackson-wife-hospitalized-covid-19.html)
 
-South Korean troops were the largest foreign contingent fighting alongside American soldiers during the Vietnam War. They have long been dogged by allegations of brutality.
-
-By Choe Sang-Hun
+Mr. Jackson, 79, was vaccinated in January.
 
 * * *
 
 * * *
 
-America’s Afghan War: A Defeat Foretold?
-----------------------------------------
+Fears Rise About Safety of Afghan Airport as U.S. Warns Americans to Stay Away
+------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/21/world/europe/afghanistan-us-history-colonial-wars.html)
+[Article here](https://www.nytimes.com/2021/08/21/world/asia/Afghanistan-Kabul-airport-evacuations.html)
 
-[![](https://static01.nyt.com/images/2021/08/21/world/21AFGHAN-FOLLY1/merlin_190754004_852ed427-fe92-4882-ab7c-8dfe9aa0b8c1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/europe/afghanistan-us-history-colonial-wars.html)
+[![](https://static01.nyt.com/images/2021/08/21/world/21afghanistan-kabul1/21afghanistan-kabul1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/Afghanistan-Kabul-airport-evacuations.html)
 
-Recent history suggests that it is foolish for Western powers to fight wars in other people’s lands and that the U.S. intervention was almost certainly doomed from the start.
+Families continued to swarm the airport in hopes of getting aboard American military planes. U.S. officials are now worried that Islamic State might launch an attack to damage the Taliban’s sense of control.
 
-By Adam Nossiter
+By David Zucchino
 
 * * *
 
