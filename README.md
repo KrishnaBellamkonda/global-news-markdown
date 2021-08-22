@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The situation at Kabul’s airport deteriorates as diplomats warn of threats.
----------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A baby passed over a wall in Kabul is reunited with his family, the military says.
+----------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/21/world/asia/kabul-airport-afghanistan-security.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-kabul-baby.html)
 
-[![](https://static01.nyt.com/images/2021/08/21/world/21afghanistan-briefing-pentagon/21afghanistan-briefing-pentagon-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/kabul-airport-afghanistan-security.html)
+[![](https://static01.nyt.com/images/2021/08/20/us/20afghanistan-briefing-airport-baby/merlin_193456074_bf2a354e-031d-4fd2-9a8e-1ca7ebea5340-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/afghanistan-kabul-baby.html)
 
-Some Americans made it through the chaos at the airport despite warnings by the U.S. State Department to wait for orders to evacuate.
+The image of the infant being hoisted over concertina wire went viral and prompted questions about what happened to the child.
 
-By Eric Schmitt
-
-* * *
+By Katie Rogers
 
 * * *
 
-A Century After the Titanic Sank, a Film Tries to Rescue 6 Survivors’ Stories
------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/21/world/chinese-titanic-survivors-the-six.html)
+‘My Blood Is Boiling’: War Fever Surges in Ethiopia as Its Civil War Spreads
+----------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/18/lens/00xp-china-titanic1/00xp-china-titanic1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/chinese-titanic-survivors-the-six.html)
+[Article here](https://www.nytimes.com/2021/08/22/world/africa/ethiopia-civil-war-spreads.html)
 
-“The Six,” a new documentary, attempts to track down the fate of Chinese sailors who survived the Titanic but were scattered by Western immigration laws.
+[![](https://static01.nyt.com/images/2021/08/22/world/22Ethiopia1/merlin_191083176_6cf7e0bb-70cc-4209-93e9-98b38f75026a-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/world/africa/ethiopia-civil-war-spreads.html)
 
-By Jennifer Jett
+A government drive to enlist civilians in the war effort threatens to widen the conflict, forcing ethnic groups to take sides and potentially spilling into the broader region.
+
+By Abdi Latif Dahir
 
 * * *
 
