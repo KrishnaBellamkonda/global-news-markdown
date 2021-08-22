@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As Canada Awaits a New Group of Refugees, Questions Loom
---------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the He Guarded Haiti’s Slain President. And He Was a Suspect in a Drug Inquiry.
+---------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/20/world/canada/canada-afghanistan-refugees.html)
+[Article here](https://www.nytimes.com/2021/08/21/world/americas/haiti-president-assassination-drugs.html)
 
-[![](https://static01.nyt.com/images/2021/08/20/world/20CANADA-LETTER-KABUL2/merlin_193428264_ad67097b-5cdf-4736-b7c1-b3e52f7bdad0-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/canada/canada-afghanistan-refugees.html)
+[![](https://static01.nyt.com/images/2021/08/21/world/21Haiti-DEA7/merlin_162323280_9bee066c-245a-4929-a496-61a22b33b848-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/americas/haiti-president-assassination-drugs.html)
 
-Canada said that it would take in 20,000 refugees from Afghanistan. But Canadians hoping to sponsor some of them will have to wait until government plans become clear.
+Officials are examining whether President Jovenel Moïse’s killing was tied to the drug trade. The man in charge of his safety was a suspect in a major trafficking case, they say.
 
-By Ian Austen
-
-* * *
+By Maria Abi-Habib
 
 * * *
 
-A Rush of News, Moment by Moment: Behind Our Live Coverage
-----------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/22/insider/live-coverage.html)
+Putin Takes Shot at West, but Says He’ll Work to ‘Normalize’ Afghanistan
+------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/22/pageoneplus/22a2_itt/22a2_itt-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/insider/live-coverage.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/europe/putin-afghanistan-merkel.html)
 
-When readers need information immediately, teams of journalists collaborate to tell a single unfolding story.
+[![](https://static01.nyt.com/images/2021/08/20/world/20RUSSIA-GERMANY1/merlin_193473576_f6840bd4-b8ef-4ce0-8f14-61d1bbd0b5c1-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/europe/putin-afghanistan-merkel.html)
 
-By Sarah Bahr
+President Vladimir V. Putin of Russia said the Taliban takeover of Afghanistan showed that it was time for the West to end its “policy of imposing someone’s outside values from abroad.”
+
+By Anton Troianovski
 
 * * *
 
