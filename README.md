@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Health officials warn people not to treat Covid with a drug meant for livestock.
---------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The situation at Kabul’s airport deteriorates as diplomats warn of threats.
+---------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/21/world/ivermectin-fda-covid-19-treatment.html)
+[Article here](https://www.nytimes.com/2021/08/21/world/asia/kabul-airport-afghanistan-security.html)
 
-[![](https://static01.nyt.com/images/2021/08/21/business/21Virus-Brieing-ivermectin/merlin_174810798_32d2978c-3f70-4fbe-83e8-db3e9fa073b9-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/ivermectin-fda-covid-19-treatment.html)
+[![](https://static01.nyt.com/images/2021/08/21/world/21afghanistan-briefing-pentagon/21afghanistan-briefing-pentagon-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/kabul-airport-afghanistan-security.html)
 
-“You are not a horse,” the Food and Drug Administration said. “Stop it.”
+Some Americans made it through the chaos at the airport despite warnings by the U.S. State Department to wait for orders to evacuate.
 
-By Eduardo Medina
-
-* * *
+By Eric Schmitt
 
 * * *
 
-Athens Is Only Getting Hotter. Its New ‘Chief Heat Officer’ Hopes to Cool It Down.
-----------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/21/world/europe/athens-is-only-getting-hotter-its-new-chief-heat-officer-hopes-to-cool-it-down.html)
+Biden Defends Afghanistan Evacuation as Thousands Besiege Kabul Airport
+-----------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/18/world/00athens-heat01/merlin_193381674_e3002808-dfe0-4fb4-a7c1-49a499af8691-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/europe/athens-is-only-getting-hotter-its-new-chief-heat-officer-hopes-to-cool-it-down.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/asia/biden-afghanistan-evacuation-kabul-airport.html)
 
-Eleni Myrivili has been tasked with finding ways to help the Greek capital cope with ever-hotter heat waves that are expected to be part of life for years to come.
+[![](https://static01.nyt.com/images/2021/08/20/world/20AFGHANISTAN-LEDEALL1/merlin_193473240_ebccfda7-c7eb-463e-9b7b-741b575df6f9-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/biden-afghanistan-evacuation-kabul-airport.html)
 
-By Jason Horowitz
+The president cited “significant progress’’ in getting Americans out of Afghanistan. But Afghans linked to U.S. troops and other Western groups fear being left behind.
+
+By Mark Landler
 
 * * *
 
