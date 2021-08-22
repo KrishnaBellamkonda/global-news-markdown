@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The situation at Kabul’s airport deteriorates as diplomats warn of threats.
----------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As Canada Awaits a New Group of Refugees, Questions Loom
+--------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/21/world/asia/kabul-airport-afghanistan-security.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/canada/canada-afghanistan-refugees.html)
 
-[![](https://static01.nyt.com/images/2021/08/21/world/21afghanistan-briefing-pentagon/21afghanistan-briefing-pentagon-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/kabul-airport-afghanistan-security.html)
+[![](https://static01.nyt.com/images/2021/08/20/world/20CANADA-LETTER-KABUL2/merlin_193428264_ad67097b-5cdf-4736-b7c1-b3e52f7bdad0-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/canada/canada-afghanistan-refugees.html)
 
-Some Americans made it through the chaos at the airport despite warnings by the U.S. State Department to wait for orders to evacuate.
+Canada said that it would take in 20,000 refugees from Afghanistan. But Canadians hoping to sponsor some of them will have to wait until government plans become clear.
 
-By Eric Schmitt
-
-* * *
+By Ian Austen
 
 * * *
 
-Biden Defends Afghanistan Evacuation as Thousands Besiege Kabul Airport
------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/20/world/asia/biden-afghanistan-evacuation-kabul-airport.html)
+A Rush of News, Moment by Moment: Behind Our Live Coverage
+----------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/20/world/20AFGHANISTAN-LEDEALL1/merlin_193473240_ebccfda7-c7eb-463e-9b7b-741b575df6f9-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/biden-afghanistan-evacuation-kabul-airport.html)
+[Article here](https://www.nytimes.com/2021/08/22/insider/live-coverage.html)
 
-The president cited “significant progress’’ in getting Americans out of Afghanistan. But Afghans linked to U.S. troops and other Western groups fear being left behind.
+[![](https://static01.nyt.com/images/2021/08/22/pageoneplus/22a2_itt/22a2_itt-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/insider/live-coverage.html)
 
-By Mark Landler
+When readers need information immediately, teams of journalists collaborate to tell a single unfolding story.
+
+By Sarah Bahr
 
 * * *
 
