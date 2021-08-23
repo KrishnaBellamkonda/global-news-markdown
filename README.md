@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the T. Rex Was Fearsome but May Have Been a Picky Eater
----------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In Haiti, Need Is Overwhelming, but Some Politicians’ Charity Rings False
+-------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/23/science/tyrannosaurus-rex.html)
+[Article here](https://www.nytimes.com/2021/08/22/world/americas/haiti-earthquake-aid.html)
 
-[![](https://static01.nyt.com/images/2021/08/23/us/23xp-trex-1/merlin_186452322_03f63eff-9c6e-4f48-9ad9-6f0a54b361e1-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/science/tyrannosaurus-rex.html)
+[![](https://static01.nyt.com/images/2021/08/22/world/22HAITI-CROWD/merlin_193445211_6a93061d-99f9-4dd6-8266-72a113c1335d-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/world/americas/haiti-earthquake-aid.html)
 
-The jaw of the Tyrannosaurus Rex had sensitive nerves that may have allowed it to differentiate between parts of its prey, a new study found.
+Potential candidates’ donations to quake victims have taken on political overtones and highlighted the government’s failures in providing relief.
 
-By Maria Cramer
-
-* * *
+By Anatoly Kurmanaev
 
 * * *
 
-Did the War in Afghanistan Have to Happen?
-------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/23/world/middleeast/afghanistan-taliban-deal-united-states.html)
+The situation at Kabul’s airport deteriorates as diplomats warn of threats.
+---------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/22/world/22TALIBANDEAL1/22TALIBANDEAL1-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/middleeast/afghanistan-taliban-deal-united-states.html)
+[Article here](https://www.nytimes.com/2021/08/21/world/asia/kabul-airport-afghanistan-security.html)
 
-In 2001, when the Taliban were weak and ready to surrender, the U.S. passed on a deal. Nearly 20 years later, the Taliban hold all the cards.
+[![](https://static01.nyt.com/images/2021/08/21/world/21afghanistan-briefing-pentagon/21afghanistan-briefing-pentagon-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/kabul-airport-afghanistan-security.html)
 
-By Alissa J. Rubin
+Some Americans made it through the chaos at the airport despite warnings by the U.S. State Department to wait for orders to evacuate.
+
+By Eric Schmitt
 
 * * *
 
