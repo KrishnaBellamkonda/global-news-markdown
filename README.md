@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Desperation as Afghans Seek to Flee a Country Retaken by the Taliban
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the American Vet Returns to Italy to Greet ‘Bambini’ He Last Saw in 1944
 --------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/21/world/asia/afghanistan-kabul-fear-taliban.html)
+[Article here](https://www.nytimes.com/2021/08/23/world/europe/american-vet-italy-children-WWII.html)
 
-[![](https://static01.nyt.com/images/2021/08/21/world/21AFGHAN-VOICES1/21AFGHAN-VOICES1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/afghanistan-kabul-fear-taliban.html)
+[![](https://static01.nyt.com/images/2021/08/23/world/23ITALY-REUNION1/23ITALY-REUNION1-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/europe/american-vet-italy-children-WWII.html)
 
-A toddler was trampled to death as a crowd surged near the Kabul airport, and many residents who aided America remain in hiding, fearing they will be killed by their new rulers.
+The daughter of a World War II veteran used the internet to track down three children he was photographed with 77 years ago — after almost firing on them. On Monday, they finally met face to face.
 
-By David Zucchino
-
-* * *
+By Elisabetta Povoledo
 
 * * *
 
-T. Rex Was Fearsome but May Have Been a Picky Eater
----------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/23/science/tyrannosaurus-rex.html)
+Jesse Jackson and his wife, Jacqueline, are hospitalized with Covid-19.
+-----------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/23/us/23xp-trex-1/merlin_186452322_03f63eff-9c6e-4f48-9ad9-6f0a54b361e1-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/science/tyrannosaurus-rex.html)
+[Article here](https://www.nytimes.com/2021/08/21/us/jesse-jackson-wife-hospitalized-covid-19.html)
 
-The jaw of the Tyrannosaurus Rex had sensitive nerves that may have allowed it to differentiate between parts of its prey, a new study found.
+[![](https://static01.nyt.com/images/2021/08/21/world/21virus-briefing-jackson/merlin_192587040_a4a5c3dc-5c7b-451b-a800-7081b27b9455-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/us/jesse-jackson-wife-hospitalized-covid-19.html)
 
-By Maria Cramer
+Mr. Jackson, 79, was vaccinated in January.
 
 * * *
 
