@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How to Help Afghan Refugees and the Relief Effort
--------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Tony Blair, who led the U.K. into Afghanistan, criticizes the pullout.
+----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/20/world/asia/how-to-help-afghanistan-refugees.html)
+[Article here](https://www.nytimes.com/2021/08/22/world/tony-blair-afghanistan-pullout.html)
 
-[![](https://static01.nyt.com/images/2021/09/18/world/18afghanistan-howtohelp2/merlin_193473240_b07a06bb-3644-4385-ba85-bfd32d0263d1-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/how-to-help-afghanistan-refugees.html)
+[![](https://static01.nyt.com/images/2021/08/22/world/22afghanistanbriefing-tony-blair/merlin_15962709_4ea881df-c327-4bc9-a11d-3ff741bcd066-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/world/tony-blair-afghanistan-pullout.html)
 
-Here are some organizations accepting donations and volunteers to assist in Afghan refugee resettlement.
+The former prime minister of Britain called the withdrawal ‘an imbecilic political slogan about ending ‘the forever wars.’
 
-By The New York Times
-
-* * *
+By Austin Ramzy
 
 * * *
 
-Your Monday Briefing
---------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/22/briefing/afghanistan-gulf-coast-covid-athens.html)
+Athens Is Only Getting Hotter. Its New ‘Chief Heat Officer’ Hopes to Cool It Down.
+----------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/23/us/23ambriefing-europe-nl-promo/merlin_193550523_23001999-2e40-4229-a6cb-d71e86c8ec4d-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/briefing/afghanistan-gulf-coast-covid-athens.html)
+[Article here](https://www.nytimes.com/2021/08/21/world/europe/athens-is-only-getting-hotter-its-new-chief-heat-officer-hopes-to-cool-it-down.html)
 
-Global response to Afghan refugees.
+[![](https://static01.nyt.com/images/2021/08/18/world/00athens-heat01/merlin_193381674_e3002808-dfe0-4fb4-a7c1-49a499af8691-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/europe/athens-is-only-getting-hotter-its-new-chief-heat-officer-hopes-to-cool-it-down.html)
 
-By Melina Delkic
+Eleni Myrivili has been tasked with finding ways to help the Greek capital cope with ever-hotter heat waves that are expected to be part of life for years to come.
+
+By Jason Horowitz
 
 * * *
 
