@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A former Pence aide says Trump and Miller tried to stymie Afghan refugee efforts.
----------------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.html)
-
-[![](https://static01.nyt.com/images/2021/08/21/world/21afghanistan-briefing-troye-trump/merlin_175014276_0c62ac1d-b592-4b5e-ac81-2d5cf73f58e7-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.html)
-
-Olivia Troye said the Trump aide Stephen Miller demanded restrictions on refugees. Mr. Miller said President Biden’s “incompetence” had led to the current chaos.
-
-By Michael D. Shear
-
-* * *
-
-* * *
-
-Tony Blair, who led the U.K. into Afghanistan, criticizes the pullout.
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Vietnam War Victims Wanted Justice. They Were Given ‘30 Bags of Rice.’
 ----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/22/world/tony-blair-afghanistan-pullout.html)
+[Article here](https://www.nytimes.com/2021/08/21/world/asia/vietnam-war-south-korea-massacre.html)
 
-[![](https://static01.nyt.com/images/2021/08/22/world/22afghanistanbriefing-tony-blair/merlin_15962709_4ea881df-c327-4bc9-a11d-3ff741bcd066-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/world/tony-blair-afghanistan-pullout.html)
+[![](https://static01.nyt.com/images/2021/08/18/world/00skorea-vietnam-1/00skorea-vietnam-1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/vietnam-war-south-korea-massacre.html)
 
-The former prime minister of Britain called the withdrawal ‘an imbecilic political slogan about ending ‘the forever wars.’
+South Korean troops were the largest foreign contingent fighting alongside American soldiers during the Vietnam War. They have long been dogged by allegations of brutality.
 
-By Austin Ramzy
+By Choe Sang-Hun
+
+* * *
+
+* * *
+
+Health officials warn people not to treat Covid with a drug meant for livestock.
+--------------------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/21/world/ivermectin-fda-covid-19-treatment.html)
+
+[![](https://static01.nyt.com/images/2021/08/21/business/21Virus-Brieing-ivermectin/merlin_174810798_32d2978c-3f70-4fbe-83e8-db3e9fa073b9-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/ivermectin-fda-covid-19-treatment.html)
+
+“You are not a horse,” the Food and Drug Administration said. “Stop it.”
+
+By Eduardo Medina
 
 * * *
 
