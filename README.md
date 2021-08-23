@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Tony Blair, who led the U.K. into Afghanistan, criticizes the pullout.
-----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The U.S. Is Getting a Crash Course in Scientific Uncertainty
+------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/22/world/tony-blair-afghanistan-pullout.html)
+[Article here](https://www.nytimes.com/2021/08/22/health/covid-research-delta-boosters.html)
 
-[![](https://static01.nyt.com/images/2021/08/22/world/22afghanistanbriefing-tony-blair/merlin_15962709_4ea881df-c327-4bc9-a11d-3ff741bcd066-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/world/tony-blair-afghanistan-pullout.html)
+[![](https://static01.nyt.com/images/2021/08/09/science/09virus-science-1/merlin_192444375_94f25f81-f7f0-4d53-bf74-f6671fcd1cb4-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/health/covid-research-delta-boosters.html)
 
-The former prime minister of Britain called the withdrawal ‘an imbecilic political slogan about ending ‘the forever wars.’
+As the pandemic takes an unexpected direction, Americans again must reckon with twists in scientific understanding of the virus.
 
-By Austin Ramzy
-
-* * *
+By Apoorva Mandavilli
 
 * * *
 
-Athens Is Only Getting Hotter. Its New ‘Chief Heat Officer’ Hopes to Cool It Down.
-----------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/21/world/europe/athens-is-only-getting-hotter-its-new-chief-heat-officer-hopes-to-cool-it-down.html)
+Sardinian Village Tries to Save an Ancient Tree Scorched by Fire
+----------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/18/world/00athens-heat01/merlin_193381674_e3002808-dfe0-4fb4-a7c1-49a499af8691-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/europe/athens-is-only-getting-hotter-its-new-chief-heat-officer-hopes-to-cool-it-down.html)
+[Article here](https://www.nytimes.com/2021/08/22/world/europe/italy-sardinia-fire-tree.html)
 
-Eleni Myrivili has been tasked with finding ways to help the Greek capital cope with ever-hotter heat waves that are expected to be part of life for years to come.
+[![](https://static01.nyt.com/images/2021/08/20/world/00italy-trees-01/merlin_193462764_a8e2c6f7-9b12-4046-8019-b69b8c4617dc-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/world/europe/italy-sardinia-fire-tree.html)
 
-By Jason Horowitz
+A team of experts, with the help of local residents and authorities, is trying to revive an ancient olive tree in the hilltop village of Cuglieri that was engulfed in a catastrophic wildfire.
+
+By Gaia Pianigiani
 
 * * *
 
