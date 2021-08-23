@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In Haiti, Need Is Overwhelming, but Some Politicians’ Charity Rings False
--------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Desperation as Afghans Seek to Flee a Country Retaken by the Taliban
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/22/world/americas/haiti-earthquake-aid.html)
+[Article here](https://www.nytimes.com/2021/08/21/world/asia/afghanistan-kabul-fear-taliban.html)
 
-[![](https://static01.nyt.com/images/2021/08/22/world/22HAITI-CROWD/merlin_193445211_6a93061d-99f9-4dd6-8266-72a113c1335d-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/world/americas/haiti-earthquake-aid.html)
+[![](https://static01.nyt.com/images/2021/08/21/world/21AFGHAN-VOICES1/21AFGHAN-VOICES1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/afghanistan-kabul-fear-taliban.html)
 
-Potential candidates’ donations to quake victims have taken on political overtones and highlighted the government’s failures in providing relief.
+A toddler was trampled to death as a crowd surged near the Kabul airport, and many residents who aided America remain in hiding, fearing they will be killed by their new rulers.
 
-By Anatoly Kurmanaev
-
-* * *
+By David Zucchino
 
 * * *
 
-The situation at Kabul’s airport deteriorates as diplomats warn of threats.
----------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/21/world/asia/kabul-airport-afghanistan-security.html)
+T. Rex Was Fearsome but May Have Been a Picky Eater
+---------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/21/world/21afghanistan-briefing-pentagon/21afghanistan-briefing-pentagon-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/kabul-airport-afghanistan-security.html)
+[Article here](https://www.nytimes.com/2021/08/23/science/tyrannosaurus-rex.html)
 
-Some Americans made it through the chaos at the airport despite warnings by the U.S. State Department to wait for orders to evacuate.
+[![](https://static01.nyt.com/images/2021/08/23/us/23xp-trex-1/merlin_186452322_03f63eff-9c6e-4f48-9ad9-6f0a54b361e1-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/science/tyrannosaurus-rex.html)
 
-By Eric Schmitt
+The jaw of the Tyrannosaurus Rex had sensitive nerves that may have allowed it to differentiate between parts of its prey, a new study found.
+
+By Maria Cramer
 
 * * *
 
