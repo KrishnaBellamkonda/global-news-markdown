@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Vietnam War Victims Wanted Justice. They Were Given ‘30 Bags of Rice.’
-----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Fears Rise About Safety of Afghan Airport as U.S. Warns Americans to Stay Away
+------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/21/world/asia/vietnam-war-south-korea-massacre.html)
+[Article here](https://www.nytimes.com/2021/08/21/world/asia/Afghanistan-Kabul-airport-evacuations.html)
 
-[![](https://static01.nyt.com/images/2021/08/18/world/00skorea-vietnam-1/00skorea-vietnam-1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/vietnam-war-south-korea-massacre.html)
+[![](https://static01.nyt.com/images/2021/08/21/world/21afghanistan-kabul1/21afghanistan-kabul1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/Afghanistan-Kabul-airport-evacuations.html)
 
-South Korean troops were the largest foreign contingent fighting alongside American soldiers during the Vietnam War. They have long been dogged by allegations of brutality.
+Families continued to swarm the airport in hopes of getting aboard American military planes. U.S. officials are now worried that Islamic State might launch an attack to damage the Taliban’s sense of control.
 
-By Choe Sang-Hun
-
-* * *
+By David Zucchino
 
 * * *
 
-Health officials warn people not to treat Covid with a drug meant for livestock.
---------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/21/world/ivermectin-fda-covid-19-treatment.html)
+What Will Become of Afghanistan’s Post-9/11 Generation?
+-------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/21/business/21Virus-Brieing-ivermectin/merlin_174810798_32d2978c-3f70-4fbe-83e8-db3e9fa073b9-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/ivermectin-fda-covid-19-treatment.html)
+[Article here](https://www.nytimes.com/2021/08/22/magazine/afghanistan-photos.html)
 
-“You are not a horse,” the Food and Drug Administration said. “Stop it.”
+[![](https://static01.nyt.com/images/2021/08/29/magazine/29mag-afghanistan-33-02-copy/29mag-afghanistan-33-02-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/magazine/afghanistan-photos.html)
 
-By Eduardo Medina
+This summer, the journalist Kiana Hayeri set out to photograph Afghans who grew up after the U.S. invasion in 2001. Instead, she wound up documenting the end of life as they knew it.
+
+By Kiana Hayeri
 
 * * *
 
