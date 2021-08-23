@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Fears Rise About Safety of Afghan Airport as U.S. Warns Americans to Stay Away
-------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How to Help Afghan Refugees and the Relief Effort
+-------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/21/world/asia/Afghanistan-Kabul-airport-evacuations.html)
+[Article here](https://www.nytimes.com/2021/08/20/world/asia/how-to-help-afghanistan-refugees.html)
 
-[![](https://static01.nyt.com/images/2021/08/21/world/21afghanistan-kabul1/21afghanistan-kabul1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/Afghanistan-Kabul-airport-evacuations.html)
+[![](https://static01.nyt.com/images/2021/09/18/world/18afghanistan-howtohelp2/merlin_193473240_b07a06bb-3644-4385-ba85-bfd32d0263d1-superJumbo.jpg)](https://www.nytimes.com/2021/08/20/world/asia/how-to-help-afghanistan-refugees.html)
 
-Families continued to swarm the airport in hopes of getting aboard American military planes. U.S. officials are now worried that Islamic State might launch an attack to damage the Taliban’s sense of control.
+Here are some organizations accepting donations and volunteers to assist in Afghan refugee resettlement.
 
-By David Zucchino
-
-* * *
+By The New York Times
 
 * * *
 
-What Will Become of Afghanistan’s Post-9/11 Generation?
--------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/22/magazine/afghanistan-photos.html)
+Your Monday Briefing
+--------------------
 
-[![](https://static01.nyt.com/images/2021/08/29/magazine/29mag-afghanistan-33-02-copy/29mag-afghanistan-33-02-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/magazine/afghanistan-photos.html)
+[Article here](https://www.nytimes.com/2021/08/22/briefing/afghanistan-gulf-coast-covid-athens.html)
 
-This summer, the journalist Kiana Hayeri set out to photograph Afghans who grew up after the U.S. invasion in 2001. Instead, she wound up documenting the end of life as they knew it.
+[![](https://static01.nyt.com/images/2021/08/23/us/23ambriefing-europe-nl-promo/merlin_193550523_23001999-2e40-4229-a6cb-d71e86c8ec4d-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/briefing/afghanistan-gulf-coast-covid-athens.html)
 
-By Kiana Hayeri
+Global response to Afghan refugees.
+
+By Melina Delkic
 
 * * *
 
