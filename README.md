@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The U.S. Is Getting a Crash Course in Scientific Uncertainty
-------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the T. Rex Was Fearsome but May Have Been a Picky Eater
+---------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/22/health/covid-research-delta-boosters.html)
+[Article here](https://www.nytimes.com/2021/08/23/science/tyrannosaurus-rex.html)
 
-[![](https://static01.nyt.com/images/2021/08/09/science/09virus-science-1/merlin_192444375_94f25f81-f7f0-4d53-bf74-f6671fcd1cb4-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/health/covid-research-delta-boosters.html)
+[![](https://static01.nyt.com/images/2021/08/23/us/23xp-trex-1/merlin_186452322_03f63eff-9c6e-4f48-9ad9-6f0a54b361e1-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/science/tyrannosaurus-rex.html)
 
-As the pandemic takes an unexpected direction, Americans again must reckon with twists in scientific understanding of the virus.
+The jaw of the Tyrannosaurus Rex had sensitive nerves that may have allowed it to differentiate between parts of its prey, a new study found.
 
-By Apoorva Mandavilli
-
-* * *
+By Maria Cramer
 
 * * *
 
-Sardinian Village Tries to Save an Ancient Tree Scorched by Fire
-----------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/22/world/europe/italy-sardinia-fire-tree.html)
+Did the War in Afghanistan Have to Happen?
+------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/20/world/00italy-trees-01/merlin_193462764_a8e2c6f7-9b12-4046-8019-b69b8c4617dc-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/world/europe/italy-sardinia-fire-tree.html)
+[Article here](https://www.nytimes.com/2021/08/23/world/middleeast/afghanistan-taliban-deal-united-states.html)
 
-A team of experts, with the help of local residents and authorities, is trying to revive an ancient olive tree in the hilltop village of Cuglieri that was engulfed in a catastrophic wildfire.
+[![](https://static01.nyt.com/images/2021/08/22/world/22TALIBANDEAL1/22TALIBANDEAL1-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/middleeast/afghanistan-taliban-deal-united-states.html)
 
-By Gaia Pianigiani
+In 2001, when the Taliban were weak and ready to surrender, the U.S. passed on a deal. Nearly 20 years later, the Taliban hold all the cards.
+
+By Alissa J. Rubin
 
 * * *
 
