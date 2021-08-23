@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the American Vet Returns to Italy to Greet ‘Bambini’ He Last Saw in 1944
---------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Tuesday Briefing
+---------------------
 
-[Article here](https://www.nytimes.com/2021/08/23/world/europe/american-vet-italy-children-WWII.html)
+[Article here](https://www.nytimes.com/2021/08/23/briefing/your-tuesday-briefing.html)
 
-[![](https://static01.nyt.com/images/2021/08/23/world/23ITALY-REUNION1/23ITALY-REUNION1-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/europe/american-vet-italy-children-WWII.html)
+[![](https://static01.nyt.com/images/2021/08/23/world/23TURKEY-AFGHAN-REFUGEES4-asiapromo/23TURKEY-AFGHAN-REFUGEES4-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/briefing/your-tuesday-briefing.html)
 
-The daughter of a World War II veteran used the internet to track down three children he was photographed with 77 years ago — after almost firing on them. On Monday, they finally met face to face.
+Fleeing Afghans are unable to find refuge in Turkey.
 
-By Elisabetta Povoledo
-
-* * *
+By Matthew Cullen
 
 * * *
 
-Jesse Jackson and his wife, Jacqueline, are hospitalized with Covid-19.
------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/21/us/jesse-jackson-wife-hospitalized-covid-19.html)
+Did the War in Afghanistan Have to Happen?
+------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/21/world/21virus-briefing-jackson/merlin_192587040_a4a5c3dc-5c7b-451b-a800-7081b27b9455-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/us/jesse-jackson-wife-hospitalized-covid-19.html)
+[Article here](https://www.nytimes.com/2021/08/23/world/middleeast/afghanistan-taliban-deal-united-states.html)
 
-Mr. Jackson, 79, was vaccinated in January.
+[![](https://static01.nyt.com/images/2021/08/22/world/22TALIBANDEAL1/22TALIBANDEAL1-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/middleeast/afghanistan-taliban-deal-united-states.html)
+
+In 2001, when the Taliban were weak and ready to surrender, the U.S. passed on a deal. Nearly 20 years later, the Taliban hold all the cards.
+
+By Alissa J. Rubin
 
 * * *
 
