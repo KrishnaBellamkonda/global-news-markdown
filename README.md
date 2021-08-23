@@ -34,16 +34,16 @@ By Michael D. Shear
 
 * * *
 
-ISIS Poses ‘Acute’ Threat to U.S. Evacuation Efforts in Kabul, Sullivan Says
-----------------------------------------------------------------------------
+Tony Blair, who led the U.K. into Afghanistan, criticizes the pullout.
+----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/22/us/politics/isis-kabul-airport.html)
+[Article here](https://www.nytimes.com/2021/08/22/world/tony-blair-afghanistan-pullout.html)
 
-[![](https://static01.nyt.com/images/2021/08/22/business/22DC-Afghan-Isis/merlin_193550523_c0f2be6b-2cce-4946-99c1-1a919049e637-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/us/politics/isis-kabul-airport.html)
+[![](https://static01.nyt.com/images/2021/08/22/world/22afghanistanbriefing-tony-blair/merlin_15962709_4ea881df-c327-4bc9-a11d-3ff741bcd066-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/world/tony-blair-afghanistan-pullout.html)
 
-President Biden’s national security adviser warned of mounting but unspecified terrorist risks to the U.S. mission to evacuate thousands of Americans and Afghan allies.
+The former prime minister of Britain called the withdrawal ‘an imbecilic political slogan about ending ‘the forever wars.’
 
-By Eric Schmitt
+By Austin Ramzy
 
 * * *
 
