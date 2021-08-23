@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Jesse Jackson and his wife, Jacqueline, are hospitalized with Covid-19.
------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A former Pence aide says Trump and Miller tried to stymie Afghan refugee efforts.
+---------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/21/us/jesse-jackson-wife-hospitalized-covid-19.html)
+[Article here](https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.html)
 
-[![](https://static01.nyt.com/images/2021/08/21/world/21virus-briefing-jackson/merlin_192587040_a4a5c3dc-5c7b-451b-a800-7081b27b9455-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/us/jesse-jackson-wife-hospitalized-covid-19.html)
+[![](https://static01.nyt.com/images/2021/08/21/world/21afghanistan-briefing-troye-trump/merlin_175014276_0c62ac1d-b592-4b5e-ac81-2d5cf73f58e7-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/pence-troye-trump-miller-afghan-refugees.html)
 
-Mr. Jackson, 79, was vaccinated in January.
+Olivia Troye said the Trump aide Stephen Miller demanded restrictions on refugees. Mr. Miller said President Biden’s “incompetence” had led to the current chaos.
+
+By Michael D. Shear
 
 * * *
 
 * * *
 
-Fears Rise About Safety of Afghan Airport as U.S. Warns Americans to Stay Away
-------------------------------------------------------------------------------
+ISIS Poses ‘Acute’ Threat to U.S. Evacuation Efforts in Kabul, Sullivan Says
+----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/21/world/asia/Afghanistan-Kabul-airport-evacuations.html)
+[Article here](https://www.nytimes.com/2021/08/22/us/politics/isis-kabul-airport.html)
 
-[![](https://static01.nyt.com/images/2021/08/21/world/21afghanistan-kabul1/21afghanistan-kabul1-superJumbo.jpg)](https://www.nytimes.com/2021/08/21/world/asia/Afghanistan-Kabul-airport-evacuations.html)
+[![](https://static01.nyt.com/images/2021/08/22/business/22DC-Afghan-Isis/merlin_193550523_c0f2be6b-2cce-4946-99c1-1a919049e637-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/us/politics/isis-kabul-airport.html)
 
-Families continued to swarm the airport in hopes of getting aboard American military planes. U.S. officials are now worried that Islamic State might launch an attack to damage the Taliban’s sense of control.
+President Biden’s national security adviser warned of mounting but unspecified terrorist risks to the U.S. mission to evacuate thousands of Americans and Afghan allies.
 
-By David Zucchino
+By Eric Schmitt
 
 * * *
 
