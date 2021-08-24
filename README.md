@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Forced to leave his home, former President Hamid Karzai remains in Kabul despite the risks.
--------------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Taliban holds first meeting of religious leaders since taking Kabul.
+------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/23/world/asia/hamid-karzai-home-kabul.html)
+[Article here](https://www.nytimes.com/2021/08/23/world/asia/taliban-meeting-religious-leaders-kabul.html)
 
-[![](https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-karzai/merlin_189586806_b660e2ec-f970-488a-af79-1b76eed731a4-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/asia/hamid-karzai-home-kabul.html)
+[![](https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-taliban-meeting/merlin_193589817_e1e8c033-e214-401e-aef0-f94ce2c3eefe-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/asia/taliban-meeting-religious-leaders-kabul.html)
 
-He and the Taliban have long been enemies, but he has stayed in Afghanistan, hoping to work with the militants and help shape a new government.
+Hundreds of imams and leaders of religious schools met as the Taliban outlined its vision for education and its new government.
 
-By Carlotta Gall, Austin Ramzy and Sharif Hassan
-
-* * *
+By Matthieu Aikins
 
 * * *
 
-As Afghanistan Collapses, a Lament for ‘Repeating the Same Mistakes’
---------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/22/us/afghanistan-usa-withdrawal.html)
+Australia should shift its focus away from lockdowns, its prime minister says.
+------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/21/autossell/RR402_THUMB_MASTER_FOREVER_WAR_P0039_GETTY_USsoldierpointsgunatAfghanpassengeratKabulairport_1234712759_HiRes_16x9/RR402_THUMB_MASTER_FOREVER_WAR_P0039_GETTY_USsoldierpointsgunatAfghanpassengeratKabulairport_1234712759_HiRes_16x9-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/us/afghanistan-usa-withdrawal.html)
+[Article here](https://www.nytimes.com/2021/08/23/world/australia/australia-should-shift-its-focus-away-from-lockdowns-its-prime-minister-says.html)
 
-Shifting objectives led to the expansion of a war that dragged on for almost two decades, and is ending in chaos.
+[![](https://static01.nyt.com/images/2021/08/23/world/23virus-briefing-australia/merlin_193494669_3bb9cc27-64f7-40c8-9da6-55ef75380663-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/australia/australia-should-shift-its-focus-away-from-lockdowns-its-prime-minister-says.html)
 
-By Clyde Haberman
+By Livia Albeck-Ripka
 
 * * *
 
