@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A local government in Australia killed its impounded dogs over coronavirus fears.
----------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The World’s Last Samaritans, Straddling the Israeli-Palestinian Divide
+----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/23/world/australia/covid-lockdown-dogs-killed.html)
+[Article here](https://www.nytimes.com/2021/08/22/world/middleeast/samaritans-israeli-palestinian.html)
 
-[![](https://static01.nyt.com/images/2021/08/23/world/23virus-briefing-dogs/merlin_191034009_2d272b5b-b35f-4bfe-840b-f554a24c8e4b-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/australia/covid-lockdown-dogs-killed.html)
+[![](https://static01.nyt.com/images/2021/08/20/world/00Samaritans-Dispatch1/merlin_187062468_adb496cf-28f4-4a8d-8214-4f7960fae35c-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/world/middleeast/samaritans-israeli-palestinian.html)
 
-The rural Bourke Shire Council said two of the dogs had become aggressive and the person who regularly found new homes for the animals became unavailable.
+Up a mountain in the West Bank, several hundred villagers practice an ancient Israelite religion while maintaining an ambiguous national identity.
 
-By Yan Zhuang
-
-* * *
+By Patrick Kingsley and Gabby Sobelman
 
 * * *
 
-Chaos Persists at Kabul Airport as Taliban Discuss New Government
------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/22/world/asia/afghanistan-taliban-biden-karzai.html)
+They Were Protectors in Afghanistan. Now They Need Help.
+--------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/22/world/22-Afghan-Ledeall1/merlin_193550511_cb95adbb-3657-478d-83b6-6446270e300b-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/world/asia/afghanistan-taliban-biden-karzai.html)
+[Article here](https://www.nytimes.com/2021/08/23/world/asia/nepal-afghanistan-gurkha.html)
 
-The militants have engaged the former officials Hamid Karzai and Abdullah Abdullah, as well as Moscow, to seek help in building an “inclusive” government while cementing their rule.
+[![](https://static01.nyt.com/images/2021/08/23/world/00nepal-afghanistan-1/merlin_160127988_f0acefeb-9ae7-4b6c-9d83-b43a0f7026b4-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/asia/nepal-afghanistan-gurkha.html)
 
-By Roger Cohen
+Former soldiers from Nepal have long served as private security guards in war-torn Afghanistan. Amid the chaos, they worry that they can’t get home.
+
+By Bhadra Sharma
 
 * * *
 
