@@ -19,22 +19,7 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the F.D.A., Not F.D.R.
-------------------
-
-[Article here](https://www.nytimes.com/2021/08/24/briefing/fda-pfizer-vaccine-approval.html)
-
-[![](https://static01.nyt.com/images/2021/08/24/lens/24ambriefing-promo/24ambriefing-fda02-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/24/briefing/fda-pfizer-vaccine-approval.html)
-
-One chose bureaucratic caution. One didn’t.
-
-By David Leonhardt
-
-* * *
-
-* * *
-
-Australia tells Afghan refugees: ‘Do not attempt an illegal boat journey.’
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Australia tells Afghan refugees: ‘Do not attempt an illegal boat journey.’
 --------------------------------------------------------------------------
 
 [Article here](https://www.nytimes.com/2021/08/23/world/asia/australia-tells-afghan-refugees-do-not-attempt-an-illegal-boat-journey.html)
@@ -42,6 +27,21 @@ Australia tells Afghan refugees: ‘Do not attempt an illegal boat journey.’
 [![](https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-australia/merlin_193451274_86c2b1f6-61b4-44ca-90d7-687de4671594-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/asia/australia-tells-afghan-refugees-do-not-attempt-an-illegal-boat-journey.html)
 
 By Yan Zhuang
+
+* * *
+
+* * *
+
+F.D.A. Fully Approves Pfizer-BioNTech’s Vaccine, a First for a Covid-19 Shot
+----------------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/23/health/pfizer-vaccine-approval-fda.html)
+
+[![](https://static01.nyt.com/images/2021/08/23/us/politics/23dc-virus-pfizer/merlin_193343802_9126eb2e-d122-4c31-a2d0-e329bf801c4c-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/health/pfizer-vaccine-approval-fda.html)
+
+The move was expected to kick off a round of new vaccination mandates from hospitals, schools and private companies.
+
+By Sharon LaFraniere and Noah Weiland
 
 * * *
 
