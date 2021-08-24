@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Tuesday Briefing
----------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A local government in Australia killed its impounded dogs over coronavirus fears.
+---------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/23/briefing/your-tuesday-briefing.html)
+[Article here](https://www.nytimes.com/2021/08/23/world/australia/covid-lockdown-dogs-killed.html)
 
-[![](https://static01.nyt.com/images/2021/08/23/world/23TURKEY-AFGHAN-REFUGEES4-asiapromo/23TURKEY-AFGHAN-REFUGEES4-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/briefing/your-tuesday-briefing.html)
+[![](https://static01.nyt.com/images/2021/08/23/world/23virus-briefing-dogs/merlin_191034009_2d272b5b-b35f-4bfe-840b-f554a24c8e4b-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/australia/covid-lockdown-dogs-killed.html)
 
-Fleeing Afghans are unable to find refuge in Turkey.
+The rural Bourke Shire Council said two of the dogs had become aggressive and the person who regularly found new homes for the animals became unavailable.
 
-By Matthew Cullen
-
-* * *
+By Yan Zhuang
 
 * * *
 
-Did the War in Afghanistan Have to Happen?
-------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/23/world/middleeast/afghanistan-taliban-deal-united-states.html)
+ISIS Poses ‘Acute’ Threat to U.S. Evacuation Efforts in Kabul, Sullivan Says
+----------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/22/world/22TALIBANDEAL1/22TALIBANDEAL1-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/middleeast/afghanistan-taliban-deal-united-states.html)
+[Article here](https://www.nytimes.com/2021/08/22/us/politics/isis-kabul-airport.html)
 
-In 2001, when the Taliban were weak and ready to surrender, the U.S. passed on a deal. Nearly 20 years later, the Taliban hold all the cards.
+[![](https://static01.nyt.com/images/2021/08/22/business/22DC-Afghan-Isis/merlin_193550523_c0f2be6b-2cce-4946-99c1-1a919049e637-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/us/politics/isis-kabul-airport.html)
 
-By Alissa J. Rubin
+President Biden’s national security adviser warned of mounting but unspecified terrorist risks to the U.S. mission to evacuate thousands of Americans and Afghan allies.
+
+By Eric Schmitt
 
 * * *
 
