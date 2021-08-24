@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The War in Afghanistan: How It Started and How It Is Ending
------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The top U.S. officer in Afghanistan talks with the Taliban almost every day.
+----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/article/afghanistan-war-us.html)
+[Article here](https://www.nytimes.com/2021/08/23/world/asia/taliban-united-states-talks-leaders.html)
 
-[![](https://static01.nyt.com/images/2021/04/21/world/21afghanistan-explainer-2/merlin_10297984_59ad5aff-017e-4524-a125-bea34a76f05f-superJumbo.jpg)](https://www.nytimes.com/article/afghanistan-war-us.html)
+[![](https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-talks/merlin_193468608_09961747-f4c3-4912-ae91-9d402937baf0-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/asia/taliban-united-states-talks-leaders.html)
 
-Just as the United States was set to withdraw its military from Afghanistan after nearly 20 years of war, the Taliban took over Kabul, the country’s capital.
+Other officers have also engaged with Taliban commanders on specific security and threat reduction issues, a partnership of necessity after 20 years of war.
 
-By David Zucchino
-
-* * *
+By Eric Schmitt
 
 * * *
 
-F.D.A., Not F.D.R.
-------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/24/briefing/fda-pfizer-vaccine-approval.html)
+Forced to leave his home, former President Hamid Karzai remains in Kabul despite the risks.
+-------------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/24/lens/24ambriefing-promo/24ambriefing-fda02-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/24/briefing/fda-pfizer-vaccine-approval.html)
+[Article here](https://www.nytimes.com/2021/08/23/world/asia/hamid-karzai-home-kabul.html)
 
-One chose bureaucratic caution. One didn’t.
+[![](https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-karzai/merlin_189586806_b660e2ec-f970-488a-af79-1b76eed731a4-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/asia/hamid-karzai-home-kabul.html)
 
-By David Leonhardt
+He and the Taliban have long been enemies, but he has stayed in Afghanistan, hoping to work with the militants and help shape a new government.
+
+By Carlotta Gall, Austin Ramzy and Sharif Hassan
 
 * * *
 
