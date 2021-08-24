@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A local government in Australia killed its impounded dogs over coronavirus fears.
----------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Forced to leave his home, former President Hamid Karzai remains in Kabul despite the risks.
+-------------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/23/world/australia/covid-lockdown-dogs-killed.html)
+[Article here](https://www.nytimes.com/2021/08/23/world/asia/hamid-karzai-home-kabul.html)
 
-[![](https://static01.nyt.com/images/2021/08/23/world/23virus-briefing-dogs/merlin_191034009_2d272b5b-b35f-4bfe-840b-f554a24c8e4b-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/australia/covid-lockdown-dogs-killed.html)
+[![](https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-karzai/merlin_189586806_b660e2ec-f970-488a-af79-1b76eed731a4-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/asia/hamid-karzai-home-kabul.html)
 
-The rural Bourke Shire Council said two of the dogs had become aggressive and the person who regularly found new homes for the animals became unavailable.
+He and the Taliban have long been enemies, but he has stayed in Afghanistan, hoping to work with the militants and help shape a new government.
 
-By Yan Zhuang
-
-* * *
+By Carlotta Gall, Austin Ramzy and Sharif Hassan
 
 * * *
 
-ISIS Poses ‘Acute’ Threat to U.S. Evacuation Efforts in Kabul, Sullivan Says
-----------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/22/us/politics/isis-kabul-airport.html)
+As Afghanistan Collapses, a Lament for ‘Repeating the Same Mistakes’
+--------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/22/business/22DC-Afghan-Isis/merlin_193550523_c0f2be6b-2cce-4946-99c1-1a919049e637-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/us/politics/isis-kabul-airport.html)
+[Article here](https://www.nytimes.com/2021/08/22/us/afghanistan-usa-withdrawal.html)
 
-President Biden’s national security adviser warned of mounting but unspecified terrorist risks to the U.S. mission to evacuate thousands of Americans and Afghan allies.
+[![](https://static01.nyt.com/images/2021/08/21/autossell/RR402_THUMB_MASTER_FOREVER_WAR_P0039_GETTY_USsoldierpointsgunatAfghanpassengeratKabulairport_1234712759_HiRes_16x9/RR402_THUMB_MASTER_FOREVER_WAR_P0039_GETTY_USsoldierpointsgunatAfghanpassengeratKabulairport_1234712759_HiRes_16x9-superJumbo.jpg)](https://www.nytimes.com/2021/08/22/us/afghanistan-usa-withdrawal.html)
 
-By Eric Schmitt
+Shifting objectives led to the expansion of a war that dragged on for almost two decades, and is ending in chaos.
+
+By Clyde Haberman
 
 * * *
 
