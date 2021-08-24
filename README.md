@@ -19,7 +19,22 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the F.D.A., Not F.D.R.
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The War in Afghanistan: How It Started and How It Is Ending
+-----------------------------------------------------------
+
+[Article here](https://www.nytimes.com/article/afghanistan-war-us.html)
+
+[![](https://static01.nyt.com/images/2021/04/21/world/21afghanistan-explainer-2/merlin_10297984_59ad5aff-017e-4524-a125-bea34a76f05f-superJumbo.jpg)](https://www.nytimes.com/article/afghanistan-war-us.html)
+
+Just as the United States was set to withdraw its military from Afghanistan after nearly 20 years of war, the Taliban took over Kabul, the country’s capital.
+
+By David Zucchino
+
+* * *
+
+* * *
+
+F.D.A., Not F.D.R.
 ------------------
 
 [Article here](https://www.nytimes.com/2021/08/24/briefing/fda-pfizer-vaccine-approval.html)
@@ -29,21 +44,6 @@ Come back in a few hours and seeif the news section has changed! (Is it too long
 One chose bureaucratic caution. One didn’t.
 
 By David Leonhardt
-
-* * *
-
-* * *
-
-Biden Faces a Trade-Off: Stop Corruption, or Migration?
--------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/24/world/americas/guatemala-corruption-migrants.html)
-
-[![](https://static01.nyt.com/images/2021/08/23/world/00guatemala1/00guatemala1-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/world/americas/guatemala-corruption-migrants.html)
-
-President Biden promised to attack corruption in Central America head on, but that goal has taken a back seat to cooperating on stopping migrants from the region.
-
-By Natalie Kitroeff
 
 * * *
 
