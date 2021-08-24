@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The top U.S. officer in Afghanistan talks with the Taliban almost every day.
-----------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the American Vet Returns to Italy to Greet ‘Bambini’ He Last Saw in 1944
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/23/world/asia/taliban-united-states-talks-leaders.html)
+[Article here](https://www.nytimes.com/2021/08/23/world/europe/american-vet-italy-children-WWII.html)
 
-[![](https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-talks/merlin_193468608_09961747-f4c3-4912-ae91-9d402937baf0-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/asia/taliban-united-states-talks-leaders.html)
+[![](https://static01.nyt.com/images/2021/08/23/world/23ITALY-REUNION1/23ITALY-REUNION1-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/europe/american-vet-italy-children-WWII.html)
 
-Other officers have also engaged with Taliban commanders on specific security and threat reduction issues, a partnership of necessity after 20 years of war.
+The daughter of a World War II veteran used the internet to track down three children he was photographed with 77 years ago — after almost firing on them. On Monday, they finally met face to face.
 
-By Eric Schmitt
-
-* * *
+By Elisabetta Povoledo
 
 * * *
 
-Forced to leave his home, former President Hamid Karzai remains in Kabul despite the risks.
--------------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/23/world/asia/hamid-karzai-home-kabul.html)
+Montenegro Pledges to Stamp Out a Deadly Trade: Cigarette Smuggling
+-------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-karzai/merlin_189586806_b660e2ec-f970-488a-af79-1b76eed731a4-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/asia/hamid-karzai-home-kabul.html)
+[Article here](https://www.nytimes.com/2021/08/24/world/europe/montenegro-cigarette-smuggling.html)
 
-He and the Taliban have long been enemies, but he has stayed in Afghanistan, hoping to work with the militants and help shape a new government.
+[![](https://static01.nyt.com/images/2021/08/12/world/xxmontenegro-smuggling01/merlin_193122528_3f42d01d-2f9a-4a3a-91e3-df1a06eeaf37-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/world/europe/montenegro-cigarette-smuggling.html)
 
-By Carlotta Gall, Austin Ramzy and Sharif Hassan
+Investigators and journalists were killed while trying to expose smugglers. Now the country is cracking down on a trade it once protected.
+
+By Andrew Higgins
 
 * * *
 
