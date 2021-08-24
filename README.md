@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A local government in Australia killed its impounded dogs over coronavirus fears.
----------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the F.D.A., Not F.D.R.
+------------------
 
-[Article here](https://www.nytimes.com/2021/08/23/world/australia/covid-lockdown-dogs-killed.html)
+[Article here](https://www.nytimes.com/2021/08/24/briefing/fda-pfizer-vaccine-approval.html)
 
-[![](https://static01.nyt.com/images/2021/08/23/world/23virus-briefing-dogs/merlin_191034009_2d272b5b-b35f-4bfe-840b-f554a24c8e4b-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/australia/covid-lockdown-dogs-killed.html)
+[![](https://static01.nyt.com/images/2021/08/24/lens/24ambriefing-promo/24ambriefing-fda02-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/24/briefing/fda-pfizer-vaccine-approval.html)
 
-The rural Bourke Shire Council said two of the dogs had become aggressive and the person who regularly found new homes for the animals became unavailable.
+One chose bureaucratic caution. One didn’t.
+
+By David Leonhardt
+
+* * *
+
+* * *
+
+Australia tells Afghan refugees: ‘Do not attempt an illegal boat journey.’
+--------------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/23/world/asia/australia-tells-afghan-refugees-do-not-attempt-an-illegal-boat-journey.html)
+
+[![](https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-australia/merlin_193451274_86c2b1f6-61b4-44ca-90d7-687de4671594-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/asia/australia-tells-afghan-refugees-do-not-attempt-an-illegal-boat-journey.html)
 
 By Yan Zhuang
-
-* * *
-
-* * *
-
-T. Rex Was Fearsome but May Have Been a Picky Eater
----------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/23/science/tyrannosaurus-rex.html)
-
-[![](https://static01.nyt.com/images/2021/08/23/us/23xp-trex-1/merlin_186452322_03f63eff-9c6e-4f48-9ad9-6f0a54b361e1-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/science/tyrannosaurus-rex.html)
-
-The jaw of the Tyrannosaurus Rex had sensitive nerves that may have allowed it to differentiate between parts of its prey, a new study found.
-
-By Maria Cramer
 
 * * *
 
