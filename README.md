@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Under Taliban Rule, Life in Kabul Transforms Once Again
--------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taliban Reject Extended Deadline as U.S. Races to Finish Evacuation
+-------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/24/world/asia/kabul-life-taliban-rule.html)
+[Article here](https://www.nytimes.com/2021/08/23/world/asia/afghanistan-evacuation-americans-biden.html)
 
-[![](https://static01.nyt.com/images/2021/08/24/world/24Kabul-life01/merlin_193507869_c13d2ec5-6f87-49db-9294-8a02db536d1f-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/world/asia/kabul-life-taliban-rule.html)
+[![](https://static01.nyt.com/images/2021/08/23/world/23AFGHANISTAN-LEDEALL1/merlin_193589862_5b929998-11df-4c9d-b4b5-e9dbed1fd18c-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/asia/afghanistan-evacuation-americans-biden.html)
 
-Though the streets are quiet, Kabul residents describe a struggle to make ends meet in a reeling economy where banks and government offices are closed, and uncertainty reigns.
+Tens of thousands are still hoping for rescue, with priority recently being given to Americans over Afghan allies, according to a U.S. official and those involved in the effort.
 
-By Norimitsu Onishi and Sharif Hassan
-
-* * *
+By Mark Landler and Megan K. Stack
 
 * * *
 
-The World Bank is freezing aid disbursements to Afghanistan.
-------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/24/world/asia/world-bank-afghanistan.html)
+Many Older Americans Still Aren’t Vaccinated, Making the Delta Wave Deadlier
+----------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/24/world/24economy-briefing-worldbank2/24economy-briefing-worldbank2-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/world/asia/world-bank-afghanistan.html)
+[Article here](https://www.nytimes.com/interactive/2021/08/24/world/vaccines-seniors.html)
 
-The bank had committed nearly $800 million to the country in 2021.
+[![](https://static01.nyt.com/images/2021/08/23/us/vaccination-seniors-promo-1629761989949/vaccination-seniors-promo-1629761989949-superJumbo.png)](https://www.nytimes.com/interactive/2021/08/24/world/vaccines-seniors.html)
 
-By Alan Rappeport
+Compared with other highly vaccinated countries, large parts of the United States have many vulnerable seniors, helping spur hospitalization and death.
+
+By Josh Holder and Amy Schoenfeld Walker
 
 * * *
 
