@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Chad’s former president, jailed for crimes against humanity, is dead. Reports cite Covid.
------------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The C.I.A. director visited Kabul for secret talks with the Taliban.
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/24/world/chads-former-president-jailed-for-crimes-against-humanity-is-dead-reports-cite-covid.html)
+[Article here](https://www.nytimes.com/2021/08/24/world/asia/cia-taliban-william-burns-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/08/24/multimedia/24virus-briefing-chad/merlin_108327203_39422364-110a-4bd1-ae4c-40514f12d35f-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/world/chads-former-president-jailed-for-crimes-against-humanity-is-dead-reports-cite-covid.html)
+[![](https://static01.nyt.com/images/2021/08/24/world/24afghan-briefing-burns-cia/merlin_187998384_95a94ef5-9fea-4fe0-811f-cc931ae1c4cd-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/world/asia/cia-taliban-william-burns-afghanistan.html)
 
-By Ruth Maclean and Mady Camara
+The meetings are the highest-level in-person talks between a Biden administration official and Afghanistan’s new leadership.
+
+By Julian E. Barnes and Richard Pérez-Peña
 
 * * *
 
 * * *
 
-Chinese Citizen Who Documented Wuhan Outbreak Falls Ill in Prison Hunger Strike
--------------------------------------------------------------------------------
+Many Older Americans Still Aren’t Vaccinated, Making the Delta Wave Deadlier
+----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/25/world/asia/china-zhang-zhan-hunger-strike.html)
+[Article here](https://www.nytimes.com/interactive/2021/08/24/world/vaccines-seniors.html)
 
-[![](https://static01.nyt.com/images/2021/08/24/world/00china-hungerstrike-1sub/merlin_193361349_7ce6ed6b-7f67-4824-bcd3-23b3a283783d-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/asia/china-zhang-zhan-hunger-strike.html)
+[![](https://static01.nyt.com/images/2021/08/23/us/vaccination-seniors-promo-1629761989949/vaccination-seniors-promo-1629761989949-superJumbo.png)](https://www.nytimes.com/interactive/2021/08/24/world/vaccines-seniors.html)
 
-Zhang Zhan was sentenced to four years for videos about failures in handling the virus. She now weighs less than 90 pounds, her former lawyer says.
+Compared with other highly vaccinated countries, large parts of the United States have many vulnerable seniors, helping spur hospitalization and death.
 
-By Amy Chang Chien and Austin Ramzy
+By Josh Holder and Amy Schoenfeld Walker
 
 * * *
 
