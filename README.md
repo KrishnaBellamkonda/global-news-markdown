@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taliban Reject Extended Deadline as U.S. Races to Finish Evacuation
--------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In Southeast Asia, Kamala Harris’s Message: You Can Count on the U.S.
+---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/23/world/asia/afghanistan-evacuation-americans-biden.html)
+[Article here](https://www.nytimes.com/2021/08/24/world/asia/kamala-harris-singapore-vietnam.html)
 
-[![](https://static01.nyt.com/images/2021/08/23/world/23AFGHANISTAN-LEDEALL1/merlin_193589862_5b929998-11df-4c9d-b4b5-e9dbed1fd18c-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/asia/afghanistan-evacuation-americans-biden.html)
+[![](https://static01.nyt.com/images/2021/08/24/world/24harris-asia-01/merlin_193613061_89413bff-66bb-46da-ac76-cd6bde2afcc4-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/world/asia/kamala-harris-singapore-vietnam.html)
 
-Tens of thousands are still hoping for rescue, with priority recently being given to Americans over Afghan allies, according to a U.S. official and those involved in the effort.
+The vice president rebuked China and sought to fortify the image of the United States as a credible ally amid growing questions about Afghanistan.
 
-By Mark Landler and Megan K. Stack
-
-* * *
+By Zolan Kanno-Youngs
 
 * * *
 
-Many Older Americans Still Aren’t Vaccinated, Making the Delta Wave Deadlier
+* * *
+
+The top U.S. officer in Afghanistan talks with the Taliban almost every day.
 ----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/interactive/2021/08/24/world/vaccines-seniors.html)
+[Article here](https://www.nytimes.com/2021/08/23/world/asia/taliban-united-states-talks-leaders.html)
 
-[![](https://static01.nyt.com/images/2021/08/23/us/vaccination-seniors-promo-1629761989949/vaccination-seniors-promo-1629761989949-superJumbo.png)](https://www.nytimes.com/interactive/2021/08/24/world/vaccines-seniors.html)
+[![](https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-talks/merlin_193468608_09961747-f4c3-4912-ae91-9d402937baf0-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/asia/taliban-united-states-talks-leaders.html)
 
-Compared with other highly vaccinated countries, large parts of the United States have many vulnerable seniors, helping spur hospitalization and death.
+Other officers have also engaged with Taliban commanders on specific security and threat reduction issues, a partnership of necessity after 20 years of war.
 
-By Josh Holder and Amy Schoenfeld Walker
+By Eric Schmitt
 
 * * *
 
