@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In Southeast Asia, Kamala Harris’s Message: You Can Count on the U.S.
----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Imprisoned Chinese Citizen Journalist Is Severely Ill From a Hunger Strike
+--------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/24/world/asia/kamala-harris-singapore-vietnam.html)
+[Article here](https://www.nytimes.com/2021/08/25/world/asia/china-zhang-zhan-hunger-strike.html)
 
-[![](https://static01.nyt.com/images/2021/08/24/world/24harris-asia-01/merlin_193613061_89413bff-66bb-46da-ac76-cd6bde2afcc4-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/world/asia/kamala-harris-singapore-vietnam.html)
+[![](https://static01.nyt.com/images/2021/08/24/world/00china-hungerstrike-1sub/merlin_193361349_7ce6ed6b-7f67-4824-bcd3-23b3a283783d-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/asia/china-zhang-zhan-hunger-strike.html)
 
-The vice president rebuked China and sought to fortify the image of the United States as a credible ally amid growing questions about Afghanistan.
+Zhang Zhan was sentenced to four years in prison for documenting the Covid-19 outbreak in Wuhan. She now weighs less than 90 pounds, her former lawyer says.
 
-By Zolan Kanno-Youngs
-
-* * *
+By Amy Chang Chien and Austin Ramzy
 
 * * *
 
-The top U.S. officer in Afghanistan talks with the Taliban almost every day.
-----------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/23/world/asia/taliban-united-states-talks-leaders.html)
+Your Wednesday Briefing
+-----------------------
 
-[![](https://static01.nyt.com/images/2021/08/23/world/23-afghanistan-briefing-talks/merlin_193468608_09961747-f4c3-4912-ae91-9d402937baf0-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/asia/taliban-united-states-talks-leaders.html)
+[Article here](https://www.nytimes.com/2021/08/24/briefing/biden-afghanistan-naftali-bennett.html)
 
-Other officers have also engaged with Taliban commanders on specific security and threat reduction issues, a partnership of necessity after 20 years of war.
+[![](https://static01.nyt.com/images/2021/08/24/world/asia24afghanistan-briefing-shear-promo/24afghanistan-briefing-shear-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/briefing/biden-afghanistan-naftali-bennett.html)
 
-By Eric Schmitt
+Biden sticks to his deadline on Afghan exit.
+
+By Matthew Cullen
 
 * * *
 
