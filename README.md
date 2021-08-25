@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the New Israeli Leader Backs Hard Line on Iran but Softer Tone With U.S.
---------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Biden Faces a Trade-Off: Stop Corruption, or Migration?
+-------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/24/world/middleeast/israel-bennett-biden-iran.html)
+[Article here](https://www.nytimes.com/2021/08/24/world/americas/guatemala-corruption-migrants.html)
 
-[![](https://static01.nyt.com/images/2021/09/23/world/24ISRAEL-BENNETT1/merlin_193624011_bda9ee01-3f30-4eda-bada-7ec2e142505d-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/world/middleeast/israel-bennett-biden-iran.html)
+[![](https://static01.nyt.com/images/2021/08/23/world/00guatemala1/00guatemala1-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/world/americas/guatemala-corruption-migrants.html)
 
-In an interview before meeting with President Biden, Prime Minister Naftali Bennett said he opposed U.S. efforts to restore a nuclear deal with Iran and ruled out peace talks with the Palestinians.
+President Biden promised to attack corruption in Central America head on, but that goal has taken a back seat to cooperating on stopping migrants from the region.
 
-By Patrick Kingsley and Isabel Kershner
-
-* * *
+By Natalie Kitroeff
 
 * * *
 
-Your Wednesday Briefing
------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/24/briefing/afghanistan-deadline-unvaccinated-covid-fifa.html)
+Chinese Citizen Who Documented Wuhan Outbreak Falls Ill in Prison Hunger Strike
+-------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/25/us/25ambriefing-europe-nl-promo/merlin_193589862_6c3c21bc-837d-4989-978c-b95d884a1492-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/briefing/afghanistan-deadline-unvaccinated-covid-fifa.html)
+[Article here](https://www.nytimes.com/2021/08/25/world/asia/china-zhang-zhan-hunger-strike.html)
 
-U.S. on track to leave Afghanistan by Aug. 31.
+[![](https://static01.nyt.com/images/2021/08/24/world/00china-hungerstrike-1sub/merlin_193361349_7ce6ed6b-7f67-4824-bcd3-23b3a283783d-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/asia/china-zhang-zhan-hunger-strike.html)
 
-By Melina Delkic
+Zhang Zhan was sentenced to four years for videos about failures in handling the virus. She now weighs less than 90 pounds, her former lawyer says.
+
+By Amy Chang Chien and Austin Ramzy
 
 * * *
 
