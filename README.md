@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Seeking Early Signals of Dementia in Driving and Credit Scores
---------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Under Taliban Rule, Life in Kabul Transforms Once Again
+-------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html)
+[Article here](https://www.nytimes.com/2021/08/24/world/asia/kabul-life-taliban-rule.html)
 
-[![](https://static01.nyt.com/images/2021/08/24/science/24dementia-span/24dementia-span-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html)
+[![](https://static01.nyt.com/images/2021/08/24/world/24Kabul-life01/merlin_193507869_c13d2ec5-6f87-49db-9294-8a02db536d1f-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/world/asia/kabul-life-taliban-rule.html)
 
-The pathologies underlying brain decline can begin years before symptoms emerge. Can everyday behavior provide warning?
+Though the streets are quiet, Kabul residents describe a struggle to make ends meet in a reeling economy where banks and government offices are closed, and uncertainty reigns.
 
-By Paula Span
-
-* * *
+By Norimitsu Onishi and Sharif Hassan
 
 * * *
 
-New Israeli Leader Backs Hard Line on Iran but Softer Tone With U.S.
---------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/24/world/middleeast/israel-bennett-biden-iran.html)
+The World Bank is freezing aid disbursements to Afghanistan.
+------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/23/world/24ISRAEL-BENNETT1/merlin_193624011_bda9ee01-3f30-4eda-bada-7ec2e142505d-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/world/middleeast/israel-bennett-biden-iran.html)
+[Article here](https://www.nytimes.com/2021/08/24/world/asia/world-bank-afghanistan.html)
 
-In an interview before meeting with President Biden, Prime Minister Naftali Bennett said he opposed U.S. efforts to restore a nuclear deal with Iran and ruled out peace talks with the Palestinians.
+[![](https://static01.nyt.com/images/2021/08/24/world/24economy-briefing-worldbank2/24economy-briefing-worldbank2-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/world/asia/world-bank-afghanistan.html)
 
-By Patrick Kingsley and Isabel Kershner
+The bank had committed nearly $800 million to the country in 2021.
+
+By Alan Rappeport
 
 * * *
 
