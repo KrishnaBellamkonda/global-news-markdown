@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The C.I.A. director visited Kabul for secret talks with the Taliban.
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the New Israeli Leader Backs Hard Line on Iran but Softer Tone With U.S.
 --------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/24/world/asia/cia-taliban-william-burns-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/24/world/middleeast/israel-bennett-biden-iran.html)
 
-[![](https://static01.nyt.com/images/2021/08/24/world/24afghan-briefing-burns-cia/merlin_187998384_95a94ef5-9fea-4fe0-811f-cc931ae1c4cd-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/world/asia/cia-taliban-william-burns-afghanistan.html)
+[![](https://static01.nyt.com/images/2021/09/23/world/24ISRAEL-BENNETT1/merlin_193624011_bda9ee01-3f30-4eda-bada-7ec2e142505d-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/world/middleeast/israel-bennett-biden-iran.html)
 
-The meetings are the highest-level in-person talks between a Biden administration official and Afghanistan’s new leadership.
+In an interview before meeting with President Biden, Prime Minister Naftali Bennett said he opposed U.S. efforts to restore a nuclear deal with Iran and ruled out peace talks with the Palestinians.
 
-By Julian E. Barnes and Richard Pérez-Peña
-
-* * *
+By Patrick Kingsley and Isabel Kershner
 
 * * *
 
-Many Older Americans Still Aren’t Vaccinated, Making the Delta Wave Deadlier
-----------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/interactive/2021/08/24/world/vaccines-seniors.html)
+Your Wednesday Briefing
+-----------------------
 
-[![](https://static01.nyt.com/images/2021/08/23/us/vaccination-seniors-promo-1629761989949/vaccination-seniors-promo-1629761989949-superJumbo.png)](https://www.nytimes.com/interactive/2021/08/24/world/vaccines-seniors.html)
+[Article here](https://www.nytimes.com/2021/08/24/briefing/afghanistan-deadline-unvaccinated-covid-fifa.html)
 
-Compared with other highly vaccinated countries, large parts of the United States have many vulnerable seniors, helping spur hospitalization and death.
+[![](https://static01.nyt.com/images/2021/08/25/us/25ambriefing-europe-nl-promo/merlin_193589862_6c3c21bc-837d-4989-978c-b95d884a1492-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/briefing/afghanistan-deadline-unvaccinated-covid-fifa.html)
 
-By Josh Holder and Amy Schoenfeld Walker
+U.S. on track to leave Afghanistan by Aug. 31.
+
+By Melina Delkic
 
 * * *
 
