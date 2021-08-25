@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the American Vet Returns to Italy to Greet ‘Bambini’ He Last Saw in 1944
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Seeking Early Signals of Dementia in Driving and Credit Scores
+--------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html)
+
+[![](https://static01.nyt.com/images/2021/08/24/science/24dementia-span/24dementia-span-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/health/dementia-behavior-alzheimers.html)
+
+The pathologies underlying brain decline can begin years before symptoms emerge. Can everyday behavior provide warning?
+
+By Paula Span
+
+* * *
+
+* * *
+
+New Israeli Leader Backs Hard Line on Iran but Softer Tone With U.S.
 --------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/23/world/europe/american-vet-italy-children-WWII.html)
+[Article here](https://www.nytimes.com/2021/08/24/world/middleeast/israel-bennett-biden-iran.html)
 
-[![](https://static01.nyt.com/images/2021/08/23/world/23ITALY-REUNION1/23ITALY-REUNION1-superJumbo.jpg)](https://www.nytimes.com/2021/08/23/world/europe/american-vet-italy-children-WWII.html)
+[![](https://static01.nyt.com/images/2021/09/23/world/24ISRAEL-BENNETT1/merlin_193624011_bda9ee01-3f30-4eda-bada-7ec2e142505d-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/world/middleeast/israel-bennett-biden-iran.html)
 
-The daughter of a World War II veteran used the internet to track down three children he was photographed with 77 years ago — after almost firing on them. On Monday, they finally met face to face.
+In an interview before meeting with President Biden, Prime Minister Naftali Bennett said he opposed U.S. efforts to restore a nuclear deal with Iran and ruled out peace talks with the Palestinians.
 
-By Elisabetta Povoledo
-
-* * *
-
-* * *
-
-Montenegro Pledges to Stamp Out a Deadly Trade: Cigarette Smuggling
--------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/24/world/europe/montenegro-cigarette-smuggling.html)
-
-[![](https://static01.nyt.com/images/2021/08/12/world/xxmontenegro-smuggling01/merlin_193122528_3f42d01d-2f9a-4a3a-91e3-df1a06eeaf37-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/world/europe/montenegro-cigarette-smuggling.html)
-
-Investigators and journalists were killed while trying to expose smugglers. Now the country is cracking down on a trade it once protected.
-
-By Andrew Higgins
+By Patrick Kingsley and Isabel Kershner
 
 * * *
 
