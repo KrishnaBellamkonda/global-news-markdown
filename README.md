@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Breakthrough Covid Cases: Uncommon and Often Mild, but Not Always
------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Biden Falls Short on Pledge for U.S. to Be the World’s Vaccine ‘Arsenal,’ Experts Say
+-------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/26/health/covid-breakthrough-infection.html)
+[Article here](https://www.nytimes.com/2021/08/25/us/politics/biden-coronavirus-vaccine.html)
 
-[![](https://static01.nyt.com/images/2021/08/06/science/00breakthroughs-1/merlin_192903705_14d852e0-a7cf-488e-9a38-6e7637e11973-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/health/covid-breakthrough-infection.html)
+[![](https://static01.nyt.com/images/2021/08/25/us/politics/25dc-virus-pandemic1/merlin_193118577_4901a1db-2d8a-42ea-98d6-5534efde8906-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/us/politics/biden-coronavirus-vaccine.html)
 
-Vaccination remains the best defense, health experts say. But some infections occur regardless, and can come as a traumatic surprise.
+Congress appropriated $16 billion to ramp up Covid-19 countermeasures, but a new report found that the Biden administration had spent very little of it on expanding vaccine manufacturing capacity.
 
-By Emma Goldberg
-
-* * *
+By Sheryl Gay Stolberg
 
 * * *
 
-A Better Afghan Policy
-----------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/25/briefing/afghanistan-policy-biden.html)
+A Roller Coaster in Japan Shuts Down After Riders Report Broken Bones
+---------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/25/lens/25ambriefing-promo01/25ambriefing-kabul-superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/25/briefing/afghanistan-policy-biden.html)
+[Article here](https://www.nytimes.com/2021/08/25/world/asia/japan-rollercoaster-broken-bones-injuries.html)
 
-What would it have been?
+[![](https://static01.nyt.com/images/2021/08/25/multimedia/25xp-japan-rollercoaster/25xp-japan-rollercoaster-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/asia/japan-rollercoaster-broken-bones-injuries.html)
 
-By David Leonhardt
+One of the world’s fastest roller coasters was closed after four passengers in the past nine months reported bone fractures.
+
+By Tiffany May and Makiko Inoue
 
 * * *
 
