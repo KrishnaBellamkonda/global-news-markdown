@@ -34,16 +34,16 @@ By Catie Edmondson
 
 * * *
 
-U.S., others warn of threat at airport in Kabul and tell citizens to leave immediately.
----------------------------------------------------------------------------------------
+Kamala Harris Pledges U.S. Help for Afghan Women and Children
+-------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/25/world/asia/us-kabul-airport-threat.html)
+[Article here](https://www.nytimes.com/2021/08/26/world/asia/kamala-harris-vietnam-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/08/24/world/26-afghan-briefing-airport-threat/26-afghan-briefing-airport-threat-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/asia/us-kabul-airport-threat.html)
+[![](https://static01.nyt.com/images/2021/08/26/world/26harris-asia01/merlin_193698279_25157544-bd6e-4095-9023-b1bf460555ae-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/world/asia/kamala-harris-vietnam-afghanistan.html)
 
-The U.S. government has long warned of potential security threats but the latest warning cited specific gates.
+As she left Southeast Asia, the vice president also delivered a blunt message to China. The United States does not want conflict, she said, but on some issues, “we are going to speak up.”
 
-By Eric Schmitt and Traci Carl
+By Zolan Kanno-Youngs
 
 * * *
 
