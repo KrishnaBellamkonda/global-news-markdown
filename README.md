@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the 2 U.S. Representatives Try to Explain Unauthorized Visit to Kabul
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Breakthrough Covid Cases: Uncommon and Often Mild, but Not Always
 -----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/25/us/politics/seth-moulton-peter-meijer-kabul-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/26/health/covid-breakthrough-infection.html)
 
-[![](https://static01.nyt.com/images/2021/08/25/us/politics/25dc-lawmakers1/merlin_158041143_78d36ee5-264a-4431-b384-13d19ae386ec-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/us/politics/seth-moulton-peter-meijer-kabul-afghanistan.html)
+[![](https://static01.nyt.com/images/2021/08/06/science/00breakthroughs-1/merlin_192903705_14d852e0-a7cf-488e-9a38-6e7637e11973-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/health/covid-breakthrough-infection.html)
 
-Representatives Seth Moulton and Peter Meijer said they could not get answers on the evacuation from the Biden administration, so they went to Afghanistan to see for themselves.
+Vaccination remains the best defense, health experts say. But some infections occur regardless, and can come as a traumatic surprise.
 
-By Catie Edmondson
-
-* * *
+By Emma Goldberg
 
 * * *
 
-Kamala Harris Pledges U.S. Help for Afghan Women and Children
--------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/26/world/asia/kamala-harris-vietnam-afghanistan.html)
+A Better Afghan Policy
+----------------------
 
-[![](https://static01.nyt.com/images/2021/08/26/world/26harris-asia01/merlin_193698279_25157544-bd6e-4095-9023-b1bf460555ae-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/world/asia/kamala-harris-vietnam-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/25/briefing/afghanistan-policy-biden.html)
 
-As she left Southeast Asia, the vice president also delivered a blunt message to China. The United States does not want conflict, she said, but on some issues, “we are going to speak up.”
+[![](https://static01.nyt.com/images/2021/08/25/lens/25ambriefing-promo01/25ambriefing-kabul-superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/25/briefing/afghanistan-policy-biden.html)
 
-By Zolan Kanno-Youngs
+What would it have been?
+
+By David Leonhardt
 
 * * *
 
