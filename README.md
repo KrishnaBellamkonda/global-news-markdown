@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Thursday Briefing
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Chinese Citizen Who Documented Wuhan Outbreak Falls Ill in Prison Hunger Strike
+-------------------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/25/world/asia/china-zhang-zhan-hunger-strike.html)
+
+[![](https://static01.nyt.com/images/2021/08/24/world/00china-hungerstrike-1sub/merlin_193361349_7ce6ed6b-7f67-4824-bcd3-23b3a283783d-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/asia/china-zhang-zhan-hunger-strike.html)
+
+Zhang Zhan was sentenced to four years for videos about failures in handling the virus. She now weighs less than 90 pounds, her former lawyer says.
+
+By Amy Chang Chien and Austin Ramzy
+
+* * *
+
+* * *
+
+Your Thursday Briefing
 ----------------------
 
-[Article here](https://www.nytimes.com/2021/08/26/briefing/taliban-navalny-covid-origins.html)
+[Article here](https://www.nytimes.com/2021/08/25/briefing/afghanistan-evacuations-virus-origin-studies-navalny.html)
 
-[![](https://static01.nyt.com/images/2021/08/25/us/26am-briefing-europe-afghanistan/25afghanistan-briefing-taliban-interview-new-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/briefing/taliban-navalny-covid-origins.html)
+[![](https://static01.nyt.com/images/2021/08/26/world/26ambriefing-aus-nl1/26ambriefing-aus-nl1-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/briefing/afghanistan-evacuations-virus-origin-studies-navalny.html)
 
-A Taliban leader says the group wants to forget the past, but describes restrictions.
+Racing to get out of Afghanistan.
 
-By Whet Moser
-
-* * *
-
-* * *
-
-The ‘window is rapidly closing’ to gather crucial evidence on the virus’s origins, scientists say.
---------------------------------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/25/science/lab-leak-covid.html)
-
-[![](https://static01.nyt.com/images/2021/08/25/lens/25virus-briefing-nature-virus-origins/25virus-briefing-nature-virus-origins-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/science/lab-leak-covid.html)
-
-Further delays could make it impossible to recover crucial evidence about the beginning of the pandemic, say experts studying the origins of the coronavirus for the World Health Organization.
-
-By Benjamin Mueller
+By Melina Delkic
 
 * * *
 
