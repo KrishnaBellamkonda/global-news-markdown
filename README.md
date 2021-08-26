@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Chinese Citizen Who Documented Wuhan Outbreak Falls Ill in Prison Hunger Strike
--------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the 2 U.S. Representatives Try to Explain Unauthorized Visit to Kabul
+-----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/25/world/asia/china-zhang-zhan-hunger-strike.html)
+[Article here](https://www.nytimes.com/2021/08/25/us/politics/seth-moulton-peter-meijer-kabul-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/08/24/world/00china-hungerstrike-1sub/merlin_193361349_7ce6ed6b-7f67-4824-bcd3-23b3a283783d-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/asia/china-zhang-zhan-hunger-strike.html)
+[![](https://static01.nyt.com/images/2021/08/25/us/politics/25dc-lawmakers1/merlin_158041143_78d36ee5-264a-4431-b384-13d19ae386ec-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/us/politics/seth-moulton-peter-meijer-kabul-afghanistan.html)
 
-Zhang Zhan was sentenced to four years for videos about failures in handling the virus. She now weighs less than 90 pounds, her former lawyer says.
+Representatives Seth Moulton and Peter Meijer said they could not get answers on the evacuation from the Biden administration, so they went to Afghanistan to see for themselves.
 
-By Amy Chang Chien and Austin Ramzy
-
-* * *
+By Catie Edmondson
 
 * * *
 
-Your Thursday Briefing
-----------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/25/briefing/afghanistan-evacuations-virus-origin-studies-navalny.html)
+U.S., others warn of threat at airport in Kabul and tell citizens to leave immediately.
+---------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/26/world/26ambriefing-aus-nl1/26ambriefing-aus-nl1-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/briefing/afghanistan-evacuations-virus-origin-studies-navalny.html)
+[Article here](https://www.nytimes.com/2021/08/25/world/asia/us-kabul-airport-threat.html)
 
-Racing to get out of Afghanistan.
+[![](https://static01.nyt.com/images/2021/08/24/world/26-afghan-briefing-airport-threat/26-afghan-briefing-airport-threat-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/asia/us-kabul-airport-threat.html)
 
-By Melina Delkic
+The U.S. government has long warned of potential security threats but the latest warning cited specific gates.
+
+By Eric Schmitt and Traci Carl
 
 * * *
 
