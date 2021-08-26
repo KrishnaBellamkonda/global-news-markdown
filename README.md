@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Wednesday Briefing
------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Five women on a famed Afghan robotics team arrive in Mexico.
+------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/24/briefing/afghanistan-deadline-unvaccinated-covid-fifa.html)
+[Article here](https://www.nytimes.com/2021/08/25/world/asia/five-women-on-a-famed-afghan-robotics-team-arrive-in-mexico.html)
 
-[![](https://static01.nyt.com/images/2021/08/25/us/25ambriefing-europe-nl-promo/merlin_193589862_6c3c21bc-837d-4989-978c-b95d884a1492-superJumbo.jpg)](https://www.nytimes.com/2021/08/24/briefing/afghanistan-deadline-unvaccinated-covid-fifa.html)
+[![](https://static01.nyt.com/images/2021/08/25/world/25afghanistan-briefing-robotics-mexico/merlin_193645608_61966f49-db3e-4b0d-b7c5-468131ed5da5-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/asia/five-women-on-a-famed-afghan-robotics-team-arrive-in-mexico.html)
 
-U.S. on track to leave Afghanistan by Aug. 31.
-
-By Melina Delkic
+By Megan Specia
 
 * * *
 
 * * *
 
-A Swimmer’s Journey From Afghanistan to Refugee Camps to the Paralympics
-------------------------------------------------------------------------
+Chicago will require city workers to be vaccinated, the mayor says.
+-------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/25/world/asia/afghan-swimmer-tokyo-paralympics.html)
+[Article here](https://www.nytimes.com/2021/08/25/us/chicago-vaccine-mandate.html)
 
-[![](https://static01.nyt.com/images/2021/08/25/world/25paraly-refugee-01/merlin_193655769_57bf3916-160d-4265-974b-ffd8c5824013-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/asia/afghan-swimmer-tokyo-paralympics.html)
+[![](https://static01.nyt.com/images/2021/08/25/us/25virus-briefing-chicago/merlin_183585300_affb17d6-8e50-459e-824f-2b96cb6958d6-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/us/chicago-vaccine-mandate.html)
 
-Abbas Karimi, who was born without arms, eventually made it to the U.S. and realized his dream of competing internationally.
+The mandate requires municipal workers — including teachers and other public school employees — to be fully vaccinated by Oct. 15 unless they obtain medical or religious exemptions.
 
-By Motoko Rich
+By Julie Bosman
 
 * * *
 
