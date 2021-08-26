@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Biden Falls Short on Pledge for U.S. to Be the World’s Vaccine ‘Arsenal,’ Experts Say
--------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Read Excerpts From Navalny’s Interview With The Times
+-----------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/25/us/politics/biden-coronavirus-vaccine.html)
+[Article here](https://www.nytimes.com/2021/08/25/world/europe/navalny-interview-excerpts.html)
 
-[![](https://static01.nyt.com/images/2021/08/25/us/politics/25dc-virus-pandemic1/merlin_193118577_4901a1db-2d8a-42ea-98d6-5534efde8906-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/us/politics/biden-coronavirus-vaccine.html)
+[![](https://static01.nyt.com/images/2021/08/25/world/25navalny1/merlin_193466622_28762b85-4af9-4960-9c39-ef2010b8de83-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/europe/navalny-interview-excerpts.html)
 
-Congress appropriated $16 billion to ramp up Covid-19 countermeasures, but a new report found that the Biden administration had spent very little of it on expanding vaccine manufacturing capacity.
+Aleksei A. Navalny, the Russian opposition leader, lays out his case — by turns funny, sarcastic and ironic — for the inevitability of democracy in his country.
 
-By Sheryl Gay Stolberg
-
-* * *
+By The New York Times
 
 * * *
 
-A Roller Coaster in Japan Shuts Down After Riders Report Broken Bones
----------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/25/world/asia/japan-rollercoaster-broken-bones-injuries.html)
+N.Y.C. lays out safety measures for public schools as Delta variant rises.
+--------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/25/multimedia/25xp-japan-rollercoaster/25xp-japan-rollercoaster-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/asia/japan-rollercoaster-broken-bones-injuries.html)
+[Article here](https://www.nytimes.com/2021/08/26/nyregion/new-york-city-schools-reopening.html)
 
-One of the world’s fastest roller coasters was closed after four passengers in the past nine months reported bone fractures.
+[![](https://static01.nyt.com/images/2021/09/25/world/25virus-briefing-nyschools/merlin_191253348_ecc8462e-78f4-40c5-8842-6c02b5f9f92b-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/nyregion/new-york-city-schools-reopening.html)
 
-By Tiffany May and Makiko Inoue
+The city’s school testing program will be smaller than last year, and only unvaccinated students will have to quarantine if exposed to the virus.
+
+By Eliza Shapiro
 
 * * *
 
