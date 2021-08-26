@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Teenage Aviator Aims to Be Youngest Woman to Circle the Globe Solo
-------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Thursday Briefing
+----------------------
 
-[Article here](https://www.nytimes.com/2021/08/25/world/zara-rutherford-plane-pilot.html)
+[Article here](https://www.nytimes.com/2021/08/26/briefing/taliban-navalny-covid-origins.html)
 
-[![](https://static01.nyt.com/images/2021/08/25/multimedia/25xp-aviator1/25xp-aviator1-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/zara-rutherford-plane-pilot.html)
+[![](https://static01.nyt.com/images/2021/08/25/us/26am-briefing-europe-afghanistan/25afghanistan-briefing-taliban-interview-new-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/briefing/taliban-navalny-covid-origins.html)
 
-Zara Rutherford, 19, left Belgium last week and plans to complete her journey by early November. Bad weather may be the biggest obstacle.
+A Taliban leader says the group wants to forget the past, but describes restrictions.
 
-By Mike Ives
-
-* * *
+By Whet Moser
 
 * * *
 
-China will hold the unvaccinated ‘accountable’ if there are outbreaks.
-----------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/25/world/china-will-hold-the-unvaccinated-accountable-if-there-are-outbreaks.html)
+The ‘window is rapidly closing’ to gather crucial evidence on the virus’s origins, scientists say.
+--------------------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/25/world/25virus-briefing-china-vaccination/merlin_185566851_9caa2047-c6a1-430c-8b38-aa83de7bd88b-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/china-will-hold-the-unvaccinated-accountable-if-there-are-outbreaks.html)
+[Article here](https://www.nytimes.com/2021/08/25/science/lab-leak-covid.html)
 
-By Sui-Lee Wee and Elsie Chen
+[![](https://static01.nyt.com/images/2021/08/25/lens/25virus-briefing-nature-virus-origins/25virus-briefing-nature-virus-origins-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/science/lab-leak-covid.html)
+
+Further delays could make it impossible to recover crucial evidence about the beginning of the pandemic, say experts studying the origins of the coronavirus for the World Health Organization.
+
+By Benjamin Mueller
 
 * * *
 
