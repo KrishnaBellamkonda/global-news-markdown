@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the U.S., others warn of threat at airport in Kabul and tell citizens to leave immediately.
----------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Teenage Aviator Aims to Be Youngest Woman to Circle the Globe Solo
+------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/25/world/asia/us-kabul-airport-threat.html)
+[Article here](https://www.nytimes.com/2021/08/25/world/zara-rutherford-plane-pilot.html)
 
-[![](https://static01.nyt.com/images/2021/08/24/world/26-afghan-briefing-airport-threat/26-afghan-briefing-airport-threat-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/asia/us-kabul-airport-threat.html)
+[![](https://static01.nyt.com/images/2021/08/25/multimedia/25xp-aviator1/25xp-aviator1-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/zara-rutherford-plane-pilot.html)
 
-The U.S. government has long warned of potential security threats but the latest warning cited specific gates.
+Zara Rutherford, 19, left Belgium last week and plans to complete her journey by early November. Bad weather may be the biggest obstacle.
 
-By Eric Schmitt and Traci Carl
-
-* * *
+By Mike Ives
 
 * * *
 
-Your Thursday Briefing
-----------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/25/briefing/afghanistan-evacuations-virus-origin-studies-navalny.html)
+China will hold the unvaccinated ‘accountable’ if there are outbreaks.
+----------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/26/world/26ambriefing-aus-nl1/26ambriefing-aus-nl1-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/briefing/afghanistan-evacuations-virus-origin-studies-navalny.html)
+[Article here](https://www.nytimes.com/2021/08/25/world/china-will-hold-the-unvaccinated-accountable-if-there-are-outbreaks.html)
 
-Racing to get out of Afghanistan.
+[![](https://static01.nyt.com/images/2021/08/25/world/25virus-briefing-china-vaccination/merlin_185566851_9caa2047-c6a1-430c-8b38-aa83de7bd88b-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/china-will-hold-the-unvaccinated-accountable-if-there-are-outbreaks.html)
 
-By Melina Delkic
+By Sui-Lee Wee and Elsie Chen
 
 * * *
 
