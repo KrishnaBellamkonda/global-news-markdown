@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Thursday Briefing
-----------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Bottlenecks at an adult tricycle company illustrate continuing economic challenges.
+-----------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/26/briefing/taliban-navalny-covid-origins.html)
+[Article here](https://www.nytimes.com/2021/08/26/world/bottlenecks-at-an-adult-tricycle-company-illustrate-continuing-economic-challenges.html)
 
-[![](https://static01.nyt.com/images/2021/08/25/us/26am-briefing-europe-afghanistan/25afghanistan-briefing-taliban-interview-new-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/briefing/taliban-navalny-covid-origins.html)
+[![](https://static01.nyt.com/images/2021/08/23/business/23virus-briefing-supplychains1/23dc-supplychains1-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/world/bottlenecks-at-an-adult-tricycle-company-illustrate-continuing-economic-challenges.html)
 
-A Taliban leader says the group wants to forget the past, but describes restrictions.
-
-By Whet Moser
+By Jeanna Smialek and Madeleine Ngo
 
 * * *
 
 * * *
 
-Kamala Harris Pledges U.S. Help for Afghan Women and Children
--------------------------------------------------------------
+Remaking the Economy
+--------------------
 
-[Article here](https://www.nytimes.com/2021/08/26/world/asia/kamala-harris-vietnam-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/26/briefing/biden-economy-package.html)
 
-[![](https://static01.nyt.com/images/2021/08/26/world/26harris-asia01/merlin_193698279_25157544-bd6e-4095-9023-b1bf460555ae-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/world/asia/kamala-harris-vietnam-afghanistan.html)
+[![](https://static01.nyt.com/images/2021/08/26/lens/26ambriefing-promo/26ambriefing-congress02-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/26/briefing/biden-economy-package.html)
 
-As she left Southeast Asia, the vice president also delivered a blunt message to China. The United States does not want conflict, she said, but on some issues, “we are going to speak up.”
+Democrats in Congress are putting together an ambitious bill to advance Biden’s domestic agenda. Here’s a guide.
 
-By Zolan Kanno-Youngs
+By David Leonhardt and Ian Prasad Philbrick
 
 * * *
 
