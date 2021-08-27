@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the He Built a Robot to Prove a Point About Refugees
-------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A study confirms a small risk of blood clots after vaccines, but not as high as the risk Covid brings.
+------------------------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/world/europe/afghanistan-refugee-hope.html)
+[Article here](https://www.nytimes.com/2021/08/27/health/blood-clots-coronavirus.html)
 
-[![](https://static01.nyt.com/images/2021/08/27/world/27karimi-profile01/merlin_193745016_26b7ab61-0afc-415b-a38c-06828baa96a6-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/europe/afghanistan-refugee-hope.html)
+[![](https://static01.nyt.com/images/2021/08/27/lens/27virus-briefing-blood-clots-01/merlin_193326705_c8a12ee7-574c-4b03-8701-0b46e15eefc7-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/health/blood-clots-coronavirus.html)
 
-As Afghans flee the Taliban, the experiences of a fellow countryman, Saidullah Karimi, warn of tough times ahead, but also carry a message of hope.
+The study adds to the growing evidence that though the coronavirus vaccines are associated with certain rare side effects, those risks are dwarfed by the risks from Covid-19.
 
-By Alice Greenway
-
-* * *
+By Benjamin Mueller
 
 * * *
 
-N.Y.C. lays out safety measures for public schools as Delta variant rises.
---------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/26/nyregion/new-york-city-schools-reopening.html)
+Suicide Bombers in Kabul Kill Dozens, Including 13 U.S. Troops
+--------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/25/world/25virus-briefing-nyschools/merlin_191253348_ecc8462e-78f4-40c5-8842-6c02b5f9f92b-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/nyregion/new-york-city-schools-reopening.html)
+[Article here](https://www.nytimes.com/2021/08/26/world/asia/kabul-airport-bombing.html)
 
-The city’s school testing program will be smaller than last year, and only unvaccinated students will have to quarantine if exposed to the virus.
+[![](https://static01.nyt.com/images/2021/08/26/world/26afghanistan-ledeall/merlin_193709559_ce5779e5-8ae5-411e-a686-066c64d0d88b-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/world/asia/kabul-airport-bombing.html)
 
-By Eliza Shapiro
+Bombers struck a huge crowd outside the airport, killing at least 60 Afghan civilians in the waning days of the U.S. evacuation from Afghanistan.
+
+By Matthieu Aikins, Sharif Hassan, Thomas Gibbons-Neff, Eric Schmitt and Richard Pérez-Peña
 
 * * *
 
