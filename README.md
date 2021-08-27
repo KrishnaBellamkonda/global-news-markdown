@@ -19,27 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Rohingya will get vaccines, Myanmar says.
------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After Decades of War, ISIS and Al Qaeda Can Still Wreak Havoc
+-------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/live/2021/08/27/world/covid-delta-variant-vaccine/rohingya-will-get-vaccines-myanmar-says)
+[Article here](https://www.nytimes.com/2021/08/26/world/asia/Afghanistan-isis-qaeda.html)
 
-[![](https://static01.nyt.com/images/2021/08/27/lens/27virus-briefing-myanmar-01/merlin_190734282_de6a2ebd-1c6e-4d62-8fb8-d1e37348bac1-superJumbo.jpg)](https://www.nytimes.com/live/2021/08/27/world/covid-delta-variant-vaccine/rohingya-will-get-vaccines-myanmar-says)
+[![](https://static01.nyt.com/images/2021/08/26/world/26afghanistan-isis-lede/merlin_193709913_07f37988-bdd8-4f70-8bc6-9e873fb1f8f9-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/world/asia/Afghanistan-isis-qaeda.html)
 
-By The New York Times
+The U.S. and its allies waged war for 20 years to try to defeat terrorists in Afghanistan. A double-suicide bombing demonstrated that they remain a threat.
+
+By Ben Hubbard, Eric Schmitt and Matthew Rosenberg
 
 * * *
 
 * * *
 
-A former Afghan finance minister is trying to influence the Taliban.
---------------------------------------------------------------------
+Two New York judges ordered defendants to get vaccinated. Can they do that?
+---------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/live/2021/08/27/world/afghanistan-taliban-biden-news/a-former-afghan-finance-minister-is-trying-to-influence-the-taliban)
+[Article here](https://www.nytimes.com/2021/08/26/nyregion/two-new-york-judges-ordered-defendants-to-get-vaccinated-can-they-do-that.html)
 
-[![](https://static01.nyt.com/images/2021/08/27/world/27afghanistan-briefing-nossiter/merlin_193507923_c13bd331-125e-417c-8abc-ffd0e9d4ef73-superJumbo.jpg)](https://www.nytimes.com/live/2021/08/27/world/afghanistan-taliban-biden-news/a-former-afghan-finance-minister-is-trying-to-influence-the-taliban)
+[![](https://static01.nyt.com/images/2021/08/23/nyregion/23virus-briefing-vaccinejudge1/merlin_29702029_bc689861-e952-47f1-9abb-76b0257b2b4d-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/nyregion/two-new-york-judges-ordered-defendants-to-get-vaccinated-can-they-do-that.html)
 
-By Adam Nossiter
+By Jonah E. Bromwich
 
 * * *
 
