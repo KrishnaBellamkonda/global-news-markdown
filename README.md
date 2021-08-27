@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the President Biden condemns terrorist attack and vows to hunt down those responsible.
-----------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the He Built a Robot to Prove a Point About Refugees
+------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/26/world/biden-afghanistan-kabul-airport-attack.html)
+[Article here](https://www.nytimes.com/2021/08/27/world/europe/afghanistan-refugee-hope.html)
 
-[![](https://static01.nyt.com/images/2021/09/26/us/politics/26afghan-brief-biden-today/merlin_193727367_3bf1bcd1-49b4-437c-a867-1790814563cf-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/world/biden-afghanistan-kabul-airport-attack.html)
+[![](https://static01.nyt.com/images/2021/08/27/world/27karimi-profile01/merlin_193745016_26b7ab61-0afc-415b-a38c-06828baa96a6-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/europe/afghanistan-refugee-hope.html)
 
-Mr. Biden said he had asked his commanders to find ways to target ISIS-K, the Afghan affiliate of the Islamic State, which claimed responsibility for the attacks earlier in the day.
+As Afghans flee the Taliban, the experiences of a fellow countryman, Saidullah Karimi, warn of tough times ahead, but also carry a message of hope.
 
-By Michael D. Shear
-
-* * *
+By Alice Greenway
 
 * * *
 
-Pushing the Limits Paid Off for Didi, Until China Cracked Down
---------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/27/technology/china-didi-crackdown.html)
+N.Y.C. lays out safety measures for public schools as Delta variant rises.
+--------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/29/business/00didi-1/merlin_189853371_6a693f1c-2cd7-43ea-9438-99fa0e918d75-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/technology/china-didi-crackdown.html)
+[Article here](https://www.nytimes.com/2021/08/26/nyregion/new-york-city-schools-reopening.html)
 
-The ride-hailing giant learned to thrive in legal gray areas while Beijing mostly looked the other way. Now the government is paying attention.
+[![](https://static01.nyt.com/images/2021/09/25/world/25virus-briefing-nyschools/merlin_191253348_ecc8462e-78f4-40c5-8842-6c02b5f9f92b-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/nyregion/new-york-city-schools-reopening.html)
 
-By Raymond Zhong and Li Yuan
+The city’s school testing program will be smaller than last year, and only unvaccinated students will have to quarantine if exposed to the virus.
+
+By Eliza Shapiro
 
 * * *
 
