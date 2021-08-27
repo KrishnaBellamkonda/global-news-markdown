@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Populist Hero or Demagogue: Who Is Tunisia’s President?
--------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Satellites Spot Oceans Aglow With Trillions of Organisms
+--------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/26/world/middleeast/tunisia-president-kais-saied.html)
+[Article here](https://www.nytimes.com/2021/08/27/science/ocean-bioluminescent-satellite.html)
 
-[![](https://static01.nyt.com/images/2021/08/22/world/22tunisia-president-top/merlin_160956189_13f1849d-3b7e-4393-a028-515875dbe8cf-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/world/middleeast/tunisia-president-kais-saied.html)
+[![](https://static01.nyt.com/images/2021/08/27/science/27tb-oceanglow1/merlin_193718949_585a0a67-fa21-48ad-bfc4-a069c9c68fc3-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/science/ocean-bioluminescent-satellite.html)
 
-As a law professor, Kais Saied preached strict adherence to the Constitution. As Tunisia’s president, he has bent it to his will. Will he save Tunisia’s democracy or destroy it?
+A new generation of detectors let scientists identify a dozen large episodes of bioluminescence, one a hundred times larger than Manhattan — and that’s the smallest.
 
-By Vivian Yee
-
-* * *
+By William J. Broad
 
 * * *
 
-Your Thursday Briefing
-----------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/26/briefing/taliban-navalny-covid-origins.html)
+In Britain, Young Children Don’t Wear Masks in School
+-----------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/25/us/26am-briefing-europe-afghanistan/25afghanistan-briefing-taliban-interview-new-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/briefing/taliban-navalny-covid-origins.html)
+[Article here](https://www.nytimes.com/2021/08/27/us/students-masks-classrooms-britain.html)
 
-A Taliban leader says the group wants to forget the past, but describes restrictions.
+[![](https://static01.nyt.com/images/2021/08/22/us/22virus-schools-britain-1/22virus-schools-britain-1-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/us/students-masks-classrooms-britain.html)
 
-By Whet Moser
+During the Delta surge, British schools emphasized other safety measures: quarantining and regular testing for the virus.
+
+By Dana Goldstein
 
 * * *
 
