@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Remaking the Economy
---------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Populist Hero or Demagogue: Who Is Tunisia’s President?
+-------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/26/briefing/biden-economy-package.html)
+[Article here](https://www.nytimes.com/2021/08/26/world/middleeast/tunisia-president-kais-saied.html)
 
-[![](https://static01.nyt.com/images/2021/08/26/lens/26ambriefing-promo/26ambriefing-congress02-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/26/briefing/biden-economy-package.html)
+[![](https://static01.nyt.com/images/2021/08/22/world/22tunisia-president-top/merlin_160956189_13f1849d-3b7e-4393-a028-515875dbe8cf-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/world/middleeast/tunisia-president-kais-saied.html)
 
-Democrats in Congress are putting together an ambitious bill to advance Biden’s domestic agenda. Here’s a guide.
+As a law professor, Kais Saied preached strict adherence to the Constitution. As Tunisia’s president, he has bent it to his will. Will he save Tunisia’s democracy or destroy it?
 
-By David Leonhardt and Ian Prasad Philbrick
-
-* * *
+By Vivian Yee
 
 * * *
 
-Biden Faces a Tragedy He Pledged to Avoid
------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/27/us/politics/biden-afghanistan-attack.html)
+Your Thursday Briefing
+----------------------
 
-[![](https://static01.nyt.com/images/2021/08/26/us/politics/26dc-biden-afghan-sub/merlin_193726515_20bd649a-3265-4de3-93ab-0a595f16f0da-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/us/politics/biden-afghanistan-attack.html)
+[Article here](https://www.nytimes.com/2021/08/26/briefing/taliban-navalny-covid-origins.html)
 
-The president said the evacuation of U.S. citizens and allies from Afghanistan would continue, even after an attack that killed at least 13 American troops and dozens of civilians.
+[![](https://static01.nyt.com/images/2021/08/25/us/26am-briefing-europe-afghanistan/25afghanistan-briefing-taliban-interview-new-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/briefing/taliban-navalny-covid-origins.html)
 
-By Michael D. Shear
+A Taliban leader says the group wants to forget the past, but describes restrictions.
+
+By Whet Moser
 
 * * *
 
