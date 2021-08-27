@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Satellites Spot Oceans Aglow With Trillions of Organisms
---------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Border Standoff Over Afghan Migrants Highlights E.U. Fears of New Influx
+------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/science/ocean-bioluminescent-satellite.html)
+[Article here](https://www.nytimes.com/2021/08/26/world/europe/poland-belarus-eu-migrants.html)
 
-[![](https://static01.nyt.com/images/2021/08/27/science/27tb-oceanglow1/merlin_193718949_585a0a67-fa21-48ad-bfc4-a069c9c68fc3-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/science/ocean-bioluminescent-satellite.html)
+[![](https://static01.nyt.com/images/2021/08/26/world/26belarus-poland01/26belarus-poland01-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/world/europe/poland-belarus-eu-migrants.html)
 
-A new generation of detectors let scientists identify a dozen large episodes of bioluminescence, one a hundred times larger than Manhattan — and that’s the smallest.
+Belarus is accused of using migrants as a weapon against the European Union after a group of Afghans got trapped on its border with Poland, where the issue has become increasingly politicized.
 
-By William J. Broad
-
-* * *
+By Steven Erlanger
 
 * * *
 
-In Britain, Young Children Don’t Wear Masks in School
------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/27/us/students-masks-classrooms-britain.html)
+President Biden condemns terrorist attack and vows to hunt down those responsible.
+----------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/22/us/22virus-schools-britain-1/22virus-schools-britain-1-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/us/students-masks-classrooms-britain.html)
+[Article here](https://www.nytimes.com/2021/08/26/world/biden-afghanistan-kabul-airport-attack.html)
 
-During the Delta surge, British schools emphasized other safety measures: quarantining and regular testing for the virus.
+[![](https://static01.nyt.com/images/2021/08/26/us/26afghan-brief-biden-today/26afghan-brief-biden-today-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/world/biden-afghanistan-kabul-airport-attack.html)
 
-By Dana Goldstein
+Mr. Biden said he had asked his commanders to find ways to target ISIS-K, the Afghan affiliate of the Islamic State, which claimed responsibility for the attacks earlier in the day.
+
+By Michael D. Shear
 
 * * *
 
