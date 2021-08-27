@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Read Excerpts From Navalny’s Interview With The Times
------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Thursday Briefing
+----------------------
 
-[Article here](https://www.nytimes.com/2021/08/25/world/europe/navalny-interview-excerpts.html)
+[Article here](https://www.nytimes.com/2021/08/26/briefing/taliban-navalny-covid-origins.html)
 
-[![](https://static01.nyt.com/images/2021/08/25/world/25navalny1/merlin_193466622_28762b85-4af9-4960-9c39-ef2010b8de83-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/europe/navalny-interview-excerpts.html)
+[![](https://static01.nyt.com/images/2021/08/25/us/26am-briefing-europe-afghanistan/25afghanistan-briefing-taliban-interview-new-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/briefing/taliban-navalny-covid-origins.html)
 
-Aleksei A. Navalny, the Russian opposition leader, lays out his case — by turns funny, sarcastic and ironic — for the inevitability of democracy in his country.
+A Taliban leader says the group wants to forget the past, but describes restrictions.
 
-By The New York Times
-
-* * *
+By Whet Moser
 
 * * *
 
-N.Y.C. lays out safety measures for public schools as Delta variant rises.
---------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/26/nyregion/new-york-city-schools-reopening.html)
+Kamala Harris Pledges U.S. Help for Afghan Women and Children
+-------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/25/world/25virus-briefing-nyschools/merlin_191253348_ecc8462e-78f4-40c5-8842-6c02b5f9f92b-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/nyregion/new-york-city-schools-reopening.html)
+[Article here](https://www.nytimes.com/2021/08/26/world/asia/kamala-harris-vietnam-afghanistan.html)
 
-The city’s school testing program will be smaller than last year, and only unvaccinated students will have to quarantine if exposed to the virus.
+[![](https://static01.nyt.com/images/2021/08/26/world/26harris-asia01/merlin_193698279_25157544-bd6e-4095-9023-b1bf460555ae-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/world/asia/kamala-harris-vietnam-afghanistan.html)
 
-By Eliza Shapiro
+As she left Southeast Asia, the vice president also delivered a blunt message to China. The United States does not want conflict, she said, but on some issues, “we are going to speak up.”
+
+By Zolan Kanno-Youngs
 
 * * *
 
