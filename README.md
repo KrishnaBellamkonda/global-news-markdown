@@ -19,31 +19,27 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A study confirms a small risk of blood clots after vaccines, but not as high as the risk Covid brings.
-------------------------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Rohingya will get vaccines, Myanmar says.
+-----------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/health/blood-clots-coronavirus.html)
+[Article here](https://www.nytimes.com/live/2021/08/27/world/covid-delta-variant-vaccine/rohingya-will-get-vaccines-myanmar-says)
 
-[![](https://static01.nyt.com/images/2021/08/27/lens/27virus-briefing-blood-clots-01/merlin_193326705_c8a12ee7-574c-4b03-8701-0b46e15eefc7-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/health/blood-clots-coronavirus.html)
+[![](https://static01.nyt.com/images/2021/08/27/lens/27virus-briefing-myanmar-01/merlin_190734282_de6a2ebd-1c6e-4d62-8fb8-d1e37348bac1-superJumbo.jpg)](https://www.nytimes.com/live/2021/08/27/world/covid-delta-variant-vaccine/rohingya-will-get-vaccines-myanmar-says)
 
-The study adds to the growing evidence that though the coronavirus vaccines are associated with certain rare side effects, those risks are dwarfed by the risks from Covid-19.
-
-By Benjamin Mueller
+By The New York Times
 
 * * *
 
 * * *
 
-Suicide Bombers in Kabul Kill Dozens, Including 13 U.S. Troops
---------------------------------------------------------------
+A former Afghan finance minister is trying to influence the Taliban.
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/26/world/asia/kabul-airport-bombing.html)
+[Article here](https://www.nytimes.com/live/2021/08/27/world/afghanistan-taliban-biden-news/a-former-afghan-finance-minister-is-trying-to-influence-the-taliban)
 
-[![](https://static01.nyt.com/images/2021/08/26/world/26afghanistan-ledeall/merlin_193709559_ce5779e5-8ae5-411e-a686-066c64d0d88b-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/world/asia/kabul-airport-bombing.html)
+[![](https://static01.nyt.com/images/2021/08/27/world/27afghanistan-briefing-nossiter/merlin_193507923_c13bd331-125e-417c-8abc-ffd0e9d4ef73-superJumbo.jpg)](https://www.nytimes.com/live/2021/08/27/world/afghanistan-taliban-biden-news/a-former-afghan-finance-minister-is-trying-to-influence-the-taliban)
 
-Bombers struck a huge crowd outside the airport, killing at least 60 Afghan civilians in the waning days of the U.S. evacuation from Afghanistan.
-
-By Matthieu Aikins, Sharif Hassan, Thomas Gibbons-Neff, Eric Schmitt and Richard Pérez-Peña
+By Adam Nossiter
 
 * * *
 
