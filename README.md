@@ -19,29 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Bottlenecks at an adult tricycle company illustrate continuing economic challenges.
------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In First Interview From Jail, an Upbeat Navalny Discusses Prison Life
+---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/26/world/bottlenecks-at-an-adult-tricycle-company-illustrate-continuing-economic-challenges.html)
+[Article here](https://www.nytimes.com/2021/08/25/world/europe/navalny-jail-prison.html)
 
-[![](https://static01.nyt.com/images/2021/08/23/business/23virus-briefing-supplychains1/23dc-supplychains1-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/world/bottlenecks-at-an-adult-tricycle-company-illustrate-continuing-economic-challenges.html)
+[![](https://static01.nyt.com/images/2021/08/24/world/00navalny1/00navalny1-superJumbo.jpg)](https://www.nytimes.com/2021/08/25/world/europe/navalny-jail-prison.html)
 
-By Jeanna Smialek and Madeleine Ngo
+Russian political prisoners today are subjected to “psychological” pressure, said the opposition leader Aleksei A. Navalny, who is forced to watch state TV for more than eight hours a day.
+
+By Andrew E. Kramer
 
 * * *
 
 * * *
 
-Remaking the Economy
---------------------
+In a German first, Hamburg will allow merchants to insist on vaccinations.
+--------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/26/briefing/biden-economy-package.html)
+[Article here](https://www.nytimes.com/2021/08/26/world/in-a-german-first-hamburg-will-allow-merchants-to-insist-on-vaccinations.html)
 
-[![](https://static01.nyt.com/images/2021/08/26/lens/26ambriefing-promo/26ambriefing-congress02-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/26/briefing/biden-economy-package.html)
+[![](https://static01.nyt.com/images/2021/08/26/lens/26virus-briefing-germany-01/merlin_186304284_74a1f490-73b4-4bdc-9617-85ac5274b478-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/world/in-a-german-first-hamburg-will-allow-merchants-to-insist-on-vaccinations.html)
 
-Democrats in Congress are putting together an ambitious bill to advance Biden’s domestic agenda. Here’s a guide.
-
-By David Leonhardt and Ian Prasad Philbrick
+By Christopher F. Schuetze
 
 * * *
 
