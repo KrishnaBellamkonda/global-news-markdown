@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Amid Afghan Chaos, a C.I.A. Mission That Will Persist for Years
----------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
+--------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/us/politics/cia-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/27/briefing/afghanistan-bombing-brexit.html)
 
-[![](https://static01.nyt.com/images/2021/08/28/us/politics/28dc-intel-print/merlin_193558944_e2bd9eac-de98-4f43-8f14-8280b120ac69-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/us/politics/cia-afghanistan.html)
+[![](https://static01.nyt.com/images/2021/08/26/world/27-am-briefing-europe-afghanistan/merlin_193709289_86a82b6d-16d0-4fe6-b7bd-fddb73e377db-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/briefing/afghanistan-bombing-brexit.html)
 
-The spy agency had plans to de-emphasize counterterrorism operations to focus on rising global powers. History got in the way.
+A deadly bombing in Kabul.
 
-By Mark Mazzetti, Julian E. Barnes and Adam Goldman
-
-* * *
+By Natasha Frost
 
 * * *
 
-China’s Celebrity Culture Is Raucous. The Authorities Want to Change That.
---------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/27/business/media/china-celebrity-culture.html)
+How Canadian Leaders Campaign in a Pandemic
+-------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/28/world/27china-celebrities-print/27china-celebrities02-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/business/media/china-celebrity-culture.html)
+[Article here](https://www.nytimes.com/2021/08/27/world/canada/canada-leaders-campaign-pandemic.html)
 
-The Communist Party has declared war on idol worship, part of a broader crackdown on what it sees as toxic celebrity culture that is poisoning the minds of the country’s youth.
+[![](https://static01.nyt.com/images/2021/08/27/world/27canadaletter-conservatives2/27canadaletter-conservatives2-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/canada/canada-leaders-campaign-pandemic.html)
 
-By Alexandra Stevenson, Amy Chang Chien and Cao Li
+While the Conservative leader, Erin O’Toole, is still hitting the road, his party has also created a virtual method of reaching voters.
+
+By Ian Austen
 
 * * *
 
