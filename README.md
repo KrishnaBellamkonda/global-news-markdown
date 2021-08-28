@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A baby born on an evacuation flight is named Reach, after the aircraft’s call sign.
------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Transcript of Biden’s Speech After Kabul Airport Attack
+-------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/world/asia/baby-reach-evacuation-aircraft.html)
+[Article here](https://www.nytimes.com/2021/08/26/us/politics/biden-afghanistan-speech-transcript.html)
 
-[![](https://static01.nyt.com/images/2021/08/26/world/26afghanistan-briefing-babyname/merlin_193501764_b72228fa-6489-4e12-a78e-6cf85b318af6-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/asia/baby-reach-evacuation-aircraft.html)
+[![](https://static01.nyt.com/images/2021/08/26/us/politics/26dc-biden-transcript/26dc-biden-transcript-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/us/politics/biden-afghanistan-speech-transcript.html)
 
-A U.S. military commander said the baby was one of three born to women who have boarded evacuation flights out of Afghanistan.
-
-By Isabella Kwai
+The president mourned the U.S. service members and others killed and addressed those responsible: “We will hunt you down and make you pay.”
 
 * * *
 
 * * *
 
-Your Friday Briefing
---------------------
+A study confirms a small risk of blood clots after vaccines, but not as high as the risk Covid brings.
+------------------------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/briefing/afghanistan-bombing-brexit.html)
+[Article here](https://www.nytimes.com/2021/08/27/health/blood-clots-coronavirus.html)
 
-[![](https://static01.nyt.com/images/2021/08/26/world/27-am-briefing-europe-afghanistan/merlin_193709289_86a82b6d-16d0-4fe6-b7bd-fddb73e377db-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/briefing/afghanistan-bombing-brexit.html)
+[![](https://static01.nyt.com/images/2021/08/27/lens/27virus-briefing-blood-clots-01/merlin_193326705_c8a12ee7-574c-4b03-8701-0b46e15eefc7-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/health/blood-clots-coronavirus.html)
 
-A deadly bombing in Kabul.
+The study adds to the growing evidence that though the coronavirus vaccines are associated with certain rare side effects, those risks are dwarfed by the risks from Covid-19.
 
-By Natasha Frost
+By Benjamin Mueller
 
 * * *
 
