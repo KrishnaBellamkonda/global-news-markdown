@@ -19,29 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Transcript of Biden’s Speech After Kabul Airport Attack
--------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
+--------------------
 
-[Article here](https://www.nytimes.com/2021/08/26/us/politics/biden-afghanistan-speech-transcript.html)
+[Article here](https://www.nytimes.com/2021/08/27/briefing/afghanistan-bombing-brexit.html)
 
-[![](https://static01.nyt.com/images/2021/08/26/us/politics/26dc-biden-transcript/26dc-biden-transcript-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/us/politics/biden-afghanistan-speech-transcript.html)
+[![](https://static01.nyt.com/images/2021/08/26/world/27-am-briefing-europe-afghanistan/merlin_193709289_86a82b6d-16d0-4fe6-b7bd-fddb73e377db-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/briefing/afghanistan-bombing-brexit.html)
 
-The president mourned the U.S. service members and others killed and addressed those responsible: “We will hunt you down and make you pay.”
+A deadly bombing in Kabul.
+
+By Natasha Frost
 
 * * *
 
 * * *
 
-A study confirms a small risk of blood clots after vaccines, but not as high as the risk Covid brings.
-------------------------------------------------------------------------------------------------------
+Biden faces a tragedy he worked to avoid.
+-----------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/health/blood-clots-coronavirus.html)
+[Article here](https://www.nytimes.com/2021/08/27/world/biden-faces-a-tragedy-he-worked-to-avoid.html)
 
-[![](https://static01.nyt.com/images/2021/08/27/lens/27virus-briefing-blood-clots-01/merlin_193326705_c8a12ee7-574c-4b03-8701-0b46e15eefc7-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/health/blood-clots-coronavirus.html)
+[![](https://static01.nyt.com/images/2021/09/26/us/politics/26afghan-brief-biden-today/merlin_193727367_3bf1bcd1-49b4-437c-a867-1790814563cf-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/biden-faces-a-tragedy-he-worked-to-avoid.html)
 
-The study adds to the growing evidence that though the coronavirus vaccines are associated with certain rare side effects, those risks are dwarfed by the risks from Covid-19.
-
-By Benjamin Mueller
+By Michael D. Shear
 
 * * *
 
