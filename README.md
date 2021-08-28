@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The U.S. retaliates over the airport bombing, days before the withdrawal deadline.
-----------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In Climate Coverage, Reporting the Grim Facts, but Also the Fight
+-----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/28/world/asia/the-us-retaliates-over-the-airport-bombing-days-before-the-withdrawal-deadline.html)
+[Article here](https://www.nytimes.com/2021/08/27/insider/united-nations-climate-report.html)
 
-[![](https://static01.nyt.com/images/2021/08/28/world/27afghanistan-briefing-usairstrikeTopSUB/merlin_193759392_66acf184-f51b-420e-a54f-8b54f0b7b12e-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/asia/the-us-retaliates-over-the-airport-bombing-days-before-the-withdrawal-deadline.html)
+[![](https://static01.nyt.com/images/2021/08/27/pageoneplus/27a2_itt/merlin_165791109_1106c605-c251-49da-80f3-00a3dc530cfb-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/insider/united-nations-climate-report.html)
 
-The U.S. military said that it had killed its target in the first strike since a deadly attack on the Kabul airport.
+A Times journalist distills the recent U.N. report and talks about how he treats a beat that can get more than a little gloomy.
 
-By Daniel Victor, Eric Schmitt, Zia ur-Rehman, Jim Huylebroek, Najim Rahim and Matthieu Aikins
-
-* * *
+By Katie Van Syckle
 
 * * *
 
-Biden warns that new attack is ‘highly likely’ as evacuations slow.
--------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/28/world/asia/uk-france-afghanistan-evacuation-withdrawal.html)
+Fossils Seized in Police Raid Demystify a Prehistoric Flying Reptile
+--------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/28/world/28afghanistan-briefing-evacuation-end/merlin_193791165_3768a5a6-7833-463b-a081-21056908c8cc-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/asia/uk-france-afghanistan-evacuation-withdrawal.html)
+[Article here](https://www.nytimes.com/2021/08/27/science/pterosaur-fossil.html)
 
-U.S. officials estimate that about 350 Americans are still awaiting evacuation from Afghanistan.
+[![](https://static01.nyt.com/images/2021/08/26/multimedia/26xp-fossil-2-promo/26xp-fossil-2-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/science/pterosaur-fossil.html)
 
-By Michael Levenson
+Among the 3,000 fossils seized at a Brazilian port in 2013 was an almost complete skeleton from the pterosaur species Tupandactylus navigans, preserved in six limestone slabs.
+
+By Vimal Patel
 
 * * *
 
