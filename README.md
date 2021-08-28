@@ -19,22 +19,7 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Biden Faces a Tragedy He Pledged to Avoid
------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/27/us/politics/biden-afghanistan-attack.html)
-
-[![](https://static01.nyt.com/images/2021/08/26/us/politics/26dc-biden-afghan-sub/merlin_193726515_20bd649a-3265-4de3-93ab-0a595f16f0da-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/us/politics/biden-afghanistan-attack.html)
-
-The president said the evacuation of U.S. citizens and allies from Afghanistan would continue, even after an attack that killed at least 13 American troops and dozens of civilians.
-
-By Michael D. Shear
-
-* * *
-
-* * *
-
-Denmark says Covid is no longer a ‘socially critical disease.’
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Denmark says Covid is no longer a ‘socially critical disease.’
 --------------------------------------------------------------
 
 [Article here](https://www.nytimes.com/2021/08/27/world/denmark-says-covid-is-no-longer-a-socially-critical-disease.html)
@@ -42,6 +27,21 @@ Denmark says Covid is no longer a ‘socially critical disease.’
 [![](https://static01.nyt.com/images/2021/08/27/lens/27virus-briefing-denmark-01/27virus-briefing-denmark-01-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/denmark-says-covid-is-no-longer-a-socially-critical-disease.html)
 
 By Kaly Soto
+
+* * *
+
+* * *
+
+How Rodrigo Duterte Can Stay No. 1 by Becoming No. 2
+----------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/27/world/asia/philippines-duterte-vice-president-elections.html)
+
+[![](https://static01.nyt.com/images/2021/08/27/world/27philippines-01/merlin_193653039_4389f80b-8a91-42cd-8a6a-ace141c770f1-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/asia/philippines-duterte-vice-president-elections.html)
+
+The president of the Philippines says he’ll run for the vice presidency next year. Critics see a plot to avoid prosecution for the killings in his drug war.
+
+By Jason Gutierrez
 
 * * *
 
