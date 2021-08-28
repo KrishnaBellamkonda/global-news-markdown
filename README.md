@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
---------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After Airport Bombing, an Afghan Family Buries a Father, and Hope
+-----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/briefing/afghanistan-bombing-brexit.html)
+[Article here](https://www.nytimes.com/2021/08/27/world/asia/afghanistan-airport-bombing-family.html)
 
-[![](https://static01.nyt.com/images/2021/08/26/world/27-am-briefing-europe-afghanistan/merlin_193709289_86a82b6d-16d0-4fe6-b7bd-fddb73e377db-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/briefing/afghanistan-bombing-brexit.html)
+[![](https://static01.nyt.com/images/2021/08/27/world/27afghan-family1-promo/merlin_193759119_fe76f728-3754-47c2-9d94-9f4e3a7daf30-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/asia/afghanistan-airport-bombing-family.html)
 
-A deadly bombing in Kabul.
+The former police officer, from the Hazara ethnic minority, had hoped to help his family escape the Taliban. Instead, he is now numbered among the scores killed at the Kabul airport.
 
-By Natasha Frost
-
-* * *
+By Matthieu Aikins and Victor J. Blue For The New York Times
 
 * * *
 
-How Canadian Leaders Campaign in a Pandemic
--------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/27/world/canada/canada-leaders-campaign-pandemic.html)
+A baby born on an evacuation flight is named Reach, after the aircraft’s call sign.
+-----------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/27/world/27canadaletter-conservatives2/27canadaletter-conservatives2-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/canada/canada-leaders-campaign-pandemic.html)
+[Article here](https://www.nytimes.com/2021/08/27/world/asia/baby-reach-evacuation-aircraft.html)
 
-While the Conservative leader, Erin O’Toole, is still hitting the road, his party has also created a virtual method of reaching voters.
+[![](https://static01.nyt.com/images/2021/08/26/world/26afghanistan-briefing-babyname/merlin_193501764_b72228fa-6489-4e12-a78e-6cf85b318af6-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/asia/baby-reach-evacuation-aircraft.html)
 
-By Ian Austen
+A U.S. military commander said the baby was one of three born to women who have boarded evacuation flights out of Afghanistan.
+
+By Isabella Kwai
 
 * * *
 
