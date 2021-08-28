@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A Doctor’s Tour de France, One ‘Medical Desert’ at a Time
----------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Amid Afghan Chaos, a C.I.A. Mission That Will Persist for Years
+---------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/28/world/europe/france-doctor-shortage-health-care-rural.html)
+[Article here](https://www.nytimes.com/2021/08/27/us/politics/cia-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/08/25/world/xxfrance-doctor01/merlin_191117265_14e2dff9-157e-48f2-a5fa-9f5f6be253fc-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/europe/france-doctor-shortage-health-care-rural.html)
+[![](https://static01.nyt.com/images/2021/08/28/us/politics/28dc-intel-print/merlin_193558944_e2bd9eac-de98-4f43-8f14-8280b120ac69-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/us/politics/cia-afghanistan.html)
 
-Newly graduated from medical school, Martial Jardel set off on a five-month road trip to help out in areas of France suffering from a shortage of physicians.
+The spy agency had plans to de-emphasize counterterrorism operations to focus on rising global powers. History got in the way.
 
-By Gaëlle Fournier
-
-* * *
+By Mark Mazzetti, Julian E. Barnes and Adam Goldman
 
 * * *
 
-How Canadian Leaders Campaign in a Pandemic
--------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/27/world/canada/canada-leaders-campaign-pandemic.html)
+China’s Celebrity Culture Is Raucous. The Authorities Want to Change That.
+--------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/27/world/27canadaletter-conservatives2/27canadaletter-conservatives2-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/canada/canada-leaders-campaign-pandemic.html)
+[Article here](https://www.nytimes.com/2021/08/27/business/media/china-celebrity-culture.html)
 
-While the Conservative leader Erin O’Toole is still hitting the road, his party has also created a virtual method of reaching voters.
+[![](https://static01.nyt.com/images/2021/08/28/world/27china-celebrities-print/27china-celebrities02-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/business/media/china-celebrity-culture.html)
 
-By Ian Austen
+The Communist Party has declared war on idol worship, part of a broader crackdown on what it sees as toxic celebrity culture that is poisoning the minds of the country’s youth.
+
+By Alexandra Stevenson, Amy Chang Chien and Cao Li
 
 * * *
 
