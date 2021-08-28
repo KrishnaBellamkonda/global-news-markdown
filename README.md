@@ -19,29 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Denmark says Covid is no longer a ‘socially critical disease.’
---------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Two New York judges ordered defendants to get vaccinated. Can they do that?
+---------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/world/denmark-says-covid-is-no-longer-a-socially-critical-disease.html)
+[Article here](https://www.nytimes.com/2021/08/26/nyregion/two-new-york-judges-ordered-defendants-to-get-vaccinated-can-they-do-that.html)
 
-[![](https://static01.nyt.com/images/2021/08/27/lens/27virus-briefing-denmark-01/27virus-briefing-denmark-01-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/denmark-says-covid-is-no-longer-a-socially-critical-disease.html)
+[![](https://static01.nyt.com/images/2021/08/23/nyregion/23virus-briefing-vaccinejudge1/merlin_29702029_bc689861-e952-47f1-9abb-76b0257b2b4d-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/nyregion/two-new-york-judges-ordered-defendants-to-get-vaccinated-can-they-do-that.html)
 
-By Kaly Soto
-
-* * *
+By Jonah E. Bromwich
 
 * * *
 
-How Rodrigo Duterte Can Stay No. 1 by Becoming No. 2
-----------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/27/world/asia/philippines-duterte-vice-president-elections.html)
+Satellites Spot Oceans Aglow With Trillions of Organisms
+--------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/27/world/27philippines-01/merlin_193653039_4389f80b-8a91-42cd-8a6a-ace141c770f1-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/asia/philippines-duterte-vice-president-elections.html)
+[Article here](https://www.nytimes.com/2021/08/27/science/ocean-bioluminescent-satellite.html)
 
-The president of the Philippines says he’ll run for the vice presidency next year. Critics see a plot to avoid prosecution for the killings in his drug war.
+[![](https://static01.nyt.com/images/2021/08/27/science/27tb-oceanglow1/merlin_193718949_585a0a67-fa21-48ad-bfc4-a069c9c68fc3-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/science/ocean-bioluminescent-satellite.html)
 
-By Jason Gutierrez
+A new generation of detectors let scientists identify a dozen large episodes of bioluminescence, one a hundred times larger than Manhattan — and that’s the smallest.
+
+By William J. Broad
 
 * * *
 
