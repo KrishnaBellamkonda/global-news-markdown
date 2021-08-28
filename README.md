@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
---------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A Doctor’s Tour de France, One ‘Medical Desert’ at a Time
+---------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/briefing/afghanistan-bombing-brexit.html)
+[Article here](https://www.nytimes.com/2021/08/28/world/europe/france-doctor-shortage-health-care-rural.html)
 
-[![](https://static01.nyt.com/images/2021/08/26/world/27-am-briefing-europe-afghanistan/merlin_193709289_86a82b6d-16d0-4fe6-b7bd-fddb73e377db-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/briefing/afghanistan-bombing-brexit.html)
+[![](https://static01.nyt.com/images/2021/08/25/world/xxfrance-doctor01/merlin_191117265_14e2dff9-157e-48f2-a5fa-9f5f6be253fc-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/europe/france-doctor-shortage-health-care-rural.html)
 
-A deadly bombing in Kabul.
+Newly graduated from medical school, Martial Jardel set off on a five-month road trip to help out in areas of France suffering from a shortage of physicians.
 
-By Natasha Frost
-
-* * *
+By Gaëlle Fournier
 
 * * *
 
-Biden faces a tragedy he worked to avoid.
------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/27/world/biden-faces-a-tragedy-he-worked-to-avoid.html)
+How Canadian Leaders Campaign in a Pandemic
+-------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/26/us/politics/26afghan-brief-biden-today/merlin_193727367_3bf1bcd1-49b4-437c-a867-1790814563cf-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/biden-faces-a-tragedy-he-worked-to-avoid.html)
+[Article here](https://www.nytimes.com/2021/08/27/world/canada/canada-leaders-campaign-pandemic.html)
 
-By Michael D. Shear
+[![](https://static01.nyt.com/images/2021/08/27/world/27canadaletter-conservatives2/27canadaletter-conservatives2-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/canada/canada-leaders-campaign-pandemic.html)
+
+While the Conservative leader Erin O’Toole is still hitting the road, his party has also created a virtual method of reaching voters.
+
+By Ian Austen
 
 * * *
 
