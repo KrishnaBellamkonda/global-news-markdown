@@ -19,29 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After Decades of War, ISIS and Al Qaeda Can Still Wreak Havoc
--------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Biden Faces a Tragedy He Pledged to Avoid
+-----------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/26/world/asia/Afghanistan-isis-qaeda.html)
+[Article here](https://www.nytimes.com/2021/08/27/us/politics/biden-afghanistan-attack.html)
 
-[![](https://static01.nyt.com/images/2021/08/26/world/26afghanistan-isis-lede/merlin_193709913_07f37988-bdd8-4f70-8bc6-9e873fb1f8f9-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/world/asia/Afghanistan-isis-qaeda.html)
+[![](https://static01.nyt.com/images/2021/08/26/us/politics/26dc-biden-afghan-sub/merlin_193726515_20bd649a-3265-4de3-93ab-0a595f16f0da-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/us/politics/biden-afghanistan-attack.html)
 
-The U.S. and its allies waged war for 20 years to try to defeat terrorists in Afghanistan. A double-suicide bombing demonstrated that they remain a threat.
+The president said the evacuation of U.S. citizens and allies from Afghanistan would continue, even after an attack that killed at least 13 American troops and dozens of civilians.
 
-By Ben Hubbard, Eric Schmitt and Matthew Rosenberg
-
-* * *
+By Michael D. Shear
 
 * * *
 
-Two New York judges ordered defendants to get vaccinated. Can they do that?
----------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/26/nyregion/two-new-york-judges-ordered-defendants-to-get-vaccinated-can-they-do-that.html)
+Denmark says Covid is no longer a ‘socially critical disease.’
+--------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/23/nyregion/23virus-briefing-vaccinejudge1/merlin_29702029_bc689861-e952-47f1-9abb-76b0257b2b4d-superJumbo.jpg)](https://www.nytimes.com/2021/08/26/nyregion/two-new-york-judges-ordered-defendants-to-get-vaccinated-can-they-do-that.html)
+[Article here](https://www.nytimes.com/2021/08/27/world/denmark-says-covid-is-no-longer-a-socially-critical-disease.html)
 
-By Jonah E. Bromwich
+[![](https://static01.nyt.com/images/2021/08/27/lens/27virus-briefing-denmark-01/27virus-briefing-denmark-01-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/denmark-says-covid-is-no-longer-a-socially-critical-disease.html)
+
+By Kaly Soto
 
 * * *
 
