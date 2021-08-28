@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After Airport Bombing, an Afghan Family Buries a Father, and Hope
------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The U.S. retaliates over the airport bombing, days before the withdrawal deadline.
+----------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/world/asia/afghanistan-airport-bombing-family.html)
+[Article here](https://www.nytimes.com/2021/08/28/world/asia/the-us-retaliates-over-the-airport-bombing-days-before-the-withdrawal-deadline.html)
 
-[![](https://static01.nyt.com/images/2021/08/27/world/27afghan-family1-promo/merlin_193759119_fe76f728-3754-47c2-9d94-9f4e3a7daf30-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/asia/afghanistan-airport-bombing-family.html)
+[![](https://static01.nyt.com/images/2021/08/28/world/27afghanistan-briefing-usairstrikeTopSUB/merlin_193759392_66acf184-f51b-420e-a54f-8b54f0b7b12e-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/asia/the-us-retaliates-over-the-airport-bombing-days-before-the-withdrawal-deadline.html)
 
-The former police officer, from the Hazara ethnic minority, had hoped to help his family escape the Taliban. Instead, he is now numbered among the scores killed at the Kabul airport.
+The U.S. military said that it had killed its target in the first strike since a deadly attack on the Kabul airport.
 
-By Matthieu Aikins and Victor J. Blue For The New York Times
-
-* * *
+By Daniel Victor, Eric Schmitt, Zia ur-Rehman, Jim Huylebroek, Najim Rahim and Matthieu Aikins
 
 * * *
 
-A baby born on an evacuation flight is named Reach, after the aircraft’s call sign.
------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/27/world/asia/baby-reach-evacuation-aircraft.html)
+Biden warns that new attack is ‘highly likely’ as evacuations slow.
+-------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/26/world/26afghanistan-briefing-babyname/merlin_193501764_b72228fa-6489-4e12-a78e-6cf85b318af6-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/asia/baby-reach-evacuation-aircraft.html)
+[Article here](https://www.nytimes.com/2021/08/28/world/asia/uk-france-afghanistan-evacuation-withdrawal.html)
 
-A U.S. military commander said the baby was one of three born to women who have boarded evacuation flights out of Afghanistan.
+[![](https://static01.nyt.com/images/2021/08/28/world/28afghanistan-briefing-evacuation-end/merlin_193791165_3768a5a6-7833-463b-a081-21056908c8cc-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/asia/uk-france-afghanistan-evacuation-withdrawal.html)
 
-By Isabella Kwai
+U.S. officials estimate that about 350 Americans are still awaiting evacuation from Afghanistan.
+
+By Michael Levenson
 
 * * *
 
