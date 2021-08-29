@@ -19,27 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After one of the deadliest attacks in 20 years of war, many people are still trying to reach the airport.
----------------------------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghanistan Collapse and Strikes in Somalia Raise Snags for Drone Warfare Rules
+-------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/world/asia/after-one-of-the-deadliest-attacks-in-20-years-of-war-many-people-are-still-trying-to-reach-the-airport.html)
+[Article here](https://www.nytimes.com/2021/08/28/us/politics/biden-drones.html)
 
-[![](https://static01.nyt.com/images/2021/08/27/world/27afghanistan-briefing-ledeitem/merlin_193711329_e6c44b6f-566b-4eb7-89d7-a04f4dc9817b-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/asia/after-one-of-the-deadliest-attacks-in-20-years-of-war-many-people-are-still-trying-to-reach-the-airport.html)
+[![](https://static01.nyt.com/images/2021/08/28/us/politics/28dc-drone-1/merlin_179638107_1947905e-9ce6-4d6f-aaa9-6e8aa0918593-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/us/politics/biden-drones.html)
 
-By Daniel Victor, Zia ur-Rehman, Jim Huylebroek, Najim Rahim, Megan Specia, Fahim Abed and Helene Cooper
+But the Biden administration is close to finishing a new playbook for counterterrorism strikes outside conventional war zones.
+
+By Charlie Savage
 
 * * *
 
 * * *
 
-One Afghan family resettling in the U.S. finds a respite.
----------------------------------------------------------
+Pakistan emerges as a winner. What will it do now?
+--------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/28/world/one-afghan-family-resettling-in-the-us-finds-a-respite.html)
+[Article here](https://www.nytimes.com/2021/08/27/world/pakistan-emerges-as-a-winner-what-will-it-do-now.html)
 
-[![](https://static01.nyt.com/images/2021/08/27/us/27afghan-refugee-2/merlin_193691346_24d125cf-98da-482c-8142-18efb56460c5-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/one-afghan-family-resettling-in-the-us-finds-a-respite.html)
+[![](https://static01.nyt.com/images/2021/08/26/world/26afghanistan-briefing-Pakistansbadrep/merlin_193558944_b1c5311b-461c-47c1-ad41-e4e422e8f561-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/pakistan-emerges-as-a-winner-what-will-it-do-now.html)
 
-By Miriam Jordan
+By Jane Perlez
 
 * * *
 
