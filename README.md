@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the All in or All Out? Biden Saw No Middle Ground in Afghanistan.
--------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghanistan Collapse and Strikes in Somalia Raise Snags for Drone Warfare Rules
+-------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/28/us/politics/trump-taliban-biden-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/28/us/politics/biden-drones.html)
 
-[![](https://static01.nyt.com/images/2021/08/28/us/28dc-trump-biden/28dc-trump-biden-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/28/us/politics/trump-taliban-biden-afghanistan.html)
+[![](https://static01.nyt.com/images/2021/08/28/us/politics/28dc-drone-1/merlin_179638107_1947905e-9ce6-4d6f-aaa9-6e8aa0918593-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/us/politics/biden-drones.html)
 
-President Biden’s reductionist formula has prompted a debate over whether the mayhem in Kabul was inevitable or the result of a failure to consider other options.
+But the Biden administration is close to finishing a new playbook for counterterrorism strikes outside conventional war zones.
 
-By Peter Baker
-
-* * *
+By Charlie Savage
 
 * * *
 
-Palestinians Finally Have Vaccines. But Will People Take Them?
---------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/29/world/middleeast/palestinians-covid-vaccines-hesitancy.html)
+Your Monday Briefing
+--------------------
 
-[![](https://static01.nyt.com/images/2021/08/29/world/29palestinians-vaccine6/merlin_193745322_f2df0b4f-b2fe-43b2-b5c2-e0d9ac7acb90-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/middleeast/palestinians-covid-vaccines-hesitancy.html)
+[Article here](https://www.nytimes.com/2021/08/29/briefing/your-monday-briefing.html)
 
-For months, the Palestinian authorities struggled to get doses. Now they have the shots, but disinformation and conspiracy theories have led to widespread hesitancy.
+[![](https://static01.nyt.com/images/2021/08/30/world/30ambriefing-aus-nl-promo/30ambriefing-aus-nl-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/briefing/your-monday-briefing.html)
 
-By Adam Rasgon
+Drone strikes in Afghanistan.
+
+By Amelia Nierenberg
 
 * * *
 
