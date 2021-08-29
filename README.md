@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Fossils Seized in Police Raid Demystify a Prehistoric Flying Reptile
---------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the All in or All Out? Biden Saw No Middle Ground in Afghanistan.
+-------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/science/pterosaur-fossil.html)
+[Article here](https://www.nytimes.com/2021/08/28/us/politics/trump-taliban-biden-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/08/26/multimedia/26xp-fossil-2-promo/26xp-fossil-2-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/science/pterosaur-fossil.html)
+[![](https://static01.nyt.com/images/2021/08/28/us/28dc-trump-biden/28dc-trump-biden-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/28/us/politics/trump-taliban-biden-afghanistan.html)
 
-Among the 3,000 fossils seized at a Brazilian port in 2013 was an almost complete skeleton from the pterosaur species Tupandactylus navigans, preserved in six limestone slabs.
+President Biden’s reductionist formula has prompted a debate over whether the mayhem in Kabul was inevitable or the result of a failure to consider other options.
 
-By Vimal Patel
-
-* * *
+By Peter Baker
 
 * * *
 
-After Video of Abusive Nurse, Canada’s Indigenous Seek Health Overhaul
-----------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/28/world/canada/canada-indigenous-health-care.html)
+Palestinians Finally Have Vaccines. But Will People Take Them?
+--------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/28/world/28canada-indigenoushealth-10/28canada-indigenoushealth-10-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/canada/canada-indigenous-health-care.html)
+[Article here](https://www.nytimes.com/2021/08/29/world/middleeast/palestinians-covid-vaccines-hesitancy.html)
 
-The abuse last year of an Indigenous woman in a Quebec hospital has prompted outrage and underlined the discrimination facing Canada’s Indigenous community.
+[![](https://static01.nyt.com/images/2021/08/29/world/29palestinians-vaccine6/merlin_193745322_f2df0b4f-b2fe-43b2-b5c2-e0d9ac7acb90-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/middleeast/palestinians-covid-vaccines-hesitancy.html)
 
-By Dan Bilefsky
+For months, the Palestinian authorities struggled to get doses. Now they have the shots, but disinformation and conspiracy theories have led to widespread hesitancy.
+
+By Adam Rasgon
 
 * * *
 
