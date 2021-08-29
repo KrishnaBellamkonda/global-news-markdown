@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghanistan Collapse and Strikes in Somalia Raise Snags for Drone Warfare Rules
--------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A study confirms a small risk of blood clots after vaccines, but not as high as the risk Covid brings.
+------------------------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/28/us/politics/biden-drones.html)
+[Article here](https://www.nytimes.com/2021/08/27/health/blood-clots-coronavirus.html)
 
-[![](https://static01.nyt.com/images/2021/08/28/us/politics/28dc-drone-1/merlin_179638107_1947905e-9ce6-4d6f-aaa9-6e8aa0918593-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/us/politics/biden-drones.html)
+[![](https://static01.nyt.com/images/2021/08/27/lens/27virus-briefing-blood-clots-01/merlin_193326705_c8a12ee7-574c-4b03-8701-0b46e15eefc7-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/health/blood-clots-coronavirus.html)
 
-But the Biden administration is close to finishing a new playbook for counterterrorism strikes outside conventional war zones.
+The study adds to the growing evidence that though the coronavirus vaccines are associated with certain rare side effects, those risks are dwarfed by the risks from Covid-19.
 
-By Charlie Savage
-
-* * *
+By Benjamin Mueller
 
 * * *
 
-Pakistan emerges as a winner. What will it do now?
---------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/27/world/pakistan-emerges-as-a-winner-what-will-it-do-now.html)
+The Latest From Afghanistan
+---------------------------
 
-[![](https://static01.nyt.com/images/2021/08/26/world/26afghanistan-briefing-Pakistansbadrep/merlin_193558944_b1c5311b-461c-47c1-ad41-e4e422e8f561-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/pakistan-emerges-as-a-winner-what-will-it-do-now.html)
+[Article here](https://www.nytimes.com/2021/08/27/briefing/afghanistan-attack.html)
 
-By Jane Perlez
+[![](https://static01.nyt.com/images/2021/08/27/multimedia/27AMBriefing-Kabul-02-promo/27AMBriefing-Kabul-02-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/27/briefing/afghanistan-attack.html)
+
+We’ll start with the bombing in Kabul — and then look at the air-quality crisis in the Western U.S.
+
+By David Leonhardt
 
 * * *
 
