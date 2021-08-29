@@ -32,16 +32,14 @@ By Daniel Victor, Zia ur-Rehman, Jim Huylebroek, Najim Rahim, Megan Specia, Fahi
 
 * * *
 
-A reprisal strike killed two ISIS militants and wounded another.
-----------------------------------------------------------------
+One Afghan family resettling in the U.S. finds a respite.
+---------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/28/world/us-airstrike-isis-k.html)
+[Article here](https://www.nytimes.com/2021/08/28/world/one-afghan-family-resettling-in-the-us-finds-a-respite.html)
 
-[![](https://static01.nyt.com/images/2021/08/28/world/28afghanistan-briefing-pentagon/merlin_193806411_2e5053cd-0bbe-47d3-a358-b6dd667fa224-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/us-airstrike-isis-k.html)
+[![](https://static01.nyt.com/images/2021/08/27/us/27afghan-refugee-2/merlin_193691346_24d125cf-98da-482c-8142-18efb56460c5-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/one-afghan-family-resettling-in-the-us-finds-a-respite.html)
 
-Officials refused to give details on the two killed, beyond saying that one was a planner and the other was a facilitator.
-
-By Helene Cooper and Eric Schmitt
+By Miriam Jordan
 
 * * *
 
