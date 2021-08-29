@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Houses of worship struggle with fear of Delta’s rise within their congregations.
---------------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/29/world/houses-of-worship-struggle-with-fear-of-deltas-rise-within-their-congregations.html)
-
-[![](https://static01.nyt.com/images/2021/08/27/us/27virus-brief-churches-covid/merlin_193475325_b26cda1a-a89c-41f3-9d9e-03e0d637a5bc-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/houses-of-worship-struggle-with-fear-of-deltas-rise-within-their-congregations.html)
-
-The variant’s spread came just as churches began welcoming back faithful.
-
-By Liam Stack
-
-* * *
-
-* * *
-
-Myanmar’s Monks, Leaders of Past Protests, Are Divided Over the Coup
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Fossils Seized in Police Raid Demystify a Prehistoric Flying Reptile
 --------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/28/world/asia/myanmar-monks-coup.html)
+[Article here](https://www.nytimes.com/2021/08/27/science/pterosaur-fossil.html)
 
-[![](https://static01.nyt.com/images/2021/08/26/world/00myanmar-buddhism/merlin_184387536_dee33bea-dd52-4f4b-adb0-4477a368a568-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/asia/myanmar-monks-coup.html)
+[![](https://static01.nyt.com/images/2021/08/26/multimedia/26xp-fossil-2-promo/26xp-fossil-2-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/science/pterosaur-fossil.html)
 
-Some senior members of the Buddhist clergy have given their blessing to the generals in power. But hundreds of lower-ranking monks have been jailed for protesting.
+Among the 3,000 fossils seized at a Brazilian port in 2013 was an almost complete skeleton from the pterosaur species Tupandactylus navigans, preserved in six limestone slabs.
 
-By Hannah Beech
+By Vimal Patel
+
+* * *
+
+* * *
+
+After Video of Abusive Nurse, Canada’s Indigenous Seek Health Overhaul
+----------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/28/world/canada/canada-indigenous-health-care.html)
+
+[![](https://static01.nyt.com/images/2021/08/28/world/28canada-indigenoushealth-10/28canada-indigenoushealth-10-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/canada/canada-indigenous-health-care.html)
+
+The abuse last year of an Indigenous woman in a Quebec hospital has prompted outrage and underlined the discrimination facing Canada’s Indigenous community.
+
+By Dan Bilefsky
 
 * * *
 
