@@ -19,29 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Biden faces a tragedy he worked to avoid.
------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After one of the deadliest attacks in 20 years of war, many people are still trying to reach the airport.
+---------------------------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/world/biden-faces-a-tragedy-he-worked-to-avoid.html)
+[Article here](https://www.nytimes.com/2021/08/27/world/asia/after-one-of-the-deadliest-attacks-in-20-years-of-war-many-people-are-still-trying-to-reach-the-airport.html)
 
-[![](https://static01.nyt.com/images/2021/09/26/us/politics/26afghan-brief-biden-today/merlin_193727367_3bf1bcd1-49b4-437c-a867-1790814563cf-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/biden-faces-a-tragedy-he-worked-to-avoid.html)
+[![](https://static01.nyt.com/images/2021/08/27/world/27afghanistan-briefing-ledeitem/merlin_193711329_e6c44b6f-566b-4eb7-89d7-a04f4dc9817b-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/asia/after-one-of-the-deadliest-attacks-in-20-years-of-war-many-people-are-still-trying-to-reach-the-airport.html)
 
-By Michael D. Shear
-
-* * *
+By Daniel Victor, Zia ur-Rehman, Jim Huylebroek, Najim Rahim, Megan Specia, Fahim Abed and Helene Cooper
 
 * * *
 
-Biden warns that new attack is ‘highly likely’ as evacuations slow.
--------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/28/world/asia/uk-france-afghanistan-evacuation-withdrawal.html)
+A reprisal strike killed two ISIS militants and wounded another.
+----------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/28/world/28afghanistan-briefing-evacuation-end/merlin_193791165_3768a5a6-7833-463b-a081-21056908c8cc-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/asia/uk-france-afghanistan-evacuation-withdrawal.html)
+[Article here](https://www.nytimes.com/2021/08/28/world/us-airstrike-isis-k.html)
 
-U.S. officials again warned Americans to leave the Kabul airport because of security threats.
+[![](https://static01.nyt.com/images/2021/08/28/world/28afghanistan-briefing-pentagon/merlin_193806411_2e5053cd-0bbe-47d3-a358-b6dd667fa224-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/us-airstrike-isis-k.html)
 
-By Michael Levenson
+Officials refused to give details on the two killed, beyond saying that one was a planner and the other was a facilitator.
+
+By Helene Cooper and Eric Schmitt
 
 * * *
 
