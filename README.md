@@ -19,27 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Denmark says Covid is no longer a ‘socially critical disease.’
---------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Houses of worship struggle with fear of Delta’s rise within their congregations.
+--------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/world/denmark-says-covid-is-no-longer-a-socially-critical-disease.html)
+[Article here](https://www.nytimes.com/2021/08/29/world/houses-of-worship-struggle-with-fear-of-deltas-rise-within-their-congregations.html)
 
-[![](https://static01.nyt.com/images/2021/08/27/lens/27virus-briefing-denmark-01/27virus-briefing-denmark-01-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/denmark-says-covid-is-no-longer-a-socially-critical-disease.html)
+[![](https://static01.nyt.com/images/2021/08/27/us/27virus-brief-churches-covid/merlin_193475325_b26cda1a-a89c-41f3-9d9e-03e0d637a5bc-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/houses-of-worship-struggle-with-fear-of-deltas-rise-within-their-congregations.html)
 
-By Kaly Soto
+The variant’s spread came just as churches began welcoming back faithful.
+
+By Liam Stack
 
 * * *
 
 * * *
 
-Biden faces a tragedy he worked to avoid.
------------------------------------------
+Myanmar’s Monks, Leaders of Past Protests, Are Divided Over the Coup
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/world/biden-faces-a-tragedy-he-worked-to-avoid.html)
+[Article here](https://www.nytimes.com/2021/08/28/world/asia/myanmar-monks-coup.html)
 
-[![](https://static01.nyt.com/images/2021/09/26/us/politics/26afghan-brief-biden-today/merlin_193727367_3bf1bcd1-49b4-437c-a867-1790814563cf-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/biden-faces-a-tragedy-he-worked-to-avoid.html)
+[![](https://static01.nyt.com/images/2021/08/26/world/00myanmar-buddhism/merlin_184387536_dee33bea-dd52-4f4b-adb0-4477a368a568-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/asia/myanmar-monks-coup.html)
 
-By Michael D. Shear
+Some senior members of the Buddhist clergy have given their blessing to the generals in power. But hundreds of lower-ranking monks have been jailed for protesting.
+
+By Hannah Beech
 
 * * *
 
