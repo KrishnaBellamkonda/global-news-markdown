@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In Climate Coverage, Reporting the Grim Facts, but Also the Fight
------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Biden faces a tragedy he worked to avoid.
+-----------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/insider/united-nations-climate-report.html)
+[Article here](https://www.nytimes.com/2021/08/27/world/biden-faces-a-tragedy-he-worked-to-avoid.html)
 
-[![](https://static01.nyt.com/images/2021/08/27/pageoneplus/27a2_itt/merlin_165791109_1106c605-c251-49da-80f3-00a3dc530cfb-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/insider/united-nations-climate-report.html)
+[![](https://static01.nyt.com/images/2021/09/26/us/politics/26afghan-brief-biden-today/merlin_193727367_3bf1bcd1-49b4-437c-a867-1790814563cf-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/biden-faces-a-tragedy-he-worked-to-avoid.html)
 
-A Times journalist distills the recent U.N. report and talks about how he treats a beat that can get more than a little gloomy.
-
-By Katie Van Syckle
+By Michael D. Shear
 
 * * *
 
 * * *
 
-Fossils Seized in Police Raid Demystify a Prehistoric Flying Reptile
---------------------------------------------------------------------
+Biden warns that new attack is ‘highly likely’ as evacuations slow.
+-------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/27/science/pterosaur-fossil.html)
+[Article here](https://www.nytimes.com/2021/08/28/world/asia/uk-france-afghanistan-evacuation-withdrawal.html)
 
-[![](https://static01.nyt.com/images/2021/08/26/multimedia/26xp-fossil-2-promo/26xp-fossil-2-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/science/pterosaur-fossil.html)
+[![](https://static01.nyt.com/images/2021/08/28/world/28afghanistan-briefing-evacuation-end/merlin_193791165_3768a5a6-7833-463b-a081-21056908c8cc-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/asia/uk-france-afghanistan-evacuation-withdrawal.html)
 
-Among the 3,000 fossils seized at a Brazilian port in 2013 was an almost complete skeleton from the pterosaur species Tupandactylus navigans, preserved in six limestone slabs.
+U.S. officials again warned Americans to leave the Kabul airport because of security threats.
 
-By Vimal Patel
+By Michael Levenson
 
 * * *
 
