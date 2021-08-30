@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the What we know about the 13 U.S. service members killed in the Kabul attack.
---------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After Video of Abusive Nurse, Canada’s Indigenous Seek Health Overhaul
+----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/article/us-soldiers-killed-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/28/world/canada/canada-indigenous-health-care.html)
 
-[![](https://static01.nyt.com/images/2021/08/28/us/28afghan-deaths-grid/28afghan-deaths-grid-superJumbo.jpg)](https://www.nytimes.com/article/us-soldiers-killed-afghanistan.html)
+[![](https://static01.nyt.com/images/2021/08/28/world/28canada-indigenoushealth-10/28canada-indigenoushealth-10-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/canada/canada-indigenous-health-care.html)
 
-They had an average age of just over 22 and came from towns across the country.
+The abuse last year of an Indigenous woman in a Quebec hospital has prompted outrage and underlined the discrimination facing Canada’s Indigenous community.
 
-By Nicholas Bogel-Burroughs
-
-* * *
+By Dan Bilefsky
 
 * * *
 
-Biden witnesses the return of service members killed in the Kabul airport bombing.
-----------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/29/world/asia/kabul-airport-attack-biden.html)
+Myanmar’s Monks, Leaders of Past Protests, Are Divided Over the Coup
+--------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/29/world/29afghanistan-briefing-dc2/29afghanistan-briefing-dc2-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/asia/kabul-airport-attack-biden.html)
+[Article here](https://www.nytimes.com/2021/08/28/world/asia/myanmar-monks-coup.html)
 
-They include 11 Marines, a Navy medic and a member of the Army.
+[![](https://static01.nyt.com/images/2021/08/26/world/00myanmar-buddhism/merlin_184387536_dee33bea-dd52-4f4b-adb0-4477a368a568-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/asia/myanmar-monks-coup.html)
 
-By Jim Tankersley
+Some senior members of the Buddhist clergy have given their blessing to the generals in power. But hundreds of lower-ranking monks have been jailed for protesting.
+
+By Hannah Beech
 
 * * *
 
