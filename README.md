@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A reprisal strike killed two ISIS militants and wounded another.
-----------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As the Taliban Tighten Their Grip, Fears of Retribution Grow
+------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/28/world/us-airstrike-isis-k.html)
+[Article here](https://www.nytimes.com/2021/08/29/world/asia/afghanistan-taliban-revenge.html)
 
-[![](https://static01.nyt.com/images/2021/08/28/world/28afghanistan-briefing-pentagon/merlin_193806411_2e5053cd-0bbe-47d3-a358-b6dd667fa224-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/us-airstrike-isis-k.html)
+[![](https://static01.nyt.com/images/2021/08/27/world/27afghan-vengence/merlin_193559241_e1291990-25e6-42f1-848f-ac132e00c5be-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/asia/afghanistan-taliban-revenge.html)
 
-Officials refused to give details on the two killed, beyond saying that one was a planner and the other was a facilitator.
+Taliban leaders have promised amnesty to Afghan officials and soldiers, but there are increasing reports of detentions, disappearances and even executions.
 
-By Helene Cooper and Eric Schmitt
-
-* * *
+By Carlotta Gall
 
 * * *
 
-After Airport Bombing, an Afghan Family Buries a Father, and Hope
------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/27/world/asia/afghanistan-airport-bombing-family.html)
+China’s Celebrity Culture Is Raucous. The Authorities Want to Change That.
+--------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/27/world/27afghan-family1-promo/merlin_193759119_fe76f728-3754-47c2-9d94-9f4e3a7daf30-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/asia/afghanistan-airport-bombing-family.html)
+[Article here](https://www.nytimes.com/2021/08/27/business/media/china-celebrity-culture.html)
 
-The former police officer, from the Hazara ethnic minority, had hoped to help his family escape the Taliban. Instead, he is now numbered among the scores killed at the Kabul airport.
+[![](https://static01.nyt.com/images/2021/08/28/world/27china-celebrities-print/27china-celebrities02-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/business/media/china-celebrity-culture.html)
 
-By Matthieu Aikins and Victor J. Blue For The New York Times
+The Communist Party has declared war on idol worship, part of a broader crackdown on what it sees as toxic celebrity culture that is poisoning the minds of the country’s youth.
+
+By Alexandra Stevenson, Amy Chang Chien and Cao Li
 
 * * *
 
