@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Houses of worship struggle with fear of Delta’s rise within their congregations.
---------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Italy will impose tighter restrictions in Sicily after a surge in cases.
+------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/29/world/houses-of-worship-struggle-with-fear-of-deltas-rise-within-their-congregations.html)
+[Article here](https://www.nytimes.com/2021/08/28/world/italy-restrictions-sicily-virus-surge.html)
 
-[![](https://static01.nyt.com/images/2021/08/27/us/27virus-brief-churches-covid/merlin_193475325_b26cda1a-a89c-41f3-9d9e-03e0d637a5bc-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/houses-of-worship-struggle-with-fear-of-deltas-rise-within-their-congregations.html)
+[![](https://static01.nyt.com/images/2021/08/28/world/28virus-brief-sicily/merlin_187835475_f4f3bad6-06ac-4854-87c3-fdf0776fd504-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/italy-restrictions-sicily-virus-surge.html)
 
-The variant’s spread came just as churches began welcoming back faithful.
+A majority of hospitalizations on the southern island have involved the unvaccinated, and many have yet to get shots.
 
-By Liam Stack
-
-* * *
+By Emma Bubola
 
 * * *
 
-98 Countries Pledge to Accept Afghans After U.S. Military Departs
------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/29/us/politics/afghanistan-refugees.html)
+Myanmar’s Monks, Leaders of Past Protests, Are Divided Over the Coup
+--------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/28/multimedia/28DC-evacuate-01/28DC-evacuate-01-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/us/politics/afghanistan-refugees.html)
+[Article here](https://www.nytimes.com/2021/08/28/world/asia/myanmar-monks-coup.html)
 
-A joint statement from the United States and other countries said that they had “received assurances from the Taliban” that people with travel documents showing they were clear to enter any of those countries could safely depart.
+[![](https://static01.nyt.com/images/2021/08/26/world/00myanmar-buddhism/merlin_184387536_dee33bea-dd52-4f4b-adb0-4477a368a568-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/asia/myanmar-monks-coup.html)
 
-By Lara Jakes
+Some senior members of the Buddhist clergy have given their blessing to the generals in power. But hundreds of lower-ranking monks have been jailed for protesting.
+
+By Hannah Beech
 
 * * *
 
