@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After Video of Abusive Nurse, Canada’s Indigenous Seek Health Overhaul
-----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the All in or All Out? Biden Saw No Middle Ground in Afghanistan.
+-------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/28/world/canada/canada-indigenous-health-care.html)
+[Article here](https://www.nytimes.com/2021/08/28/us/politics/trump-taliban-biden-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/08/28/world/28canada-indigenoushealth-10/28canada-indigenoushealth-10-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/canada/canada-indigenous-health-care.html)
+[![](https://static01.nyt.com/images/2021/08/28/us/28dc-trump-biden/28dc-trump-biden-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/28/us/politics/trump-taliban-biden-afghanistan.html)
 
-The abuse last year of an Indigenous woman in a Quebec hospital has prompted outrage and underlined the discrimination facing Canada’s Indigenous community.
+President Biden’s reductionist formula has prompted a debate over whether the mayhem in Kabul was inevitable or the result of a failure to consider other options.
 
-By Dan Bilefsky
-
-* * *
+By Peter Baker
 
 * * *
 
-Myanmar’s Monks, Leaders of Past Protests, Are Divided Over the Coup
---------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/28/world/asia/myanmar-monks-coup.html)
+Houses of worship struggle with fear of Delta’s rise within their congregations.
+--------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/26/world/00myanmar-buddhism/merlin_184387536_dee33bea-dd52-4f4b-adb0-4477a368a568-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/asia/myanmar-monks-coup.html)
+[Article here](https://www.nytimes.com/2021/08/29/world/houses-of-worship-struggle-with-fear-of-deltas-rise-within-their-congregations.html)
 
-Some senior members of the Buddhist clergy have given their blessing to the generals in power. But hundreds of lower-ranking monks have been jailed for protesting.
+[![](https://static01.nyt.com/images/2021/08/27/us/27virus-brief-churches-covid/merlin_193475325_b26cda1a-a89c-41f3-9d9e-03e0d637a5bc-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/houses-of-worship-struggle-with-fear-of-deltas-rise-within-their-congregations.html)
 
-By Hannah Beech
+The variant’s spread came just as churches began welcoming back faithful.
+
+By Liam Stack
 
 * * *
 
