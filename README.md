@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghanistan Collapse and Strikes in Somalia Raise Snags for Drone Warfare Rules
--------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the A reprisal strike killed two ISIS militants and wounded another.
+----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/28/us/politics/biden-drones.html)
+[Article here](https://www.nytimes.com/2021/08/28/world/us-airstrike-isis-k.html)
 
-[![](https://static01.nyt.com/images/2021/08/28/us/politics/28dc-drone-1/merlin_179638107_1947905e-9ce6-4d6f-aaa9-6e8aa0918593-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/us/politics/biden-drones.html)
+[![](https://static01.nyt.com/images/2021/08/28/world/28afghanistan-briefing-pentagon/merlin_193806411_2e5053cd-0bbe-47d3-a358-b6dd667fa224-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/us-airstrike-isis-k.html)
 
-But the Biden administration is close to finishing a new playbook for counterterrorism strikes outside conventional war zones.
+Officials refused to give details on the two killed, beyond saying that one was a planner and the other was a facilitator.
 
-By Charlie Savage
-
-* * *
+By Helene Cooper and Eric Schmitt
 
 * * *
 
-Your Monday Briefing
---------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/29/briefing/your-monday-briefing.html)
+After Airport Bombing, an Afghan Family Buries a Father, and Hope
+-----------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/30/world/30ambriefing-aus-nl-promo/30ambriefing-aus-nl-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/briefing/your-monday-briefing.html)
+[Article here](https://www.nytimes.com/2021/08/27/world/asia/afghanistan-airport-bombing-family.html)
 
-Drone strikes in Afghanistan.
+[![](https://static01.nyt.com/images/2021/08/27/world/27afghan-family1-promo/merlin_193759119_fe76f728-3754-47c2-9d94-9f4e3a7daf30-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/world/asia/afghanistan-airport-bombing-family.html)
 
-By Amelia Nierenberg
+The former police officer, from the Hazara ethnic minority, had hoped to help his family escape the Taliban. Instead, he is now numbered among the scores killed at the Kabul airport.
+
+By Matthieu Aikins and Victor J. Blue For The New York Times
 
 * * *
 
