@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Monday Briefing
---------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Houses of worship struggle with fear of Delta’s rise within their congregations.
+--------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/29/briefing/your-monday-briefing.html)
+[Article here](https://www.nytimes.com/2021/08/29/world/houses-of-worship-struggle-with-fear-of-deltas-rise-within-their-congregations.html)
 
-[![](https://static01.nyt.com/images/2021/08/30/world/30ambriefing-aus-nl-promo/30ambriefing-aus-nl-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/briefing/your-monday-briefing.html)
+[![](https://static01.nyt.com/images/2021/08/27/us/27virus-brief-churches-covid/merlin_193475325_b26cda1a-a89c-41f3-9d9e-03e0d637a5bc-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/houses-of-worship-struggle-with-fear-of-deltas-rise-within-their-congregations.html)
 
-Drone strikes in Afghanistan.
+The variant’s spread came just as churches began welcoming back faithful.
 
-By Amelia Nierenberg
-
-* * *
+By Liam Stack
 
 * * *
 
-The U.S. strikes vehicle loaded with explosives in Kabul.
----------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/29/world/us-kills-suicide-bombers.html)
+98 Countries Pledge to Accept Afghans After U.S. Military Departs
+-----------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/29/world/29afghanistan-briefing-ledeitem3/29afghanistan-briefing-ledeitem3-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/us-kills-suicide-bombers.html)
+[Article here](https://www.nytimes.com/2021/08/29/us/politics/afghanistan-refugees.html)
 
-The possibility of civilian casualties was being investigated. The strike came hours after President Biden had warned of another possible terrorist attack.
+[![](https://static01.nyt.com/images/2021/08/28/multimedia/28DC-evacuate-01/28DC-evacuate-01-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/us/politics/afghanistan-refugees.html)
 
-By Helene Cooper, Eric Schmitt, David Zucchino, Najim Rahim and Thomas Kaplan
+A joint statement from the United States and other countries said that they had “received assurances from the Taliban” that people with travel documents showing they were clear to enter any of those countries could safely depart.
+
+By Lara Jakes
 
 * * *
 
