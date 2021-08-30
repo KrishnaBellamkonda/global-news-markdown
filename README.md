@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the As the Taliban Tighten Their Grip, Fears of Retribution Grow
-------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Monday Briefing
+--------------------
 
-[Article here](https://www.nytimes.com/2021/08/29/world/asia/afghanistan-taliban-revenge.html)
+[Article here](https://www.nytimes.com/2021/08/29/briefing/your-monday-briefing.html)
 
-[![](https://static01.nyt.com/images/2021/08/27/world/27afghan-vengence/merlin_193559241_e1291990-25e6-42f1-848f-ac132e00c5be-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/asia/afghanistan-taliban-revenge.html)
+[![](https://static01.nyt.com/images/2021/08/30/world/30ambriefing-aus-nl-promo/30ambriefing-aus-nl-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/briefing/your-monday-briefing.html)
 
-Taliban leaders have promised amnesty to Afghan officials and soldiers, but there are increasing reports of detentions, disappearances and even executions.
+Drone strikes in Afghanistan.
 
-By Carlotta Gall
-
-* * *
+By Amelia Nierenberg
 
 * * *
 
-China’s Celebrity Culture Is Raucous. The Authorities Want to Change That.
---------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/27/business/media/china-celebrity-culture.html)
+The U.S. strikes vehicle loaded with explosives in Kabul.
+---------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/28/world/27china-celebrities-print/27china-celebrities02-superJumbo.jpg)](https://www.nytimes.com/2021/08/27/business/media/china-celebrity-culture.html)
+[Article here](https://www.nytimes.com/2021/08/29/world/us-kills-suicide-bombers.html)
 
-The Communist Party has declared war on idol worship, part of a broader crackdown on what it sees as toxic celebrity culture that is poisoning the minds of the country’s youth.
+[![](https://static01.nyt.com/images/2021/08/29/world/29afghanistan-briefing-ledeitem3/29afghanistan-briefing-ledeitem3-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/us-kills-suicide-bombers.html)
 
-By Alexandra Stevenson, Amy Chang Chien and Cao Li
+The possibility of civilian casualties was being investigated. The strike came hours after President Biden had warned of another possible terrorist attack.
+
+By Helene Cooper, Eric Schmitt, David Zucchino, Najim Rahim and Thomas Kaplan
 
 * * *
 
