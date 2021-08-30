@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Italy will impose tighter restrictions in Sicily after a surge in cases.
-------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the What we know about the 13 U.S. service members killed in the Kabul attack.
+--------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/28/world/italy-restrictions-sicily-virus-surge.html)
+[Article here](https://www.nytimes.com/article/us-soldiers-killed-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/08/28/world/28virus-brief-sicily/merlin_187835475_f4f3bad6-06ac-4854-87c3-fdf0776fd504-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/italy-restrictions-sicily-virus-surge.html)
+[![](https://static01.nyt.com/images/2021/08/28/us/28afghan-deaths-grid/28afghan-deaths-grid-superJumbo.jpg)](https://www.nytimes.com/article/us-soldiers-killed-afghanistan.html)
 
-A majority of hospitalizations on the southern island have involved the unvaccinated, and many have yet to get shots.
+They had an average age of just over 22 and came from towns across the country.
 
-By Emma Bubola
-
-* * *
+By Nicholas Bogel-Burroughs
 
 * * *
 
-Myanmar’s Monks, Leaders of Past Protests, Are Divided Over the Coup
---------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/28/world/asia/myanmar-monks-coup.html)
+Biden witnesses the return of service members killed in the Kabul airport bombing.
+----------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/26/world/00myanmar-buddhism/merlin_184387536_dee33bea-dd52-4f4b-adb0-4477a368a568-superJumbo.jpg)](https://www.nytimes.com/2021/08/28/world/asia/myanmar-monks-coup.html)
+[Article here](https://www.nytimes.com/2021/08/29/world/asia/kabul-airport-attack-biden.html)
 
-Some senior members of the Buddhist clergy have given their blessing to the generals in power. But hundreds of lower-ranking monks have been jailed for protesting.
+[![](https://static01.nyt.com/images/2021/08/29/world/29afghanistan-briefing-dc2/29afghanistan-briefing-dc2-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/asia/kabul-airport-attack-biden.html)
 
-By Hannah Beech
+They include 11 Marines, a Navy medic and a member of the Army.
+
+By Jim Tankersley
 
 * * *
 
