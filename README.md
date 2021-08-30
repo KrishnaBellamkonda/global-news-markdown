@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the All in or All Out? Biden Saw No Middle Ground in Afghanistan.
--------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Monday Briefing
+--------------------
 
-[Article here](https://www.nytimes.com/2021/08/28/us/politics/trump-taliban-biden-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/30/briefing/afghanistan-ida-coronavirus.html)
 
-[![](https://static01.nyt.com/images/2021/08/28/us/28dc-trump-biden/28dc-trump-biden-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/28/us/politics/trump-taliban-biden-afghanistan.html)
+[![](https://static01.nyt.com/images/2021/08/30/multimedia/30AM-Brf-Afghanistan-02-promo/merlin_193862055_c84f2cb7-754a-440a-8129-addeb775e52e-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/briefing/afghanistan-ida-coronavirus.html)
 
-President Biden’s reductionist formula has prompted a debate over whether the mayhem in Kabul was inevitable or the result of a failure to consider other options.
+A U.S. drone strike in Kabul.
 
-By Peter Baker
-
-* * *
+By Natasha Frost
 
 * * *
 
-Houses of worship struggle with fear of Delta’s rise within their congregations.
---------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/29/world/houses-of-worship-struggle-with-fear-of-deltas-rise-within-their-congregations.html)
+U.S. shoots down rockets aimed at Kabul’s airport.
+--------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/27/us/27virus-brief-churches-covid/merlin_193475325_b26cda1a-a89c-41f3-9d9e-03e0d637a5bc-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/houses-of-worship-struggle-with-fear-of-deltas-rise-within-their-congregations.html)
+[Article here](https://www.nytimes.com/2021/08/30/world/us-rockets-kabul-airport.html)
 
-The variant’s spread came just as churches began welcoming back faithful.
+[![](https://static01.nyt.com/images/2021/09/29/world/29afghanistan-briefing-lede-1sub/merlin_193889613_af471152-189d-4062-8ba8-a3c9b5129687-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/us-rockets-kabul-airport.html)
 
-By Liam Stack
+The attacks came with just two days remaining before President Biden’s deadline to complete the withdrawal, capping 20 years of war in Afghanistan.
+
+By Eric Schmitt and Dan Bilefsky
 
 * * *
 
