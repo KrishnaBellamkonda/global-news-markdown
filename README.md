@@ -19,20 +19,7 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Some Afghans say that enemies of the Taliban have begun to disappear.
----------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/29/world/some-afghans-say-that-enemies-of-the-taliban-have-begun-to-disappear.html)
-
-[![](https://static01.nyt.com/images/2021/08/28/world/29afghanistan-briefing-vengeance/merlin_193304067_9c7bc984-0717-4f7d-9f7d-2896c7292e6f-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/some-afghans-say-that-enemies-of-the-taliban-have-begun-to-disappear.html)
-
-By Carlotta Gall
-
-* * *
-
-* * *
-
-98 Countries Pledge to Accept Afghans After U.S. Military Departs
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the 98 Countries Pledge to Accept Afghans After U.S. Military Departs
 -----------------------------------------------------------------
 
 [Article here](https://www.nytimes.com/2021/08/29/us/politics/afghanistan-refugees.html)
@@ -42,6 +29,21 @@ By Carlotta Gall
 A joint statement from the United States and other countries said that they had “received assurances from the Taliban” that people with travel documents showing they were clear to enter any of those countries could safely depart.
 
 By Lara Jakes
+
+* * *
+
+* * *
+
+Palestinians Finally Have Vaccines. But Will People Take Them?
+--------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/08/29/world/middleeast/palestinians-covid-vaccines-hesitancy.html)
+
+[![](https://static01.nyt.com/images/2021/08/29/world/29palestinians-vaccine6/merlin_193745322_f2df0b4f-b2fe-43b2-b5c2-e0d9ac7acb90-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/middleeast/palestinians-covid-vaccines-hesitancy.html)
+
+For months, the Palestinian authorities struggled to get doses. Now they have the shots, but disinformation and conspiracy theories have led to widespread hesitancy.
+
+By Adam Rasgon
 
 * * *
 
