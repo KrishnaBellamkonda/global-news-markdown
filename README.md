@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Monday Briefing
---------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the For France, American Vines Still Mean Sour Grapes
+-------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/30/briefing/afghanistan-ida-coronavirus.html)
+[Article here](https://www.nytimes.com/2021/08/29/world/europe/france-wine-usa.html)
 
-[![](https://static01.nyt.com/images/2021/08/30/multimedia/30AM-Brf-Afghanistan-02-promo/merlin_193862055_c84f2cb7-754a-440a-8129-addeb775e52e-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/briefing/afghanistan-ida-coronavirus.html)
+[![](https://static01.nyt.com/images/2021/08/27/world/00FRANCE-FORBIDDEN-WINE01/merlin_193616151_3d7cb817-1280-4db8-9075-fca26496487f-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/europe/france-wine-usa.html)
 
-A U.S. drone strike in Kabul.
+French authorities have tried to outlaw hardy American hybrids for 87 years. But climate change and the natural wine movement are giving renegade winemakers a lift.
 
-By Natasha Frost
-
-* * *
+By Norimitsu Onishi
 
 * * *
 
-U.S. shoots down rockets aimed at Kabul’s airport.
---------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/30/world/us-rockets-kabul-airport.html)
+At Least One Dead as Tropical Storm Nora Lashes Mexico With Heavy Rain
+----------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/29/world/29afghanistan-briefing-lede-1sub/merlin_193889613_af471152-189d-4062-8ba8-a3c9b5129687-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/us-rockets-kabul-airport.html)
+[Article here](https://www.nytimes.com/2021/08/29/world/americas/nora-storm-news.html)
 
-The attacks came with just two days remaining before President Biden’s deadline to complete the withdrawal, capping 20 years of war in Afghanistan.
+[![](https://static01.nyt.com/images/2021/08/29/multimedia/00xp-Nora-02/00xp-Nora-02-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/americas/nora-storm-news.html)
 
-By Eric Schmitt and Dan Bilefsky
+The storm, which was downgraded from a hurricane, battered western Mexico with rain and was also blamed for at least two injuries in Jalisco State.
+
+By Alyssa Lukpat
 
 * * *
 
