@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the For France, American Vines Still Mean Sour Grapes
--------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Some Afghans say that enemies of the Taliban have begun to disappear.
+---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/29/world/europe/france-wine-usa.html)
+[Article here](https://www.nytimes.com/2021/08/29/world/some-afghans-say-that-enemies-of-the-taliban-have-begun-to-disappear.html)
 
-[![](https://static01.nyt.com/images/2021/08/27/world/00FRANCE-FORBIDDEN-WINE01/merlin_193616151_3d7cb817-1280-4db8-9075-fca26496487f-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/europe/france-wine-usa.html)
+[![](https://static01.nyt.com/images/2021/08/28/world/29afghanistan-briefing-vengeance/merlin_193304067_9c7bc984-0717-4f7d-9f7d-2896c7292e6f-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/some-afghans-say-that-enemies-of-the-taliban-have-begun-to-disappear.html)
 
-French authorities have tried to outlaw hardy American hybrids for 87 years. But climate change and the natural wine movement are giving renegade winemakers a lift.
-
-By Norimitsu Onishi
+By Carlotta Gall
 
 * * *
 
 * * *
 
-At Least One Dead as Tropical Storm Nora Lashes Mexico With Heavy Rain
-----------------------------------------------------------------------
+98 Countries Pledge to Accept Afghans After U.S. Military Departs
+-----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/29/world/americas/nora-storm-news.html)
+[Article here](https://www.nytimes.com/2021/08/29/us/politics/afghanistan-refugees.html)
 
-[![](https://static01.nyt.com/images/2021/08/29/multimedia/00xp-Nora-02/00xp-Nora-02-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/americas/nora-storm-news.html)
+[![](https://static01.nyt.com/images/2021/08/28/multimedia/28DC-evacuate-01/28DC-evacuate-01-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/us/politics/afghanistan-refugees.html)
 
-The storm, which was downgraded from a hurricane, battered western Mexico with rain and was also blamed for at least two injuries in Jalisco State.
+A joint statement from the United States and other countries said that they had “received assurances from the Taliban” that people with travel documents showing they were clear to enter any of those countries could safely depart.
 
-By Alyssa Lukpat
+By Lara Jakes
 
 * * *
 
