@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Can Afghanistan’s Leading Broadcaster Survive the Taliban?
-----------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Monday Briefing
+--------------------
 
-[Article here](https://www.nytimes.com/2021/08/30/world/asia/afghanistan-tolo-taliban.html)
+[Article here](https://www.nytimes.com/2021/08/30/briefing/afghanistan-ida-coronavirus.html)
 
-[![](https://static01.nyt.com/images/2021/08/26/world/00afghanistan-tolo-01/merlin_144065925_699ea1ef-0f6d-48af-a60a-780c4dcf2240-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/asia/afghanistan-tolo-taliban.html)
+[![](https://static01.nyt.com/images/2021/08/30/multimedia/30AM-Brf-Afghanistan-02-promo/merlin_193862055_c84f2cb7-754a-440a-8129-addeb775e52e-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/briefing/afghanistan-ida-coronavirus.html)
 
-Tolo came to prominence with hard-hitting news, raucous reality shows and lurid Turkish soap operas. Now there are ominous signs that a violent media clampdown is underway.
+A U.S. drone strike in Kabul.
 
-By Dan Bilefsky
-
-* * *
+By Natasha Frost
 
 * * *
 
-North Korea Restarted Plutonium-Producing Reactor, U.N. Agency Warns
---------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/30/world/asia/north-korea-yongbyon-nuclear-plant.html)
+A W.H.O. official urges measures to keep schools open.
+------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/30/world/30nkorea-1/merlin_184555557_803a1cb5-1302-4538-9fde-83db06b4b9a4-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/asia/north-korea-yongbyon-nuclear-plant.html)
+[Article here](https://www.nytimes.com/2021/08/30/world/a-who-official-urges-measures-to-keep-schools-open.html)
 
-​The activities at the sprawling nuclear complex in Yongbyon suggest that the country is once again ramping up its nuclear weapons program.
+[![](https://static01.nyt.com/images/2021/08/30/world/30virus-briefing-WHO/merlin_193704558_eec0b183-e764-40e2-9eae-3b69980efa9c-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/a-who-official-urges-measures-to-keep-schools-open.html)
 
-By Choe Sang-Hun
+By Nick Cumming-Bruce
 
 * * *
 
