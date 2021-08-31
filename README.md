@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the U.S. Strikes Explosive-Laden Vehicle in Kabul
----------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How 2 Afghan Paralympians Defied the Odds to Get From Kabul to Tokyo
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/29/us/politics/us-strike-kabul-airport.html)
+[Article here](https://www.nytimes.com/2021/08/30/world/asia/afghan-paralympians-kabul-tokyo.html)
 
-[![](https://static01.nyt.com/images/2021/08/29/us/politics/29dc-airstrikes/merlin_193858926_e4b68ef9-d535-42b0-ab1d-fab2b5ebc60e-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/us/politics/us-strike-kabul-airport.html)
+[![](https://static01.nyt.com/images/2021/08/31/world/30japan-paralympics-print/30japan-paralympics02-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/asia/afghan-paralympians-kabul-tokyo.html)
 
-The drone strike came after a warning from President Biden that another terrorist attack at the Afghan capital’s airport was “highly likely.”
+Their evacuation and eventual arrival in Japan involved multiple stops and many helping hands.
 
-By Helene Cooper and Eric Schmitt
-
-* * *
+By Motoko Rich, Yan Zhuang and Aurelien Breeden
 
 * * *
 
-A New Breed of Crisis: War and Warming Collide in Afghanistan
--------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/30/climate/afghanistan-climate-taliban.html)
+Biden receives the bodies of soldiers killed in the Kabul bombing.
+------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/26/climate/00cl-afghanistan1/merlin_190820895_8335b039-57ef-4fdc-b939-7a0b97d00637-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/climate/afghanistan-climate-taliban.html)
+[Article here](https://www.nytimes.com/2021/08/30/world/biden-receives-the-bodies-of-soldiers-killed-in-the-kabul-bombing.html)
 
-Unrest and climate change are creating an agonizing feedback loop that punishes some of the world’s most vulnerable people.
+[![](https://static01.nyt.com/images/2021/08/29/world/29afghanistan-briefing-dc2/29afghanistan-briefing-dc2-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/biden-receives-the-bodies-of-soldiers-killed-in-the-kabul-bombing.html)
 
-By Somini Sengupta
+By Jim Tankersley
 
 * * *
 
