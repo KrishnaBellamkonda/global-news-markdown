@@ -19,22 +19,7 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the How 2 Afghan Paralympians Defied the Odds to Get From Kabul to Tokyo
---------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/08/30/world/asia/afghan-paralympians-kabul-tokyo.html)
-
-[![](https://static01.nyt.com/images/2021/08/31/world/30japan-paralympics-print/30japan-paralympics02-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/asia/afghan-paralympians-kabul-tokyo.html)
-
-Their evacuation and eventual arrival in Japan involved multiple stops and many helping hands.
-
-By Motoko Rich, Yan Zhuang and Aurelien Breeden
-
-* * *
-
-* * *
-
-Biden receives the bodies of soldiers killed in the Kabul bombing.
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Biden receives the bodies of soldiers killed in the Kabul bombing.
 ------------------------------------------------------------------
 
 [Article here](https://www.nytimes.com/2021/08/30/world/biden-receives-the-bodies-of-soldiers-killed-in-the-kabul-bombing.html)
@@ -42,6 +27,21 @@ Biden receives the bodies of soldiers killed in the Kabul bombing.
 [![](https://static01.nyt.com/images/2021/08/29/world/29afghanistan-briefing-dc2/29afghanistan-briefing-dc2-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/biden-receives-the-bodies-of-soldiers-killed-in-the-kabul-bombing.html)
 
 By Jim Tankersley
+
+* * *
+
+* * *
+
+Your Monday Briefing
+--------------------
+
+[Article here](https://www.nytimes.com/2021/08/30/briefing/afghanistan-ida-coronavirus.html)
+
+[![](https://static01.nyt.com/images/2021/08/30/multimedia/30AM-Brf-Afghanistan-02-promo/merlin_193862055_c84f2cb7-754a-440a-8129-addeb775e52e-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/briefing/afghanistan-ida-coronavirus.html)
+
+A U.S. drone strike in Kabul.
+
+By Natasha Frost
 
 * * *
 
