@@ -22,26 +22,28 @@ Come back in a few hours and seeif the news section has changed! (Is it too long
 * If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Tuesday Briefing
 ---------------------
 
-[Article here](https://www.nytimes.com/2021/08/30/briefing/afghanistan-withdrawal-eu-travel-rules-ida.html)
+[Article here](https://www.nytimes.com/2021/08/31/briefing/afghanistan-coronavirus-ida-flooding.html)
 
-[![](https://static01.nyt.com/images/2021/08/31/world/31ambriefing-aus-nl1-promo/31ambriefing-aus-nl1-superJumbo-v2.jpg)](https://www.nytimes.com/2021/08/30/briefing/afghanistan-withdrawal-eu-travel-rules-ida.html)
+[![](https://static01.nyt.com/images/2021/08/30/world/3pm-briefing-us-afghanistan-evacs-COPY/3pm-briefing-us-afghanistan-evacs--superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/31/briefing/afghanistan-coronavirus-ida-flooding.html)
 
-The final hours in Afghanistan.
+The final moments of the U.S. presence in Afghanistan.
 
-By Melina Delkic
-
-* * *
+By Natasha Frost
 
 * * *
 
-Can Afghanistan’s leading broadcaster survive the Taliban?
-----------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/30/world/can-afghanistans-leading-broadcaster-survive-the-taliban.html)
+The Taliban Celebrate Victory, With a Crisis Looming
+----------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/30/world/30afghan-brief-tolo/30afghan-brief-tolo-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/can-afghanistans-leading-broadcaster-survive-the-taliban.html)
+[Article here](https://www.nytimes.com/2021/08/31/world/asia/afghanistan-taliban-airport.html)
 
-By Dan Bilefsky
+[![](https://static01.nyt.com/images/2021/08/31/world/31afghanistan-ledeall1/merlin_193952952_c161dc82-928c-4edb-b12a-05e80b60d43b-superJumbo.jpg)](https://www.nytimes.com/2021/08/31/world/asia/afghanistan-taliban-airport.html)
+
+With the final U.S. troops gone, triumphant scenes were clouded by the prospect of famine and financial collapse. The Taliban spokesman called for international engagement.
+
+By Jim Huylebroek, Najim Rahim and Eric Nagourney
 
 * * *
 
