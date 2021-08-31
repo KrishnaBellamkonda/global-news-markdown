@@ -19,29 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In an effort to lure Berliners, Covid shots are made available on a train.
---------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Biden receives the bodies of soldiers killed in the Kabul bombing.
+------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/30/world/in-an-effort-to-lure-berliners-covid-shots-are-made-available-on-a-train.html)
+[Article here](https://www.nytimes.com/2021/08/30/world/biden-receives-the-bodies-of-soldiers-killed-in-the-kabul-bombing.html)
 
-[![](https://static01.nyt.com/images/2021/08/30/world/30virus-briefing-germany/30virus-briefing-germany-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/in-an-effort-to-lure-berliners-covid-shots-are-made-available-on-a-train.html)
+[![](https://static01.nyt.com/images/2021/08/29/world/29afghanistan-briefing-dc2/29afghanistan-briefing-dc2-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/biden-receives-the-bodies-of-soldiers-killed-in-the-kabul-bombing.html)
 
-By Christopher F. Schuetze
-
-* * *
+By Jim Tankersley
 
 * * *
 
-Colombia’s Troubles Put a President’s Legacy on the Line
---------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/30/world/americas/colombia-president-duque.html)
+Can Afghanistan’s Leading Broadcaster Survive the Taliban?
+----------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/30/world/30colombia-duque-1/30colombia-duque-1-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/americas/colombia-president-duque.html)
+[Article here](https://www.nytimes.com/2021/08/30/world/asia/afghanistan-tolo-taliban.html)
 
-In an interview, Iván Duque defended his performance amid the pandemic and social strife, which could prompt a leftward shift in elections next year.
+[![](https://static01.nyt.com/images/2021/08/26/world/00afghanistan-tolo-01/merlin_144065925_699ea1ef-0f6d-48af-a60a-780c4dcf2240-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/asia/afghanistan-tolo-taliban.html)
 
-By Carlos Tejada and Julie Turkewitz
+Tolo came to prominence with hard-hitting news, raucous reality shows and lurid Turkish soap operas. Now there are ominous signs that a violent media clampdown is underway.
+
+By Dan Bilefsky
 
 * * *
 
