@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Biden receives the bodies of soldiers killed in the Kabul bombing.
-------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Can Afghanistan’s Leading Broadcaster Survive the Taliban?
+----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/30/world/biden-receives-the-bodies-of-soldiers-killed-in-the-kabul-bombing.html)
+[Article here](https://www.nytimes.com/2021/08/30/world/asia/afghanistan-tolo-taliban.html)
 
-[![](https://static01.nyt.com/images/2021/08/29/world/29afghanistan-briefing-dc2/29afghanistan-briefing-dc2-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/biden-receives-the-bodies-of-soldiers-killed-in-the-kabul-bombing.html)
+[![](https://static01.nyt.com/images/2021/08/26/world/00afghanistan-tolo-01/merlin_144065925_699ea1ef-0f6d-48af-a60a-780c4dcf2240-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/asia/afghanistan-tolo-taliban.html)
 
-By Jim Tankersley
+Tolo came to prominence with hard-hitting news, raucous reality shows and lurid Turkish soap operas. Now there are ominous signs that a violent media clampdown is underway.
+
+By Dan Bilefsky
 
 * * *
 
 * * *
 
-Your Monday Briefing
---------------------
+North Korea Restarted Plutonium-Producing Reactor, U.N. Agency Warns
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/30/briefing/afghanistan-ida-coronavirus.html)
+[Article here](https://www.nytimes.com/2021/08/30/world/asia/north-korea-yongbyon-nuclear-plant.html)
 
-[![](https://static01.nyt.com/images/2021/08/30/multimedia/30AM-Brf-Afghanistan-02-promo/merlin_193862055_c84f2cb7-754a-440a-8129-addeb775e52e-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/briefing/afghanistan-ida-coronavirus.html)
+[![](https://static01.nyt.com/images/2021/08/30/world/30nkorea-1/merlin_184555557_803a1cb5-1302-4538-9fde-83db06b4b9a4-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/asia/north-korea-yongbyon-nuclear-plant.html)
 
-A U.S. drone strike in Kabul.
+​The activities at the sprawling nuclear complex in Yongbyon suggest that the country is once again ramping up its nuclear weapons program.
 
-By Natasha Frost
+By Choe Sang-Hun
 
 * * *
 
