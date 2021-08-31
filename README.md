@@ -19,29 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Monday Briefing
---------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In an effort to lure Berliners, Covid shots are made available on a train.
+--------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/30/briefing/afghanistan-ida-coronavirus.html)
+[Article here](https://www.nytimes.com/2021/08/30/world/in-an-effort-to-lure-berliners-covid-shots-are-made-available-on-a-train.html)
 
-[![](https://static01.nyt.com/images/2021/08/30/multimedia/30AM-Brf-Afghanistan-02-promo/merlin_193862055_c84f2cb7-754a-440a-8129-addeb775e52e-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/briefing/afghanistan-ida-coronavirus.html)
+[![](https://static01.nyt.com/images/2021/08/30/world/30virus-briefing-germany/30virus-briefing-germany-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/in-an-effort-to-lure-berliners-covid-shots-are-made-available-on-a-train.html)
 
-A U.S. drone strike in Kabul.
-
-By Natasha Frost
+By Christopher F. Schuetze
 
 * * *
 
 * * *
 
-A W.H.O. official urges measures to keep schools open.
-------------------------------------------------------
+Colombia’s Troubles Put a President’s Legacy on the Line
+--------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/30/world/a-who-official-urges-measures-to-keep-schools-open.html)
+[Article here](https://www.nytimes.com/2021/08/30/world/americas/colombia-president-duque.html)
 
-[![](https://static01.nyt.com/images/2021/08/30/world/30virus-briefing-WHO/merlin_193704558_eec0b183-e764-40e2-9eae-3b69980efa9c-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/a-who-official-urges-measures-to-keep-schools-open.html)
+[![](https://static01.nyt.com/images/2021/08/30/world/30colombia-duque-1/30colombia-duque-1-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/americas/colombia-president-duque.html)
 
-By Nick Cumming-Bruce
+In an interview, Iván Duque defended his performance amid the pandemic and social strife, which could prompt a leftward shift in elections next year.
+
+By Carlos Tejada and Julie Turkewitz
 
 * * *
 
