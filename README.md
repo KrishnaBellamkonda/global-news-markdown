@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the 98 Countries Pledge to Accept Afghans After U.S. Military Departs
------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the U.S. Strikes Explosive-Laden Vehicle in Kabul
+---------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/29/us/politics/afghanistan-refugees.html)
+[Article here](https://www.nytimes.com/2021/08/29/us/politics/us-strike-kabul-airport.html)
 
-[![](https://static01.nyt.com/images/2021/08/28/multimedia/28DC-evacuate-01/28DC-evacuate-01-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/us/politics/afghanistan-refugees.html)
+[![](https://static01.nyt.com/images/2021/08/29/us/politics/29dc-airstrikes/merlin_193858926_e4b68ef9-d535-42b0-ab1d-fab2b5ebc60e-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/us/politics/us-strike-kabul-airport.html)
 
-A joint statement from the United States and other countries said that they had “received assurances from the Taliban” that people with travel documents showing they were clear to enter any of those countries could safely depart.
+The drone strike came after a warning from President Biden that another terrorist attack at the Afghan capital’s airport was “highly likely.”
 
-By Lara Jakes
-
-* * *
+By Helene Cooper and Eric Schmitt
 
 * * *
 
-Palestinians Finally Have Vaccines. But Will People Take Them?
---------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/29/world/middleeast/palestinians-covid-vaccines-hesitancy.html)
+A New Breed of Crisis: War and Warming Collide in Afghanistan
+-------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/29/world/29palestinians-vaccine6/merlin_193745322_f2df0b4f-b2fe-43b2-b5c2-e0d9ac7acb90-superJumbo.jpg)](https://www.nytimes.com/2021/08/29/world/middleeast/palestinians-covid-vaccines-hesitancy.html)
+[Article here](https://www.nytimes.com/2021/08/30/climate/afghanistan-climate-taliban.html)
 
-For months, the Palestinian authorities struggled to get doses. Now they have the shots, but disinformation and conspiracy theories have led to widespread hesitancy.
+[![](https://static01.nyt.com/images/2021/08/26/climate/00cl-afghanistan1/merlin_190820895_8335b039-57ef-4fdc-b939-7a0b97d00637-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/climate/afghanistan-climate-taliban.html)
 
-By Adam Rasgon
+Unrest and climate change are creating an agonizing feedback loop that punishes some of the world’s most vulnerable people.
+
+By Somini Sengupta
 
 * * *
 
