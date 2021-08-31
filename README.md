@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Biden receives the bodies of soldiers killed in the Kabul bombing.
-------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghan Family Says Errant U.S. Missile Killed 10, Including 7 Children
+----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/30/world/biden-receives-the-bodies-of-soldiers-killed-in-the-kabul-bombing.html)
+[Article here](https://www.nytimes.com/2021/08/30/world/asia/afghanistan-drone-attack-ISIS.html)
 
-[![](https://static01.nyt.com/images/2021/08/29/world/29afghanistan-briefing-dc2/29afghanistan-briefing-dc2-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/biden-receives-the-bodies-of-soldiers-killed-in-the-kabul-bombing.html)
+[![](https://static01.nyt.com/images/2021/08/30/world/30afghan-strike2/30afghan-strike2-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/asia/afghanistan-drone-attack-ISIS.html)
 
-By Jim Tankersley
+Relatives, friends and colleagues of Zemari Ahmadi angrily dismissed any suggestion he had ties to ISIS-K. The U.S. military is investigating.
+
+By Matthieu Aikins and Najim Rahim
 
 * * *
 
 * * *
 
-Can Afghanistan’s Leading Broadcaster Survive the Taliban?
-----------------------------------------------------------
+Inside Kabul airport, the last American soldier leaves, and the first Taliban fighters arrive.
+----------------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/30/world/asia/afghanistan-tolo-taliban.html)
+[Article here](https://www.nytimes.com/2021/08/31/world/asia/inside-kabul-airport-the-last-american-soldier-leaves-and-the-first-taliban-fighters-arrive.html)
 
-[![](https://static01.nyt.com/images/2021/08/26/world/00afghanistan-tolo-01/merlin_144065925_699ea1ef-0f6d-48af-a60a-780c4dcf2240-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/asia/afghanistan-tolo-taliban.html)
+[![](https://static01.nyt.com/images/2021/09/30/world/30afghanistan-briefing-last-us-soldier/30afghanistan-briefing-last-us-soldier-superJumbo.jpg)](https://www.nytimes.com/2021/08/31/world/asia/inside-kabul-airport-the-last-american-soldier-leaves-and-the-first-taliban-fighters-arrive.html)
 
-Tolo came to prominence with hard-hitting news, raucous reality shows and lurid Turkish soap operas. Now there are ominous signs that a violent media clampdown is underway.
+Two images marked the end of the nearly 20-year war: a U.S. soldier leaving Kabul’s airport, and Taliban fighters nearby walking in.
 
-By Dan Bilefsky
+By Azi Paybarah
 
 * * *
 
