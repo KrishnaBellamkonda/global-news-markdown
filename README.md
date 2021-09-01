@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The Taliban Celebrate Victory, With a Crisis Looming
-----------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The End
+-------
 
-[Article here](https://www.nytimes.com/2021/08/31/world/asia/afghanistan-taliban-airport.html)
+[Article here](https://www.nytimes.com/2021/08/31/briefing/afghanistan-taliban-longest-war.html)
 
-[![](https://static01.nyt.com/images/2021/08/31/world/31afghanistan-ledeall3/merlin_193943040_09194ba3-92f4-4c3a-809a-06d8e74370d4-superJumbo.jpg)](https://www.nytimes.com/2021/08/31/world/asia/afghanistan-taliban-airport.html)
+[![](https://static01.nyt.com/images/2021/08/30/world/31-THE-MORNING-PROMO/merlin_193905681_70c1cc34-7990-459e-95a2-2b158c0e9334-superJumbo.jpg)](https://www.nytimes.com/2021/08/31/briefing/afghanistan-taliban-longest-war.html)
 
-With the final U.S. troops gone, triumphant scenes were clouded by the prospect of famine and financial collapse. The Taliban spokesman called for international engagement.
+America’s longest war is over.
 
-By Jim Huylebroek, Najim Rahim and Eric Nagourney
-
-* * *
+By David Leonhardt
 
 * * *
 
-Covert Evacuations and Planned Demolitions: How the C.I.A. Left Its Last Base in Afghanistan
---------------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/01/world/asia/cia-afghanistan-evacuations-demolitions.html)
+Japan Needs a Lot More Tech Workers. Can It Find a Place for Women?
+-------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/31/video/vi-compound-top-2/vi-compound-top-2-superJumbo.png)](https://www.nytimes.com/2021/09/01/world/asia/cia-afghanistan-evacuations-demolitions.html)
+[Article here](https://www.nytimes.com/2021/09/01/business/japan-tech-workers-women.html)
 
-A compound outside Kabul was one of the most secretive — and notorious — in Afghanistan. Our visual analysis shows how the spy agency shut down its operations there — and how the Taliban then entered the site.
+[![](https://static01.nyt.com/images/2021/09/01/business/01japan-digitalgap-1/merlin_193760769_2e673a75-cb4d-46fd-a756-b325bf19fea2-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/business/japan-tech-workers-women.html)
 
-By Christiaan Triebert and Haley Willis
+The country is pushing to digitally modernize itself, but one of the developed world’s starkest gender gaps is holding it back.
+
+By Malcolm Foster
 
 * * *
 
