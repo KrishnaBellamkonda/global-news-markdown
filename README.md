@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Can Afghanistan’s leading broadcaster survive the Taliban?
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Human Most of All: In Moscow, a Theater Stages ‘Gorbachev’
 ----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/30/world/can-afghanistans-leading-broadcaster-survive-the-taliban.html)
+[Article here](https://www.nytimes.com/2021/08/30/theater/gorbachev-play-moscow.html)
 
-[![](https://static01.nyt.com/images/2021/08/30/world/30afghan-brief-tolo/30afghan-brief-tolo-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/can-afghanistans-leading-broadcaster-survive-the-taliban.html)
+[![](https://static01.nyt.com/images/2021/09/01/arts/30gorbachev-notebook-1/merlin_186188976_972459c5-3ee0-430e-ae05-3a16f96ab72a-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/theater/gorbachev-play-moscow.html)
 
-By Dan Bilefsky
+The Latvian director Alvis Hermanis’s bioplay is an ode to the love story of Mikhail and Raisa Gorbachev, and portrays the former leader in all his humanity.
+
+By Ivan Nechepurenko
 
 * * *
 
 * * *
 
-Bank of England Removes Art of Leaders Linked to Slave Trade
-------------------------------------------------------------
+U.S. War in Afghanistan Ends as Final Evacuation Flights Depart
+---------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/31/world/europe/bank-england-slavery-art.html)
+[Article here](https://www.nytimes.com/2021/08/30/world/asia/afghanistan-us-occupation-ends.html)
 
-[![](https://static01.nyt.com/images/2021/08/31/world/31uk-racism01/merlin_179614194_f6ae5c7b-601f-411e-88ed-4bdb2ee3f834-superJumbo.jpg)](https://www.nytimes.com/2021/08/31/world/europe/bank-england-slavery-art.html)
+[![](https://static01.nyt.com/images/2021/08/30/world/30Afghanistan-Ledeall-LEDE/30Afghanistan-Ledeall-LEDE-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/asia/afghanistan-us-occupation-ends.html)
 
-Oil paintings and portraits depicting seven leading figures at the bank have been removed because of their connections to slavery.
+The last U.S. military plane left Kabul Monday night, ending a presence that spanned two decades but failed to defeat the Taliban and left behind tens of thousands of Afghans.
 
-By Isabella Kwai
+By Adam Nossiter and Eric Schmitt
 
 * * *
 
