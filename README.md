@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In Afghanistan, an Unceremonious End, and a Shrouded Beginning
---------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Has Delta Peaked?
+-----------------
 
-[Article here](https://www.nytimes.com/2021/08/30/world/asia/us-withdrawal-afghanistan-kabul.html)
+[Article here](https://www.nytimes.com/2021/09/01/briefing/delta-peak-covid-caseload.html)
 
-[![](https://static01.nyt.com/images/2021/08/30/world/00Afghanistan-End/00Afghanistan-End-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/asia/us-withdrawal-afghanistan-kabul.html)
+[![](https://static01.nyt.com/images/2021/09/01/us/01-THE-MORNING-NL-PROMO/01-THE-MORNING-NL-PROMO-superJumbo-v2.jpg)](https://www.nytimes.com/2021/09/01/briefing/delta-peak-covid-caseload.html)
 
-The last American flight from Afghanistan left behind a host of unfulfilled promises and anxious questions about the country’s fate.
+We investigate Covid’s mysterious two-month cycle.
 
-By Thomas Gibbons-Neff
-
-* * *
+By David Leonhardt and Ashley Wu
 
 * * *
 
-After the U.S. withdrawal, Afghan women consider the future.
-------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/live/2021/08/31/world/afghanistan-photos/after-the-us-withdrawal-afghan-women-consider-the-future)
+70 percent of adults in the European Union have been fully vaccinated.
+----------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/29/autossell/seema/seema-superJumbo.jpg)](https://www.nytimes.com/live/2021/08/31/world/afghanistan-photos/after-the-us-withdrawal-afghan-women-consider-the-future)
+[Article here](https://www.nytimes.com/2021/08/31/world/eu-covid-vaccinations-70-percent.html)
 
-By Alexandra Eaton, Kassie Bracken, Natalie Reneau and Ben Laffin
+[![](https://static01.nyt.com/images/2021/08/31/world/31virus-briefing-eu-vaccinations/merlin_190803591_e63dafe8-593b-4985-b7e3-4d69fb1f94fd-superJumbo.jpg)](https://www.nytimes.com/2021/08/31/world/eu-covid-vaccinations-70-percent.html)
+
+After a fumbling start, the European Union overtook the United States in vaccinations last month.
+
+By Elian Peltier
 
 * * *
 
