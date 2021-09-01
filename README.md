@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Has Delta Peaked?
------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the An Experimental H.I.V. Vaccine Fails in Africa
+----------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/01/briefing/delta-peak-covid-caseload.html)
+[Article here](https://www.nytimes.com/2021/08/31/health/hiv-vaccine-south-africa.html)
 
-[![](https://static01.nyt.com/images/2021/09/01/us/01-THE-MORNING-NL-PROMO/01-THE-MORNING-NL-PROMO-superJumbo-v2.jpg)](https://www.nytimes.com/2021/09/01/briefing/delta-peak-covid-caseload.html)
+[![](https://static01.nyt.com/images/2021/08/31/us/31hiv-1/31hiv-1-superJumbo.jpg)](https://www.nytimes.com/2021/08/31/health/hiv-vaccine-south-africa.html)
 
-We investigate Covid’s mysterious two-month cycle.
+Researchers ended a large trial in South Africa after finding that an experimental vaccine offered little protection.
 
-By David Leonhardt and Ashley Wu
-
-* * *
+By Stephanie Nolen
 
 * * *
 
-70 percent of adults in the European Union have been fully vaccinated.
-----------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/31/world/eu-covid-vaccinations-70-percent.html)
+Japan Needs a Lot More Tech Workers. Can It Find a Place for Women?
+-------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/31/world/31virus-briefing-eu-vaccinations/merlin_190803591_e63dafe8-593b-4985-b7e3-4d69fb1f94fd-superJumbo.jpg)](https://www.nytimes.com/2021/08/31/world/eu-covid-vaccinations-70-percent.html)
+[Article here](https://www.nytimes.com/2021/09/01/business/japan-tech-workers-women.html)
 
-After a fumbling start, the European Union overtook the United States in vaccinations last month.
+[![](https://static01.nyt.com/images/2021/09/01/business/01japan-digitalgap-1/merlin_193760769_2e673a75-cb4d-46fd-a756-b325bf19fea2-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/business/japan-tech-workers-women.html)
 
-By Elian Peltier
+The country is pushing to digitally modernize itself, but one of the developed world’s starkest gender gaps is holding it back.
+
+By Malcolm Foster
 
 * * *
 
