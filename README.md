@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Venezuela Opposition Parties Will Take Part in November Elections
------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Kenny Malone, a premier drummer for top Nashville names, dies of Covid.
+-----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/01/world/americas/venezuela-opposition-parties-elections.html)
+[Article here](https://www.nytimes.com/2021/09/01/world/kenny-malone-a-premier-drummer-for-top-nashville-names-dies-of-covid.html)
 
-[![](https://static01.nyt.com/images/2021/08/31/us/31-venez-politics-3/merlin_193977195_04b94454-30bb-4162-b108-c7b0cc7f267a-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/americas/venezuela-opposition-parties-elections.html)
+[![](https://static01.nyt.com/images/2021/08/31/us/31virus-brief-malone/merlin_14748663_f535637e-fea2-4a63-8371-a4f7c4e02fec-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/kenny-malone-a-premier-drummer-for-top-nashville-names-dies-of-covid.html)
 
-The opposition parties grouped in the so-called Unitary Platform and led by Juan Guaidó announced a reversal of their stance of boycotting recent votes.
-
-By The Associated Press
+By Bill Friskics-Warren
 
 * * *
 
 * * *
 
-Historic London Synagogue Fights to Stay Out of the Shadows
------------------------------------------------------------
+Pope Criticizes Western Intervention in Afghanistan
+---------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/31/world/europe/london-bevis-marks-synagogue.html)
+[Article here](https://www.nytimes.com/2021/09/01/world/europe/pope-afghanistan-health.html)
 
-[![](https://static01.nyt.com/images/2021/08/31/world/31London-synagogue1/merlin_193950357_cf3b6736-e8da-40bb-b9f5-f23e801104ef-superJumbo.jpg)](https://www.nytimes.com/2021/08/31/world/europe/london-bevis-marks-synagogue.html)
+[![](https://static01.nyt.com/images/2021/09/01/world/01pope/merlin_193997226_e842de22-6566-4d19-bccd-577a316fba44-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/europe/pope-afghanistan-health.html)
 
-The 320-year-old Bevis Marks Synagogue claims that two new proposed office towers would block its sunlight and add to the sense of enclosure amid the skyscrapers of the financial district.
+In a wide-ranging interview with a Spanish-language radio network, Francis said he was in good health after colon surgery in July, and insisted that he had not considered resigning.
 
-By Mark Landler
+By Elisabetta Povoledo
 
 * * *
 
