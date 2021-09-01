@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Human Most of All: In Moscow, a Theater Stages ‘Gorbachev’
-----------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Tuesday Briefing
+---------------------
 
-[Article here](https://www.nytimes.com/2021/08/30/theater/gorbachev-play-moscow.html)
+[Article here](https://www.nytimes.com/2021/08/31/briefing/afghanistan-coronavirus-ida-flooding.html)
 
-[![](https://static01.nyt.com/images/2021/09/01/arts/30gorbachev-notebook-1/merlin_186188976_972459c5-3ee0-430e-ae05-3a16f96ab72a-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/theater/gorbachev-play-moscow.html)
+[![](https://static01.nyt.com/images/2021/08/30/world/3pm-briefing-us-afghanistan-evacs-COPY/3pm-briefing-us-afghanistan-evacs--superJumbo-v3.jpg)](https://www.nytimes.com/2021/08/31/briefing/afghanistan-coronavirus-ida-flooding.html)
 
-The Latvian director Alvis Hermanis’s bioplay is an ode to the love story of Mikhail and Raisa Gorbachev, and portrays the former leader in all his humanity.
+The final moments of the U.S. presence in Afghanistan.
 
-By Ivan Nechepurenko
-
-* * *
+By Natasha Frost
 
 * * *
 
-U.S. War in Afghanistan Ends as Final Evacuation Flights Depart
----------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/08/30/world/asia/afghanistan-us-occupation-ends.html)
+70 percent of adults in the European Union have been fully vaccinated.
+----------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/30/world/30Afghanistan-Ledeall-LEDE/30Afghanistan-Ledeall-LEDE-superJumbo.jpg)](https://www.nytimes.com/2021/08/30/world/asia/afghanistan-us-occupation-ends.html)
+[Article here](https://www.nytimes.com/2021/08/31/world/eu-covid-vaccinations-70-percent.html)
 
-The last U.S. military plane left Kabul Monday night, ending a presence that spanned two decades but failed to defeat the Taliban and left behind tens of thousands of Afghans.
+[![](https://static01.nyt.com/images/2021/08/31/world/31virus-briefing-eu-vaccinations/merlin_190803591_e63dafe8-593b-4985-b7e3-4d69fb1f94fd-superJumbo.jpg)](https://www.nytimes.com/2021/08/31/world/eu-covid-vaccinations-70-percent.html)
 
-By Adam Nossiter and Eric Schmitt
+After a fumbling start, the European Union overtook the United States in vaccinations last month.
+
+By Elian Peltier
 
 * * *
 
