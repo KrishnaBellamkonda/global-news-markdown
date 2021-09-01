@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Kenny Malone, a premier drummer for top Nashville names, dies of Covid.
------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Ethiopian Rebels Looted American Aid Stores, U.S. Official Says
+---------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/01/world/kenny-malone-a-premier-drummer-for-top-nashville-names-dies-of-covid.html)
+[Article here](https://www.nytimes.com/2021/09/01/world/africa/ethiopia-tigray-us-food-aid.html)
 
-[![](https://static01.nyt.com/images/2021/08/31/us/31virus-brief-malone/merlin_14748663_f535637e-fea2-4a63-8371-a4f7c4e02fec-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/kenny-malone-a-premier-drummer-for-top-nashville-names-dies-of-covid.html)
+[![](https://static01.nyt.com/images/2021/09/01/world/01ethiopia/merlin_190185672_f45c400b-0f5f-4877-aa16-6c39ab28f482-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/africa/ethiopia-tigray-us-food-aid.html)
 
-By Bill Friskics-Warren
+The top American aid official in Ethiopia accused forces from Tigray of taking food supplies as Ethiopia’s ruinous civil war spills into new areas and a famine threatens.
+
+By Declan Walsh
 
 * * *
 
 * * *
 
-Pope Criticizes Western Intervention in Afghanistan
----------------------------------------------------
+The W.H.O. opens a Berlin hub to head off the next pandemic.
+------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/01/world/europe/pope-afghanistan-health.html)
+[Article here](https://www.nytimes.com/2021/09/01/world/africa/the-who-hub-covid.html)
 
-[![](https://static01.nyt.com/images/2021/09/01/world/01pope/merlin_193997226_e842de22-6566-4d19-bccd-577a316fba44-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/europe/pope-afghanistan-health.html)
+[![](https://static01.nyt.com/images/2021/09/01/multimedia/01virus-briefing-who-hub/merlin_194005560_907bba12-0c50-4819-a719-ef1f00cb60de-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/africa/the-who-hub-covid.html)
 
-In a wide-ranging interview with a Spanish-language radio network, Francis said he was in good health after colon surgery in July, and insisted that he had not considered resigning.
+“Viruses must move fast, but data can move even faster,” the W.H.O.’s director said in inaugurating the new international project.
 
-By Elisabetta Povoledo
+By Daniel E. Slotnik
 
 * * *
 
