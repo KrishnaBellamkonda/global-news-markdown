@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The End
--------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Venezuela Opposition Parties Will Take Part in November Elections
+-----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/08/31/briefing/afghanistan-taliban-longest-war.html)
+[Article here](https://www.nytimes.com/2021/09/01/world/americas/venezuela-opposition-parties-elections.html)
 
-[![](https://static01.nyt.com/images/2021/08/30/world/31-THE-MORNING-PROMO/merlin_193905681_70c1cc34-7990-459e-95a2-2b158c0e9334-superJumbo.jpg)](https://www.nytimes.com/2021/08/31/briefing/afghanistan-taliban-longest-war.html)
+[![](https://static01.nyt.com/images/2021/08/31/us/31-venez-politics-3/merlin_193977195_04b94454-30bb-4162-b108-c7b0cc7f267a-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/americas/venezuela-opposition-parties-elections.html)
 
-America’s longest war is over.
+The opposition parties grouped in the so-called Unitary Platform and led by Juan Guaidó announced a reversal of their stance of boycotting recent votes.
 
-By David Leonhardt
-
-* * *
+By The Associated Press
 
 * * *
 
-Japan Needs a Lot More Tech Workers. Can It Find a Place for Women?
--------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/01/business/japan-tech-workers-women.html)
+Historic London Synagogue Fights to Stay Out of the Shadows
+-----------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/01/business/01japan-digitalgap-1/merlin_193760769_2e673a75-cb4d-46fd-a756-b325bf19fea2-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/business/japan-tech-workers-women.html)
+[Article here](https://www.nytimes.com/2021/08/31/world/europe/london-bevis-marks-synagogue.html)
 
-The country is pushing to digitally modernize itself, but one of the developed world’s starkest gender gaps is holding it back.
+[![](https://static01.nyt.com/images/2021/08/31/world/31London-synagogue1/merlin_193950357_cf3b6736-e8da-40bb-b9f5-f23e801104ef-superJumbo.jpg)](https://www.nytimes.com/2021/08/31/world/europe/london-bevis-marks-synagogue.html)
 
-By Malcolm Foster
+The 320-year-old Bevis Marks Synagogue claims that two new proposed office towers would block its sunlight and add to the sense of enclosure amid the skyscrapers of the financial district.
+
+By Mark Landler
 
 * * *
 
