@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the ‘Finally, I Am Safe’: U.S. Air Base Becomes Temporary Refuge for Afghans
-------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Historic London Synagogue Fights to Stay Out of the Shadows
+-----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/01/world/europe/us-airbase-germany-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/08/31/world/europe/london-bevis-marks-synagogue.html)
 
-[![](https://static01.nyt.com/images/2021/09/02/world/02afghanistan-ramstein-p1/merlin_194006358_23e197bc-11d5-449f-9ee1-383b4e971589-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/europe/us-airbase-germany-afghanistan.html)
+[![](https://static01.nyt.com/images/2021/08/31/world/31London-synagogue1/merlin_193950357_cf3b6736-e8da-40bb-b9f5-f23e801104ef-superJumbo.jpg)](https://www.nytimes.com/2021/08/31/world/europe/london-bevis-marks-synagogue.html)
 
-About a fifth of all people evacuated from Kabul were brought to Ramstein Air Base in Germany, where they await the next leg of their journey, to the United States.
+The 320-year-old Bevis Marks Synagogue claims that two new proposed office towers would block its sunlight and add to the sense of enclosure amid the skyscrapers of the financial district.
 
-By Melissa Eddy
-
-* * *
+By Mark Landler
 
 * * *
 
-Covert Evacuations and Planned Demolitions: How the C.I.A. Left Its Last Base in Afghanistan
---------------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/01/world/asia/cia-afghanistan-evacuations-demolitions.html)
+It’s Election Season in Germany. No Charisma, Please!
+-----------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/08/31/video/vi-compound-top-2/vi-compound-top-2-superJumbo.png)](https://www.nytimes.com/2021/09/01/world/asia/cia-afghanistan-evacuations-demolitions.html)
+[Article here](https://www.nytimes.com/2021/09/01/world/europe/germany-election-scholz-laschet-baerbock-merkel.html)
 
-A compound outside Kabul was one of the most secretive — and notorious — in Afghanistan. Our visual analysis shows how the spy agency shut down its operations there — and how the Taliban then entered the site.
+[![](https://static01.nyt.com/images/2021/09/01/world/01germany-campaign01/merlin_192550398_65ba2672-d810-46d9-b6a4-019a680c8f71-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/europe/germany-election-scholz-laschet-baerbock-merkel.html)
 
-By Christiaan Triebert and Haley Willis
+The race to replace Chancellor Angela Merkel after 16 years in office is the tightest in years. But the two leading candidates are anything but exciting, and that’s how Germans like it.
+
+By Katrin Bennhold
 
 * * *
 
