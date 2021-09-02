@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Thursday Briefing
-----------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Short on Money, Legal and Otherwise, the Taliban Face a Crisis
+--------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/01/briefing/taliban-leader-germany-elections-delta-variant.html)
+[Article here](https://www.nytimes.com/2021/09/02/business/economy/afghanistan-taliban-financial-crisis.html)
 
-[![](https://static01.nyt.com/images/2021/09/02/world/02ambriefing-aus-nl1-promo/merlin_193951788_c4b4d2f5-ffbb-4e0a-9ba6-6791b02913f1-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/briefing/taliban-leader-germany-elections-delta-variant.html)
+[![](https://static01.nyt.com/images/2021/09/01/business/00afghan-cash-sub/merlin_193817640_305e7e5d-2fff-4873-99cc-d3b171606c77-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/business/economy/afghanistan-taliban-financial-crisis.html)
 
-The Taliban’s plan for an Islamic government.
+The group has long tapped underground banks and opium to fund Afghanistan’s insurgency. Fixing the nation’s problems will require a lot more than that.
 
-By Melina Delkic
-
-* * *
+By Alexandra Stevenson
 
 * * *
 
-The Taliban are poised to name a supreme leader and map out their government.
------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/01/world/taliban-government-afghanistan.html)
+When Will the Delta Surge End?
+------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/01/world/01afghanistan-briefing-new-government/merlin_193951806_572bd40c-c656-4ce2-b718-d73df5731ac8-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/taliban-government-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/09/01/health/covid-delta-us-britain.html)
 
-By Matthieu Aikins
+[![](https://static01.nyt.com/images/2021/08/27/science/00virus-delta1/merlin_193525995_1d72a167-7f78-49f7-952e-1ce3e06f495f-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/health/covid-delta-us-britain.html)
+
+The variant retreated unexpectedly in Britain and India, but has begun to rebound. The United States may take an even bumpier path, scientists said.
+
+By Apoorva Mandavilli, Benjamin Mueller and Shalini Venugopal Bhagat
 
 * * *
 
