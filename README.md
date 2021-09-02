@@ -19,16 +19,16 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Health officials plead for vaccine donations to Latin America and the Caribbean.
---------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghan siblings recount the perils of the first day of Taliban rule.
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/01/world/health-officials-plead-for-vaccine-donations-to-latin-america-and-the-caribbean.html)
+[Article here](https://www.nytimes.com/2021/09/01/world/asia/taliban-kabul-scenes.html)
 
-[![](https://static01.nyt.com/images/2021/09/01/multimedia/01virus-briefing-PAHO2/merlin_191097276_d891ce40-17fe-498d-983c-228064dbc101-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/health-officials-plead-for-vaccine-donations-to-latin-america-and-the-caribbean.html)
+[![](https://static01.nyt.com/images/2021/09/01/world/31afghanistan-briefing-kabul-siblings-sub/merlin_193905603_8419517f-066b-461d-a369-b76cd13b5622-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/asia/taliban-kabul-scenes.html)
 
-Although every country in the region now has some vaccines, only one person in four there has been fully vaccinated.
+A young man ventured out to explore the new world of Afghanistan. For his sister, it seemed safer to watch through the window.
 
-By Daniel Politi
+By Farnaz Fassihi
 
 * * *
 
