@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Ethiopian Rebels Looted American Aid Stores, U.S. Official Says
----------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Health officials plead for vaccine donations to Latin America and the Caribbean.
+--------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/01/world/africa/ethiopia-tigray-us-food-aid.html)
+[Article here](https://www.nytimes.com/2021/09/01/world/health-officials-plead-for-vaccine-donations-to-latin-america-and-the-caribbean.html)
 
-[![](https://static01.nyt.com/images/2021/09/01/world/01ethiopia/merlin_190185672_f45c400b-0f5f-4877-aa16-6c39ab28f482-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/africa/ethiopia-tigray-us-food-aid.html)
+[![](https://static01.nyt.com/images/2021/09/01/multimedia/01virus-briefing-PAHO2/merlin_191097276_d891ce40-17fe-498d-983c-228064dbc101-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/health-officials-plead-for-vaccine-donations-to-latin-america-and-the-caribbean.html)
 
-The top American aid official in Ethiopia accused forces from Tigray of taking food supplies as Ethiopia’s ruinous civil war spills into new areas and a famine threatens.
+Although every country in the region now has some vaccines, only one person in four there has been fully vaccinated.
 
-By Declan Walsh
-
-* * *
+By Daniel Politi
 
 * * *
 
-The W.H.O. opens a Berlin hub to head off the next pandemic.
-------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/01/world/africa/the-who-hub-covid.html)
+It’s Election Season in Germany. No Charisma, Please!
+-----------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/01/multimedia/01virus-briefing-who-hub/merlin_194005560_907bba12-0c50-4819-a719-ef1f00cb60de-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/africa/the-who-hub-covid.html)
+[Article here](https://www.nytimes.com/2021/09/01/world/europe/germany-election-scholz-laschet-baerbock-merkel.html)
 
-“Viruses must move fast, but data can move even faster,” the W.H.O.’s director said in inaugurating the new international project.
+[![](https://static01.nyt.com/images/2021/09/01/world/01germany-campaign01/merlin_192550398_65ba2672-d810-46d9-b6a4-019a680c8f71-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/europe/germany-election-scholz-laschet-baerbock-merkel.html)
 
-By Daniel E. Slotnik
+The race to replace Chancellor Angela Merkel after 16 years in office is the tightest in years. But the two leading candidates are anything but exciting, and that’s how Germans like it.
+
+By Katrin Bennhold
 
 * * *
 
