@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the China Warns U.S.: Strained Relations Could Sink Climate Cooperation
--------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/09/02/world/asia/climate-china-us-kerry.html)
-
-[![](https://static01.nyt.com/images/2021/09/02/world/02china-us-climate-1/02china-us-climate-1-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/asia/climate-china-us-kerry.html)
-
-John Kerry, President Biden’s climate envoy, is in China this week pushing leaders to aggressively cut greenhouse gases. But the worsening U.S.-China relationship is taking center stage.
-
-By Chris Buckley and Lisa Friedman
-
-* * *
-
-* * *
-
-Gail Omvedt, 80, Dies; India Became Her Home, the Caste System Her Cause
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the ‘Finally, I Am Safe’: U.S. Air Base Becomes Temporary Refuge for Afghans
 ------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/01/world/asia/gail-omvedt-dead.html)
+[Article here](https://www.nytimes.com/2021/09/01/world/europe/us-airbase-germany-afghanistan.html)
 
-[![](https://static01.nyt.com/images/2021/08/30/obituaries/30Omvedt2/merlin_193902180_1f7cd160-2dde-4b72-81c2-f793ef1e9a98-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/asia/gail-omvedt-dead.html)
+[![](https://static01.nyt.com/images/2021/09/02/world/02afghanistan-ramstein-p1/merlin_194006358_23e197bc-11d5-449f-9ee1-383b4e971589-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/europe/us-airbase-germany-afghanistan.html)
 
-An American-born sociologist, she moved to India in the 1970s, helped pioneer the study of castes and drew attention to the lives of the country’s most oppressed.
+About a fifth of all people evacuated from Kabul were brought to Ramstein Air Base in Germany, where they await the next leg of their journey, to the United States.
 
-By Sameer Yasir
+By Melissa Eddy
+
+* * *
+
+* * *
+
+Covert Evacuations and Planned Demolitions: How the C.I.A. Left Its Last Base in Afghanistan
+--------------------------------------------------------------------------------------------
+
+[Article here](https://www.nytimes.com/2021/09/01/world/asia/cia-afghanistan-evacuations-demolitions.html)
+
+[![](https://static01.nyt.com/images/2021/08/31/video/vi-compound-top-2/vi-compound-top-2-superJumbo.png)](https://www.nytimes.com/2021/09/01/world/asia/cia-afghanistan-evacuations-demolitions.html)
+
+A compound outside Kabul was one of the most secretive — and notorious — in Afghanistan. Our visual analysis shows how the spy agency shut down its operations there — and how the Taliban then entered the site.
+
+By Christiaan Triebert and Haley Willis
 
 * * *
 
