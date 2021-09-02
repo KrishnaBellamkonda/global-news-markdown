@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghan siblings recount the perils of the first day of Taliban rule.
---------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the China Warns U.S.: Strained Relations Could Sink Climate Cooperation
+-------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/01/world/asia/taliban-kabul-scenes.html)
+[Article here](https://www.nytimes.com/2021/09/02/world/asia/climate-china-us-kerry.html)
 
-[![](https://static01.nyt.com/images/2021/09/01/world/31afghanistan-briefing-kabul-siblings-sub/merlin_193905603_8419517f-066b-461d-a369-b76cd13b5622-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/asia/taliban-kabul-scenes.html)
+[![](https://static01.nyt.com/images/2021/09/02/world/02china-us-climate-1/02china-us-climate-1-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/asia/climate-china-us-kerry.html)
 
-A young man ventured out to explore the new world of Afghanistan. For his sister, it seemed safer to watch through the window.
+John Kerry, President Biden’s climate envoy, is in China this week pushing leaders to aggressively cut greenhouse gases. But the worsening U.S.-China relationship is taking center stage.
 
-By Farnaz Fassihi
-
-* * *
+By Chris Buckley and Lisa Friedman
 
 * * *
 
-It’s Election Season in Germany. No Charisma, Please!
------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/01/world/europe/germany-election-scholz-laschet-baerbock-merkel.html)
+Gail Omvedt, 80, Dies; India Became Her Home, the Caste System Her Cause
+------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/01/world/01germany-campaign01/merlin_192550398_65ba2672-d810-46d9-b6a4-019a680c8f71-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/europe/germany-election-scholz-laschet-baerbock-merkel.html)
+[Article here](https://www.nytimes.com/2021/09/01/world/asia/gail-omvedt-dead.html)
 
-The race to replace Chancellor Angela Merkel after 16 years in office is the tightest in years. But the two leading candidates are anything but exciting, and that’s how Germans like it.
+[![](https://static01.nyt.com/images/2021/08/30/obituaries/30Omvedt2/merlin_193902180_1f7cd160-2dde-4b72-81c2-f793ef1e9a98-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/asia/gail-omvedt-dead.html)
 
-By Katrin Bennhold
+An American-born sociologist, she moved to India in the 1970s, helped pioneer the study of castes and drew attention to the lives of the country’s most oppressed.
+
+By Sameer Yasir
 
 * * *
 
