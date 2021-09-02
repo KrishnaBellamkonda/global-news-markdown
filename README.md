@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the ‘Finally, I Am Safe’: U.S. Air Base Becomes Temporary Refuge for Afghans
-------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Thursday Briefing
+----------------------
 
-[Article here](https://www.nytimes.com/2021/09/01/world/europe/us-airbase-germany-afghanistan.html)
+[Article here](https://www.nytimes.com/2021/09/02/briefing/delta-merkel-taliban.html)
 
-[![](https://static01.nyt.com/images/2021/09/02/world/02afghanistan-ramstein-p1/merlin_194006358_23e197bc-11d5-449f-9ee1-383b4e971589-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/europe/us-airbase-germany-afghanistan.html)
+[![](https://static01.nyt.com/images/2021/08/27/science/02ambriefing-europe-virus-delta2/merlin_193295760_67b1877a-3432-45d8-b24d-3e3c7286eacf-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/briefing/delta-merkel-taliban.html)
 
-About a fifth of all people evacuated from Kabul were brought to Ramstein Air Base in Germany, where they await the next leg of their journey, to the United States.
+Tracking the Delta variant.
 
-By Melissa Eddy
-
-* * *
+By Natasha Frost
 
 * * *
 
-Pope Criticizes Western Intervention in Afghanistan
----------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/01/world/europe/pope-afghanistan-health.html)
+Health officials plead for vaccine donations to Latin America and the Caribbean.
+--------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/01/world/01pope/merlin_193997226_e842de22-6566-4d19-bccd-577a316fba44-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/europe/pope-afghanistan-health.html)
+[Article here](https://www.nytimes.com/2021/09/01/world/health-officials-plead-for-vaccine-donations-to-latin-america-and-the-caribbean.html)
 
-In a wide-ranging interview with a Spanish-language radio network, Francis said he was in good health after colon surgery in July, and insisted that he had not considered resigning.
+[![](https://static01.nyt.com/images/2021/09/01/multimedia/01virus-briefing-PAHO2/merlin_191097276_d891ce40-17fe-498d-983c-228064dbc101-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/health-officials-plead-for-vaccine-donations-to-latin-america-and-the-caribbean.html)
 
-By Elisabetta Povoledo
+Although every country in the region now has some vaccines, only one person in four there has been fully vaccinated.
+
+By Daniel Politi
 
 * * *
 
