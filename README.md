@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Historic London Synagogue Fights to Stay Out of the Shadows
------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Has Delta Peaked?
+-----------------
 
-[Article here](https://www.nytimes.com/2021/08/31/world/europe/london-bevis-marks-synagogue.html)
+[Article here](https://www.nytimes.com/2021/09/01/briefing/delta-peak-covid-caseload.html)
 
-[![](https://static01.nyt.com/images/2021/08/31/world/31London-synagogue1/merlin_193950357_cf3b6736-e8da-40bb-b9f5-f23e801104ef-superJumbo.jpg)](https://www.nytimes.com/2021/08/31/world/europe/london-bevis-marks-synagogue.html)
+[![](https://static01.nyt.com/images/2021/09/01/us/01-THE-MORNING-NL-PROMO/01-THE-MORNING-NL-PROMO-superJumbo-v2.jpg)](https://www.nytimes.com/2021/09/01/briefing/delta-peak-covid-caseload.html)
 
-The 320-year-old Bevis Marks Synagogue claims that two new proposed office towers would block its sunlight and add to the sense of enclosure amid the skyscrapers of the financial district.
+We investigate Covid’s mysterious two-month cycle.
 
-By Mark Landler
-
-* * *
+By David Leonhardt and Ashley Wu
 
 * * *
 
-It’s Election Season in Germany. No Charisma, Please!
------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/01/world/europe/germany-election-scholz-laschet-baerbock-merkel.html)
+OPEC and other producers decide to keep adding to oil output.
+-------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/01/world/01germany-campaign01/merlin_192550398_65ba2672-d810-46d9-b6a4-019a680c8f71-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/europe/germany-election-scholz-laschet-baerbock-merkel.html)
+[Article here](https://www.nytimes.com/2021/09/01/business/energy-environment/opec-plus-meeting.html)
 
-The race to replace Chancellor Angela Merkel after 16 years in office is the tightest in years. But the two leading candidates are anything but exciting, and that’s how Germans like it.
+[![](https://static01.nyt.com/images/2021/09/01/business/01economy-briefing-opec/merlin_184619625_e9f3aa73-2170-4d02-a13a-17bb9048567b-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/business/energy-environment/opec-plus-meeting.html)
 
-By Katrin Bennhold
+The cartel led by Saudi Arabia, along with Russia, will keep to modest production increase negotiated in July.
+
+By Stanley Reed
 
 * * *
 
