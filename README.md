@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Has Delta Peaked?
------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Thursday Briefing
+----------------------
 
-[Article here](https://www.nytimes.com/2021/09/01/briefing/delta-peak-covid-caseload.html)
+[Article here](https://www.nytimes.com/2021/09/01/briefing/taliban-leader-germany-elections-delta-variant.html)
 
-[![](https://static01.nyt.com/images/2021/09/01/us/01-THE-MORNING-NL-PROMO/01-THE-MORNING-NL-PROMO-superJumbo-v2.jpg)](https://www.nytimes.com/2021/09/01/briefing/delta-peak-covid-caseload.html)
+[![](https://static01.nyt.com/images/2021/09/02/world/02ambriefing-aus-nl1-promo/merlin_193951788_c4b4d2f5-ffbb-4e0a-9ba6-6791b02913f1-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/briefing/taliban-leader-germany-elections-delta-variant.html)
 
-We investigate Covid’s mysterious two-month cycle.
+The Taliban’s plan for an Islamic government.
 
-By David Leonhardt and Ashley Wu
-
-* * *
+By Melina Delkic
 
 * * *
 
-OPEC and other producers decide to keep adding to oil output.
--------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/01/business/energy-environment/opec-plus-meeting.html)
+The Taliban are poised to name a supreme leader and map out their government.
+-----------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/01/business/01economy-briefing-opec/merlin_184619625_e9f3aa73-2170-4d02-a13a-17bb9048567b-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/business/energy-environment/opec-plus-meeting.html)
+[Article here](https://www.nytimes.com/2021/09/01/world/taliban-government-afghanistan.html)
 
-The cartel led by Saudi Arabia, along with Russia, will keep to modest production increase negotiated in July.
+[![](https://static01.nyt.com/images/2021/09/01/world/01afghanistan-briefing-new-government/merlin_193951806_572bd40c-c656-4ce2-b718-d73df5731ac8-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/taliban-government-afghanistan.html)
 
-By Stanley Reed
+By Matthieu Aikins
 
 * * *
 
