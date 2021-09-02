@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Thursday Briefing
-----------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taiwan receives its first batch of Pfizer-BioNTech vaccines after a monthslong delay.
+-------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/02/briefing/delta-merkel-taliban.html)
+[Article here](https://www.nytimes.com/2021/09/02/world/asia/taiwan-receives-its-first-batch-of-pfizer-biontech-vaccines-after-a-monthslong-delay.html)
 
-[![](https://static01.nyt.com/images/2021/08/27/science/02ambriefing-europe-virus-delta2/merlin_193295760_67b1877a-3432-45d8-b24d-3e3c7286eacf-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/briefing/delta-merkel-taliban.html)
+[![](https://static01.nyt.com/images/2021/09/02/world/02virus-briefing-taiwan/merlin_194045151_12312966-43e3-4cd1-af82-ed687fde1dec-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/asia/taiwan-receives-its-first-batch-of-pfizer-biontech-vaccines-after-a-monthslong-delay.html)
 
-Tracking the Delta variant.
-
-By Natasha Frost
+By Jin Yu Young
 
 * * *
 
 * * *
 
-Health officials plead for vaccine donations to Latin America and the Caribbean.
---------------------------------------------------------------------------------
+Piers Morgan Cleared for Criticizing Meghan After Oprah Interview
+-----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/01/world/health-officials-plead-for-vaccine-donations-to-latin-america-and-the-caribbean.html)
+[Article here](https://www.nytimes.com/2021/09/01/world/europe/piers-morgan-meghan.html)
 
-[![](https://static01.nyt.com/images/2021/09/01/multimedia/01virus-briefing-PAHO2/merlin_191097276_d891ce40-17fe-498d-983c-228064dbc101-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/health-officials-plead-for-vaccine-donations-to-latin-america-and-the-caribbean.html)
+[![](https://static01.nyt.com/images/2021/09/01/world/01uk-royals01/01uk-royals01-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/europe/piers-morgan-meghan.html)
 
-Although every country in the region now has some vaccines, only one person in four there has been fully vaccinated.
+Mr. Morgan had been under investigation after he said on air that he did not believe Meghan’s claims that palace officials had refused her requests for mental health treatment.
 
-By Daniel Politi
+By Aina J. Khan
 
 * * *
 
