@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Disabled Japanese Are Often Invisible. Will Paralympics Bring Lasting Light?
-----------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After Quick Victory, Taliban Find Governing Is Harder
+-----------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/03/world/asia/japan-paralympics-disabled.html)
+[Article here](https://www.nytimes.com/2021/09/01/world/asia/afghanistan-taliban-victory-governing.html)
 
-[![](https://static01.nyt.com/images/2021/09/01/world/00JAPAN-DISABILITY-01/00JAPAN-DISABILITY-01-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/japan-paralympics-disabled.html)
+[![](https://static01.nyt.com/images/2021/09/01/world/01taliban-govern1/merlin_193997712_378f35bc-9f40-4ce9-8c4a-f46dce8a6f75-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/asia/afghanistan-taliban-victory-governing.html)
 
-Tokyo improved its infrastructure before the Games, but activists wonder how long the focus will continue in a country with a long history of excluding people with disabilities.
+The two weeks since the fall of Kabul have been a scramble for Taliban officials, who are trying to take up the functions of a new government on the eve of its announcement.
 
-By Motoko Rich and Hikari Hida
-
-* * *
+By Matthieu Aikins
 
 * * *
 
-Japan’s Prime Minister to Step Aside After Just a Year in Office
-----------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/02/world/asia/japan-suga-resign-election.html)
+Rulings Without Explanations
+----------------------------
 
-[![](https://static01.nyt.com/images/2021/09/03/world/03japan-suga/merlin_193290843_6cf30927-024e-446a-859c-4c9add721d23-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/asia/japan-suga-resign-election.html)
+[Article here](https://www.nytimes.com/2021/09/03/briefing/scotus-shadow-docket-texas-abortion-law.html)
 
-Yoshihide Suga’s abrupt decision came after he had spent days trying to salvage a historically unpopular administration.
+[![](https://static01.nyt.com/images/2021/09/03/us/03-THE-MORNING-NL-LEDE-PROMO/merlin_193144545_5d5c155c-98c5-4c2b-9ccd-8ba45c8e23af-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/briefing/scotus-shadow-docket-texas-abortion-law.html)
 
-By Motoko Rich
+Why is the Supreme Court using its “shadow docket” so often?
+
+By David Leonhardt
 
 * * *
 
