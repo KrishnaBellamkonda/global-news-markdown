@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Looking Longingly Out Someone Else’s Window
--------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghan siblings recount the perils of the first day of Taliban rule.
+--------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/03/world/australia/looking-longingly-out-someone-elses-window.html)
+[Article here](https://www.nytimes.com/2021/09/01/world/asia/taliban-kabul-scenes.html)
 
-[![](https://static01.nyt.com/images/2021/09/03/world/03australialetter223-NL/merlin_193541643_e77d21e3-923b-4898-b252-977b2afbde06-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/australia/looking-longingly-out-someone-elses-window.html)
+[![](https://static01.nyt.com/images/2021/09/01/world/31afghanistan-briefing-kabul-siblings-sub/merlin_193905603_8419517f-066b-461d-a369-b76cd13b5622-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/asia/taliban-kabul-scenes.html)
 
-Most of our worlds have narrowed down to a single view, but a crowdsourcing website lets us borrow a different one, for a little while.
+A young man ventured out to explore the new world of Afghanistan. For his sister, it seemed safer to watch through the window.
 
-By Yan Zhuang
-
-* * *
+By Farnaz Fassihi
 
 * * *
 
-After Quick Victory, Taliban Find Governing Is Harder
------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/01/world/asia/afghanistan-taliban-victory-governing.html)
+Japan’s Leader Is Stepping Down. Here’s Who Might Replace Him.
+--------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/01/world/01taliban-govern1/merlin_193997712_378f35bc-9f40-4ce9-8c4a-f46dce8a6f75-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/asia/afghanistan-taliban-victory-governing.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/asia/who-will-replace-yoshihide-suga.html)
 
-The two weeks since the fall of Kabul have been a scramble for Taliban officials, who are trying to take up the functions of a new government on the eve of its announcement.
+[![](https://static01.nyt.com/images/2021/09/03/world/03japan-contenders-01/merlin_177024504_9a7640d0-7816-4add-82e3-09a8d39d746a-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/who-will-replace-yoshihide-suga.html)
 
-By Matthieu Aikins
+Prime Minister Yoshihide Suga leaves his party facing its biggest crisis in years, with the coronavirus caseload at record highs and the economy struggling to recover.
+
+By Ben Dooley
 
 * * *
 
