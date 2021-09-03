@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Taiwan receives its first batch of Pfizer-BioNTech vaccines after a monthslong delay.
--------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Danish Official Faces Impeachment Trial Over Migration Policy Separating Couples
+--------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/02/world/asia/taiwan-receives-its-first-batch-of-pfizer-biontech-vaccines-after-a-monthslong-delay.html)
+[Article here](https://www.nytimes.com/2021/09/02/world/europe/denmark-impeachment-migration.html)
 
-[![](https://static01.nyt.com/images/2021/09/02/world/02virus-briefing-taiwan/merlin_194045151_12312966-43e3-4cd1-af82-ed687fde1dec-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/asia/taiwan-receives-its-first-batch-of-pfizer-biontech-vaccines-after-a-monthslong-delay.html)
+[![](https://static01.nyt.com/images/2021/09/02/world/02denmark/02denmark-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/europe/denmark-impeachment-migration.html)
 
-By Jin Yu Young
+Inger Stojberg, who presided over tough anti-immigrant policies when her party was in charge, is being tried on charges of illegally separating couples who sought asylum.
+
+By Isabella Kwai and Jasmina Nielsen
 
 * * *
 
 * * *
 
-Piers Morgan Cleared for Criticizing Meghan After Oprah Interview
------------------------------------------------------------------
+Your Thursday Briefing
+----------------------
 
-[Article here](https://www.nytimes.com/2021/09/01/world/europe/piers-morgan-meghan.html)
+[Article here](https://www.nytimes.com/2021/09/01/briefing/taliban-leader-germany-elections-delta-variant.html)
 
-[![](https://static01.nyt.com/images/2021/09/01/world/01uk-royals01/01uk-royals01-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/europe/piers-morgan-meghan.html)
+[![](https://static01.nyt.com/images/2021/09/02/world/02ambriefing-aus-nl1-promo/merlin_193951788_c4b4d2f5-ffbb-4e0a-9ba6-6791b02913f1-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/briefing/taliban-leader-germany-elections-delta-variant.html)
 
-Mr. Morgan had been under investigation after he said on air that he did not believe Meghan’s claims that palace officials had refused her requests for mental health treatment.
+The Taliban’s plan for an Islamic government.
 
-By Aina J. Khan
+By Melina Delkic
 
 * * *
 
