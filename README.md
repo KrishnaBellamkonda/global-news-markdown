@@ -19,29 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Syed Ali Geelani, Separatist Leader in Kashmir, Dies at 91
-----------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Several industrialized nations are beginning to give booster shots this month.
+------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/02/world/asia/syed-ali-shah-geelani-dead.html)
+[Article here](https://www.nytimes.com/2021/09/02/world/covid-booster-shots-delta.html)
 
-[![](https://static01.nyt.com/images/2021/09/02/world/02obit-geelani-1/02obit-geelani-1-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/asia/syed-ali-shah-geelani-dead.html)
+[![](https://static01.nyt.com/images/2021/08/31/world/31virus-briefing-third-jab-sub/merlin_193702842_d47ba40c-44bf-43c6-abe7-b6252be04fe6-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/covid-booster-shots-delta.html)
 
-Mr. Geelani was an uncompromising opponent of the Indian government’s control of the Kashmir valley and favored Pakistani sovereignty over the mostly Muslim region.
+The Czech Republic joins several countries to say it will recommend extra shots, while much of the world remains unvaccinated.
 
-By Sameer Yasir
-
-* * *
+By Aina J. Khan
 
 * * *
 
-Taiwan receives its first batch of Pfizer-BioNTech vaccines after a monthslong delay.
--------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/02/world/asia/taiwan-receives-its-first-batch-of-pfizer-biontech-vaccines-after-a-monthslong-delay.html)
+New Zealand Police Kill ‘Extremist’ Who Stabbed 6 in ISIS-Inspired Attack
+-------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/02/world/02virus-briefing-taiwan/merlin_194045151_12312966-43e3-4cd1-af82-ed687fde1dec-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/asia/taiwan-receives-its-first-batch-of-pfizer-biontech-vaccines-after-a-monthslong-delay.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/asia/new-zealand-isis-terrorist-attack.html)
 
-By Jin Yu Young
+[![](https://static01.nyt.com/images/2021/09/03/world/03NZ-ATTACK-02/merlin_194110572_18806db8-530b-4af4-ae86-04a553ebf139-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/new-zealand-isis-terrorist-attack.html)
+
+The man was under surveillance when he injured six people at a West Auckland supermarket on Friday, officials said. The prime minister called it a “terrorist attack.”
+
+By Natasha Frost
 
 * * *
 
