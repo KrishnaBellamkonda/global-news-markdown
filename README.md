@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The French Left Is in Disarray, but Here Comes Anne Hidalgo
------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Syed Ali Geelani, Separatist Leader in Kashmir, Dies at 91
+----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/02/world/europe/france-president-election-socialists-anne-hidalgo.html)
+[Article here](https://www.nytimes.com/2021/09/02/world/asia/syed-ali-shah-geelani-dead.html)
 
-[![](https://static01.nyt.com/images/2021/08/31/world/xxFrance-Hidalgo01/merlin_193901121_904c2990-c32c-4ea1-9732-74c22c9e6d90-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/europe/france-president-election-socialists-anne-hidalgo.html)
+[![](https://static01.nyt.com/images/2021/09/02/world/02obit-geelani-1/02obit-geelani-1-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/asia/syed-ali-shah-geelani-dead.html)
 
-The charismatic and divisive socialist mayor of Paris is eyeing an office that has been occupied by eight male presidents over six decades.
+Mr. Geelani was an uncompromising opponent of the Indian government’s control of the Kashmir valley and favored Pakistani sovereignty over the mostly Muslim region.
 
-By Roger Cohen
-
-* * *
+By Sameer Yasir
 
 * * *
 
-With Afghan Retreat, Biden Bucks Foreign Policy Elite
------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/01/world/europe/afghanistan-biden-foreign-policy.html)
+Taiwan receives its first batch of Pfizer-BioNTech vaccines after a monthslong delay.
+-------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/01/world/01afghan-react/merlin_96707953_5dd84431-d65c-45a0-bb30-26e315c2c9bd-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/europe/afghanistan-biden-foreign-policy.html)
+[Article here](https://www.nytimes.com/2021/09/02/world/asia/taiwan-receives-its-first-batch-of-pfizer-biontech-vaccines-after-a-monthslong-delay.html)
 
-The president, following one of his core beliefs, has put himself at odds with much of the establishment, on the right and left, in Washington and across Europe.
+[![](https://static01.nyt.com/images/2021/09/02/world/02virus-briefing-taiwan/merlin_194045151_12312966-43e3-4cd1-af82-ed687fde1dec-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/asia/taiwan-receives-its-first-batch-of-pfizer-biontech-vaccines-after-a-monthslong-delay.html)
 
-By Mark Landler
+By Jin Yu Young
 
 * * *
 
