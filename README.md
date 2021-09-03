@@ -19,7 +19,22 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Danish Official Faces Impeachment Trial Over Migration Policy Separating Couples
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Climate Bankruptcy
+------------------
+
+[Article here](https://www.nytimes.com/2021/09/02/briefing/extreme-weather-ida-climate-bankruptcy.html)
+
+[![](https://static01.nyt.com/images/2021/09/02/multimedia/02-THE-MORNING-NLEDE-PROMO/02-THE-MORNING-NLEDE-SWAP1-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/briefing/extreme-weather-ida-climate-bankruptcy.html)
+
+Remnants of Hurricane Ida barreled into the New York City region. And what happens when climate change comes to a small Southern town.
+
+By David Leonhardt
+
+* * *
+
+* * *
+
+Danish Official Faces Impeachment Trial Over Migration Policy Separating Couples
 --------------------------------------------------------------------------------
 
 [Article here](https://www.nytimes.com/2021/09/02/world/europe/denmark-impeachment-migration.html)
@@ -29,21 +44,6 @@ Come back in a few hours and seeif the news section has changed! (Is it too long
 Inger Stojberg, who presided over tough anti-immigrant policies when her party was in charge, is being tried on charges of illegally separating couples who sought asylum.
 
 By Isabella Kwai and Jasmina Nielsen
-
-* * *
-
-* * *
-
-Your Thursday Briefing
-----------------------
-
-[Article here](https://www.nytimes.com/2021/09/01/briefing/taliban-leader-germany-elections-delta-variant.html)
-
-[![](https://static01.nyt.com/images/2021/09/02/world/02ambriefing-aus-nl1-promo/merlin_193951788_c4b4d2f5-ffbb-4e0a-9ba6-6791b02913f1-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/briefing/taliban-leader-germany-elections-delta-variant.html)
-
-The Taliban’s plan for an Islamic government.
-
-By Melina Delkic
 
 * * *
 
