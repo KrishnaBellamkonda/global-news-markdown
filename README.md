@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Climate Bankruptcy
-------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Disabled Japanese Are Often Invisible. Will Paralympics Bring Lasting Light?
+----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/02/briefing/extreme-weather-ida-climate-bankruptcy.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/asia/japan-paralympics-disabled.html)
 
-[![](https://static01.nyt.com/images/2021/09/02/multimedia/02-THE-MORNING-NLEDE-PROMO/02-THE-MORNING-NLEDE-SWAP1-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/briefing/extreme-weather-ida-climate-bankruptcy.html)
+[![](https://static01.nyt.com/images/2021/09/01/world/00JAPAN-DISABILITY-01/00JAPAN-DISABILITY-01-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/japan-paralympics-disabled.html)
 
-Remnants of Hurricane Ida barreled into the New York City region. And what happens when climate change comes to a small Southern town.
+Tokyo improved its infrastructure before the Games, but activists wonder how long the focus will continue in a country with a long history of excluding people with disabilities.
 
-By David Leonhardt
-
-* * *
+By Motoko Rich and Hikari Hida
 
 * * *
 
-Married Kremlin Spies, a Shadowy Mission to Moscow and Unrest in Catalonia
---------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/03/world/europe/spain-catalonia-russia.html)
+Japan’s Prime Minister to Step Aside After Just a Year in Office
+----------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/02/world/02spain-russia1/merlin_128058344_f0b9ba31-3783-4ebd-b8e4-afff2127060f-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/europe/spain-catalonia-russia.html)
+[Article here](https://www.nytimes.com/2021/09/02/world/asia/japan-suga-resign-election.html)
 
-Intelligence files suggest an aide to a top Catalan separatist sought help from Russia in the struggle to break with Spain. A fierce new protest group emerged shortly afterward.
+[![](https://static01.nyt.com/images/2021/09/03/world/03japan-suga/merlin_193290843_6cf30927-024e-446a-859c-4c9add721d23-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/asia/japan-suga-resign-election.html)
 
-By Michael Schwirtz and José Bautista
+Yoshihide Suga’s abrupt decision came after he had spent days trying to salvage a historically unpopular administration.
+
+By Motoko Rich
 
 * * *
 
