@@ -34,16 +34,16 @@ By David Leonhardt
 
 * * *
 
-Danish Official Faces Impeachment Trial Over Migration Policy Separating Couples
---------------------------------------------------------------------------------
+Married Kremlin Spies, a Shadowy Mission to Moscow and Unrest in Catalonia
+--------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/02/world/europe/denmark-impeachment-migration.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/europe/spain-catalonia-russia.html)
 
-[![](https://static01.nyt.com/images/2021/09/02/world/02denmark/02denmark-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/europe/denmark-impeachment-migration.html)
+[![](https://static01.nyt.com/images/2021/09/02/world/02spain-russia1/merlin_128058344_f0b9ba31-3783-4ebd-b8e4-afff2127060f-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/europe/spain-catalonia-russia.html)
 
-Inger Stojberg, who presided over tough anti-immigrant policies when her party was in charge, is being tried on charges of illegally separating couples who sought asylum.
+Intelligence files suggest an aide to a top Catalan separatist sought help from Russia in the struggle to break with Spain. A fierce new protest group emerged shortly afterward.
 
-By Isabella Kwai and Jasmina Nielsen
+By Michael Schwirtz and José Bautista
 
 * * *
 
