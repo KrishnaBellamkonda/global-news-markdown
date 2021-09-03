@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghan siblings recount the perils of the first day of Taliban rule.
---------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The French Left Is in Disarray, but Here Comes Anne Hidalgo
+-----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/01/world/asia/taliban-kabul-scenes.html)
+[Article here](https://www.nytimes.com/2021/09/02/world/europe/france-president-election-socialists-anne-hidalgo.html)
 
-[![](https://static01.nyt.com/images/2021/09/01/world/31afghanistan-briefing-kabul-siblings-sub/merlin_193905603_8419517f-066b-461d-a369-b76cd13b5622-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/asia/taliban-kabul-scenes.html)
+[![](https://static01.nyt.com/images/2021/08/31/world/xxFrance-Hidalgo01/merlin_193901121_904c2990-c32c-4ea1-9732-74c22c9e6d90-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/europe/france-president-election-socialists-anne-hidalgo.html)
 
-A young man ventured out to explore the new world of Afghanistan. For his sister, it seemed safer to watch through the window.
+The charismatic and divisive socialist mayor of Paris is eyeing an office that has been occupied by eight male presidents over six decades.
 
-By Farnaz Fassihi
-
-* * *
+By Roger Cohen
 
 * * *
 
-Japan’s Leader Is Stepping Down. Here’s Who Might Replace Him.
---------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/03/world/asia/who-will-replace-yoshihide-suga.html)
+With Afghan Retreat, Biden Bucks Foreign Policy Elite
+-----------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/03/world/03japan-contenders-01/merlin_177024504_9a7640d0-7816-4add-82e3-09a8d39d746a-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/who-will-replace-yoshihide-suga.html)
+[Article here](https://www.nytimes.com/2021/09/01/world/europe/afghanistan-biden-foreign-policy.html)
 
-Prime Minister Yoshihide Suga leaves his party facing its biggest crisis in years, with the coronavirus caseload at record highs and the economy struggling to recover.
+[![](https://static01.nyt.com/images/2021/09/01/world/01afghan-react/merlin_96707953_5dd84431-d65c-45a0-bb30-26e315c2c9bd-superJumbo.jpg)](https://www.nytimes.com/2021/09/01/world/europe/afghanistan-biden-foreign-policy.html)
 
-By Ben Dooley
+The president, following one of his core beliefs, has put himself at odds with much of the establishment, on the right and left, in Washington and across Europe.
+
+By Mark Landler
 
 * * *
 
