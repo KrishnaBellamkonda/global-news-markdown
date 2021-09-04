@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Your Friday Briefing
---------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Looking Longingly Out Someone Else’s Window
+-------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/03/briefing/ida-flooding-taliban-coronavirus.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/australia/looking-longingly-out-someone-elses-window.html)
 
-[![](https://static01.nyt.com/images/2021/09/03/us/03am-briefing-europe--flld-ida/merlin_194068431_672b4127-8287-4ee6-843a-c02dcaa2f946-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/briefing/ida-flooding-taliban-coronavirus.html)
+[![](https://static01.nyt.com/images/2021/09/03/world/03australialetter223-NL/merlin_193541643_e77d21e3-923b-4898-b252-977b2afbde06-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/australia/looking-longingly-out-someone-elses-window.html)
 
-A lethal storm in the northeastern U.S.
+Most of our worlds have narrowed down to a single view, but a crowdsourcing website lets us borrow a different one, for a little while.
 
-By Natasha Frost
-
-* * *
+By Yan Zhuang
 
 * * *
 
-The last U.S. diplomat to leave Kabul has tested positive for the virus.
-------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/02/us/politics/ross-wilson-covid.html)
+Afghans With Ties to U.S. Who Could Not Get Out Now Live in Fear
+----------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/02/lens/02virus-briefing-wilson1/merlin_192074007_8a295b01-f70a-4c69-8992-70891f4b2472-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/us/politics/ross-wilson-covid.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/asia/afghanistan-taliban-airport-evacuation-refugees-asylum.html)
 
-It wasn’t clear if Ross Wilson was experiencing symptoms of Covid-19.
+[![](https://static01.nyt.com/images/2021/09/02/world/02AFGHANISTAN-TRAPPED-01/merlin_193550511_38534a4b-4fb2-4871-8a5e-e46d319c4ee3-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/afghanistan-taliban-airport-evacuation-refugees-asylum.html)
 
-By Zach Montague
+Thousands did not make it onto U.S. military evacuation flights. Many of them are now in hiding, worried for their safety and their future.
+
+By Adam Nossiter
 
 * * *
 
