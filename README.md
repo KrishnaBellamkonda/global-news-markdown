@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Climate Bankruptcy
-------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In ‘Back to The Future: The Musical,’ the Car Is the Star of the Show
+---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/02/briefing/extreme-weather-ida-climate-bankruptcy.html)
+[Article here](https://www.nytimes.com/2021/09/02/theater/back-to-the-future-musical.html)
 
-[![](https://static01.nyt.com/images/2021/09/02/multimedia/02-THE-MORNING-NLEDE-PROMO/02-THE-MORNING-NLEDE-SWAP1-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/briefing/extreme-weather-ida-climate-bankruptcy.html)
+[![](https://static01.nyt.com/images/2021/09/02/arts/02back-to-the-future3/merlin_193913538_c6dc9d44-56c2-4f99-81f6-2e16959804a5-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/theater/back-to-the-future-musical.html)
 
-Remnants of Hurricane Ida barreled into the New York City region. And what happens when climate change comes to a small Southern town.
+A devoted fan of the 1985 movie helped the London production’s creative team recreate the iconic time-traveling DeLorean, down to the last detail.
 
-By David Leonhardt
-
-* * *
+By Alex Marshall
 
 * * *
 
-Disabled Japanese Are Often Invisible. Will Paralympics Bring Lasting Light?
-----------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/03/world/asia/japan-paralympics-disabled.html)
+New Zealand Police Kill ‘Extremist’ Who Stabbed 6 in ISIS-Inspired Attack
+-------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/01/world/00JAPAN-DISABILITY-01/00JAPAN-DISABILITY-01-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/japan-paralympics-disabled.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/asia/new-zealand-isis-terrorist-attack.html)
 
-Tokyo improved its infrastructure before the Games, but activists wonder how long the focus will continue in a country with a long history of excluding people with disabilities.
+[![](https://static01.nyt.com/images/2021/09/03/world/03NZ-ATTACK-02/merlin_194110572_18806db8-530b-4af4-ae86-04a553ebf139-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/new-zealand-isis-terrorist-attack.html)
 
-By Motoko Rich and Hikari Hida
+The man was under surveillance when he injured six people at a West Auckland supermarket on Friday, officials said. The prime minister called it a “terrorist attack.”
+
+By Natasha Frost
 
 * * *
 
