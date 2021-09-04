@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Several industrialized nations are beginning to give booster shots this month.
-------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Disabled Japanese Are Often Invisible. Will Paralympics Bring Lasting Light?
+----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/02/world/covid-booster-shots-delta.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/asia/japan-paralympics-disabled.html)
 
-[![](https://static01.nyt.com/images/2021/08/31/world/31virus-briefing-third-jab-sub/merlin_193702842_d47ba40c-44bf-43c6-abe7-b6252be04fe6-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/covid-booster-shots-delta.html)
+[![](https://static01.nyt.com/images/2021/09/01/world/00JAPAN-DISABILITY-01/00JAPAN-DISABILITY-01-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/japan-paralympics-disabled.html)
 
-The Czech Republic joins several countries to say it will recommend extra shots, while much of the world remains unvaccinated.
+Tokyo improved its infrastructure before the Games, but activists wonder how long the focus will continue in a country with a long history of excluding people with disabilities.
 
-By Aina J. Khan
-
-* * *
+By Motoko Rich and Hikari Hida
 
 * * *
 
-New Zealand Police Kill ‘Extremist’ Who Stabbed 6 in ISIS-Inspired Attack
--------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/03/world/asia/new-zealand-isis-terrorist-attack.html)
+Climate Change Is ‘Not a Geostrategic Weapon,’ Kerry Tells Chinese Leaders
+--------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/03/world/03NZ-ATTACK-02/merlin_194110572_18806db8-530b-4af4-ae86-04a553ebf139-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/new-zealand-isis-terrorist-attack.html)
+[Article here](https://www.nytimes.com/2021/09/02/world/asia/climate-china-us-kerry.html)
 
-The man was under surveillance when he injured six people at a West Auckland supermarket on Friday, officials said. The prime minister called it a “terrorist attack.”
+[![](https://static01.nyt.com/images/2021/09/02/world/02china-us-climate-1/02china-us-climate-1-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/asia/climate-china-us-kerry.html)
 
-By Natasha Frost
+President Biden’s climate envoy ended talks in China with a pledge to continue negotiations. But Beijing warned that broader U.S.-China tensions hurt cooperation.
+
+By Chris Buckley and Lisa Friedman
 
 * * *
 
