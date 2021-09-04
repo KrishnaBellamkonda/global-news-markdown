@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Looking Longingly Out Someone Else’s Window
--------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Disabled Japanese Are Often Invisible. Will Paralympics Bring Lasting Light?
+----------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/03/world/australia/looking-longingly-out-someone-elses-window.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/asia/japan-paralympics-disabled.html)
 
-[![](https://static01.nyt.com/images/2021/09/03/world/03australialetter223-NL/merlin_193541643_e77d21e3-923b-4898-b252-977b2afbde06-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/australia/looking-longingly-out-someone-elses-window.html)
+[![](https://static01.nyt.com/images/2021/09/01/world/00JAPAN-DISABILITY-01/00JAPAN-DISABILITY-01-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/japan-paralympics-disabled.html)
 
-Most of our worlds have narrowed down to a single view, but a crowdsourcing website lets us borrow a different one, for a little while.
+Tokyo improved its infrastructure before the Games, but activists wonder how long the focus will continue in a country with a long history of excluding people with disabilities.
 
-By Yan Zhuang
-
-* * *
+By Motoko Rich and Hikari Hida
 
 * * *
 
-Afghans With Ties to U.S. Who Could Not Get Out Now Live in Fear
-----------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/03/world/asia/afghanistan-taliban-airport-evacuation-refugees-asylum.html)
+Kolkata’s ‘Fairy Tale’ Trams, Once Essential, Are Now a Neglected Relic
+-----------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/02/world/02AFGHANISTAN-TRAPPED-01/merlin_193550511_38534a4b-4fb2-4871-8a5e-e46d319c4ee3-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/afghanistan-taliban-airport-evacuation-refugees-asylum.html)
+[Article here](https://www.nytimes.com/2021/09/02/world/asia/kolkata-india-trams-calcutta.html)
 
-Thousands did not make it onto U.S. military evacuation flights. Many of them are now in hiding, worried for their safety and their future.
+[![](https://static01.nyt.com/images/2021/08/27/world/00india-kolkata-dispatch-01/merlin_192033006_9c7ec101-512e-4fc3-8d55-6d8845a949df-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/asia/kolkata-india-trams-calcutta.html)
 
-By Adam Nossiter
+The few riders left say the 140-year-old system makes sense for a city of 15 million struggling with pollution and overcrowding. But many trips now are more nostalgic than necessary.
+
+By Emily Schmall
 
 * * *
 
