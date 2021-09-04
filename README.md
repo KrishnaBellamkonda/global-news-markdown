@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Disabled Japanese Are Often Invisible. Will Paralympics Bring Lasting Light?
-----------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Japan’s Prime Minister Will Step Aside After Just a Year in Office
+------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/03/world/asia/japan-paralympics-disabled.html)
+[Article here](https://www.nytimes.com/2021/09/02/world/asia/japan-suga-resign-election.html)
 
-[![](https://static01.nyt.com/images/2021/09/01/world/00JAPAN-DISABILITY-01/00JAPAN-DISABILITY-01-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/japan-paralympics-disabled.html)
+[![](https://static01.nyt.com/images/2021/09/03/world/03japan-suga/merlin_193290843_6cf30927-024e-446a-859c-4c9add721d23-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/asia/japan-suga-resign-election.html)
 
-Tokyo improved its infrastructure before the Games, but activists wonder how long the focus will continue in a country with a long history of excluding people with disabilities.
+Yoshihide Suga’s abrupt decision came after he had spent days trying to salvage a historically unpopular administration.
 
-By Motoko Rich and Hikari Hida
-
-* * *
+By Motoko Rich
 
 * * *
 
-Climate Change Is ‘Not a Geostrategic Weapon,’ Kerry Tells Chinese Leaders
---------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/02/world/asia/climate-china-us-kerry.html)
+Your Thursday Briefing
+----------------------
 
-[![](https://static01.nyt.com/images/2021/09/02/world/02china-us-climate-1/02china-us-climate-1-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/asia/climate-china-us-kerry.html)
+[Article here](https://www.nytimes.com/2021/09/02/briefing/delta-merkel-taliban.html)
 
-President Biden’s climate envoy ended talks in China with a pledge to continue negotiations. But Beijing warned that broader U.S.-China tensions hurt cooperation.
+[![](https://static01.nyt.com/images/2021/08/27/science/02ambriefing-europe-virus-delta2/merlin_193295760_67b1877a-3432-45d8-b24d-3e3c7286eacf-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/briefing/delta-merkel-taliban.html)
 
-By Chris Buckley and Lisa Friedman
+Tracking the Delta variant.
+
+By Natasha Frost
 
 * * *
 
