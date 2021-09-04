@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the In ‘Back to The Future: The Musical,’ the Car Is the Star of the Show
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Waste From Mine in Angola Kills 12 Downstream in Congo, Minister Says
 ---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/02/theater/back-to-the-future-musical.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/africa/mine-waste-angola-congo.html)
 
-[![](https://static01.nyt.com/images/2021/09/02/arts/02back-to-the-future3/merlin_193913538_c6dc9d44-56c2-4f99-81f6-2e16959804a5-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/theater/back-to-the-future-musical.html)
+[![](https://static01.nyt.com/images/2021/09/03/world/03Congo-River/merlin_145822722_469f0386-6f0b-46d2-933b-582bea3c8514-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/africa/mine-waste-angola-congo.html)
 
-A devoted fan of the 1985 movie helped the London production’s creative team recreate the iconic time-traveling DeLorean, down to the last detail.
+Toxic metals from Angola’s largest diamond mine spilled into the Kasai River in July, sickening thousands and causing an “environmental catastrophe,” researchers said.
 
-By Alex Marshall
-
-* * *
+By Gilberto Neto and Ruth Maclean
 
 * * *
 
-New Zealand Police Kill ‘Extremist’ Who Stabbed 6 in ISIS-Inspired Attack
--------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/03/world/asia/new-zealand-isis-terrorist-attack.html)
+President Biden pledges investment in vaccine components, but will that help the world?
+---------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/03/world/03NZ-ATTACK-02/merlin_194110572_18806db8-530b-4af4-ae86-04a553ebf139-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/new-zealand-isis-terrorist-attack.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/president-biden-pledges-investment-in-vaccine-components-but-will-that-help-the-world.html)
 
-The man was under surveillance when he injured six people at a West Auckland supermarket on Friday, officials said. The prime minister called it a “terrorist attack.”
+[![](https://static01.nyt.com/images/2021/09/03/lens/03virus-briefing-biden-world-lede1/merlin_183998343_5d02ed28-ef9b-484d-9119-c42513d65537-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/president-biden-pledges-investment-in-vaccine-components-but-will-that-help-the-world.html)
 
-By Natasha Frost
+By Sheryl Gay Stolberg and Lauren McCarthy
 
 * * *
 
