@@ -19,7 +19,22 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Disabled Japanese Are Often Invisible. Will Paralympics Bring Lasting Light?
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Climate Bankruptcy
+------------------
+
+[Article here](https://www.nytimes.com/2021/09/02/briefing/extreme-weather-ida-climate-bankruptcy.html)
+
+[![](https://static01.nyt.com/images/2021/09/02/multimedia/02-THE-MORNING-NLEDE-PROMO/02-THE-MORNING-NLEDE-SWAP1-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/briefing/extreme-weather-ida-climate-bankruptcy.html)
+
+Remnants of Hurricane Ida barreled into the New York City region. And what happens when climate change comes to a small Southern town.
+
+By David Leonhardt
+
+* * *
+
+* * *
+
+Disabled Japanese Are Often Invisible. Will Paralympics Bring Lasting Light?
 ----------------------------------------------------------------------------
 
 [Article here](https://www.nytimes.com/2021/09/03/world/asia/japan-paralympics-disabled.html)
@@ -29,21 +44,6 @@ Come back in a few hours and seeif the news section has changed! (Is it too long
 Tokyo improved its infrastructure before the Games, but activists wonder how long the focus will continue in a country with a long history of excluding people with disabilities.
 
 By Motoko Rich and Hikari Hida
-
-* * *
-
-* * *
-
-Kolkata’s ‘Fairy Tale’ Trams, Once Essential, Are Now a Neglected Relic
------------------------------------------------------------------------
-
-[Article here](https://www.nytimes.com/2021/09/02/world/asia/kolkata-india-trams-calcutta.html)
-
-[![](https://static01.nyt.com/images/2021/08/27/world/00india-kolkata-dispatch-01/merlin_192033006_9c7ec101-512e-4fc3-8d55-6d8845a949df-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/asia/kolkata-india-trams-calcutta.html)
-
-The few riders left say the 140-year-old system makes sense for a city of 15 million struggling with pollution and overcrowding. But many trips now are more nostalgic than necessary.
-
-By Emily Schmall
 
 * * *
 
