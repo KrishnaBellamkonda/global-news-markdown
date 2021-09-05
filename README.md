@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After Stabbing Attack, New Zealand Examines Its Antiterrorism Efforts
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Waste From Mine in Angola Kills 12 Downstream in Congo, Minister Says
 ---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/04/world/asia/new-zealand-attack-isis.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/africa/mine-waste-angola-congo.html)
 
-[![](https://static01.nyt.com/images/2021/09/04/world/04nz-attack1/merlin_194150595_0f0e9d10-d837-44f8-b271-f1105f524886-superJumbo.jpg)](https://www.nytimes.com/2021/09/04/world/asia/new-zealand-attack-isis.html)
+[![](https://static01.nyt.com/images/2021/09/03/world/03Congo-River/merlin_145822722_469f0386-6f0b-46d2-933b-582bea3c8514-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/africa/mine-waste-angola-congo.html)
 
-A man who wounded seven people in a supermarket had been under surveillance for months. Officials say a loophole in the country’s laws needs to be closed.
+Toxic metals from Angola’s largest diamond mine spilled into the Kasai River in July, sickening thousands and causing an “environmental catastrophe,” researchers said.
 
-By Natasha Frost
-
-* * *
+By Gilberto Neto and Ruth Maclean
 
 * * *
 
-Special Forces Colonel Says He Has Seized Guinea’s President
-------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/05/world/africa/guinea-coup.html)
+In Hong Kong, Jimmy Lai’s Media Company Moves to Close Down
+-----------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/05/world/05GUINEA/merlin_194243049_c3e85544-aba3-471b-8c6b-a3b5eb0503b5-superJumbo.jpg)](https://www.nytimes.com/2021/09/05/world/africa/guinea-coup.html)
+[Article here](https://www.nytimes.com/2021/09/05/business/next-digital-jimmy-lai-hong-kong.html)
 
-If the coup is successful, it will mark the third time in five months that a West African nation has suffered a takeover.
+[![](https://static01.nyt.com/images/2021/09/05/world/05hk-media-HFO1/merlin_189749790_dd767b54-4ae7-4de3-afd5-e6e7c51a1171-superJumbo.jpg)](https://www.nytimes.com/2021/09/05/business/next-digital-jimmy-lai-hong-kong.html)
 
-By Ruth Maclean, Mady Camara and Abdourahmane Diallo
+Next Digital, which has published criticism of China for decades, said a crackdown had left it with no way to operate. Its main newspaper, Apple Daily, closed in June.
+
+By Austin Ramzy
 
 * * *
 
