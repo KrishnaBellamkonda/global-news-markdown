@@ -19,14 +19,14 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the New Zealand Police Kill ‘Extremist’ Who Stabbed 6 in ISIS-Inspired Attack
--------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After Stabbing Attack, New Zealand Examines Its Antiterrorism Efforts
+---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/03/world/asia/new-zealand-isis-terrorist-attack.html)
+[Article here](https://www.nytimes.com/2021/09/04/world/asia/new-zealand-attack-isis.html)
 
-[![](https://static01.nyt.com/images/2021/09/03/world/03NZ-ATTACK-02/merlin_194110572_18806db8-530b-4af4-ae86-04a553ebf139-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/new-zealand-isis-terrorist-attack.html)
+[![](https://static01.nyt.com/images/2021/09/04/world/04nz-attack1/merlin_194150595_0f0e9d10-d837-44f8-b271-f1105f524886-superJumbo.jpg)](https://www.nytimes.com/2021/09/04/world/asia/new-zealand-attack-isis.html)
 
-The man was under surveillance when he injured six people at a West Auckland supermarket on Friday, officials said. The prime minister called it a “terrorist attack.”
+A man who wounded seven people in a supermarket had been under surveillance for months. Officials say a loophole in the country’s laws needs to be closed.
 
 By Natasha Frost
 
@@ -34,16 +34,16 @@ By Natasha Frost
 
 * * *
 
-British officials seek a way around a vaccine watchdog’s denial of Covid shots for all 12- to 15-year-olds.
------------------------------------------------------------------------------------------------------------
+Special Forces Colonel Says He Has Seized Guinea’s President
+------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/03/world/uk-vaccines-children.html)
+[Article here](https://www.nytimes.com/2021/09/05/world/africa/guinea-coup.html)
 
-[![](https://static01.nyt.com/images/2021/09/03/world/03virus-briefing-britain/merlin_192674925_55bfff46-86f3-48d2-bce0-383adc6faea5-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/uk-vaccines-children.html)
+[![](https://static01.nyt.com/images/2021/09/05/world/05GUINEA/merlin_194243049_c3e85544-aba3-471b-8c6b-a3b5eb0503b5-superJumbo.jpg)](https://www.nytimes.com/2021/09/05/world/africa/guinea-coup.html)
 
-Health ministers have requested assessments from other medical officials, raising the possibility that the government could take the rare step of defying the vaccine regulator’s advice.
+If the coup is successful, it will mark the third time in five months that a West African nation has suffered a takeover.
 
-By Aina J. Khan
+By Ruth Maclean, Mady Camara and Abdourahmane Diallo
 
 * * *
 
