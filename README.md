@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the The French Left Is in Disarray, but Here Comes Anne Hidalgo
------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After Stabbing Attack, New Zealand Examines Its Antiterrorism Efforts
+---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/02/world/europe/france-president-election-socialists-anne-hidalgo.html)
+[Article here](https://www.nytimes.com/2021/09/04/world/asia/new-zealand-attack-isis.html)
 
-[![](https://static01.nyt.com/images/2021/08/31/world/xxFrance-Hidalgo01/merlin_193901121_904c2990-c32c-4ea1-9732-74c22c9e6d90-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/europe/france-president-election-socialists-anne-hidalgo.html)
+[![](https://static01.nyt.com/images/2021/09/04/world/04nz-attack1/merlin_194150595_0f0e9d10-d837-44f8-b271-f1105f524886-superJumbo.jpg)](https://www.nytimes.com/2021/09/04/world/asia/new-zealand-attack-isis.html)
 
-The charismatic and divisive socialist mayor of Paris is eyeing an office that has been occupied by eight male presidents over six decades.
+A man who wounded seven people in a supermarket had been under surveillance for months. Officials say a loophole in the country’s laws needs to be closed.
 
-By Roger Cohen
-
-* * *
+By Natasha Frost
 
 * * *
 
-The W.H.O. lists Mu as a ‘variant of interest.’
------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/02/world/americas/mu-variant-who.html)
+Canadian health officials warn of an ‘urgent need’ to vaccinate young adults.
+-----------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/02/lens/02virus-briefing-mu-variant1/merlin_194073093_fab4e628-0b19-4d34-a7f1-881708a3d9aa-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/americas/mu-variant-who.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/canadian-health-officials-warn-of-an-urgent-need-to-vaccinate-young-adults.html)
 
-The variant, first identified in Colombia, has characteristics that suggest it might be able to evade antibodies from vaccination or infection.
+[![](https://static01.nyt.com/images/2021/09/03/world/03virus-brierfing-canada/merlin_190012230_2a8a8798-12fb-4683-8a24-a661109df00d-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/canadian-health-officials-warn-of-an-urgent-need-to-vaccinate-young-adults.html)
 
-By Lauren McCarthy
+The call from Public Health Agency of Canada came as the highly contagious Delta variant has driven up cases and hospitalizations in recent weeks.
+
+By Vjosa Isai
 
 * * *
 
