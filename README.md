@@ -19,31 +19,29 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the An Economic Lifeline in South America, the Paraná River, Is Shriveling
-----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the President Biden pledges investment in vaccine components, but will that help the world?
+---------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/04/world/americas/drought-argentina-parana-river.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/president-biden-pledges-investment-in-vaccine-components-but-will-that-help-the-world.html)
 
-[![](https://static01.nyt.com/images/2021/09/04/world/04Argentina-Drought/04Argentina-Drought-superJumbo.jpg)](https://www.nytimes.com/2021/09/04/world/americas/drought-argentina-parana-river.html)
+[![](https://static01.nyt.com/images/2021/09/03/lens/03virus-briefing-biden-world-lede1/merlin_183998343_5d02ed28-ef9b-484d-9119-c42513d65537-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/president-biden-pledges-investment-in-vaccine-components-but-will-that-help-the-world.html)
 
-The continent’s second-largest river is drying up amid the biggest drought in 70 years, upending ecosystems, trade and livelihoods.
-
-By Daniel Politi and Sebastián López Brach
+By Sheryl Gay Stolberg and Lauren McCarthy
 
 * * *
 
 * * *
 
-Japan’s Prime Minister Will Step Aside After Just a Year in Office
-------------------------------------------------------------------
+The W.H.O. lists Mu as a ‘variant of interest.’
+-----------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/02/world/asia/japan-suga-resign-election.html)
+[Article here](https://www.nytimes.com/2021/09/02/world/americas/mu-variant-who.html)
 
-[![](https://static01.nyt.com/images/2021/09/03/world/03japan-suga/merlin_193290843_6cf30927-024e-446a-859c-4c9add721d23-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/asia/japan-suga-resign-election.html)
+[![](https://static01.nyt.com/images/2021/09/02/lens/02virus-briefing-mu-variant1/merlin_194073093_fab4e628-0b19-4d34-a7f1-881708a3d9aa-superJumbo.jpg)](https://www.nytimes.com/2021/09/02/world/americas/mu-variant-who.html)
 
-Yoshihide Suga’s abrupt decision came after he had spent days trying to salvage a historically unpopular administration.
+The variant, first identified in Colombia, has characteristics that suggest it might be able to evade antibodies from vaccination or infection.
 
-By Motoko Rich
+By Lauren McCarthy
 
 * * *
 
