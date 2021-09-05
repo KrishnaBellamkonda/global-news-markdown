@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Guatemala Investigates Claim of Bribe Paid to Its President
------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Rulings Without Explanations
+----------------------------
 
-[Article here](https://www.nytimes.com/2021/09/03/world/americas/guatemala-president-bribe-giammattei.html)
+[Article here](https://www.nytimes.com/2021/09/03/briefing/scotus-shadow-docket-texas-abortion-law.html)
 
-[![](https://static01.nyt.com/images/2021/09/04/world/03guatemala-print1/03GUATEMALA1-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/americas/guatemala-president-bribe-giammattei.html)
+[![](https://static01.nyt.com/images/2021/09/03/us/03-THE-MORNING-NL-LEDE-PROMO/merlin_193144545_5d5c155c-98c5-4c2b-9ccd-8ba45c8e23af-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/briefing/scotus-shadow-docket-texas-abortion-law.html)
 
-A previous inquiry was cut short when the chief anti-corruption prosecutor was fired, but media reports of cash payments have prompted another one.
+Why is the Supreme Court using its “shadow docket” so often?
 
-By Jody García and Natalie Kitroeff
-
-* * *
+By David Leonhardt
 
 * * *
 
-Your Friday Briefing
---------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/03/briefing/ida-flooding-taliban-coronavirus.html)
+The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in September
+--------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/03/us/03am-briefing-europe--flld-ida/merlin_194068431_672b4127-8287-4ee6-843a-c02dcaa2f946-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/briefing/ida-flooding-taliban-coronavirus.html)
+[Article here](https://www.nytimes.com/2021/09/03/arts/television/the-best-movies-and-tv-shows-new-to-netflix-amazon-and-stan-in-australia-in-september.html)
 
-A lethal storm in the northeastern U.S.
+[![](https://static01.nyt.com/images/2021/09/03/world/03auswatchsept-1/03auswatchsept-1-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/arts/television/the-best-movies-and-tv-shows-new-to-netflix-amazon-and-stan-in-australia-in-september.html)
 
-By Natasha Frost
+Our picks for September, including ‘Billions,’ ‘Goliath’ and ‘Worth’
+
+By Noel Murray
 
 * * *
 
