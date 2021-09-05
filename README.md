@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the British officials seek a way around a vaccine watchdog’s denial of Covid shots for all 12- to 15-year-olds.
------------------------------------------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Guatemala Investigates Claim of Bribe Paid to Its President
+-----------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/03/world/uk-vaccines-children.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/americas/guatemala-president-bribe-giammattei.html)
 
-[![](https://static01.nyt.com/images/2021/09/03/world/03virus-briefing-britain/merlin_192674925_55bfff46-86f3-48d2-bce0-383adc6faea5-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/uk-vaccines-children.html)
+[![](https://static01.nyt.com/images/2021/09/04/world/03guatemala-print1/03GUATEMALA1-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/americas/guatemala-president-bribe-giammattei.html)
 
-Health ministers have requested assessments from other medical officials, raising the possibility that the government could take the rare step of defying the vaccine regulator’s advice.
+A previous inquiry was cut short when the chief anti-corruption prosecutor was fired, but media reports of cash payments have prompted another one.
 
-By Aina J. Khan
-
-* * *
+By Jody García and Natalie Kitroeff
 
 * * *
 
-The First Afghan Rhodes Scholar Saved Her Father, and Wants to Do More
-----------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/05/world/middleeast/afghan-rhodes-scholar.html)
+Your Friday Briefing
+--------------------
 
-[![](https://static01.nyt.com/images/2021/09/05/world/05Afghan-Rhodes/merlin_194011986_9e3237e4-b464-4a3f-9144-5a97ecc8a82c-superJumbo.jpg)](https://www.nytimes.com/2021/09/05/world/middleeast/afghan-rhodes-scholar.html)
+[Article here](https://www.nytimes.com/2021/09/03/briefing/ida-flooding-taliban-coronavirus.html)
 
-Summia Tora used her connections to get her father and an uncle on a flight out of Kabul. Helping other Afghan refugees, she said, may occupy “most of the rest of my life.”
+[![](https://static01.nyt.com/images/2021/09/03/us/03am-briefing-europe--flld-ida/merlin_194068431_672b4127-8287-4ee6-843a-c02dcaa2f946-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/briefing/ida-flooding-taliban-coronavirus.html)
 
-By Mark Landler
+A lethal storm in the northeastern U.S.
+
+By Natasha Frost
 
 * * *
 
