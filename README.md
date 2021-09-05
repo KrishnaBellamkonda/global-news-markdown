@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Rulings Without Explanations
-----------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Some Americans ignore warnings against using ivermectin to treat Covid.
+-----------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/03/briefing/scotus-shadow-docket-texas-abortion-law.html)
+[Article here](https://www.nytimes.com/2021/09/04/world/ivermectin-health-experts.html)
 
-[![](https://static01.nyt.com/images/2021/09/03/us/03-THE-MORNING-NL-LEDE-PROMO/merlin_193144545_5d5c155c-98c5-4c2b-9ccd-8ba45c8e23af-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/briefing/scotus-shadow-docket-texas-abortion-law.html)
+[![](https://static01.nyt.com/images/2021/09/04/multimedia/04virus-briefing-ivermectin/merlin_194148294_9add4c76-c157-4133-8767-80fdf772543e-superJumbo.jpg)](https://www.nytimes.com/2021/09/04/world/ivermectin-health-experts.html)
 
-Why is the Supreme Court using its “shadow docket” so often?
+Clinical trials have repeatedly failed to show that the drug is effective against the virus. Still, U.S. demand is high.
 
-By David Leonhardt
-
-* * *
+By Alyssa Lukpat and Emma Goldberg
 
 * * *
 
-The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in September
---------------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/03/arts/television/the-best-movies-and-tv-shows-new-to-netflix-amazon-and-stan-in-australia-in-september.html)
+Waste From Mine in Angola Kills 12 Downstream in Congo, Minister Says
+---------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/03/world/03auswatchsept-1/03auswatchsept-1-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/arts/television/the-best-movies-and-tv-shows-new-to-netflix-amazon-and-stan-in-australia-in-september.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/africa/mine-waste-angola-congo.html)
 
-Our picks for September, including ‘Billions,’ ‘Goliath’ and ‘Worth’
+[![](https://static01.nyt.com/images/2021/09/03/world/03Congo-River/merlin_145822722_469f0386-6f0b-46d2-933b-582bea3c8514-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/africa/mine-waste-angola-congo.html)
 
-By Noel Murray
+Toxic metals from Angola’s largest diamond mine spilled into the Kasai River in July, sickening thousands and causing an “environmental catastrophe,” researchers said.
+
+By Gilberto Neto and Ruth Maclean
 
 * * *
 
