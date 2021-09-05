@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After Stabbing Attack, New Zealand Examines Its Antiterrorism Efforts
----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the British officials seek a way around a vaccine watchdog’s denial of Covid shots for all 12- to 15-year-olds.
+-----------------------------------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/04/world/asia/new-zealand-attack-isis.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/uk-vaccines-children.html)
 
-[![](https://static01.nyt.com/images/2021/09/04/world/04nz-attack1/merlin_194150595_0f0e9d10-d837-44f8-b271-f1105f524886-superJumbo.jpg)](https://www.nytimes.com/2021/09/04/world/asia/new-zealand-attack-isis.html)
+[![](https://static01.nyt.com/images/2021/09/03/world/03virus-briefing-britain/merlin_192674925_55bfff46-86f3-48d2-bce0-383adc6faea5-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/uk-vaccines-children.html)
 
-A man who wounded seven people in a supermarket had been under surveillance for months. Officials say a loophole in the country’s laws needs to be closed.
+Health ministers have requested assessments from other medical officials, raising the possibility that the government could take the rare step of defying the vaccine regulator’s advice.
 
-By Natasha Frost
-
-* * *
+By Aina J. Khan
 
 * * *
 
-Canadian health officials warn of an ‘urgent need’ to vaccinate young adults.
------------------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/03/world/canadian-health-officials-warn-of-an-urgent-need-to-vaccinate-young-adults.html)
+The First Afghan Rhodes Scholar Saved Her Father, and Wants to Do More
+----------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/03/world/03virus-brierfing-canada/merlin_190012230_2a8a8798-12fb-4683-8a24-a661109df00d-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/canadian-health-officials-warn-of-an-urgent-need-to-vaccinate-young-adults.html)
+[Article here](https://www.nytimes.com/2021/09/05/world/middleeast/afghan-rhodes-scholar.html)
 
-The call from Public Health Agency of Canada came as the highly contagious Delta variant has driven up cases and hospitalizations in recent weeks.
+[![](https://static01.nyt.com/images/2021/09/05/world/05Afghan-Rhodes/merlin_194011986_9e3237e4-b464-4a3f-9144-5a97ecc8a82c-superJumbo.jpg)](https://www.nytimes.com/2021/09/05/world/middleeast/afghan-rhodes-scholar.html)
 
-By Vjosa Isai
+Summia Tora used her connections to get her father and an uncle on a flight out of Kabul. Helping other Afghan refugees, she said, may occupy “most of the rest of my life.”
+
+By Mark Landler
 
 * * *
 
