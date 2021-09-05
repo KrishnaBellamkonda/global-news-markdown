@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Some Americans ignore warnings against using ivermectin to treat Covid.
------------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the New Zealand Police Kill ‘Extremist’ Who Stabbed 6 in ISIS-Inspired Attack
+-------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/04/world/ivermectin-health-experts.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/asia/new-zealand-isis-terrorist-attack.html)
 
-[![](https://static01.nyt.com/images/2021/09/04/multimedia/04virus-briefing-ivermectin/merlin_194148294_9add4c76-c157-4133-8767-80fdf772543e-superJumbo.jpg)](https://www.nytimes.com/2021/09/04/world/ivermectin-health-experts.html)
+[![](https://static01.nyt.com/images/2021/09/03/world/03NZ-ATTACK-02/merlin_194110572_18806db8-530b-4af4-ae86-04a553ebf139-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/new-zealand-isis-terrorist-attack.html)
 
-Clinical trials have repeatedly failed to show that the drug is effective against the virus. Still, U.S. demand is high.
+The man was under surveillance when he injured six people at a West Auckland supermarket on Friday, officials said. The prime minister called it a “terrorist attack.”
 
-By Alyssa Lukpat and Emma Goldberg
-
-* * *
+By Natasha Frost
 
 * * *
 
-Waste From Mine in Angola Kills 12 Downstream in Congo, Minister Says
----------------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/03/world/africa/mine-waste-angola-congo.html)
+British officials seek a way around a vaccine watchdog’s denial of Covid shots for all 12- to 15-year-olds.
+-----------------------------------------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/03/world/03Congo-River/merlin_145822722_469f0386-6f0b-46d2-933b-582bea3c8514-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/africa/mine-waste-angola-congo.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/uk-vaccines-children.html)
 
-Toxic metals from Angola’s largest diamond mine spilled into the Kasai River in July, sickening thousands and causing an “environmental catastrophe,” researchers said.
+[![](https://static01.nyt.com/images/2021/09/03/world/03virus-briefing-britain/merlin_192674925_55bfff46-86f3-48d2-bce0-383adc6faea5-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/uk-vaccines-children.html)
 
-By Gilberto Neto and Ruth Maclean
+Health ministers have requested assessments from other medical officials, raising the possibility that the government could take the rare step of defying the vaccine regulator’s advice.
+
+By Aina J. Khan
 
 * * *
 
