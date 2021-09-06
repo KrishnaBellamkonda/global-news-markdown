@@ -19,31 +19,31 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Waste From Mine in Angola Kills 12 Downstream in Congo, Minister Says
----------------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghans With Ties to U.S. Who Could Not Get Out Now Live in Fear
+----------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/03/world/africa/mine-waste-angola-congo.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/asia/afghanistan-taliban-airport-evacuation-refugees-asylum.html)
 
-[![](https://static01.nyt.com/images/2021/09/03/world/03Congo-River/merlin_145822722_469f0386-6f0b-46d2-933b-582bea3c8514-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/africa/mine-waste-angola-congo.html)
+[![](https://static01.nyt.com/images/2021/09/02/world/02AFGHANISTAN-TRAPPED-01/merlin_193550511_38534a4b-4fb2-4871-8a5e-e46d319c4ee3-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/afghanistan-taliban-airport-evacuation-refugees-asylum.html)
 
-Toxic metals from Angola’s largest diamond mine spilled into the Kasai River in July, sickening thousands and causing an “environmental catastrophe,” researchers said.
+Thousands did not make it onto U.S. military evacuation flights. Many of them are now in hiding, worried for their safety and their future.
 
-By Gilberto Neto and Ruth Maclean
-
-* * *
+By Adam Nossiter
 
 * * *
 
-In Hong Kong, Jimmy Lai’s Media Company Moves to Close Down
------------------------------------------------------------
+* * *
 
-[Article here](https://www.nytimes.com/2021/09/05/business/next-digital-jimmy-lai-hong-kong.html)
+‘Everyone Is on the List’: Fear Grips Nicaragua as It Veers to Dictatorship
+---------------------------------------------------------------------------
 
-[![](https://static01.nyt.com/images/2021/09/05/world/05hk-media-HFO1/merlin_189749790_dd767b54-4ae7-4de3-afd5-e6e7c51a1171-superJumbo.jpg)](https://www.nytimes.com/2021/09/05/business/next-digital-jimmy-lai-hong-kong.html)
+[Article here](https://www.nytimes.com/2021/09/05/world/nicaragua-political-repression.html)
 
-Next Digital, which has published criticism of China for decades, said a crackdown had left it with no way to operate. Its main newspaper, Apple Daily, closed in June.
+[![](https://static01.nyt.com/images/2021/09/02/world/00NICARAGUA1/00NICARAGUA1-superJumbo.jpg)](https://www.nytimes.com/2021/09/05/world/nicaragua-political-repression.html)
 
-By Austin Ramzy
+A crackdown on opposition by President Daniel Ortega leaves Nicaraguans to wonder: Who is next?
+
+By Yubelka Mendoza, Anatoly Kurmanaev and Alfonso Flores Bermúdez
 
 * * *
 
