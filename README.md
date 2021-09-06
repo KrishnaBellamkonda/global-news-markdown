@@ -34,16 +34,16 @@ By Daniel Politi and Sebastián López Brach
 
 * * *
 
-Taliban Fighters Crush a Women’s Protest Amid Flickers of Resistance
---------------------------------------------------------------------
+The Nigerian Activist Trying to Sell Plants to the Oil Company That Destroyed Them
+----------------------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/04/world/asia/taliban-women-protest-afghanistan-panjshir.html)
+[Article here](https://www.nytimes.com/2021/09/03/world/africa/nigeria-delta-pollution-mangroves-agbani.html)
 
-[![](https://static01.nyt.com/images/2021/09/04/world/04afghanistan1/merlin_194184528_79088525-ce75-41d6-b932-e5483addd9ac-superJumbo.jpg)](https://www.nytimes.com/2021/09/04/world/asia/taliban-women-protest-afghanistan-panjshir.html)
+[![](https://static01.nyt.com/images/2021/08/10/world/00Nigeria-Martha1/merlin_188271051_7355990c-86e4-4801-8f6f-5e0ebd0d9580-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/africa/nigeria-delta-pollution-mangroves-agbani.html)
 
-The women were assaulted with rifle butts, tear gas and metal clubs, while anti-Taliban rebels in the north vowed to repel an assault by the Islamist group.
+“I need to help my women to stand,” says Martha Agbani, who helped a group of women from the Niger Delta build a flourishing mangrove nursery.
 
-By Adam Nossiter
+By Ruth Maclean
 
 * * *
 
