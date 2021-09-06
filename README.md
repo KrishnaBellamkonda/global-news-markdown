@@ -19,16 +19,16 @@ TOKEN = (Personal Access Token)
 Come back in a few hours and seeif the news section has changed! (Is it too long?)
 
 ### Note
-* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the Afghans With Ties to U.S. Who Could Not Get Out Now Live in Fear
-----------------------------------------------------------------
+* If you are adding additional content to your readme (other than news section), then add it to the README_template.md file too. Do not remove the After Stabbing Attack, New Zealand Examines Its Antiterrorism Efforts
+---------------------------------------------------------------------
 
-[Article here](https://www.nytimes.com/2021/09/03/world/asia/afghanistan-taliban-airport-evacuation-refugees-asylum.html)
+[Article here](https://www.nytimes.com/2021/09/04/world/asia/new-zealand-attack-isis.html)
 
-[![](https://static01.nyt.com/images/2021/09/02/world/02AFGHANISTAN-TRAPPED-01/merlin_193550511_38534a4b-4fb2-4871-8a5e-e46d319c4ee3-superJumbo.jpg)](https://www.nytimes.com/2021/09/03/world/asia/afghanistan-taliban-airport-evacuation-refugees-asylum.html)
+[![](https://static01.nyt.com/images/2021/09/04/world/04nz-attack1/merlin_194150595_0f0e9d10-d837-44f8-b271-f1105f524886-superJumbo.jpg)](https://www.nytimes.com/2021/09/04/world/asia/new-zealand-attack-isis.html)
 
-Thousands did not make it onto U.S. military evacuation flights. Many of them are now in hiding, worried for their safety and their future.
+A man who wounded seven people in a supermarket had been under surveillance for months. Officials say a loophole in the country’s laws needs to be closed.
 
-By Adam Nossiter
+By Natasha Frost
 
 * * *
 
